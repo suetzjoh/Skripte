@@ -2,11 +2,15 @@ import sys, os
 import re, codecs
 import csv
 
-dir_path = os.getcwd()
-files = [f for f in os.listdir(dir_path) if os.path.isfile(f) and f[-3:] == "xml"]
+git_dir_korr = "D:\git\korrektur"
+git_dir_tool = "D:\git\mancelius-postille\\McP1"
 
-safe_regex = "([^ >]+(u((ſ)?(ſ|ẜ)(ch)?)(i|as|ee(s|ß))|(j|y)(i|ee)(s|ß)))( |<|/)"
-unsafe_regex = "([^ >]{2,}(i|ee)(s|ß))( |<|/)"
+dir_path = git_dir_korr #os.getcwd()
+
+files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f[-4:] == ".xml"]
+
+safe_regex = "([^ >{]+(u(ſ)?(ſ|ẜ)(i|ee(s|ß))|u((ſ)?(ſ|ẜ)ch)(i|as|ee(s|ß))|(j|y)(i|ee)(s|ß)))([ </{}])"
+unsafe_regex = "([^ >{]{2,}(i|ee)(s|ß))([ </{}])"
 
 
 def open_xml(path):
@@ -35,7 +39,7 @@ for f in files:
 		elif "<a2/>" in line:
 			status = "aus2"
 			
-		page = re.search("<lpp nr=\"(\d+)\">", line).group(1) if re.search("<lpp nr=\"(\d+)\">", line) else page
+		page = re.search("<lpp nr=\"(\d+)", line).group(1) if re.search("<lpp nr=\"(\d+)", line) else page
 		if re.search("<z nr=\"(\d+)\">", line):
 			line_nr = re.search("<z nr=\"(\d+)\">", line).group(1) 
 			
@@ -46,7 +50,7 @@ for f in files:
 				matches = re.findall(safe_regex, line)
 				for match in matches:
 					results.append([part, page, line_nr, status, match[0], "safe"])
-			elif unsafe_serach:
+			if unsafe_serach:
 				matches = re.findall(unsafe_regex, line)
 				for match in matches:
 					results.append([part, page, line_nr, status, match[0], "unsafe"])
