@@ -21,11 +21,11 @@ files = [os.path.join(git_dir_korr, f) for f in os.listdir(git_dir_korr) if f[-4
 for f in files:
 	library.library.append(open_xml(f).document)
 
-with open(perfekt_file, 'r', encoding="UTF-8") as csvfile:
+with open(perfekt_file, 'r', encoding="UTF-8-SIG") as csvfile:
 	print("loading database")
 	reader = csv.reader(csvfile, dialect='excel', delimiter=';')
 	db = [row for row in reader]
-	db.sort(key=lambda x: (x[0], x[1], x[2])) # part, page, line
+	db.sort(key=lambda x: (int(x[0]), int(x[1]), int(x[2]))) # part, page, line
 
 log = ""
 def writelog():
@@ -38,12 +38,12 @@ old_part = ""
 for i in range(len(db)):
 	perfekt = db[i]
 	if i % 200 == 0:
-		print(i)
+		print(perfekt[:3], "   ", end="\r")
 	
-	part = library.library.find("document", attrs={"nr" : re.compile("{}({{\d+}})?".format(perfekt[0]))})
-	page = part.find("lpp", attrs={"nr" : str(perfekt[1])})
-	line = page.find("z", attrs={"nr" : str(perfekt[2])})
-	print(perfekt)
+	part = library.library.find("document", attrs={"nr" : re.compile("^{}({{\d+}})?".format(perfekt[0]))})
+	page = part.find("lpp", attrs={"nr" : re.compile("^{}({{\d+}})?".format(perfekt[1]))})
+	line = page.find("z", attrs={"nr" : re.compile("^{}({{\d+}})?".format(perfekt[2]))})
+	
 	if not perfekt[0] == old_part:
 		print("annotating part", perfekt[0])
 		old_part = perfekt[0]
@@ -64,6 +64,9 @@ with open("perfekt.xml", "w", encoding="utf-8-sig") as file:
 	string = re.sub("([^/]>)<", "\g<1>\n<", string)
 	string = re.sub("(<document)", "\t\g<1>", string)
 	string = re.sub("(</?lpp)", "\t\t\g<1>", string)
-	string = re.sub("(^<(a|e|h|p|s|z))", "\t\t\t\g<1>", string)
-	print("saving file")
+	string = re.sub("^(<(a|e|h|p|s|z))", "\t\t\t\g<1>", string)
+	string = re.sub("  ", " ", string)
+	string = re.sub("&lt;", "<", string)
+	string = re.sub("&gt;", ">", string)
+	print("saving file       ")
 	file.write(string)
