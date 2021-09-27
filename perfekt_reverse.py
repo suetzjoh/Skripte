@@ -45,7 +45,7 @@ for i in range(len(db)):
 	line = page.find("z", attrs={"nr" : re.compile("^{}({{\d+}})?".format(perfekt[2]))})
 	
 	if not perfekt[0] == old_part:
-		print("annotating part", perfekt[0])
+		print("annotating part", perfekt[0], " ")
 		old_part = perfekt[0]
 	
 	text = line.text
@@ -62,7 +62,7 @@ with open("perfekt.xml", "w", encoding="utf-8-sig") as file:
 	string = str(library)
 	string = re.sub(r"<(([^> ]+?)[^>]*)></\2>", "<\g<1>/>", string)
 	string = re.sub("([^/]>)<", "\g<1>\n<", string)
-	string = re.sub("(<document)", "\t\g<1>", string)
+	string = re.sub("(</?document)", "\t\g<1>", string)
 	string = re.sub("(</?lpp)", "\t\t\g<1>", string)
 	string = re.sub("^(<(a|e|h|p|s|z))", "\t\t\t\g<1>", string)
 	string = re.sub("  ", " ", string)
