@@ -11,6 +11,7 @@ files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f[-4:] == ".
 
 safe_regex = "([^ >{]+(u(ſ)?(ſ|ẜ)(i|ee(s|ß))|u((ſ)?(ſ|ẜ)ch)(i|as|ee(s|ß))|(j|y)(i|ee)(s|ß)))([ </{}])"
 unsafe_regex = "([^ >{]{2,}(i|ee)(s|ß))([ </{}])"
+second_regex = ">jis"
 
 
 def open_xml(path):
@@ -27,7 +28,8 @@ for f in files:
 	
 	part += 1
 	print("part", part)
-	for line in lines:
+	for i in range(len(lines)):
+		line = lines[i]
 		if "<h/>" in line:
 			status = "head"
 		elif "<e/>" in line:
@@ -45,6 +47,7 @@ for f in files:
 			
 			safe_search = re.search(safe_regex, line)
 			unsafe_serach = re.search(unsafe_regex, line)
+			second_search = re.search(second_regex, line)
 			
 			if safe_search:
 				matches = re.findall(safe_regex, line)
@@ -54,6 +57,9 @@ for f in files:
 				matches = re.findall(unsafe_regex, line)
 				for match in matches:
 					results.append([part, page, line_nr, status, match[0], "unsafe"])
+			if second_search:
+				if re.search("-<", lines[i-1]):
+					results.append([part, page, line_nr, status, "jis", "trash"])
 
 with open("perfekt.csv", "w", encoding="utf-8-sig") as file:
 	file.writelines([";".join([str(item) for item in result]) + "\n" for result in results])
