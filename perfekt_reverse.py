@@ -125,8 +125,8 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 						newstring += word + " "
 					
 			
-			newstring = newstring[:-1]
-			newstring = re.sub("{ ([^<]+) }", "{\g<1>}", newstring)
+			newstring = newstring[:-1] if newstring[-2:] != "> " else newstring
+			newstring = re.sub("{ ([^<]+?) }", "{\g<1>}", newstring)
 			newstring = re.sub("([^>]) {", "\g<1>{", newstring)
 			log += newstring + "\n"
 			line.string.replace_with(newstring)
