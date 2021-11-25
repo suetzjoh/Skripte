@@ -93,7 +93,7 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 					if perfekta[ii][:3] != [part_nr, page_nr, line_nr]:
 						continue
 					
-					newstring += "<match ann=\"{ann}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
+					newstring += " <match ann=\"{ann}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
 					#newstring += "<match ann=\"{ann}\" zit=\"{cit}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
 					
 					if not perfekta[0][0] == old_part:
@@ -115,7 +115,7 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 					elif word in ["“", "‘"]:
 						cite_stat -= 1
 			
-			newstring = newstring[:-1]
+			newstring = re.sub("  ", " ", newstring[:-1])
 			#print(newstring)
 			line.string.replace_with(newstring)
 
