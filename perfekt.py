@@ -31,7 +31,7 @@ for f in files:
 	print("part", part)
 	for i in range(len(lines)):
 		line = lines[i]
-		if "<h/>" in line:
+		if "<h" in line:
 			status = "head"
 		elif "<e/>" in line:
 			status = "intr"
@@ -42,7 +42,7 @@ for f in files:
 		elif "<a2/>" in line:
 			status = "aus2"
 			
-		page = re.search("<lpp nr=\"(\d+)", line).group(1) if re.search("<lpp nr=\"(\d+)", line) else page
+		page = re.search("<lpp nr=\"(\d+)[ab]?", line).group(1) if re.search("<lpp nr=\"(\d+[ab]?)", line) else page
 		if re.search("<z nr=\"(\d+)\">", line):
 			line_nr = re.search("<z nr=\"(\d+)\">", line).group(1) 
 			
