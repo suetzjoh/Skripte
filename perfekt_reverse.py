@@ -46,13 +46,16 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 	for page in part.find_all("lpp", attrs={"nr" : re.compile("^\d+?({{\d+}}|a|b)?")}):
 		page_nr = re.search("\d+", page["nr"]).group(0)
 		
+		log = re.sub("^[\s\S]+(page {})".format(str(int(page_nr)-1)), "", log)
+		log += "\n" + "page " + page_nr + "\n"
+		
 		for line in page.find_all("z", attrs={"nr" : re.compile("^\d+?({{\d+}})?")}):
 			line_nr = line["nr"]
 			
 			if len(perfekta) == 0:
 				break
 			
-			log += "\n" + part_nr + "," + page_nr + "," +line_nr + " " + line.text + "\n"
+			log += "\n" + part_nr + "," + page_nr + "," + line_nr + " " + line.text + "\n"
 			text = line.text
 			text = re.sub("[{}]", " \g<0> ", text)
 			text = text.split()
@@ -84,16 +87,18 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 				if len(perfekta) == 0:
 					break
 				
-				log += word + str(word in matches) + "\n"
+				log += word + " " + str(word in matches) + "\n"
 				match = re.sub(".+?-", "", perfekta[0][4])
 				
 				if word in matches:
 					ii = matches.index(word)
 					
+					#log += str(ii) + "\n"
+					
 					if perfekta[ii][:3] != [part_nr, page_nr, line_nr]:
 						continue
 					
-					newstring += " <match ann=\"{ann}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
+					newstring += " <match ann=\"{ann}\">".format(ann=perfekta[ii][7], cit=cite_stat) + word + "</match> "
 					#newstring += "<match ann=\"{ann}\" zit=\"{cit}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
 					
 					if not perfekta[0][0] == old_part:
@@ -103,9 +108,13 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 					i += 1
 					if i % 200 == 0:
 						print(perfekta[0][:3], "   ", end="\r")
-						
+					
+					#log += perfekta[ii][4] 
+					
 					perfekta.pop(ii)
 					matches.pop(ii)
+					
+					#log += "popped " + str(matches) + "\n"
 					
 				else:
 					newstring += word + " "
@@ -116,7 +125,7 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 						cite_stat -= 1
 			
 			newstring = re.sub("  ", " ", newstring[:-1])
-			#print(newstring)
+			log += newstring + "\n"
 			line.string.replace_with(newstring)
 
 with open("perfekt.xml", "w", encoding="utf-8-sig") as file:
