@@ -117,13 +117,17 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 					#log += "popped " + str(matches) + "\n"
 					
 				else:
-					newstring += word + " "
-					
 					if word in ["„", "‚"]:
 						cite_stat += 1
 					elif word in ["“", "‘"]:
 						cite_stat -= 1
+					else:
+						newstring += word + " "
+					
 			
+			newstring = newstring[:-1]
+			newstring = re.sub("{ ([^<]+) }", "{\g<1>}", newstring)
+			newstring = re.sub("([^>]) {", "\g<1>{", newstring)
 			log += newstring + "\n"
 			line.string.replace_with(newstring)
 
