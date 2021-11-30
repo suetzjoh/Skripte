@@ -2,25 +2,58 @@ import sys, os
 import re, regex, codecs
 import csv
 
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Tag, NavigableString
 import pandas as pd
 
 
 git_dir_korr = "D:\git\korrektur"
 perfekt_file = "perfekt_gesichtet.csv"
+out_path = "perfekt.xml"
+
+first_time = False
 
 def open_xml(path):
 	print("open", path)
-	with open(path, "r", encoding="utf-8") as f:
+	with open(path, "r", encoding="utf-8-sig") as f:
 		read = f.read()
 		soup = BeautifulSoup(read, "html.parser")
 	return soup
+def split_contents(soup):
+	contents = soup.contents
+	splitt = []
 	
-library = BeautifulSoup("<library/>", "html.parser")
+	for cc in contents:
+		if isinstance(cc, Tag):
+			splitt.append(str(cc))
+		elif isinstance(cc, NavigableString):
+			cc = re.sub("(?<! )[{}](?! )", " \g<0> ", cc)
+			for token in cc.split():
+				splitt.append(token)
+		else:
+			input(cc, type(cc))
+	
+	return splitt
+def new_line(lnr, content):
+	tag = BeautifulSoup("z", "html.parser").new_tag('z', nr=lnr)
+	content = content.strip()
+	content = content + " " if content[-1] == ">" else content
+	tag.string = content
+	
+	return tag
+	
+	
+if os.path.isfile(out_path):
+	library = open_xml(out_path)
+	
+	first_time = False
+else:
+	library = BeautifulSoup("<library/>", "html.parser")
 
-files = [os.path.join(git_dir_korr, f) for f in os.listdir(git_dir_korr) if f[-4:] == ".xml"]
-for f in files:
-	library.library.append(open_xml(f).document)
+	files = [os.path.join(git_dir_korr, f) for f in os.listdir(git_dir_korr) if f[-4:] == ".xml"]
+	for f in files:
+		library.library.append(open_xml(f).document)
+		
+	first_time = True
 
 with open(perfekt_file, 'r', encoding="UTF-8-SIG") as csvfile:
 	print("loading database")
@@ -30,12 +63,13 @@ with open(perfekt_file, 'r', encoding="UTF-8-SIG") as csvfile:
 
 log = ""
 def writelog():
-	with open("log.txt", "w", encoding="UTF-8") as file:
+	with open("log.txt", "w", encoding="UTF-8-sig") as file:
 		file.write(log)
 
 cite_stat = 0
 i = 0
 
+debugging = False
 log = ""
 
 pattern = "(?|^()({match})([ {{}}])|([ {{}}])({match})([ {{}}])|([ {{}}])({match})()$)"	
@@ -56,11 +90,9 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 				break
 			
 			log += "\n" + part_nr + "," + page_nr + "," + line_nr + " " + line.text + "\n"
-			text = line.text
-			text = re.sub("[{}]", " \g<0> ", text)
-			text = text.split()
+			text = split_contents(line)
 			
-			if line.text == "":
+			if text == []:
 				continue
 				
 			matches = []
@@ -87,19 +119,31 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 				if len(perfekta) == 0:
 					break
 				
-				log += word + " " + str(word in matches) + "\n"
+				word_ = re.search("(?:.+?>)([^<>]+)(?:</.+?>)", word).group(1) if word[0] == "<" else word
+				
+				log += word_ + " " + str(word_ in matches) + "\n"
 				match = re.sub(".+?-", "", perfekta[0][4])
 				
-				if word in matches:
-					ii = matches.index(word)
+				if word_ in matches:
+					ii = matches.index(word_)
 					
 					#log += str(ii) + "\n"
 					
 					if perfekta[ii][:3] != [part_nr, page_nr, line_nr]:
 						continue
 					
-					newstring += "<match ann=\"{ann}\">".format(ann=perfekta[ii][7], cit=cite_stat) + word + "</match> "
-					#newstring += "<match ann=\"{ann}\" zit=\"{cit}\">".format(ann=perfekta[ii][7], cit=cite_stat) + match + "</match> "
+					new_ann = perfekta[ii][7]
+					new_zit = cite_stat
+					if word[0] == "<":
+						soup_ = BeautifulSoup(word, "html.parser")
+						if soup_.match.has_attr("ann"):
+							new_ann = soup_.match["ann"]
+						if soup_.match.has_attr("zit"):
+							new_zit = soup_.match["zit"]	
+						
+					#newstring += "<match ann=\"{ann}\">".format(ann=new_ann, cit=new_zit) + match + "</match> "
+					#newstring += "<match ann=\"{ann}\" zit=\"{cit}\">".format(ann=new_ann, cit=new_zit) + match + "</match> "
+					newstring += "<match ann=\"{ann}\">".format(ann=new_ann, cit=new_zit) + word_ + "</match> "
 					
 					if not perfekta[0][0] == old_part:
 						print("annotating part", perfekta[0][0], " ")
@@ -114,7 +158,7 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 					perfekta.pop(ii)
 					matches.pop(ii)
 					
-					#log += "popped " + str(matches) + "\n"
+					#log += "\n" + newstring + "\n" + "popped: " + str(matches) + "\n"
 					
 				else:
 					if word in ["„", "‚"]:
@@ -125,20 +169,26 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 						newstring += word + " "
 					
 			
-			newstring = newstring[:-1] if newstring[-2:] != "> " else newstring
+			newstring = newstring[:-1] if newstring[-2:] == "> " else newstring
 			newstring = re.sub("{ ([^<]+?) }", "{\g<1>}", newstring)
-			newstring = re.sub("([^>]) {", "\g<1>{", newstring)
+			newstring = re.sub("([^>]) { ?", "\g<1>{", newstring)
 			log += newstring + "\n"
-			line.string.replace_with(newstring)
+			
+			line.replace_with(new_line(line_nr, newstring))
+			
+		#input(log)
 
-with open("perfekt.xml", "w", encoding="utf-8-sig") as file:
+with open(out_path, "w", encoding="utf-8-sig") as file:
 	string = str(library)
+	while string[0] == " ":
+		string = string[1:]
+		
 	string = re.sub(r"<(([^> ]+?)[^>]*)></\2>", "<\g<1>/>", string)
 	string = re.sub("([^/]>)<", "\g<1>\n<", string)
 	string = re.sub("(</?document)", "\t\g<1>", string)
-	string = re.sub("(</?lpp)", "\t\t\g<1>", string)
+	string = re.sub("(?<!\t)(</?lpp)", "\t\t\g<1>", string)
 	string = re.sub("\n</side>", "</side>", string)
-	string = re.sub("(?<!>)(<(a|e|h|p|s|z))", "\t\t\t\g<1>", string)
+	string = re.sub("(?<![>\t])(<(a|e|h|p|s|z))", "\t\t\t\g<1>", string)
 	string = re.sub("  ", " ", string)
 	string = re.sub("&lt;", "<", string)
 	string = re.sub("&gt;", ">", string)
