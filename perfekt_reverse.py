@@ -35,9 +35,7 @@ def split_contents(soup):
 	return splitt
 def new_line(lnr, content):
 	tag = BeautifulSoup("z", "html.parser").new_tag('z', nr=lnr)
-	content = content.strip()
-	content = content + " " if content[-1] == ">" else content
-	tag.string = content
+	tag.string = content.strip()
 	
 	return tag
 	
