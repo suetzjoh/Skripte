@@ -66,6 +66,7 @@
 1;8;25;aus2;Jahnis;unsafe
 1;8;30;aus2;ißwehlejis;safe
 1;8;30;aus2;ißwehlejis;unsafe
+1;9;3;aus2;bieſta-meeß;absolute_trash
 1;9;7;aus2;Ļaudis;unsafe
 1;9;8;aus2;padohdeeß;unsafe
 1;9;9;aus2;bieſteeß;unsafe
@@ -100,6 +101,7 @@
 1;14;1;aus1;ꞨChiß;unsafe
 1;14;3;aus1;Atteeß;unsafe
 1;14;4;aus1;Atteeß;unsafe
+1;14;11;aus1;rahdieſ-ẜeeß;absolute_trash
 1;14;12;aus1;iſẜamiſẜeſẜeeß;unsafe
 1;14;13;aus1;iſẜabidamees;unsafe
 1;14;14;aus1;rahdieſẜeeß;unsafe
@@ -366,6 +368,7 @@
 1;33;31;aus2;nhenopellnijis;safe
 1;33;31;aus2;pellnijis;unsafe
 1;33;31;aus2;nhenopellnijis;unsafe
+1;33;31;aus2;turre-teeß;absolute_trash
 1;34;1;aus2;mahʒijis;safe
 1;34;1;aus2;mahʒijis;unsafe
 1;34;2;aus2;dſiewojis;safe
@@ -839,6 +842,7 @@
 1;67;4;aus2;nopellnijis;safe
 1;67;4;aus2;ustaiſẜijis;unsafe
 1;67;4;aus2;nopellnijis;unsafe
+1;67;8;aus2;preeʒa-teeß;absolute_trash
 1;67;9;aus2;dohdeeß;unsafe
 1;67;19;aus2;dohteeß;unsafe
 1;67;21;aus2;ſaͤmmojeeß;safe
@@ -873,6 +877,7 @@
 1;69;29;aus2;dſirrdejis;safe
 1;69;29;aus2;dſirrdejis;unsafe
 1;69;30;aus2;darrijuẜchi;safe
+1;70;6;aus2;jemm-teeß;absolute_trash
 1;70;8;aus2;abgulleeß;unsafe
 1;70;8;aus2;ʒelleeß;unsafe
 1;70;11;aus2;Klauſẜi;safe
@@ -901,6 +906,7 @@
 1;71;13;aus2;darrijis;safe
 1;71;13;aus2;darrijis;unsafe
 1;72;14;peri;Schiß;unsafe
+1;73;4;peri;ſpeedihſ-ẜees;absolute_trash
 1;73;7;peri;dſiwojuſẜi;safe
 1;73;11;peri;Nacktis;unsafe
 1;73;15;peri;pabeighuſchi;safe
@@ -933,6 +939,7 @@
 1;75;20;aus2;redſejis;unsafe
 1;75;24;aus2;Peſtitais;unsafe
 1;75;30;aus2;Ꞩchis;unsafe
+1;75;30;aus2;ẜaderre-jees;absolute_trash
 1;76;4;aus2;bieteeß;unsafe
 1;76;5;aus2;dſimmeeß;unsafe
 1;76;7;aus2;Ꞩchiß;unsafe
@@ -953,6 +960,7 @@
 1;77;6;aus2;apdohmajis;safe
 1;77;6;aus2;apdohmajis;unsafe
 1;77;9;aus2;liexmohſẜeeß;unsafe
+1;77;10;aus2;turraͤda-meeß;absolute_trash
 1;77;12;aus2;dohſẜeeß;unsafe
 1;77;14;aus2;pee⸗dſiewojis;safe
 1;77;14;aus2;pee⸗dſiewojis;unsafe
@@ -961,6 +969,7 @@
 1;77;15;aus2;ißnieʒis;unsafe
 1;77;18;aus2;brienojeteeß;unsafe
 1;77;20;aus2;brienoteeß;unsafe
+1;77;20;aus2;deh-weeß;absolute_trash
 1;77;21;aus2;tappis;unsafe
 1;77;24;aus2;raddijis;safe
 1;77;24;aus2;raddijis;unsafe
@@ -1010,6 +1019,7 @@
 1;81;17;aus2;krittuẜchi;safe
 1;81;19;aus2;turraͤdameeß;unsafe
 1;81;19;aus2;dauſiſẜeeß;unsafe
+1;81;19;aus2;ʒell-ẜeeß;absolute_trash
 1;81;22;aus2;darrijis;safe
 1;81;22;aus2;nomaxajis;safe
 1;81;22;aus2;darrijis;unsafe
@@ -1247,8 +1257,10 @@
 1;96;14;aus2;Auſẜis;unsafe
 1;96;16;aus2;Apghrees;unsafe
 1;96;16;aus2;Auſẜis;unsafe
+1;96;16;aus2;klauſẜi-teeß;absolute_trash
 1;96;18;aus2;klauſẜiteeß;unsafe
 1;96;22;aus2;Atʒis;unsafe
+1;96;23;aus2;ſkat-teeß;absolute_trash
 1;96;24;aus2;Atʒis;unsafe
 1;96;25;aus2;Apghrees;unsafe
 1;96;26;aus2;litʒis;unsafe
@@ -1289,6 +1301,7 @@
 1;98;31;aus2;Peſtitais;unsafe
 1;99;5;intr;behdſis;unsafe
 1;99;11;peri;Ʒelleeß;unsafe
+1;99;12;peri;jem-meeß;absolute_trash
 1;100;1;peri;notixeeß;unsafe
 1;100;7;peri;ẜatʒijis;safe
 1;100;7;peri;ẜatʒijis;unsafe
@@ -1378,12 +1391,14 @@
 1;105;30;aus2;ghajis;unsafe
 1;106;2;aus2;greeſtees;unsafe
 1;106;10;aus2;turreteeß;unsafe
+1;106;11;aus2;ghreeſcha-meeß;absolute_trash
 1;106;12;aus2;pa⸗wehlejis;safe
 1;106;12;aus2;pa⸗wehlejis;unsafe
 1;106;13;aus2;Ꞩarrghajeteeß;unsafe
 1;106;17;aus2;daggajuſẜi;safe
 1;106;27;aus2;leeʒees;unsafe
 1;106;28;aus2;maiʒaiß;unsafe
+1;106;28;aus2;aptraipi-teeß;absolute_trash
 1;106;29;aus2;mahʒeeß;unsafe
 1;106;29;aus2;mahʒeeß;unsafe
 1;106;30;aus2;mahʒeeß;unsafe
@@ -1655,6 +1670,7 @@
 1;135;25;aus2;usturrejuẜcheeß;unsafe
 1;135;28;aus2;us⸗ẜuhtijis;safe
 1;135;28;aus2;us⸗ẜuhtijis;unsafe
+1;135;31;aus2;bieda-meeß;absolute_trash
 1;136;1;aus2;ißredſejis;safe
 1;136;1;aus2;ißredſejis;unsafe
 1;136;2;aus2;no⸗litʒis;unsafe
@@ -1713,6 +1729,7 @@
 1;140;13;aus2;tijis;safe
 1;140;13;aus2;tijis;unsafe
 1;140;21;aus2;peedſimmis;unsafe
+1;140;23;aus2;bie-teeß;absolute_trash
 1;141;5;intr;Jahnis;unsafe
 1;142;3;peri;kuſẜi;safe
 1;142;6;peri;eeradduſchi;safe
@@ -1785,6 +1802,7 @@
 1;146;30;aus2;ee⸗dohteeß;unsafe
 1;147;9;aus2;iß⸗ghajis;safe
 1;147;9;aus2;iß⸗ghajis;unsafe
+1;147;9;aus2;iß⸗doh-teeß;absolute_trash
 1;147;12;aus2;jaunakais;unsafe
 1;147;15;aus2;abſchaͤlojeeß;safe
 1;147;15;aus2;abſchaͤlojeeß;unsafe
@@ -2023,6 +2041,7 @@
 1;169;10;aus2;litʒeeß;unsafe
 1;169;11;aus2;toͤwis;unsafe
 1;169;11;aus2;no⸗brauʒis;unsafe
+1;169;11;aus2;nokau-teeß;absolute_trash
 1;169;12;aus2;ʒehleeß;unsafe
 1;169;12;aus2;usbrauʒis;unsafe
 1;169;12;aus2;ẜehdeeß;unsafe
@@ -2117,6 +2136,7 @@
 1;178;3;aus2;Ļaudis;unsafe
 1;178;5;aus2;ẜarrghajeeß;safe
 1;178;5;aus2;ẜarrghajeeß;unsafe
+1;178;11;aus2;pa⸗auxtena-jeeß;absolute_trash
 1;178;14;aus2;kallpojis;safe
 1;178;14;aus2;kallpojis;unsafe
 1;178;15;aus2;bijuſẜi;safe
@@ -2269,11 +2289,13 @@
 1;190;23;aus2;pahmahʒijis;safe
 1;190;23;aus2;pahrmahʒijiß;unsafe
 1;190;23;aus2;pahmahʒijis;unsafe
+1;190;28;aus2;lick-teeß;absolute_trash
 1;191;3;aus2;peekuſẜis;unsafe
 1;191;4;aus2;ghulleeß;unsafe
 1;191;4;aus2;Ghais;unsafe
 1;191;7;aus2;Mahʒaiteeß;unsafe
 1;191;11;aus2;ſteikteeß;unsafe
+1;191;15;aus2;bieſta-mees;absolute_trash
 1;191;23;aus2;reis;unsafe
 1;191;23;aus2;ſchkeeteeß;unsafe
 1;191;25;aus2;ghullejis;safe
@@ -2453,6 +2475,7 @@
 1;210;22;aus1;JCk⸗kattris;unsafe
 1;211;2;aus1;darrijis;safe
 1;211;2;aus1;darrijis;unsafe
+1;211;2;aus1;ʒell-ẜeeß;absolute_trash
 1;211;3;aus1;ee⸗eeß;unsafe
 1;211;5;aus1;darrijis;safe
 1;211;5;aus1;darrijis;unsafe
@@ -2635,6 +2658,7 @@
 1;225;20;aus2;ghraͤkojis;safe
 1;225;20;aus2;ghraͤkojis;unsafe
 1;225;22;aus2;preeʒadameeß;unsafe
+1;225;22;aus2;waͤddu-ẜeeß;absolute_trash
 1;225;23;aus2;ghraͤkojis;safe
 1;225;23;aus2;ghraͤkojis;unsafe
 1;225;24;aus2;us⸗litʒis;unsafe
@@ -2696,6 +2720,7 @@
 1;231;11;aus2;dijis;safe
 1;231;11;aus2;dijis;unsafe
 1;231;12;aus2;patteeß;unsafe
+1;231;16;aus2;preeʒa-teeß;absolute_trash
 1;231;21;aus2;klauẜaiteeß;unsafe
 1;231;21;aus2;mahʒaiteeß;unsafe
 1;231;25;aus2;bijis;safe
@@ -2902,6 +2927,7 @@
 1;248;9;aus2;reis;unsafe
 1;248;9;aus2;reis;unsafe
 1;248;10;aus2;ẜchiß;unsafe
+1;248;10;aus2;kau-teeß;absolute_trash
 1;248;11;aus2;leeʒeeß;unsafe
 1;248;11;aus2;peewillteeß;unsafe
 1;248;12;aus2;peewillteeß;unsafe
@@ -3016,6 +3042,7 @@
 1;261;3;aus2;toͤwis;unsafe
 1;261;4;aus2;ẜchiß;unsafe
 1;261;4;aus2;Ꞩehjeis;unsafe
+1;261;6;aus2;doh-deeß;absolute_trash
 1;261;10;aus2;nahʒis;unsafe
 1;261;11;aus2;kallpoteeß;unsafe
 1;261;13;aus2;ẜchiß;unsafe
@@ -3317,6 +3344,7 @@
 1;286;25;aus2;darrijis;safe
 1;286;25;aus2;darrijis;unsafe
 1;286;25;aus2;dehwis;unsafe
+1;286;27;aus2;ſchkee-teeß;absolute_trash
 1;286;31;aus2;klauſẜi;safe
 1;287;9;aus2;Mais;unsafe
 1;287;10;aus2;ehdis;unsafe
@@ -3710,6 +3738,7 @@
 1;318;10;aus2;ſeteeß;unsafe
 1;318;13;aus2;attghreeſeteeß;unsafe
 1;318;16;aus2;ſchkieſtijeteeß;unsafe
+1;318;16;aus2;Maſghaje-teeß;absolute_trash
 1;318;18;aus2;ʒaiteeß;unsafe
 1;318;20;aus2;leedſateeß;unsafe
 1;318;25;aus2;bijis;safe
@@ -3850,6 +3879,7 @@
 1;331;3;aus2;Ꞩarrghajeeß;unsafe
 1;331;5;aus2;ẜarrghajeeß;safe
 1;331;5;aus2;ẜarrghajeeß;unsafe
+1;331;6;aus2;lee-ʒeeß;absolute_trash
 1;331;7;aus2;nah-ʒis;absolute_trash
 1;331;8;aus2;Mais;unsafe
 1;331;9;aus2;nahʒis;unsafe
@@ -3932,6 +3962,7 @@
 1;340;23;peri;redſejis;safe
 1;340;23;peri;redſejis;unsafe
 1;340;24;peri;pattees;unsafe
+1;340;24;peri;pat-tees;absolute_trash
 1;340;25;peri;Ackminis;unsafe
 1;341;2;peri;redſeteeß;unsafe
 1;341;3;aus1;SChiß;unsafe
@@ -3995,6 +4026,7 @@
 1;344;9;aus2;ruẜcheeß;safe
 1;344;9;aus2;ruẜcheeß;unsafe
 1;344;9;aus2;taißnis;unsafe
+1;344;10;aus2;kauneh-teeß;absolute_trash
 1;344;11;aus2;leeliteeß;unsafe
 1;344;14;aus2;ghuddris;unsafe
 1;344;15;aus2;bijis;safe
@@ -4060,6 +4092,7 @@
 1;349;16;aus2;peedſimmis;unsafe
 1;349;17;aus2;darrijis;safe
 1;349;17;aus2;darrijis;unsafe
+1;349;19;aus2;maͤßda-meeß;absolute_trash
 1;349;20;aus2;turrehteeß;unsafe
 1;349;21;aus2;teeſẜajeeß;safe
 1;349;21;aus2;teeſẜajeeß;unsafe
@@ -4334,6 +4367,7 @@
 1;376;28;aus2;ghauſchas;safe
 1;377;9;aus2;ghraͤkojis;safe
 1;377;9;aus2;ghraͤkojis;unsafe
+1;377;10;aus2;ſaͤmmo-jeeß;absolute_trash
 1;377;11;aus2;abſchaͤhlohſẜees;unsafe
 1;377;14;aus2;nahʒis;unsafe
 1;377;15;aus2;paſuddis;unsafe
@@ -4442,6 +4476,7 @@
 1;384;22;aus2;ẜatʒijis;safe
 1;384;22;aus2;ẜatʒijis;unsafe
 1;384;24;aus2;ẜchiß;unsafe
+1;384;24;aus2;wairojee-teeß;absolute_trash
 1;384;26;aus2;ween⸗reis;unsafe
 1;384;28;aus2;patteeß;unsafe
 1;384;29;aus2;Mais;unsafe
@@ -4539,6 +4574,7 @@
 1;390;22;aus2;Jck⸗kattris;unsafe
 1;390;23;aus2;klibbais;unsafe
 1;390;25;aus2;nahʒis;unsafe
+1;390;25;aus2;klannida-meeß;absolute_trash
 1;390;29;aus2;iß⸗taiẜameeß;unsafe
 1;391;3;aus2;apdohmateeß;unsafe
 1;391;4;aus2;Mais;unsafe
@@ -4576,6 +4612,7 @@
 1;392;29;aus2;Jck⸗kattris;unsafe
 1;392;31;aus2;apdohmajeeß;safe
 1;392;31;aus2;apdohmajeeß;unsafe
+1;392;31;aus2;apluhko-jeeß;absolute_trash
 1;393;1;aus2;Ꞩohdijeeß;safe
 1;393;1;aus2;Ꞩohdijeeß;unsafe
 1;393;4;aus2;ẜohdijeeß;safe
@@ -4587,6 +4624,7 @@
 1;393;7;aus2;pahrkahpis;unsafe
 1;393;8;aus2;nopellnijis;safe
 1;393;8;aus2;nopellnijis;unsafe
+1;393;14;aus2;met-teeß;absolute_trash
 1;393;23;aus2;tappuẜchi;safe
 1;393;30;aus2;ghraͤkojis;safe
 1;393;30;aus2;darrijis;safe
@@ -4706,6 +4744,7 @@
 1;400;9;aus2;ißbailojuẜcheeß;safe
 1;400;9;aus2;neſẜis;unsafe
 1;400;9;aus2;ißbailojuẜcheeß;unsafe
+1;400;10;aus2;Abſchaͤlo-jeeß;absolute_trash
 1;400;17;aus2;adſieſteeß;unsafe
 1;401;1;aus2;ẜackais;unsafe
 1;401;5;aus2;dſiewojis;safe
@@ -4776,6 +4815,7 @@
 1;407;22;aus1;paradijis;unsafe
 1;407;25;aus1;ʒehleeß;unsafe
 1;407;26;aus1;ʒehleeß;unsafe
+1;407;30;aus1;ʒeh-leeß;absolute_trash
 1;408;3;aus1;att⸗dabbujis;safe
 1;408;3;aus1;att⸗dabbujis;unsafe
 1;408;12;aus1;notitʒis;unsafe
@@ -4809,6 +4849,7 @@
 1;411;21;aus2;darrijis;unsafe
 1;411;26;aus2;Lohʒeklis;unsafe
 1;411;26;aus2;leedſeeß;unsafe
+1;411;27;aus2;attrau-jeeß;absolute_trash
 1;412;4;aus2;dſirrdejuẜchi;safe
 1;412;4;aus2;reis;unsafe
 1;412;5;aus2;runnajis;safe
@@ -4828,6 +4869,7 @@
 1;413;8;aus2;ʒehleeß;unsafe
 1;413;11;aus2;pateeß;unsafe
 1;413;11;aus2;ʒehleeß;unsafe
+1;413;15;aus2;ſkattai-teeß;absolute_trash
 1;413;16;aus2;ʒehleeß;unsafe
 1;413;19;aus2;Ꞩmilltis;unsafe
 1;413;22;aus2;ʒellẜimeeß;unsafe
@@ -4908,6 +4950,7 @@
 1;420;24;aus1;denajis;safe
 1;420;24;aus1;denajis;unsafe
 1;420;24;aus1;lickteeß;unsafe
+1;420;25;aus1;rahdi-teeß;absolute_trash
 1;421;1;aus1;aͤhduẜchi;safe
 1;421;1;aus1;dſaͤhruẜchi;safe
 1;421;2;aus1;ʒehlees;unsafe
@@ -4934,6 +4977,7 @@
 1;422;5;aus1;ļauẜi;safe
 1;422;6;aus1;Patteeß;unsafe
 1;422;7;aus1;nomir-ris;absolute_trash
+1;422;8;aus1;ʒell-teeß;absolute_trash
 1;422;9;aus1;paſudduſẜi;safe
 1;422;9;aus1;ʒehleeß;unsafe
 1;422;10;aus1;mahʒijuẜcheeß;safe
@@ -5034,6 +5078,7 @@
 1;428;14;aus2;Mahʒetais;unsafe
 1;428;17;aus2;attſtahjis;safe
 1;428;17;aus2;attſtahjis;unsafe
+1;428;18;aus2;pat-teeß;absolute_trash
 1;428;19;aus2;attſtajeeß;safe
 1;428;19;aus2;attſtajeeß;unsafe
 1;428;24;aus2;Ļaudis;unsafe
@@ -5101,6 +5146,7 @@
 1;435;7;aus1;Jahnis;unsafe
 1;435;11;aus1;ʒehleeß;unsafe
 1;435;12;aus1;ẜchiß;unsafe
+1;435;12;aus1;rahdi-jeeß;absolute_trash
 1;435;14;aus1;patteeß;unsafe
 1;435;15;aus1;ʒehleeß;unsafe
 1;435;16;aus1;ẜchiß;unsafe
@@ -5190,12 +5236,14 @@
 1;441;29;aus2;Tißlis;unsafe
 1;441;29;aus2;Krohplis;unsafe
 1;442;2;aus2;paghajuſẜi;safe
+1;442;2;aus2;ʒilla-teeß;absolute_trash
 1;442;4;aus2;Klauſẜais;unsafe
 1;442;6;aus2;Burrwis;unsafe
 1;442;7;aus2;klauſẜi;safe
 1;442;11;aus2;kaujeeß;safe
 1;442;11;aus2;barreeß;unsafe
 1;442;11;aus2;kaujeeß;unsafe
+1;442;11;aus2;rei-jeeß;absolute_trash
 1;442;17;aus2;ʒellẜeeß;unsafe
 1;442;17;aus2;ʒellẜeeß;unsafe
 1;442;21;aus2;ʒellẜeeß;unsafe
@@ -5317,6 +5365,7 @@
 1;453;5;aus2;nahʒis;unsafe
 1;453;5;aus2;nodeh-wis;absolute_trash
 1;453;6;aus2;kallpoteeß;unsafe
+1;453;9;aus2;dabbu-jeeß;absolute_trash
 1;453;10;aus2;ẜchis;unsafe
 1;453;11;aus2;Awis;unsafe
 1;453;12;aus2;Lohʒeklis;unsafe
@@ -5389,6 +5438,7 @@
 1;458;19;aus2;Ah-wis;absolute_trash
 1;458;20;aus2;Ahwis;unsafe
 1;458;27;aus2;Ahwis;unsafe
+1;458;27;aus2;attpirr-ʒeeß;absolute_trash
 1;458;28;aus2;Ahwis;unsafe
 1;458;29;aus2;Ahwis;unsafe
 1;458;31;aus2;atgreeſees;unsafe
@@ -5430,6 +5480,7 @@
 1;462;12;peri;Pattees;unsafe
 1;462;12;peri;pattees;unsafe
 1;462;14;peri;noſkummuſẜchi;safe
+1;462;14;peri;preeʒahſ-ẜees;absolute_trash
 1;462;17;peri;ſkummuſẜi;safe
 1;462;17;peri;daggajuſẜi;safe
 1;462;18;peri;peedſimmuſẜi;safe
@@ -5546,6 +5597,7 @@
 1;472;10;aus2;Peſtitais;unsafe
 1;472;15;aus2;Wehrſẜis;unsafe
 1;472;16;aus2;attpuhſteeß;unsafe
+1;472;20;aus2;waſa-jeeß;absolute_trash
 1;472;21;aus2;tappuſẜi;safe
 1;472;21;aus2;buſẜi;safe
 1;472;21;aus2;Nomirris;unsafe
@@ -5670,6 +5722,7 @@
 1;484;13;aus2;peeẜauʒis;unsafe
 1;484;16;aus2;Paļaujeeß;safe
 1;484;16;aus2;Paļaujeeß;unsafe
+1;484;17;aus2;pa⸗doh-deeß;absolute_trash
 1;484;25;aus2;ſpeeſchamees;unsafe
 1;484;26;aus2;klauſẜi;safe
 1;484;29;aus2;Aprunnajeeß;safe
@@ -6104,6 +6157,7 @@
 1;524;3;aus2;Klauſẜais;unsafe
 1;524;8;aus2;pee⸗audſis;unsafe
 1;524;17;aus2;Ļaudis;unsafe
+1;524;18;aus2;Preeʒajee-teeß;absolute_trash
 1;524;29;aus2;Dabbuis;unsafe
 1;524;30;aus2;ẜohlijis;safe
 1;524;30;aus2;ẜohlijis;unsafe
@@ -6233,6 +6287,7 @@
 1;536;10;aus2;Aſẜinis;unsafe
 1;536;10;aus2;ißlehjis;unsafe
 1;536;11;aus2;tappis;unsafe
+1;536;12;aus2;Pat-teeß;absolute_trash
 1;536;13;aus2;ſpeeduſẜi;safe
 1;536;17;aus2;tappis;unsafe
 1;536;21;aus2;Klauſẜais;unsafe
@@ -6265,11 +6320,13 @@
 1;539;7;aus2;klauſẜeeß;safe
 1;539;7;aus2;klauſẜeeß;unsafe
 1;539;8;aus2;ʒetais;unsafe
+1;539;12;aus2;ißraudſijuſ-ẜeeß;absolute_trash
 1;539;17;aus2;Klauſẜi;safe
 1;539;22;aus2;ſaͤmmoteeß;unsafe
 1;539;24;aus2;pee⸗wiļļateeß;unsafe
 1;539;26;aus2;Mittejeeteeß;unsafe
 1;539;27;aus2;Atſtahjeeteeß;unsafe
+1;539;27;aus2;mahʒai-teeß;absolute_trash
 1;539;29;aus2;nahkuſẜi;safe
 1;540;8;aus2;abſchaͤlojeeß;safe
 1;540;8;aus2;abſchaͤlojeeß;unsafe
@@ -6336,11 +6393,13 @@
 1;544;23;aus2;dabbujeeß;safe
 1;544;23;aus2;dabbujeeß;unsafe
 1;544;23;aus2;pa⸗ļauteeß;unsafe
+1;544;23;aus2;wehle-teeß;absolute_trash
 1;544;24;aus2;preeʒadameeß;unsafe
 1;544;26;aus2;Ghlahbeiß;unsafe
 1;544;30;aus2;taißnis;unsafe
 1;545;3;aus2;apkampdameeß;unsafe
 1;545;4;aus2;daſche⸗reis;unsafe
+1;545;4;aus2;dohda-meeß;absolute_trash
 1;545;19;aus2;apẜehdejis;safe
 1;545;19;aus2;apẜehdejis;unsafe
 1;545;20;aus2;kahwuſẜi;safe
@@ -6391,6 +6450,7 @@
 1;548;21;aus2;Ļaudis;unsafe
 1;548;28;aus2;Pehteris;unsafe
 1;548;30;aus2;reis;unsafe
+1;549;2;aus2;attmin-neeß;absolute_trash
 1;549;3;aus2;mielojis;safe
 1;549;3;aus2;mielojis;unsafe
 1;549;4;aus2;dehwis;unsafe
@@ -6442,6 +6502,7 @@
 1;551;23;aus2;darrijiß;safe
 1;551;23;aus2;darrijiß;unsafe
 1;551;26;aus2;peedehwis;unsafe
+1;551;29;aus2;darri-jiß;absolute_trash
 1;551;30;aus2;mittejeeß;safe
 1;551;30;aus2;mittejeeß;unsafe
 1;552;1;aus2;attreepẜeeß;unsafe
@@ -6545,6 +6606,7 @@
 2;5;1;aus2;raddijis;unsafe
 2;5;3;aus2;dehwis;unsafe
 2;5;5;aus2;mahʒiteeß;unsafe
+2;5;5;aus2;kahwe-teeß;absolute_trash
 2;5;9;aus2;ick⸗kattris;unsafe
 2;5;10;aus2;Ꞩchiß;unsafe
 2;5;10;aus2;ghuddris;unsafe
@@ -6655,6 +6717,7 @@
 2;18;18;aus1;turrehteeß;unsafe
 2;18;21;aus1;ẜmaiditeeß;unsafe
 2;18;31;aus1;dſiewojuẜchi;safe
+2;19;4;aus1;klauſẜi-teeß;absolute_trash
 2;19;6;aus2;dſiewojuẜchi;safe
 2;19;7;aus2;mirruẜchi;safe
 2;19;7;aus2;klahjeeß;safe
@@ -6697,6 +6760,7 @@
 2;21;18;aus2;ẜchis;unsafe
 2;21;19;aus2;Vsmohdis;unsafe
 2;21;20;aus2;ʒehlis;unsafe
+2;21;23;aus2;darrbo-teeß;absolute_trash
 2;21;25;aus2;pillditeeß;unsafe
 2;21;28;aus2;nopellnijis;safe
 2;21;28;aus2;Ļaudis;unsafe
@@ -6723,6 +6787,7 @@
 2;23;26;aus2;pee⸗rijeeß;safe
 2;23;26;aus2;Ꞩchis;unsafe
 2;23;26;aus2;pee⸗rijeeß;unsafe
+2;23;27;aus2;peedſeh-reeß;absolute_trash
 2;24;3;aus2;bijis;safe
 2;24;3;aus2;bijis;unsafe
 2;24;4;aus2;ʒeenijis;safe
@@ -6750,6 +6815,7 @@
 2;25;16;aus2;Apʒirrcknis;unsafe
 2;25;21;aus2;litʒis;unsafe
 2;25;26;aus2;dohdeeß;unsafe
+2;25;26;aus2;doh-deeß;absolute_trash
 2;25;28;aus2;klauſẜi;safe
 2;25;29;aus2;mahʒais;unsafe
 2;26;1;aus2;ẜchis;unsafe
@@ -6786,6 +6852,7 @@
 2;29;10;peri;pirrʒis;unsafe
 2;29;13;peri;pirrʒis;unsafe
 2;30;1;peri;treſẜchais;unsafe
+2;30;2;peri;jeh-mees;absolute_trash
 2;30;6;peri;Pillis;unsafe
 2;30;9;peri;pawehlejis;safe
 2;30;9;peri;titʒis;unsafe
@@ -6899,6 +6966,7 @@
 2;40;9;aus2;ẜakalltuſẜi;safe
 2;40;9;aus2;ẜakalltis;unsafe
 2;40;9;aus2;Klauſẜais;unsafe
+2;40;20;aus2;pellni-teeß;absolute_trash
 2;40;21;aus2;Jegkis;unsafe
 2;40;22;aus2;dſirrdejis;safe
 2;40;22;aus2;dſirrdejis;unsafe
@@ -6974,6 +7042,7 @@
 2;47;20;aus2;najis;safe
 2;47;20;aus2;najis;unsafe
 2;47;20;aus2;notitʒis;unsafe
+2;47;21;aus2;weß-teeß;absolute_trash
 2;47;23;aus2;darrijis;safe
 2;47;23;aus2;darrijis;unsafe
 2;47;24;aus2;preeʒateeß;unsafe
@@ -7280,6 +7349,7 @@
 2;74;31;aus2;Ļaudis;unsafe
 2;75;4;aus2;abſchaͤlohteeß;unsafe
 2;75;5;aus2;Abſchaͤloteeß;unsafe
+2;75;14;aus2;abſchaͤhlo-teeß;absolute_trash
 2;75;19;aus2;darrijis;safe
 2;75;19;aus2;darrijis;unsafe
 2;75;24;aus2;darrijis;safe
@@ -7288,6 +7358,7 @@
 2;75;31;aus2;ſkallkis;unsafe
 2;76;3;aus2;Mais;unsafe
 2;76;6;aus2;ißkliediß;unsafe
+2;76;10;aus2;abſchaͤhlo-jeeß;absolute_trash
 2;76;23;aus2;abſchaͤloteeß;unsafe
 2;76;27;aus2;darrijuẜchi;safe
 2;76;28;aus2;ſchaͤloteeß;unsafe
@@ -7347,10 +7418,12 @@
 2;82;11;aus2;Brahlis;unsafe
 2;82;13;aus2;apkaitenajis;safe
 2;82;13;aus2;apkaitenajis;unsafe
+2;82;17;aus2;dſieda-meeß;absolute_trash
 2;82;27;aus2;turrehſẜeeß;unsafe
 2;82;27;aus2;turrehſẜeeß;unsafe
 2;82;30;aus2;mahʒijis;safe
 2;82;30;aus2;mahʒijis;unsafe
+2;83;6;intr;turrejuſ-ẜeeß;absolute_trash
 2;84;8;peri;preeʒadammees;unsafe
 2;84;10;peri;titʒejuſẜi;safe
 2;84;17;peri;usraudſijis;safe
@@ -7362,6 +7435,7 @@
 2;85;18;aus1;dohteeß;unsafe
 2;85;26;aus1;mahʒiteeß;unsafe
 2;85;28;aus1;turreteeß;unsafe
+2;86;11;aus2;mettu-ẜeeß;absolute_trash
 2;86;12;aus2;attneſẜis;unsafe
 2;86;12;aus2;Peſtitais;unsafe
 2;86;13;aus2;ſteeß;unsafe
@@ -7386,6 +7460,7 @@
 2;88;12;aus2;turreteeß;unsafe
 2;88;20;aus2;ʒelleeß;unsafe
 2;88;21;aus2;paſuddis;unsafe
+2;88;23;aus2;ʒell-teeß;absolute_trash
 2;88;24;aus2;ghraͤkojis;safe
 2;88;24;aus2;ghraͤkojis;unsafe
 2;88;27;aus2;ſtahwejis;safe
@@ -7401,6 +7476,7 @@
 2;89;9;aus2;turraiteeß;unsafe
 2;89;10;aus2;tickuẜchi;safe
 2;89;16;aus2;rahpaiteeß;unsafe
+2;89;18;aus2;ẜarrghajee-teeß;absolute_trash
 2;89;20;aus2;ʒelleeteeß;unsafe
 2;89;21;aus2;pa⸗ghahjuſẜi;safe
 2;89;22;aus2;att⸗nahkuſẜi;safe
@@ -7422,6 +7498,7 @@
 2;91;11;aus2;peedſimmuẜchi;safe
 2;91;11;aus2;Ļaudis;unsafe
 2;91;12;aus2;puẜchi;safe
+2;91;15;aus2;aprunna-teeß;absolute_trash
 2;91;17;aus2;Peſtitais;unsafe
 2;91;17;aus2;Ꞩirrdis;unsafe
 2;91;18;aus2;dabbujis;safe
@@ -7433,6 +7510,7 @@
 2;92;11;aus2;Reis;unsafe
 2;92;17;aus2;dajeeß;safe
 2;92;17;aus2;dajeeß;unsafe
+2;92;18;aus2;ghahda-jeeß;absolute_trash
 2;92;21;aus2;darrboteeß;unsafe
 2;93;5;aus2;ſteikteeß;unsafe
 2;93;12;aus2;ẜchiß;unsafe
@@ -7478,6 +7556,7 @@
 2;96;28;aus2;pahrmaͤttuẜchees;unsafe
 2;96;29;aus2;iß⸗ſteepuẜcheeß;safe
 2;96;29;aus2;iß⸗ſteepuẜcheeß;unsafe
+2;96;29;aus2;ſkattai-teeß;absolute_trash
 2;96;30;aus2;Muẜchas;safe
 2;96;31;aus2;plieẜuſchi;safe
 2;96;31;aus2;nokrittuẜchi;safe
@@ -7547,6 +7626,7 @@
 2;102;19;aus2;ẜchis;unsafe
 2;102;19;aus2;Mahʒetais;unsafe
 2;102;20;aus2;attraſteeß;unsafe
+2;102;20;aus2;lick-teeß;absolute_trash
 2;102;22;aus2;Ļaudis;unsafe
 2;102;23;aus2;Mahʒetais;unsafe
 2;102;28;aus2;Auſẜis;unsafe
@@ -7560,6 +7640,7 @@
 2;103;28;aus2;aptraipateeß;unsafe
 2;103;31;aus2;ẜchkirreteeß;unsafe
 2;104;2;aus2;turreteeß;unsafe
+2;104;4;aus2;attſtah-teeß;absolute_trash
 2;104;9;aus2;mahʒijis;safe
 2;104;9;aus2;mahʒijis;unsafe
 2;104;15;aus2;Sturrmis;unsafe
@@ -7608,6 +7689,7 @@
 2;108;19;aus2;jembteeß;unsafe
 2;108;22;aus2;pa⸗wehlejis;safe
 2;108;22;aus2;pa⸗wehlejis;unsafe
+2;108;26;aus2;ißdohſ-ẜeeß;absolute_trash
 2;109;1;aus2;dehwis;unsafe
 2;109;10;aus2;Mais;unsafe
 2;109;12;aus2;baͤhdajeeß;safe
@@ -7651,6 +7733,7 @@
 2;112;9;peri;Ꞩohgis;unsafe
 2;112;11;peri;pattees;unsafe
 2;112;14;aus1;dſieteeß;unsafe
+2;112;18;aus1;doh-teeß;absolute_trash
 2;112;28;aus1;ẜuhtijis;safe
 2;112;28;aus1;ẜuhtijis;unsafe
 2;113;15;aus1;Baußlis;unsafe
@@ -7813,6 +7896,7 @@
 2;125;21;aus1;ohtris;unsafe
 2;126;7;aus1;peerieteeß;unsafe
 2;126;7;aus1;peedſerrteeß;unsafe
+2;126;8;aus1;tehrp-teeß;absolute_trash
 2;126;12;aus1;Ļaudis;unsafe
 2;126;13;aus1;dehwis;unsafe
 2;126;14;aus1;dehwis;unsafe
@@ -7874,6 +7958,7 @@
 2;129;24;aus2;dſirrdenajis;unsafe
 2;129;24;aus2;mahjojis;unsafe
 2;129;25;aus2;ghehrbis;unsafe
+2;130;3;aus2;pat-teeß;absolute_trash
 2;130;13;aus2;pellnijis;safe
 2;130;13;aus2;pellnijis;unsafe
 2;130;14;aus2;ghreeſteeß;unsafe
@@ -7949,6 +8034,7 @@
 2;136;6;aus1;maitajuſẜi;safe
 2;136;13;aus1;ʒellteeß;unsafe
 2;136;14;aus1;usturrehteeß;unsafe
+2;136;14;aus1;apghull-teeß;absolute_trash
 2;136;18;aus1;paļauteeß;unsafe
 2;136;19;aus1;ẜchiß;unsafe
 2;136;22;aus1;palickuẜchi;safe
@@ -7958,6 +8044,7 @@
 2;136;24;aus1;nobaŗŗojis;unsafe
 2;136;24;aus1;pee⸗aͤhdenajis;unsafe
 2;137;1;aus1;klauſẜijuẜchi;safe
+2;137;2;aus1;turre-jeeß;absolute_trash
 2;137;3;aus1;Atʒis;unsafe
 2;137;12;aus2;waiʒajuẜchi;safe
 2;137;12;aus2;Ļau-dis;absolute_trash
@@ -7981,6 +8068,7 @@
 2;138;13;aus2;darrijis;unsafe
 2;138;19;aus2;ẜohlijis;safe
 2;138;19;aus2;ẜohlijis;unsafe
+2;138;19;aus2;Ʒaͤllda-meeß;absolute_trash
 2;138;23;aus2;litʒees;unsafe
 2;138;25;aus2;apſchaͤloteeß;unsafe
 2;139;1;aus2;baudijis;safe
@@ -7988,6 +8076,7 @@
 2;139;12;aus2;Apſchaͤlojees;safe
 2;139;12;aus2;Apſchaͤlojees;unsafe
 2;139;12;aus2;mannis;unsafe
+2;139;12;aus2;nopuhßda-mees;absolute_trash
 2;139;19;aus2;mirris;unsafe
 2;139;20;aus2;Ʒehleeß;unsafe
 2;139;25;aus2;bijis;safe
@@ -7995,6 +8084,7 @@
 2;139;26;aus2;redſejis;safe
 2;139;26;aus2;tappis;unsafe
 2;139;26;aus2;redſejis;unsafe
+2;139;30;aus2;attghree-ſees;absolute_trash
 2;140;1;aus2;paklauſẜi;safe
 2;140;2;aus2;bieſtees;unsafe
 2;140;9;aus2;Peſtitais;unsafe
@@ -8210,6 +8300,7 @@
 2;159;14;aus1;mieļais;unsafe
 2;159;22;aus1;redſejuẜchi;safe
 2;159;23;aus1;willteeß;unsafe
+2;159;26;aus1;doh-teeß;absolute_trash
 2;160;7;aus1;Ļaudis;unsafe
 2;160;7;aus1;attghrees;unsafe
 2;160;9;aus1;klauſẜiteeß;unsafe
@@ -8294,6 +8385,7 @@
 2;165;25;aus2;Auſẜis;unsafe
 2;165;27;aus2;ẜarrghajeeß;safe
 2;165;27;aus2;ẜarrghajeeß;unsafe
+2;166;7;aus2;ſteepda-meeß;absolute_trash
 2;166;13;aus2;ẜarrghajeeß;safe
 2;166;13;aus2;ẜarrghajeeß;unsafe
 2;166;17;aus2;pa⸗auxtenajeeß;safe
@@ -8356,6 +8448,7 @@
 2;172;28;aus1;pee⸗ehſteeß;unsafe
 2;173;1;aus1;klauſẜiteeß;unsafe
 2;173;2;aus1;turreteeß;unsafe
+2;173;2;aus1;mahʒi-teeß;absolute_trash
 2;173;3;aus1;Nammaturraͤtaiß;unsafe
 2;173;12;aus2;Nammaturraͤtais;unsafe
 2;173;14;aus2;tehrejis;safe
@@ -8499,6 +8592,7 @@
 2;180;14;aus2;bijis;safe
 2;180;14;aus2;bijis;unsafe
 2;180;18;aus2;ohtris;unsafe
+2;180;19;aus2;noman-neeß;absolute_trash
 2;180;22;aus2;reis;unsafe
 2;180;29;aus2;ustitʒejis;safe
 2;180;29;aus2;ustitʒejis;unsafe
@@ -8812,6 +8906,7 @@
 2;201;25;aus2;dehwis;unsafe
 2;201;25;aus2;attſtajis;unsafe
 2;201;25;aus2;aiskahris;unsafe
+2;201;27;aus2;Bauß-liß;absolute_trash
 2;201;29;aus2;pellnijis;safe
 2;201;29;aus2;pellnijis;unsafe
 2;201;29;aus2;litʒis;unsafe
@@ -8864,6 +8959,7 @@
 2;205;21;aus2;dſiewojis;safe
 2;205;21;aus2;dſiewojis;unsafe
 2;205;22;aus2;Ļaudis;unsafe
+2;205;23;aus2;Ꞩarrgha-jeeß;absolute_trash
 2;205;25;aus2;ab⸗buhris;unsafe
 2;205;26;aus2;apmaͤlojis;safe
 2;205;26;aus2;nokahwis;unsafe
@@ -8899,6 +8995,7 @@
 2;207;31;aus2;peſtijis;safe
 2;207;31;aus2;peſtijis;unsafe
 2;207;31;aus2;Taißnis;unsafe
+2;208;2;aus2;Ꞩohda-jeeß;absolute_trash
 2;208;11;aus2;dſirrdejuẜchi;safe
 2;208;12;aus2;turreteeß;unsafe
 2;208;14;aus2;leeʒeeteeß;unsafe
@@ -9033,6 +9130,7 @@
 2;219;9;aus2;paliedſejis;safe
 2;219;9;aus2;paliedſejis;unsafe
 2;219;10;aus2;deh-wis;absolute_trash
+2;219;13;aus2;ẜa-wiß;absolute_trash
 2;219;17;aus2;apwillkuẜchi;safe
 2;219;24;aus2;maiſẜeeß;unsafe
 2;219;24;aus2;jauʒeeß;unsafe
@@ -9362,6 +9460,7 @@
 2;248;19;aus2;mannis;unsafe
 2;248;19;aus2;darrijiß;unsafe
 2;248;20;aus2;attpirrʒiß;unsafe
+2;248;22;aus2;ẜit-tiß;absolute_trash
 2;248;23;aus2;ẜoͤwis;unsafe
 2;248;25;aus2;ẜaliedſenateeß;unsafe
 2;248;28;aus2;Burrwis;unsafe
@@ -9378,6 +9477,7 @@
 2;249;7;aus2;ẜohlijis;safe
 2;249;7;aus2;ẜchiß;unsafe
 2;249;7;aus2;ẜohlijis;unsafe
+2;249;7;aus2;palliedſe-jiß;absolute_trash
 2;249;9;aus2;tappuẜchi;safe
 2;249;12;aus2;klahſẜeeß;unsafe
 2;249;12;aus2;ẜchis;unsafe
@@ -9481,6 +9581,7 @@
 2;260;13;aus2;bijis;safe
 2;260;13;aus2;bijis;unsafe
 2;260;13;aus2;laͤpp-nis;absolute_trash
+2;260;22;aus2;abgherbſi-mees;absolute_trash
 2;260;24;aus2;Klauſẜais;unsafe
 2;260;28;aus2;ſinnajis;safe
 2;260;28;aus2;ſinnajis;unsafe
@@ -9650,6 +9751,7 @@
 2;273;29;aus2;Maʒetaiß;unsafe
 2;274;1;aus2;eepreeʒenajeteeß;unsafe
 2;274;6;aus2;ẜchiß;unsafe
+2;274;8;aus2;tap-piß;absolute_trash
 2;274;9;aus2;Dohdeeß;unsafe
 2;274;10;aus2;labbakaiß;unsafe
 2;274;11;aus2;titʒighakaiß;unsafe
@@ -9797,6 +9899,7 @@
 2;286;14;aus2;ghraͤkojuẜchi;safe
 2;286;16;aus2;Klauſẜaiteeß;unsafe
 2;286;16;aus2;mahʒaiteeß;unsafe
+2;286;29;aus2;redſe-jiß;absolute_trash
 2;286;30;aus2;kallpojuẜchi;safe
 2;286;31;aus2;ſtahwejuẜchi;safe
 2;287;5;aus2;Baußlis;unsafe
@@ -9894,6 +9997,7 @@
 2;297;31;aus1;klauſẜiteeß;unsafe
 2;298;2;aus1;darrijis;safe
 2;298;2;aus1;darrijis;unsafe
+2;298;5;aus1;mahʒi-teeß;absolute_trash
 2;298;8;aus2;Mahʒetais;unsafe
 2;298;9;aus2;Ļaudis;unsafe
 2;298;13;aus2;ẜchiß;unsafe
@@ -9907,6 +10011,7 @@
 2;299;7;aus2;Mahʒais;unsafe
 2;299;9;aus2;dohdeeß;unsafe
 2;299;12;aus2;Dſirrulis;unsafe
+2;299;13;aus2;jau-ʒeeß;absolute_trash
 2;299;20;aus2;Ꞩarrghajeteeß;unsafe
 2;299;22;aus2;reis;unsafe
 2;299;25;aus2;peedſehris;unsafe
@@ -10049,12 +10154,14 @@
 2;314;24;aus2;dehwis;unsafe
 2;314;30;aus2;tais;unsafe
 2;314;30;aus2;Darritais;unsafe
+2;315;4;aus2;pahrnah-ʒiß;absolute_trash
 2;315;9;aus2;klauſẜais;unsafe
 2;315;10;aus2;dſirrdejiß;safe
 2;315;10;aus2;tais;unsafe
 2;315;10;aus2;dſirrdejiß;unsafe
 2;315;11;aus2;allojeeteeß;unsafe
 2;315;12;aus2;ick⸗kattris;unsafe
+2;315;12;aus2;apẜmee-teeß;absolute_trash
 2;315;14;aus2;pee⸗ehſteeß;unsafe
 2;315;18;aus2;notickuſẜi;safe
 2;315;20;aus2;ẜabahruſcheeß;safe
@@ -10098,6 +10205,7 @@
 2;319;26;aus1;Mo-ſis;absolute_trash
 2;320;14;aus1;bieteeß;unsafe
 2;320;20;aus1;ẜchiß;unsafe
+2;320;27;aus1;pat-teeß;absolute_trash
 2;320;28;aus1;patteeß;unsafe
 2;320;28;aus1;peedſim̃is;unsafe
 2;320;29;aus1;patteeß;unsafe
@@ -10109,6 +10217,7 @@
 2;321;9;aus1;kais;unsafe
 2;321;9;aus1;Baußliß;unsafe
 2;321;18;aus2;aisbahſis;unsafe
+2;321;21;aus2;ʒell-teeß;absolute_trash
 2;321;25;aus2;bijuſchi;safe
 2;321;26;aus2;Bralis;unsafe
 2;321;27;aus2;nomirruſchi;safe
@@ -10317,6 +10426,7 @@
 2;339;8;aus2;teickteeß;unsafe
 2;339;8;aus2;leeliteeß;unsafe
 2;339;13;aus2;Klauſẜais;unsafe
+2;339;15;aus2;mahʒi-teeß;absolute_trash
 2;339;16;aus2;darrijiß;safe
 2;339;16;aus2;peepilldijiß;safe
 2;339;16;aus2;darrijiß;unsafe
@@ -10332,12 +10442,14 @@
 2;339;22;aus2;ißdelldejiß;safe
 2;339;22;aus2;ißdelldejiß;unsafe
 2;339;23;aus2;nowehrẜiß;unsafe
+2;339;23;aus2;peepilldi-jiß;absolute_trash
 2;339;24;aus2;nopellnijiß;safe
 2;339;24;aus2;nopellnijiß;unsafe
 2;339;25;aus2;tappiß;unsafe
 2;339;26;aus2;ghraͤkojiß;safe
 2;339;26;aus2;ghraͤkojiß;unsafe
 2;339;28;aus2;dehwiß;unsafe
+2;340;3;aus2;taiß-niß;absolute_trash
 2;340;12;aus2;Ꞩchiß;unsafe
 2;340;12;aus2;Widdetais;unsafe
 2;340;13;aus2;attpeſtijis;safe
@@ -10599,6 +10711,7 @@
 2;370;10;aus1;Atʒis;unsafe
 2;370;15;aus2;Pehteris;unsafe
 2;370;17;aus2;eekrittuſchi;safe
+2;370;17;aus2;peedoh-teeß;absolute_trash
 2;371;4;aus2;ẜchiß;unsafe
 2;371;6;aus2;Wiſẜewallditais;unsafe
 2;371;11;aus2;juſẜi;safe
@@ -10813,6 +10926,7 @@
 2;389;21;aus2;dſirrdejiß;safe
 2;389;21;aus2;dſirrdejiß;unsafe
 2;389;26;aus2;turraiß;unsafe
+2;389;27;aus2;ſchke-teeß;absolute_trash
 2;390;23;head;tatis;unsafe
 2;391;2;intr;darrijiß;safe
 2;391;2;intr;darrijiß;unsafe
@@ -10841,6 +10955,7 @@
 2;394;4;aus2;nomirruſẜi;safe
 2;394;8;aus2;ghullejuſẜi;safe
 2;394;12;aus2;Mahʒaiteeß;unsafe
+2;394;13;aus2;turre-teeß;absolute_trash
 2;394;16;aus2;ẜirrdſis;unsafe
 2;394;18;aus2;bahrteeß;unsafe
 2;394;21;aus2;Ꞩchiß;unsafe
@@ -10913,6 +11028,7 @@
 2;398;14;aus2;ʒerrejiß;safe
 2;398;14;aus2;ʒerrejiß;unsafe
 2;398;15;aus2;pallitʒis;unsafe
+2;398;17;aus2;peeẜau-ʒiß;absolute_trash
 2;398;20;aus2;dewis;unsafe
 2;398;20;aus2;maʒaiteeß;unsafe
 2;398;20;aus2;turreteeß;unsafe
@@ -10945,6 +11061,7 @@
 2;402;23;aus2;Ļaudis;unsafe
 2;402;28;aus2;Ļaudis;unsafe
 2;403;1;aus2;kattris;unsafe
+2;403;5;aus2;ʒel-leeß;absolute_trash
 2;403;11;aus2;darrijuẜchi;safe
 2;403;12;aus2;darrijuẜchi;safe
 2;403;15;aus2;ʒellteeß;unsafe
@@ -10955,6 +11072,7 @@
 2;403;20;aus2;usmohdenajis;unsafe
 2;403;23;aus2;usmohdenajis;safe
 2;403;23;aus2;usmohdenajis;unsafe
+2;403;25;aus2;ghulle-jiß;absolute_trash
 2;403;28;aus2;ghullejuẜchi;safe
 2;403;30;aus2;bieſteeß;unsafe
 2;404;2;aus2;Kammaritis;unsafe
@@ -11296,6 +11414,7 @@
 2;428;13;aus2;peedehwis;unsafe
 2;428;18;aus2;Ꞩohghis;unsafe
 2;428;21;aus2;pahrkahpuẜchi;safe
+2;428;21;aus2;Attkahpe-teeß;absolute_trash
 2;428;23;aus2;ißlaiduẜchi;safe
 2;428;24;aus2;titʒejuẜchi;safe
 2;428;25;aus2;redſejuſchi;safe
@@ -11557,6 +11676,7 @@
 3;20;11;aus2;darrijiß;safe
 3;20;11;aus2;darrijiß;unsafe
 3;20;14;aus2;noſkummuſẜi;safe
+3;20;18;aus2;bi-jiß;absolute_trash
 3;20;19;aus2;paliedſejiß;safe
 3;20;19;aus2;paliedſejiß;unsafe
 3;20;23;aus2;darrijiß;safe
@@ -11586,10 +11706,12 @@
 3;22;20;aus2;Ꞩchiß;unsafe
 3;22;21;aus2;mieļais;unsafe
 3;22;23;aus2;Ꞩohghis;unsafe
+3;22;27;aus2;Pat-teeß;absolute_trash
 3;22;29;aus2;dußmoteeß;unsafe
 3;23;3;aus2;attreepteeß;unsafe
 3;23;16;aus2;raddijis;safe
 3;23;16;aus2;raddijis;unsafe
+3;23;20;aus2;preeʒada-meeß;absolute_trash
 3;23;22;aus2;Schiß;unsafe
 3;23;26;aus2;ẜaẜittis;unsafe
 3;23;27;aus2;mettis;unsafe
@@ -11624,6 +11746,7 @@
 3;25;27;aus2;patteeß;unsafe
 3;26;2;aus2;patteeß;unsafe
 3;26;5;aus2;turrehẜeeß;unsafe
+3;26;6;aus2;apghraͤkoh-ẜeeß;absolute_trash
 3;26;7;aus2;ẜatʒijis;safe
 3;26;7;aus2;ẜatʒijis;unsafe
 3;26;13;aus2;ißtetʒejuſchas;safe
@@ -11837,6 +11960,7 @@
 3;42;4;aus2;bijis;unsafe
 3;42;5;aus2;dſirrdejis;safe
 3;42;5;aus2;dſirrdejis;unsafe
+3;42;7;aus2;teick-teeß;absolute_trash
 3;42;8;aus2;mahʒijis;safe
 3;42;8;aus2;mahʒijis;unsafe
 3;42;12;aus2;dſirrdejuẜchi;safe
@@ -11893,6 +12017,7 @@
 3;46;1;aus2;najeeß;safe
 3;46;1;aus2;najeeß;unsafe
 3;46;2;aus2;ẜatʒijuẜchi;safe
+3;46;4;aus2;Aprunna-jeeß;absolute_trash
 3;46;5;aus2;ẜowis;unsafe
 3;46;6;aus2;Mahʒetais;unsafe
 3;46;7;aus2;nahʒis;unsafe
@@ -11901,6 +12026,7 @@
 3;46;25;aus2;aisleeʒis;unsafe
 3;46;26;aus2;ẜchiß;unsafe
 3;46;28;aus2;attpuhſteeß;unsafe
+3;46;30;aus2;ſaimo-jiß;absolute_trash
 3;47;3;aus2;jehmis;unsafe
 3;47;5;aus2;dſirrdejuẜchi;safe
 3;47;6;aus2;pellnijiß;safe
@@ -12036,6 +12162,7 @@
 3;56;16;aus2;bijis;safe
 3;56;16;aus2;bijis;unsafe
 3;56;19;aus2;aprunnateeß;unsafe
+3;56;19;aus2;liexmoda-meeß;absolute_trash
 3;56;20;aus2;nhenopellnijis;safe
 3;56;20;aus2;paſudenateeß;unsafe
 3;56;20;aus2;nhenopellnijis;unsafe
@@ -12150,6 +12277,7 @@
 3;64;18;aus1;Pehteris;unsafe
 3;64;19;aus1;nolahdeteeß;unsafe
 3;64;19;aus1;ais⸗ſwehreteeß;unsafe
+3;64;19;aus1;leek-teeß;absolute_trash
 3;64;22;aus1;lahdejiß;safe
 3;64;22;aus1;lahdejiß;unsafe
 3;64;23;aus1;ẜatʒijis;safe
@@ -12281,6 +12409,8 @@
 3;70;10;aus1;ʒellteeß;unsafe
 3;70;11;aus1;paghajuſẜi;safe
 3;70;11;aus1;attnakuſẜi;safe
+3;70;13;aus1;apwillck-teeß;absolute_trash
+3;70;16;aus1;bahrda-meeß;absolute_trash
 3;70;20;aus1;pawehlejiß;safe
 3;70;20;aus1;pawehlejiß;unsafe
 3;70;24;aus1;Aſẜinis;unsafe
@@ -12351,6 +12481,7 @@
 3;74;26;aus1;apkaitenajis;safe
 3;74;26;aus1;apkaitenajis;unsafe
 3;74;27;aus1;pamettiß;unsafe
+3;74;27;aus1;Apdohma-jeeß;absolute_trash
 3;74;29;aus1;pellnijis;safe
 3;74;29;aus1;pellnijis;unsafe
 3;75;9;aus1;rijis;safe
@@ -12539,6 +12670,7 @@
 3;90;14;aus2;runnajis;unsafe
 3;90;15;aus2;jis;trash
 3;90;18;aus2;Ꞩuhdſaͤtais;unsafe
+3;90;19;aus2;Ꞩo-jiß;absolute_trash
 3;90;21;aus2;ghraͤkojiß;safe
 3;90;21;aus2;ghraͤkojiß;unsafe
 3;90;23;aus2;Ļaudis;unsafe
@@ -12683,12 +12815,14 @@
 3;99;12;aus2;pellnijis;unsafe
 3;99;15;aus2;Peſtitais;unsafe
 3;99;16;aus2;arruẜchi;safe
+3;99;16;aus2;ſchaͤlo-teeß;absolute_trash
 3;99;17;aus2;dſinnuẜchi;safe
 3;99;18;aus2;noſtrahdajuẜchi;safe
 3;99;21;aus2;maxajis;safe
 3;99;21;aus2;maxajis;unsafe
 3;99;22;aus2;ghullejis;safe
 3;99;22;aus2;ghullejis;unsafe
+3;99;24;aus2;us⸗met-teeß;absolute_trash
 3;99;26;aus2;apghehrbis;unsafe
 3;99;31;aus2;Aſẜinis;unsafe
 3;100;2;aus2;peſtijis;safe
@@ -12754,6 +12888,7 @@
 3;104;7;aus2;teitʒis;unsafe
 3;104;12;aus2;Semmes⸗Ꞩohjhis;unsafe
 3;104;12;aus2;Aſẜinis;unsafe
+3;104;14;aus2;pat-teeß;absolute_trash
 3;104;16;aus2;wehlejuſchi;safe
 3;104;17;aus2;paghajuẜchi;safe
 3;104;26;aus2;notitʒis;unsafe
@@ -12797,6 +12932,7 @@
 3;106;11;aus2;teickteeß;unsafe
 3;106;12;aus2;teickdameeß;unsafe
 3;106;13;aus2;brehʒis;unsafe
+3;106;13;aus2;attpeſti-jiß;absolute_trash
 3;106;14;aus2;bijiß;safe
 3;106;14;aus2;bijiß;unsafe
 3;106;15;aus2;juſẜi;safe
@@ -12895,6 +13031,7 @@
 3;111;19;aus2;ißlehjuẜchi;safe
 3;111;19;aus2;Aſẜinis;unsafe
 3;111;23;aus2;Aſẜinis;unsafe
+3;111;26;aus2;pellni-jiß;absolute_trash
 3;111;27;aus2;Aſẜinis;unsafe
 3;111;28;aus2;darrijis;safe
 3;111;28;aus2;darrijis;unsafe
@@ -13097,6 +13234,7 @@
 3;124;7;aus2;pakareeß;unsafe
 3;124;9;aus2;ißkrattijuẜcheeß;safe
 3;124;9;aus2;ißkrattijuẜcheeß;unsafe
+3;124;14;aus2;kahr-teeß;absolute_trash
 3;124;16;aus2;kattris;unsafe
 3;124;18;aus2;nopirrʒeeß;unsafe
 3;124;23;aus2;mahʒameeß;unsafe
@@ -13234,8 +13372,10 @@
 3;131;10;aus2;ißwillʒis;unsafe
 3;131;11;aus2;usduhris;unsafe
 3;131;11;aus2;iß⸗ſpeedis;unsafe
+3;131;14;aus2;kau-jeeß;absolute_trash
 3;131;19;aus2;attraujeeß;safe
 3;131;19;aus2;attraujeeß;unsafe
+3;131;23;aus2;Doh-deeß;absolute_trash
 3;131;27;aus2;tappuſẜi;safe
 3;131;29;aus2;leeʒeeß;unsafe
 3;131;29;aus2;mieļais;unsafe
@@ -13245,6 +13385,7 @@
 3;132;2;aus2;Jemmeeß;unsafe
 3;132;5;aus2;bieſteeß;unsafe
 3;132;11;aus2;ghribbeeß;unsafe
+3;132;11;aus2;aisjem̃-teeß;absolute_trash
 3;132;16;aus2;jemmeeß;unsafe
 3;132;17;aus2;jemmeeß;unsafe
 3;132;24;aus2;Nahwes⸗Darritais;unsafe
@@ -13297,6 +13438,7 @@
 3;136;28;aus2;Ļaudis;unsafe
 3;136;29;aus2;aiſẜlehdſehteeß;unsafe
 3;136;29;aus2;Durrwis;unsafe
+3;136;30;aus2;paẜleppje-teeß;absolute_trash
 3;137;7;aus2;ẜohlijis;safe
 3;137;7;aus2;ẜohlijis;unsafe
 3;137;12;aus2;mieļais;unsafe
@@ -13413,6 +13555,7 @@
 3;148;17;aus2;warrejis;safe
 3;148;17;aus2;warrejis;unsafe
 3;148;23;aus2;ẜchiß;unsafe
+3;148;24;aus2;leegda-meeß;absolute_trash
 3;149;2;aus2;Mahʒetaiß;unsafe
 3;149;4;aus2;darrijiß;safe
 3;149;4;aus2;darrijiß;unsafe
@@ -13438,6 +13581,7 @@
 3;150;23;aus2;nodſiewojiß;safe
 3;150;23;aus2;nodſiewojiß;unsafe
 3;150;24;aus2;attſtahjeeteeß;unsafe
+3;150;24;aus2;nodſiewo-jiß;absolute_trash
 3;150;27;aus2;Auſẜis;unsafe
 3;150;27;aus2;dehwis;unsafe
 3;150;31;aus2;ick⸗kattris;unsafe
@@ -13513,6 +13657,7 @@
 3;155;6;aus2;ʒehleeß;unsafe
 3;155;14;aus2;paliedſejiß;safe
 3;155;14;aus2;paliedſejiß;unsafe
+3;155;15;aus2;paliedſe-teeß;absolute_trash
 3;155;23;aus2;apmehdijuſchi;safe
 3;155;28;aus2;ẜatʒijeeß;safe
 3;155;28;aus2;ẜatʒijeeß;unsafe
@@ -13552,6 +13697,7 @@
 3;158;8;aus2;dehwis;unsafe
 3;158;9;aus2;litʒis;unsafe
 3;158;10;aus2;uslaͤkuſẜi;safe
+3;158;12;aus2;attſtah-teeß;absolute_trash
 3;158;14;aus2;bijuẜchi;safe
 3;158;17;aus2;Peſtitais;unsafe
 3;158;21;aus2;Atʒis;unsafe
@@ -13575,6 +13721,7 @@
 3;159;16;aus2;nomirris;unsafe
 3;159;16;aus2;nomirris;unsafe
 3;159;23;aus2;aprieteeß;unsafe
+3;159;25;aus2;darri-teeß;absolute_trash
 3;160;4;aus2;ẜaderrejis;safe
 3;160;4;aus2;ẜaliedſenajis;safe
 3;160;4;aus2;ẜaderrejis;unsafe
@@ -13628,6 +13775,7 @@
 3;162;26;aus2;Deh-wis;absolute_trash
 3;162;28;aus2;mahʒaiß;unsafe
 3;162;29;aus2;ʒellteeß;unsafe
+3;162;31;aus2;Attſtah-jeeß;absolute_trash
 3;163;3;aus2;Klauſẜais;unsafe
 3;163;5;aus2;mirris;unsafe
 3;163;6;aus2;mirris;unsafe
@@ -13681,6 +13829,7 @@
 3;168;5;aus2;juẜchi;safe
 3;168;14;aus2;tʒis;unsafe
 3;168;16;aus2;notickteeß;unsafe
+3;168;17;aus2;doh-deeß;absolute_trash
 3;168;18;aus2;dſirrdejiß;safe
 3;168;18;aus2;dſirrdejiß;unsafe
 3;168;22;aus2;Auſẜis;unsafe
@@ -13803,12 +13952,14 @@
 3;175;9;aus2;ẜehteeß;unsafe
 3;175;11;aus2;/ißplauʒis;unsafe
 3;175;14;aus2;Waͤtʒais;unsafe
+3;175;16;aus2;nopuhsda-meeß;absolute_trash
 3;175;19;aus2;runnajuẜchi;safe
 3;175;19;aus2;Ļaudis;unsafe
 3;176;12;aus2;runnajis;safe
 3;176;12;aus2;runnajis;unsafe
 3;176;14;aus2;adbilldejis;safe
 3;176;14;aus2;adbilldejis;unsafe
+3;176;15;aus2;Pat-teeß;absolute_trash
 3;176;21;aus2;paliedſeeß;unsafe
 3;176;22;aus2;dſiewojis;safe
 3;176;22;aus2;dſiewojis;unsafe
@@ -14093,6 +14244,7 @@
 3;195;18;peri;attghahdajuẜcheeß;unsafe
 3;195;18;peri;ẜchiß;unsafe
 3;195;20;peri;ʒellteeß;unsafe
+3;195;24;peri;ʒeh-leeß;absolute_trash
 3;196;5;aus1;bijis;safe
 3;196;5;aus1;bijis;unsafe
 3;196;7;aus1;darrijis;safe
@@ -14114,6 +14266,7 @@
 3;197;20;aus1;titʒis;unsafe
 3;197;20;aus1;nomirris;unsafe
 3;197;28;aus2;nomirris;unsafe
+3;197;29;aus2;Klauſẜai-teeß;absolute_trash
 3;197;31;aus2;nomirris;unsafe
 3;198;3;aus2;Pirrmais;unsafe
 3;198;4;aus2;brienodammeeß;unsafe
@@ -14231,6 +14384,7 @@
 3;204;17;aus2;ʒellteeß;unsafe
 3;204;18;aus2;ʒehleeß;unsafe
 3;204;20;aus2;ʒehleeß;unsafe
+3;204;21;aus2;ʒell-teeß;absolute_trash
 3;204;22;aus2;ghullejuẜchi;safe
 3;204;22;aus2;ẜappuwuẜchi;safe
 3;204;23;aus2;tappuẜchi;safe
@@ -14324,6 +14478,7 @@
 3;210;13;aus2;tais;unsafe
 3;210;13;aus2;aismidſis;unsafe
 3;210;14;aus2;Aſẜinis;unsafe
+3;210;14;aus2;usdur-teeß;absolute_trash
 3;210;25;aus2;dabbujuẜchi;safe
 3;210;26;aus2;darrijuẜchi;safe
 3;210;28;aus2;ißtetʒejis;safe
@@ -14337,6 +14492,7 @@
 3;211;7;aus2;notickuẜchas;safe
 3;211;7;aus2;Peſtitais;unsafe
 3;211;9;aus2;kļuis;unsafe
+3;211;9;aus2;klauſẜi-teeß;absolute_trash
 3;211;10;aus2;darrijis;safe
 3;211;10;aus2;darrijis;unsafe
 3;211;11;aus2;jaͤhmuẜchi;safe
@@ -14370,6 +14526,7 @@
 3;213;10;aus2;Puhkis;unsafe
 3;213;12;aus2;bahreeß;unsafe
 3;213;12;aus2;Dſirrulis;unsafe
+3;213;12;aus2;reh-jeeß;absolute_trash
 3;213;14;aus2;ißbaŗŗojis;safe
 3;213;14;aus2;ißbaŗŗojis;unsafe
 3;213;18;aus2;ghraͤkojis;safe
@@ -14382,6 +14539,7 @@
 3;213;22;aus2;attghreeſteeß;unsafe
 3;213;22;aus2;ẜarrghajeeß;unsafe
 3;214;2;aus2;ickkattris;unsafe
+3;214;5;aus2;darri-teeß;absolute_trash
 3;214;8;aus2;ee⸗lickuẜchi;safe
 3;214;19;aus2;peſtijis;safe
 3;214;19;aus2;ißweddiß;unsafe
@@ -14400,6 +14558,7 @@
 3;215;11;aus2;attſtahjis;safe
 3;215;11;aus2;attſtahjis;unsafe
 3;215;12;aus2;ißneſẜis;unsafe
+3;215;13;aus2;apſchaͤlo-jeeß;absolute_trash
 3;215;14;aus2;ẜamin-nis;absolute_trash
 3;215;15;aus2;ee⸗mettiß;unsafe
 3;215;18;aus2;lickdameeß;unsafe

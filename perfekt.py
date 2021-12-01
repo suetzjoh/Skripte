@@ -11,8 +11,8 @@ files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f[-4:] == ".
 
 safe_regex = "([^ >{]+(u(ſ)?(ſ|ẜ)(i|ee(s|ß))|u((ſ)?(ſ|ẜ)ch)(i|as|ee(s|ß))|(j|y)(i|ee)(s|ß)))([ </{}])"
 unsafe_regex = "([^ >{]{2,}(i|ee)(s|ß))([ </{}])"
-second_regex = ">jis"
-third_regex = ">(.is)"
+second_regex = ">jis "
+third_regex = ">(.(i|ee)(s|ß)) "
 
 
 def open_xml(path):
