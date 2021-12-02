@@ -236,9 +236,6 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 
 with open(out_path, "w", encoding="utf-8-sig") as file:
 	string = str(library)
-	while string[0] == " ":
-		string = string[1:]
-		
 	string = re.sub(r"<(([^> ]+?)[^>]*)></\2>", "<\g<1>/>", string)
 	string = re.sub("([^/]>)<", "\g<1>\n<", string)
 	string = re.sub("(</?document)", "\t\g<1>", string)
