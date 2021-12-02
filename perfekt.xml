@@ -5,7 +5,7 @@
 			<z nr="2">tage des Advents / Matth. 21.</z>
 			<e/><z nr="3">To ẜwaͤhtu Ewangelium / Ka taß Kungs JEſus Chriſtus</z>
 			<z nr="4">vs weenas Eſeļa⸗Mahtes eekſchan Jeruſalem ee-</z>
-			<z nr="5"> <match ann="">jahjis</match> gir / apraxta taß ẜwaͤhtʒ Ewangeliſts Mattheus</z>
+			<z nr="5"> <match ann="prs.3.">jahjis</match> gir / apraxta taß ẜwaͤhtʒ Ewangeliſts Mattheus</z>
 			<z nr="6">ẜawà Ghramatà ohtrà⸗deßmità und pirrmajà Weetà /</z>
 			<z nr="7">und ſkann tee Wahrdi juſẜà Wallodà / tha :</z>
 			<p/><z nr="8">KAd tee nu tuwe py Jeruſalem</z>
@@ -19,7 +19,7 @@
 		<lpp nr="2">
 			<z nr="title">Am Erſten Sontag</z>
 			<z nr="1">weenu Eſeļamaht / unnd weenu Kumeļu py tahß /</z>
-			<z nr="2"> <match ann="">attraiſẜiyuſchi</match> / attweddeta tohs py man / und kad</z>
+			<z nr="2"> <match ann="adv?">attraiſẜiyuſchi</match> / attweddeta tohs py man / und kad</z>
 			<z nr="3">jums kaßlabban ko ẜatʒys / tad ẜackaita : Tam Kun-</z>
 			<z nr="4">gham wayagha tahß / tudeļļ wings jums tohs att-</z>
 			<z nr="5">laidyß .</z>
@@ -30,7 +30,7 @@
 			<z nr="10">Eſeli / und us wenu Kumeļu tahs Naßtunaͤſẜetayas</z>
 			<z nr="11">Eſeļa⸗Mahtes .</z>
 			<z nr="12">Tee Mahʒekļi nohghaya / und darriya / ka teem</z>
-			<z nr="13">JEſus <match ann="">pawehleyis</match> by / und attwedde to Eſeļa⸗maht /</z>
+			<z nr="13">JEſus <match ann="prt.3.">pawehleyis</match> by / und attwedde to Eſeļa⸗maht /</z>
 			<z nr="14">und to Kumeļu / und licka ẜawas Drehbes wirſẜu / und</z>
 			<z nr="15">ẜaͤdenaya to wirſẜu . Bett daudß Ļaudis ißplattiya</z>
 			<z nr="16">ẜawas Drehbes us Ʒeļļu . Ʒiti ʒirta Saŗŗus{Sarŗus} no teem</z>
@@ -40,7 +40,7 @@
 			<z nr="20">Ꞩlawaͤhts gir tas kas nahk eekſchan Kungha Wahr-</z>
 			<z nr="21">du / Hoſianna eekſchan tahs Auxtibas .</z>
 			<a1/><z nr="22">MJeļi Draughi / Mehß buhſẜim arr Deewa</z>
-			<z nr="23">Spaͤku nu ghann dries <match ann="">peedſiewojuẜchi</match> tohß Seemas</z>
+			<z nr="23">Spaͤku nu ghann dries <match ann="fut.1.pl.">peedſiewojuẜchi</match> tohß Seemas</z>
 			<z nr="24">ẜwaͤhtkus / kurr mehß tohpam mahʒiti / ka Deewa Daͤhls</z>
 			<z nr="25">JEſus Chriſtus muhßo dehļ us ẜchahß Paſẜaules <match ann="">nahʒis</match> / und no</z>
 			<z nr="26">tahß Jumprawas Maria ʒaur Ap-aͤhnoſchanu tha Ꞩwaͤhta</z>
@@ -852,16 +852,16 @@
 			<z nr="7">dehļ nhe abgraͤkojahß .</z>
 			<z nr="8">Kad tee noghaja / eeẜahka JEſus runnaht /</z>
 			<z nr="9">us teem Ļaudeem no Johanne / Ko eſẜeeta juhß</z>
-			<z nr="10"> <match ann="">ißghajuẜchi</match> Tuxneſẜi redſeht ? Ghribbejeeta juhß</z>
+			<z nr="10"> <match ann="prs.2.pl.">ißghajuẜchi</match> Tuxneſẜi redſeht ? Ghribbejeeta juhß</z>
 			<z nr="11">kahdu Needru redſeht / kattru Wehſch ſchurp unnd</z>
-			<z nr="12">turp ſchauba ? Jeb ko eſẜeeta juhß <match ann="">ißghajuſchi</match> red-</z>
+			<z nr="12">turp ſchauba ? Jeb ko eſẜeeta juhß <match ann="prs.2.pl.">ißghajuſchi</match> red-</z>
 			<z nr="13">ſeht ? Ghribbejeeta juhß kahdu Ʒillwaͤku myxtahs</z>
 			<z nr="14">Drehbes redſeht ? Raugaita / kattri myxtas Dreh-</z>
 			<z nr="15">bes naͤſẜa / gir Koninjo Nammohs . Jeb ko eſẜeeta</z>
 			<z nr="re">juhß</z>
 		</lpp>
 		<lpp nr="28">
-			<z nr="1">juhß <match ann="">ißghajuſchi</match> redſeht ? Ghribbejeeta juhß kahdu</z>
+			<z nr="1">juhß <match ann="prs.2.pl.">ißghajuſchi</match> redſeht ? Ghribbejeeta juhß kahdu</z>
 			<z nr="2">Proweetu redſeht ? Ja es ẜacku jums / katters arrid-</z>
 			<z nr="3">ſan auxtahx gir nheka kahds Proweets . Aiſto ſchiß</z>
 			<z nr="4">gir / no kattru raxtiets gir / Raugi / es ẜuhtu{ẜuhti} mannu</z>
@@ -1190,18 +1190,18 @@
 		</lpp>
 		<lpp nr="38">
 			<z nr="1">eſẜi tu tad ? Ka mehs adbilldam teem / kattri mums</z>
-			<z nr="2">gir <match ann="">iſẜutijuſchi</match> / ko ẜacki tu patts no ẜoͤw ? Taß ẜatʒi-</z>
+			<z nr="2">gir <match ann="prs.3.">iſẜutijuſchi</match> / ko ẜacki tu patts no ẜoͤw ? Taß ẜatʒi-</z>
 			<z nr="3">ja : Es aͤßmu weens ẜautʒams Ballxnis weena</z>
 			<z nr="4">Mahʒetaja Tuxneſẜi . Ꞩattaiſẜaita to Ʒeļļu tha</z>
-			<z nr="5">Kungha / ka tas Proweets Eſaias <match ann="">ẜatʒijis</match> gir .</z>
+			<z nr="5">Kungha / ka tas Proweets Eſaias <match ann="prs.3.">ẜatʒijis</match> gir .</z>
 			<z nr="6">Vnd tee kattri by iſẜutiti / Tee by no teem Wari-</z>
 			<z nr="7">ſeereem und jautaja tam / und ẜatʒija us to : Kapehts</z>
 			<z nr="8">cruſti tu tad / ka tu nhe eſẜi Chriſtus / neds Elias / neds</z>
 			<z nr="9">kahds Proweets ? Johannes adbilldeja teem und</z>
 			<z nr="10">ẜatʒija : Es chruſtiju ar Vdeni / Bett tahß gir wid-</z>
-			<z nr="11">du juhſẜo ſtarpà <match ann="">eghajis</match> / kattru juhß nhe paſieſtaht /</z>
+			<z nr="11">du juhſẜo ſtarpà <match ann="prs.3.">eghajis</match> / kattru juhß nhe paſieſtaht /</z>
 			<z nr="12">tas gir / katters pehtʒ mann nahx / katters preekſch</z>
-			<z nr="13">man <match ann="">bijis</match> gir / kuŗŗam es nhe aͤßmu ʒeenigs / winja</z>
+			<z nr="13">man <match ann="prs.3.">bijis</match> gir / kuŗŗam es nhe aͤßmu ʒeenigs / winja</z>
 			<z nr="14">Kurrpes ẜixnus attraiſẜiet . Schiß noticka py Betha-</z>
 			<z nr="15">baras / winja puſẜe Jordanes / kur Johannes cruſtija .</z>
 			<z nr="re">Mieļi</z>
@@ -1566,7 +1566,7 @@
 			<z nr="12">tas Engels ẜatʒija us teem : Nhe byſtatees : Redſi /</z>
 			<z nr="13">Es paſluddenaju jums leelu Preeku / katters notix</z>
 			<z nr="14">wiſẜeem Ļaudeem . Aiſto jums gir ſchodeen tas Pe-</z>
-			<z nr="15">ſtitais <match ann="">peedſimmis</match> / katters gir Chriſtus tas Kungs</z>
+			<z nr="15">ſtitais <match ann="prs.3.">peedſimmis</match> / katters gir Chriſtus tas Kungs</z>
 			<z nr="16">Dawida Pilly . Vnd to jemmeetees par Siemu /</z>
 			<z nr="17">juhß attraſẜeeta to Baͤhrnu Autys eetitu / und Ꞩil-</z>
 			<z nr="18">leh ghulliſchu . Vnd tudeļļ by py to Engeli taß Pullx</z>
@@ -1966,21 +1966,21 @@
 			<z nr="10">Ghanneem us Debbes brautʒe / ẜatʒi-</z>
 			<z nr="11">ja tee Ghanni ẜawà ſtarpà / laideeta</z>
 			<z nr="12">mums nu no⸗eet us Bettlehem / und</z>
-			<z nr="13">redſeht kas tur gir <match ann="">notitʒiß</match> / ka mums</z>
-			<z nr="14">tas Kungs Siņņu gir <match ann="">dehwis</match> . Vnd tee nahʒe pee-</z>
+			<z nr="13">redſeht kas tur gir <match ann="prs.3.">notitʒiß</match> / ka mums</z>
+			<z nr="14">tas Kungs Siņņu gir <match ann="prs.3.">dehwis</match> . Vnd tee nahʒe pee-</z>
 			<z nr="re">pehſche /</z>
 		</lpp>
 		<lpp nr="61">
 			<z nr="1">pehſche / und attradda abbus / Mariam und Joſepu /</z>
 			<z nr="2">und to Baͤhrnu Ꞩillite ghulloht . Bett kad tee to</z>
-			<z nr="3">by <match ann="">redſejuſchi</match> / ißpaudehja tee to Wahrdu / kas teem</z>
+			<z nr="3">by <match ann="prt.3.">redſejuſchi</match> / ißpaudehja tee to Wahrdu / kas teem</z>
 			<z nr="4">no to Baͤhrnu by ẜatʒiets . Vnd wiſẜi / kattri to dſirr-</z>
 			<z nr="5">deja / iſẜabrinojas par to Wallodu / kattru tee Ghan-</z>
-			<z nr="6">ni teem by <match ann="">ẜatʒijuſchi</match> . Bett Maria patturrheja wiſ-</z>
+			<z nr="6">ni teem by <match ann="prt.3.">ẜatʒijuſchi</match> . Bett Maria patturrheja wiſ-</z>
 			<z nr="7">ẜus ſchohs Wahrdus / unnd apdohmaja tohß ẜawà</z>
 			<z nr="8">Ꞩirrdy . Vnd tee Ghanni atghreeſehß / ẜlaweja</z>
-			<z nr="9">und teitʒe Deewu / par wiſẜu / ko tee by <match ann="">dſirrdejuſchi</match> </z>
-			<z nr="10">und <match ann="">redſejuſchi</match> . Lieds ka teems ſtahßſtiets by .</z>
+			<z nr="9">und teitʒe Deewu / par wiſẜu / ko tee by <match ann="prt.3.">dſirrdejuſchi</match> </z>
+			<z nr="10">und <match ann="prt.3.">redſejuſchi</match> . Lieds ka teems ſtahßſtiets by .</z>
 			<a1/><z nr="11">WAckar aͤſẜam mehß <match ann="">dſirrdejuẜchi</match> / ka taß</z>
 			<z nr="12">ſchehliegs Deews ʒaur ẜawu ẜwaͤhtu Engheli gir</z>
 			<z nr="13"> <match ann="">litʒis</match> paẜluddenaht / ka winja Daͤhls / irr Ʒillwaͤka</z>
@@ -2355,7 +2355,7 @@
 			<z nr="4">ẜees / ka dauds Ꞩirrds domaſchana ſinnama tohp .</z>
 			<z nr="5">Vnd tur by weena Proweetinna / Anna Wa-</z>
 			<z nr="6">nueļa Meita / no Aſera ʒilltas / ta by waͤtʒiga / und by</z>
-			<z nr="7"> <match ann="">dſiwojuſẜi</match> ẜeptinjus Ghaddus ar ẜawu Wyru / pehts</z>
+			<z nr="7"> <match ann="prt.3.">dſiwojuſẜi</match> ẜeptinjus Ghaddus ar ẜawu Wyru / pehts</z>
 			<z nr="8">ẜawas Jumprawibas / und by Attraitne py aſtone-</z>
 			<z nr="9">deßmitteem und tſchettreem Ghaddem / ta nhe nahʒe</z>
 			<z nr="10">muhſcham no Baſniʒas / kallpoja Deewam ar Gha-</z>
@@ -2363,7 +2363,7 @@
 			<z nr="12">patti peegaja arridſan tanni paſſchà ſtundà / und tei-</z>
 			<z nr="13">tʒe to Kungu / und runnaja no to wiſẜeem / kattri us</z>
 			<z nr="14">to Peſtiſchanu eekſchan Jeruſalemes ghaidija . Vnd</z>
-			<z nr="15">kad tee wiſẜas leetas <match ann="">pabeighuſchi</match> by / pehts tha Kun-</z>
+			<z nr="15">kad tee wiſẜas leetas <match ann="prt.3.">pabeighuſchi</match> by / pehts tha Kun-</z>
 			<z nr="16">ga Baußlu / greeſehs tee attkal eekſchan Galileà / us</z>
 			<z nr="17">ẜawu Pili Naʒareth . Bett tas Baͤhrns augha / und</z>
 			<z nr="18">kļua ſtippris Gharrà / pills Ghuddribas / und Dee-</z>
