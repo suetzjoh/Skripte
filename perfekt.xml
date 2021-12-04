@@ -941,27 +941,27 @@
 			<z nr="13">Tu dſirrdi / Manns Draugs / taß ẜwaͤhtʒ Jahnis Ʒeetu-</z>
 			<z nr="14">mà Buhdams / ẜawus Mahʒekļuß ẜuhta py to Kunghu JEſum .</z>
 			<z nr="15">Ghribbi tu ſinnaht / kapehtʒ ẜchiß Ʒillwaͤhx / katters tick ghohdi-</z>
-			<z nr="16">ghe <match ann="" obl="0">dſiewojis</match> / nhe maſu Baͤhrnu aiß⸗ſkahris / bett paſẜcha Dee-</z>
-			<z nr="17">wa Kallps / ja Deewa Enghels <match ann="" obl="0">bijis</match> / tomaͤhr Ʒeetumà ee⸗maͤſts ?</z>
+			<z nr="16">ghe <match ann="none" obl="0">dſiewojis</match> / nhe maſu Baͤhrnu <match ann="none" obl="0">aiß⸗ſkahris</match> / bett paſẜcha Dee-</z>
+			<z nr="17">wa Kallps / ja Deewa Enghels <match ann="none" obl="0">bijis</match> / tomaͤhr Ʒeetumà ee⸗maͤſts ?</z>
 			<z nr="18">Klauſẜi / ko toͤw taß Ewangeliſts Mattheus adbilld / ẜatʒidams :</z>
 			<z nr="19">Taß Konings Herodes licka to Rohkà jembt / und Ʒeetumà</z>
 			<z nr="20">meſt / und ẜaiſtiet . Kapehtʒ ? Taß ghohdiegs Mahʒetais by</z>
-			<z nr="21"><match ann="" obl="0">ẜatʒijis</match> : Taß nhe gir pareiſe / ka tu tawa Brahļa Ꞩeewu</z>
-			<z nr="22">turreeß / und ar tahß <match ann="" obl="0">jauʒeeß</match> . Redſi / kad taß ẜwaͤhtʒ Jahnis</z>
+			<z nr="21"><match ann="prt.3." obl="0">ẜatʒijis</match> : Taß nhe gir pareiſe / ka tu tawa Brahļa Ꞩeewu</z>
+			<z nr="22">turreeß / und ar tahß <match ann="wrong" obl="0">jauʒeeß</match> . Redſi / kad taß ẜwaͤhtʒ Jahnis</z>
 			<z nr="23">tam leelam auxtam Kungham und Koninjam ẜacka / kur wings</z>
-			<z nr="24">nhe parreiſe <match ann="" obl="0">darrijis</match> / par to Leetu buhß tam ghohdigham Ʒillwaͤ-</z>
+			<z nr="24">nhe parreiſe <match ann="none" obl="0">darrijis</match> / par to Leetu buhß tam ghohdigham Ʒillwaͤ-</z>
 			<z nr="25">kam Ʒeetumà eet .</z>
 			<z nr="26">To / Deewam ſchaͤhl / mehß irr ẜchinnieß Laikohß daſche</z>
 			<z nr="27">reis peedſiewojam / ka tee Ʒillwaͤki nhe warr ee⸗redſeht / kad teem</z>
 			<z nr="28">Baſniʒas Kungs und Mahʒetais ẜacka / kaß ẜatʒitins{ẜatʒitnis} gir . Kah-</z>
 			<z nr="29">du ļaunu Wahrdu by taß ẜwaͤhtʒ Jahnis tam Koninjam Hero-</z>
-			<z nr="30">di <match ann="" obl="0">ẜatʒijis</match> ? Jo wings to runnaja / ko wiſẜi Ļaudis runnaja / kaß</z>
+			<z nr="30">di <match ann="prt.3." obl="0">ẜatʒijis</match> ? Jo wings to runnaja / ko wiſẜi Ļaudis runnaja / kaß</z>
 			<z nr="31">teeſẜa by / und by winja paſẜcha Brahlis / Lipſts Wahrdà / ẜuhdſe-</z>
 			<z nr="re">jeeß</z>
 		</lpp>
 		<lpp nr="31">
 			<z nr="1">jeeß py Keiſeri / ka taß Herodes winjam ẜawu Ghaſpaſchu by</z>
-			<z nr="2"><match ann="" obl="0">attkrahpis</match> / und nohſt <match ann="" obl="0">weddiß</match> . Ta nu by ſinnama Leeta / tomaͤhr</z>
+			<z nr="2"><match ann="prt.3." obl="0">attkrahpis</match> / und nohſt <match ann="prt.3." obl="0">weddiß</match> . Ta nu by ſinnama Leeta / tomaͤhr</z>
 			<z nr="3">kad taß Mahʒetaiß no tahdu Leetu runna / buhß tam Ʒeetumà</z>
 			<z nr="4">ee⸗lieſt / und pehtʒ irr Nahwas ʒeeſt / katters labpraht ghribbeja</z>
 			<z nr="5">tam leelam Ghrehʒeneekam py muhſchighas Dſiewibas pal-</z>
@@ -975,12 +975,12 @@
 			<z nr="13">maʒaiß Pahtarus und Deewa Dſeeßmus / taß nhe gir pareiſe /</z>
 			<z nr="14">ka tu Taͤhwu unnd Maht / Kunghu unnd Ghaſpaſchu /</z>
 			<z nr="15">Ꞩaimneeku und Ꞩaimneʒeem / Mahʒetaju unnd Baſniʒas⸗</z>
-			<z nr="16">Kunghu nhe klauſẜi / taß nhe gir pareiſe / ka tu barreeß / <match ann="" obl="0">reijeeß</match></z>
-			<z nr="17">und <match ann="?" obl="0">laͤtʒenajeeß</match> ka Ꞩunns ar tawu Kaimiņu / ka tu kaujeeß</z>
+			<z nr="16">Kunghu nhe klauſẜi / taß nhe gir pareiſe / ka tu barreeß / <match ann="wrong" obl="0">reijeeß</match></z>
+			<z nr="17">und <match ann="wrong" obl="0">laͤtʒenajeeß</match> ka Ꞩunns ar tawu Kaimiņu / ka tu kaujeeß</z>
 			<z nr="18">ar tawu Tuwaku / taß nhe gir pareiſe / ka tu Mauʒibu dſenn /</z>
 			<z nr="19">Maukahm ey / tawu laulatu Draughu attſtah / no to behds /</z>
-			<z nr="20">und ar ʒittu ẜweſẜchu <match ann="" obl="0">jauʒeeß</match> / taß nhe gir pareiſe / ka tu Deenas</z>
-			<z nr="21">Nacktis dſerr und pliete / und ka Meeļa⸗Tappa <match ann="?" obl="0">waſajeeß</match> / taß</z>
+			<z nr="20">und ar ʒittu ẜweſẜchu <match ann="wrong" obl="0">jauʒeeß</match> / taß nhe gir pareiſe / ka tu Deenas</z>
+			<z nr="21">Nacktis dſerr und pliete / und ka Meeļa⸗Tappa <match ann="wrong" obl="0">waſajeeß</match> / taß</z>
 			<z nr="22">nhe gir pareiſe / ka tu ʒittu peewill / ſohds / und kaß toͤw nhe pee-</z>
 			<z nr="23">daͤrr / lai buht leels lai maß / attraw / taß nhe gir pareiſe / ka tu ʒit-</z>
 			<z nr="24">tu apmaͤlo / und no to tahdas leetas runna / kaß muhſcham teeß</z>
@@ -1017,7 +1017,7 @@
 			<z nr="21">ku / ta raxtija py Ꞩeenas to Teeſẜu und Ꞩohdu / kattra by par to</z>
 			<z nr="22">Koninju pahr⸗eet . To raͤdſaͤdams taß Konings ißbijajahß</z>
 			<z nr="23">wings / ka Ꞩchauſẜchalas winjam pahr⸗ghaja / und tee Ghurrni</z>
-			<z nr="24">drebbeja . Vnd kad ẜchinnies Laikohß nhe buhtu Mutte <match ann="" obl="0">bijuſẜi</match> /</z>
+			<z nr="24">drebbeja . Vnd kad ẜchinnies Laikohß nhe buhtu Mutte <match ann="cnd.3." obl="0">bijuſẜi</match> /</z>
 			<z nr="25">kattra Ʒillwaͤku mahʒitu / und ick⸗kattris kluß ʒeeſtu / tad buhß</z>
 			<z nr="26">Ackminis runnaht / ẜacka JEſus Chriſtus patʒ .</z>
 			<z nr="27">Tapehtʒ buhß nu Mahʒetajeems ſinnaht / kahda Laime</z>
@@ -1050,7 +1050,7 @@
 			<z nr="20">Bett ka turrahß wings nu Ʒeetumà Buhdams ? Kurrne</z>
 			<z nr="21">wings prett to / kaß beß Wainas winju licka Ʒeetumà meſt ? Jeb</z>
 			<z nr="22">prett to arri / kaß to ee⸗ẜlehdſe ? Nhe neeka / wings ʒeete wiß ar</z>
-			<z nr="23">leelu Paʒeeẜchanu . Vnd jebſche wings buhtu <match ann="cnd" obl="0">warrejis</match> Dumpi</z>
+			<z nr="23">leelu Paʒeeẜchanu . Vnd jebſche wings buhtu <match ann="cnd.3." obl="0">warrejis</match> Dumpi</z>
 			<z nr="24">paʒellt prett to Koninju / aiſto wiſẜi Ļaudis us winju luhkoja / und</z>
 			<z nr="25">turrehja par leelu Proweetu und Mahʒetaju ; Tomaͤhr wings</z>
 			<z nr="26">to nhe darra / bett par wiſẜahm Leetahm wings dohma us JEſum</z>
@@ -1058,39 +1058,39 @@
 			<z nr="28">ko tee dſirrd no to Paſẜaules Peſtitaju / ka wings dſiewo / ko wings</z>
 			<z nr="29">darra / und tha projam .</z>
 			<z nr="30">Mahʒais ẜcheitan / Manns Draugs / ka toͤw buhß turre-</z>
-			<z nr="31">teeß / kad tu jeb <match ann="" obl="0">pellnijis</match> / jeb <match ann="" obl="0">nhenopellnijis</match> / Ʒeetumà maͤſts und</z>
+			<z nr="31">teeß / kad tu jeb <match ann="adj." obl="0">pellnijis</match> / jeb <match ann="adj." obl="0">nhenopellnijis</match> / Ʒeetumà maͤſts und</z>
 			<z nr="32">ẜaͤhdenahtʒ tohpi . Par wiſẜahm Leetahm waiʒa tu pehtʒ tha Kun⸗</z>
 			<z nr="re">gha</z>
 		</lpp>
 		<lpp nr="34">
 			<z nr="1">gha JEſu Chriſti Darrbeem / ko Wings gir <match ann="prs.3." obl="0">mahʒijis</match> / ka Wings</z>
-			<z nr="2"><match ann="" obl="0">dſiewojis</match> / kapehtʒ wings <match ann="" obl="0">Ʒeetis</match> / <match ann="" obl="0">mirris</match> / aukſcham <match ann="" obl="0">ʒehleeß</match> {ʒelleeß} / Deb-</z>
-			<z nr="3">beſẜies <match ann="" obl="0">uskahpis</match> . Aiſto ʒittà Wahrdà tu nhe warrehſẜi peſtietʒ</z>
+			<z nr="2"><match ann="prs.3." obl="0">dſiewojis</match> / kapehtʒ wings <match ann="prs.3." obl="0">Ʒeetis</match> / <match ann="prs.3." obl="0">mirris</match> / aukſcham <match ann="prs.3" obl="0">ʒehleeß</match> {ʒelleeß} / Deb-</z>
+			<z nr="3">beſẜies <match ann="prs.3." obl="0">uskahpis</match> . Aiſto ʒittà Wahrdà tu nhe warrehſẜi peſtietʒ</z>
 			<z nr="4">tapt no Deewa Dußmibas / no Ghraͤkeem / no Waͤlla Wallſtas /</z>
 			<z nr="5">und Elles Vgguni / ka ween ʒaur to Wahrdu JEſu Chriſti . Kad</z>
 			<z nr="6">tu Ʒeetumà Buhdams abdohma / ka taws Peſtitais JEſus Chri-</z>
-			<z nr="7">ſtus arridſan ẜaiſtiets und mohʒiets <match ann="" obl="0">tappis</match> / nhe ẜawa Blehņa</z>
+			<z nr="7">ſtus arridſan ẜaiſtiets und mohʒiets <match ann="none" obl="0">tappis</match> / nhe ẜawa Blehņa</z>
 			<z nr="8">dehļ / bett tawa / tawa / O Ʒillwaͤhx / tawa dehļ / ka tu warraͤtu no</z>
 			<z nr="9">Ghraͤko⸗Ꞩaites / und Elles⸗Ʒeetumu peſtietʒ tapt / tad tu warri</z>
 			<z nr="10">ar Meeru dohteeß / tawu Ꞩirrdi rembdeht / und ẜatʒiet : Redſi /</z>
 			<z nr="11">manna Dwehſẜele / taws Peſtitais JEſus Chriſtus gir tick dauds</z>
-			<z nr="12">toͤwis dehļ <match ann="?" obl="0">Ʒeetis</match> / kapehtʒ nhe ghribbaͤtu tad tu ʒeeſt ? Wings</z>
-			<z nr="13">nhe gir to Ʒeetumu <match ann="" obl="0">pellnijis</match> / bett tu eſẜi to <match ann="" obl="0">pellnijis</match> . Ja tu nhe eſẜi</z>
-			<z nr="14"><match ann="" obl="0">pellnijis</match> / dohdeeß ar Meeru / labbahka manna Ꞩirrds / und lee-</z>
+			<z nr="12">toͤwis dehļ <match ann="prs.3." obl="0">Ʒeetis</match> / kapehtʒ nhe ghribbaͤtu tad tu ʒeeſt ? Wings</z>
+			<z nr="13">nhe gir to Ʒeetumu <match ann="prs.3." obl="0">pellnijis</match> / bett tu eſẜi to <match ann="prs.2.sg." obl="0">pellnijis</match> . Ja tu nhe eſẜi</z>
+			<z nr="14"><match ann="prs.2.sg." obl="0">pellnijis</match> / dohdeeß ar Meeru / labbahka manna Ꞩirrds / und lee-</z>
 			<z nr="15">lahx Ghohds / kad eß nhe patteeſẜe aͤßmu ẜaͤhdenahtʒ / nhe ka es buh-</z>
-			<z nr="16">tu ẜcho Mahjaweetu <match ann="" obl="0">pellnijis</match> . Muhſẜo Nhelaimiba waͤd-</z>
+			<z nr="16">tu ẜcho Mahjaweetu <match ann="cnd.3." obl="0">pellnijis</match> . Muhſẜo Nhelaimiba waͤd-</z>
 			<z nr="17">dahß Paʒeeẜchanu / Paʒeeẜchana ( waͤddahß ) Nomanni-</z>
 			<z nr="18">ẜchanu / Nomanniẜchana ( waͤddahß ) Ʒerribu / Ʒerriba</z>
 			<z nr="19">nhe leek Kaunà tapt / mahʒa taß Apuſtuls Pahwils .</z>
 			<z nr="20">Par wiſẜahm Leetahm / Manns Draugs / jemm to waͤhrà /</z>
 			<z nr="21">kad toͤw ja⸗mirrſt / tad turreeß tu ar ihſtaͤnu Titʒibu / py to Kun-</z>
-			<z nr="22">ghu JEſu Chriſto / palleetʒ py to / und <match ann="" obl="0">kerreeß</match> py to ka Dadſis py</z>
+			<z nr="22">ghu JEſu Chriſto / palleetʒ py to / und <match ann="imp.2.sg." obl="0">kerreeß</match> py to ka Dadſis py</z>
 			<z nr="23">Ꞩwahrkeem . Dſeed und ẜacki : Eß aͤßmu weens Lohʒeklis</z>
 			<z nr="24">py tawu Meeſẜu / Kungs JEſu Chriſt / par to eß preeʒajohß</z>
 			<z nr="25">no Ꞩirrds / no toͤw eß nhe leekohß noſchkirrteeß / Nahwes</z>
 			<z nr="26">Mohkahß und Baͤhdohß buhdams / ja eß mirrſtu tad eß</z>
 			<z nr="27">toͤw mirrſtu / to muhſchighu Dſiewoſchanu eſẜi tu mann</z>
-			<z nr="28">ar tawu Nahwu <match ann="" obl="0">atpirʒis</match> .</z>
+			<z nr="28">ar tawu Nahwu <match ann="prs.2.sg." obl="0">atpirʒis</match> .</z>
 			<z nr="29">Bett taß nhe gir ghann / kad tu jeb dſiews / jeb mirrdams eek-</z>
 			<z nr="30">ſchan to Kunghu JEſum titʒi / bett tawus Baͤhrnus und Ꞩaim</z>
 			<z nr="31">buhß toͤw arridſan py Chriſtum JEſum ẜuhtiet . To darrija ẜchiß</z>
@@ -1141,7 +1141,7 @@
 			<z nr="8">nahk . Nu mums tick ſkaidras Atʒis / ka mehß paſẜcha Deewa</z>
 			<z nr="9">Ꞩirrdi redſeht warram / ſinnam und titʒam / ka Deews tha to</z>
 			<z nr="10">Paſẜaul <match ann="prs.3." obl="0">mielojis</match> gir / ka wings ẜawu weenighu peedſimbtu</z>
-			<z nr="11">Daͤhlu <match ann="" obl="0">dehwis</match> / ka wiſẜeem / kattri eekſchan to titʒ / nhe buhß paſu-</z>
+			<z nr="11">Daͤhlu <match ann="none?" obl="0">dehwis</match> / ka wiſẜeem / kattri eekſchan to titʒ / nhe buhß paſu-</z>
 			<z nr="12">ſteem tapt / bett to muhſchighu Dſiewoẜchanu dabbuit . Mehs</z>
 			<z nr="13">raͤdſam nu / ka Deews mums wiſẜus / labpraht / no wiſẜas Sirrds /</z>
 			<z nr="14">py ſoͤw Debbeſẜies ghribbaͤtu . Tiſli aͤſẜam mehs und Krohpļi /</z>
@@ -1153,15 +1153,15 @@
 			<z nr="20">Deewu / aiſto mehß Ghrehʒeneeki aͤſẜam / und kam meeſẜiegs</z>
 			<z nr="21">Prahtʒ / taß nhe warr Deewam patickt ; Bett JEſus CHri-</z>
 			<z nr="22">ſtus gir <match ann="prs.3." obl="0">nahʒis</match> / und mums no to ghauſchu Saͤhrghu ar ẜawu</z>
-			<z nr="23">dahrghu Aſẜini <match ann="" obl="0">ſchkieſtejis</match> / und ʒaur ẜaweem Wahtehm dſeede-</z>
-			<z nr="24"><match ann="" obl="0">najis</match> . Mehß aͤſẜam Kurrli / mehß nhe dſirrdam Deewa Wahr-</z>
+			<z nr="23">dahrghu Aſẜini <match ann="prs.3." obl="0">ſchkieſtejis</match> / und ʒaur ẜaweem Wahtehm dſeede-</z>
+			<z nr="24"><match ann="prs.3." obl="0">najis</match> . Mehß aͤſẜam Kurrli / mehß nhe dſirrdam Deewa Wahr-</z>
 			<z nr="25">du / und jebſche mehß to dſirrdam / tomaͤhr gir mums tahda ʒeeta</z>
 			<z nr="26">Ꞩirrds / ka mehß nhe darram pehtʒ to Wahrdu . Bett JEſus</z>
 			<z nr="27">CHriſtus gir to pirrxtu ẜawu Ꞩwaͤhtu Gharru muhſẜahß Auſẜis</z>
-			<z nr="28"><match ann="" obl="0">eelitʒis</match> / ka mehß nu ſpehjam ẜatʒiet : Runna manns Kungs /</z>
+			<z nr="28"><match ann="prs.3." obl="0">eelitʒis</match> / ka mehß nu ſpehjam ẜatʒiet : Runna manns Kungs /</z>
 			<z nr="29">aiſto taws Kallps klauſẜahß . Mehß bijam muhſẜohß Ghraͤ-</z>
-			<z nr="30">kohß <match ann="" obl="0">nomirruẜchi</match> : JEſus Chriſtus gir to Nahwes Ꞩait ẜatruh-</z>
-			<z nr="31"><match ann="" obl="0">ʒenajis</match> / mums no Ghraͤkeem peſtidams / und to muhſchighu Dſie-</z>
+			<z nr="30">kohß <match ann="prt.3." obl="0">nomirruẜchi</match> : JEſus Chriſtus gir to Nahwes Ꞩait ẜatruh-</z>
+			<z nr="31"><match ann="prs.3." obl="0">ʒenajis</match> / mums no Ghraͤkeem peſtidams / und to muhſchighu Dſie-</z>
 			<z nr="re">wibu</z>
 		</lpp>
 		<lpp nr="37">
