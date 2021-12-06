@@ -30,8 +30,11 @@ def extract_lines(read_path, save_path, first, last):
 	output = "\\_sh v3.0  621  Text\n\n\\id {id}\n\n".format(id=doc_title)
 	
 	store = []
+	print(soup.document.find_all("lpp"))
 	for page in soup.document.find_all("lpp"):
+		
 		page_nr = intify(page["nr"]) # "56a"
+		
 		if not (page_nr < page_a or page_nr > page_z):
 			for line in page.find_all("z"):
 				if line["nr"] in ["re", "title"]:
@@ -135,11 +138,11 @@ def extract_sentences(read_path, save_path, first, last):
 		f.write(output)
 		print("printed", save_path)
 
-git_dir_korr = "D:\\git\\korrektur"
-git_dir_tool = "D:\\git\\mancelius-postille\\McP1"
+git_dir_korr = "" #"D:\\git\\korrektur"
+git_dir_tool = "" #"D:\\git\\mancelius-postille\\McP1"
 
-input_path = os.path.join(git_dir_korr, sys.argv[1] + ".xml")
-output_path = os.path.join(git_dir_tool, sys.argv[2] + ".txt")
+input_path = os.path.join(git_dir_korr, sys.argv[1])
+output_path = os.path.join(git_dir_tool, sys.argv[2])
 
 by_phrase = False
 by_line = False

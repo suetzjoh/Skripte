@@ -141,21 +141,17 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 				if len(perfekta) == 0:
 					break
 					
-				if orig_word in ["„", "‚"]:
-					cite_stat += 1
-					
+				if orig_word[0] in ["„", "“", "‚", "‘", "["]:
 					if xx-yy >= len(ann_text) or orig_word != ann_text[xx-yy]:
 						yy += 1
+						print(re.sub("[\s\S]+\n\n", "", debug))
 						
-					#continue
-					newstring += orig_word + " "
-				elif orig_word in ["“", "‘"]:
-					cite_stat -= 1
-					
-					if xx-yy >= len(ann_text) or orig_word != ann_text[xx-yy]:
-						yy += 1
+					if orig_word in ["„", "‚"]:
+						cite_stat += 1
 						
-					#continue
+					elif orig_word in ["“", "‘"]:
+						cite_stat -= 1
+						
 					newstring += orig_word + " "
 				else:
 					ann_word = ann_text[xx-yy]
@@ -177,11 +173,11 @@ for part in library.library.find_all("document", attrs={"nr" : re.compile("^\d+?
 							if soup_.match.has_attr("ann"):
 								new_ann = soup_.match["ann"]
 						else:
-							#print(debug)
+							print(debug)
 							
 							answer = ""
 							while answer != "j":
-								answer = "j" #input("Huch, ein Missmatch bei einem match! Soll ich den annotieren oder nicht? (j/n)\n")
+								answer = input("Huch, ein Missmatch bei einem match! Soll ich den annotieren oder nicht? (j/n)\n")
 								if answer == "n":
 									newstring += orig_word + " "
 									continue
