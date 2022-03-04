@@ -1,0 +1,67 @@
+\_sh v3.0  621  Text
+
+\id BP I 32 p355 (Titel)
+
+\ref BP_I_355.01
+\tx PASSIO
+\std passio
+\mrph lt:n.sg.
+\lm lt:passio
+\PoS lt:sf.
+\gD Passion
+
+\ref BP_I_355.02
+\tx Tatai     eſti
+\std tatai     yra
+\mrph -         3.prs.
+\lm tatai     būti
+\PoS prn.      vb.
+\gD dies,_das sein
+
+\ref BP_I_355.03
+\tx Muka  POno  muſu
+\std mūka pono  mūsų
+\mrph n.sg. g.sg. g.
+\lm mūka ponas mes
+\PoS sf.   sm.   prn.
+\gD Qual  Herr  wir
+
+\ref BP_I_355.04
+\tx Ieſaus Chriſtaus / iſch keturu   Euan=|geliſtu .
+\std Jėzaus Kristaus   $ iš   keturių evangelistų   $
+\mrph g.sg.   g.sg.      $ +g.   g.m.     g.pl.          $
+\lm Jėzus  Kristus    $ iš   keturi   evangelistas   $
+\PoS sm.npr. sm.npr.    $ prp.  c.       sm.            $
+\gD Jesus   Christus   $ aus   vier     Evangelist     $
+
+\ref BP_I_355.05
+\tx Lietuwiſchkai iſchraſchita
+\std lietuviškai   išrašyta
+\mrph adv.           prc.prt.pss._n.sg.f.
+\lm lietuviškas   išrašyti
+\PoS adj.           vb.
+\gD litauisch      aufschreiben
+
+\ref BP_I_355.06
+\tx Per
+\std per
+\mrph +a.
+\lm per
+\PoS prp.
+\gD durch
+
+\ref BP_I_355.07
+\tx Iana     Bretkuna
+\std Joną    Bretkūną
+\mrph a.sg.    a.sg.
+\lm Jonas    Bretkūnas
+\PoS sm.npr.  sm.npr.
+\gD Johannes Bretke
+
+\ref BP_I_355.08
+\tx Anno      1591 .
+\std anno      1591 $
+\mrph lt:ab.sg. 1591 $
+\lm lt:annus  1591 $
+\PoS sm.       1591 $
+\gD Jahr      1591 $

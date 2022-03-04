@@ -195,12 +195,12 @@
 \gD abschneiden Ast,_Zweig von  Baum    $ und  ausbreiten er      auf
 
 \ref BP_I_002.18
-\tx kælio . A         ßmones                                           kurie       pirm   ir   paſkui
-\std kelio  $ o         žmonės    kurie       pirm     ir       paskui
-\mrph g.sg.  $ -         n.pl.       n.pl.m.     -        -        -
-\lm kelias $ o         žmogus     kuris       pirm     ir       paskui
-\PoS sm.    $ cnj.      sm._pl._sm. prn.        adv.     cnj.     adv.
-\gD Weg    $ und,_aber Mensch      welche(r/s) vorher   und      nachher
+\tx kælio . A         ßmones         kurie       pirm   ir   paſkui
+\std kelio  $ o         žmonės        kurie       pirm   ir   paskui
+\mrph g.sg.  $ -         n.pl.           n.pl.m.     -      -    -
+\lm kelias $ o         žmogus         kuris       pirm   ir   paskui
+\PoS sm.    $ cnj.      sm._pl._sm./sf. prn.        adv.   cnj. adv.
+\gD Weg    $ und,_aber Mensch          welche(r/s) vorher und  nachher
 
 \ref BP_I_003.01
 \tx eia    / ſchuke[ſchauke] bilodami      . Hoſianna Sunui
@@ -2076,7 +2076,7 @@
 
 \ref BP_I_011.15
 \tx Item    Kitame      newiename     nera          Iſchganimo /
-\std item    kitame      nė_viename   nėra  nėra  išganymo   $
+\std item    kitame      nė_viename   nėra         išganymo   $
 \mrph -       l.sg.m.     l.sg.m.       3.prs. 3.prs. g.sg.       $
 \lm lt:item kitas       nė_vienas    ne     būti  išganymas  $
 \PoS -       prn.        prn.+SNeg.    pfx.   vb.    sm.         $

@@ -1,0 +1,3370 @@
+\_sh v3.0  621  Text
+
+\id BP II 14 p172-189
+
+\ref BP_II_172.01
+\tx DIENOIE SCHVVENTOS
+\std dienoje šventos
+\mrph l.sg.   g.sg.f.
+\lm diena   šventas
+\PoS sf.     adj.
+\gD Tag     heilig
+
+\ref BP_II_172.02
+\tx Traices        Euagelia   Ioh.   3. Paguldime  .
+\std traicės       evangelija Ev:Joh 3. paguldyme  $
+\mrph g.sg.          n.sg.      -      3  l.sg.      $
+\lm traicė        evangelija Ev:Joh 3  paguldymas $
+\PoS sf.            sf.        -      3  sm.        $
+\gD Dreifaltigkeit Evangelium Joh    3  Kapitel    $
+
+\ref BP_II_172.03
+\tx BVwa   ßmogus         tarp     Phariſeuſchu
+\std buvo   žmogus         tarp     fariziejų
+\mrph 3.prt. n.sg.           +g.      g.pl.
+\lm būti  žmogus         tarp     fariziejas
+\PoS vb.    sm._pl._sm./sf. prp.     sm.npr.
+\gD sein   Mensch          zwischen Pharisäer
+
+\ref BP_II_172.04
+\tx wardu  Nikodemas wiriauſis Sʒi=|du .
+\std vardu  Nikodemas vyriausias žydų   $
+\mrph i.sg.  n.sg.     n.sg.m.    g.pl.    $
+\lm vardas Nikodemas vyriausias žydas   $
+\PoS sm.    sm.npr.   sm.        sm.      $
+\gD Name   Nikodemos Oberster   Jude     $
+
+\ref BP_II_172.05
+\tx Tas        ateia  Ieſauſp nakti  / ir   biloia
+\std tas        atėjo Jėzausp  naktį $ ir   bylojo
+\mrph n.sg.m.    3.prt. al.sg.    a.sg.  $ -    3.prt.
+\lm tas        ateiti Jėzus    naktis $ ir   byloti
+\PoS prn.       vb.    sm.npr.   sf.    $ cnj. vb.
+\gD diese(r/s) kommen Jesus     Nacht  $ und  sagen
+
+\ref BP_II_172.06
+\tx iamui   / Miſtre / ßinom    / iog  tu   nog  Diewo
+\std jam     $ mistre  $ žinome   $ jog  tu   nuog dievo
+\mrph d.sg.m. $ v.sg.   $ 1.pl.prs. $ -    n.   +g.  g.sg.
+\lm jis     $ mistras $ žinoti   $ jog  tu   nuog dievas
+\PoS prn.    $ sm.     $ vb.       $ cnj. prn. prp. sm.
+\gD er      $ Meister $ wissen    $ dass du   von  Gott
+
+\ref BP_II_172.07
+\tx ateiei    mokitoiu  . Neſa newienas      negal        
+\std atėjai   mokytoju  $ nes   nė_vienas    ne      gali
+\mrph 2.sg.prt. i.sg.     $ -     n.sg.m.       -       3.prs.
+\lm ateiti    mokytojas $ nes   nė_vienas    ne      galėti
+\PoS vb.       sm.       $ cnj.  prn.+SNeg.    pfx.    vb.
+\gD kommen    Lehrer    $ denn  niemand,_kein Neg.    können
+
+\ref BP_II_173.01
+\tx tu         ßenklu  dariti      / kurius      tu   darai       / net
+\std tų        ženklų daryti      $ kuriuos     tu   darai       $ net
+\mrph g.pl.m.    g.pl.    inf.        $ a.pl.m.     n.   2.sg.prs.   $ -
+\lm tas        ženklas daryti      $ kuris       tu   daryti      $ net
+\PoS prn.       sm.      vb.         $ prn.        prn. vb.         $ cnj.
+\gD diese(r/s) Zeichen  tun,_machen $ welche(r/s) du   tun,_machen $ außer,_wenn_nicht
+
+\ref BP_II_173.02
+\tx Diewas ſu  iu      butu   .
+\std dievas su   juo     būtų $
+\mrph n.sg.  +i.  i.sg.m. 3.cnd. $
+\lm dievas su   jis     būti  $
+\PoS sm.    prp. prn.    vb.    $
+\gD Gott   mit  er      sein   $
+
+\ref BP_II_173.03
+\tx Atſake   IEſus  / ir   biloia iopi     / Iſch=|tieſos /
+\std atsakė   Jėzus  $ ir   bylojo jop      $ iš_tiesos     $
+\mrph 3.prt.    n.sg.   $ -    3.prt. al.sg.m. $ -              $
+\lm atsakyti  Jėzus  $ ir   byloti jis      $ iš_tiesos     $
+\PoS vb.       sm.npr. $ cnj. vb.    prn.     $ adv.sec.       $
+\gD antworten Jesus   $ und  sagen  er       $ fürwahr       $
+
+\ref BP_II_173.04
+\tx Iſchtieſos ſakau    taw  / Iei         kas
+\std iš_tiesos   sakau     tau  $ jei         kas
+\mrph -            1.sg.prs. d.   $ -           n.
+\lm iš_tiesos   sakyti    tu   $ jei         kas
+\PoS adv.sec.     vb.       prn. $ cnj.        prn.
+\gD fürwahr     sagen     du   $ wenn,_falls wer
+
+\ref BP_II_173.05
+\tx neatgims                       iſch nauia   / negales          regeti  ka=|raliſtos
+\std ne        atgims               iš   naujo   $ ne       galės  regėti karalystos
+\mrph -         3.ft.                +g.   g.sg.m. $ -        3.ft.   inf.    g.sg.
+\lm ne        atgimti              iš   naujas  $ ne       galėti regėti karalysta
+\PoS pfx.      vb.                  prp.  adj.    $ pfx.     vb.     vb.     sf.
+\gD Neg.      wiedergeboren_werden aus   neu     $ Neg.     können sehen   Königreich
+
+\ref BP_II_173.06
+\tx Diewo  . Biloia iopi     Nikode=|mas
+\std dievo  $ bylojo jop      Nikodemas
+\mrph g.sg.  $ 3.prt. al.sg.m. n.sg.
+\lm dievas $ byloti jis      Nikodemas
+\PoS sm.    $ vb.    prn.     sm.npr.
+\gD Gott   $ sagen  er       Nikodemos
+
+\ref BP_II_173.07
+\tx kaip gal     ßmogus         gimti          / budams        ſe=|nas ?
+\std kaip gali    žmogus         gimti          $ būdamas      senas    $
+\mrph -    3.prs.  n.sg.           inf.           $ prc.cn._sg.m. n.sg.m.  $
+\lm kaip galėti žmogus         gimti          $ būti         senas    $
+\PoS adv. vb.     sm._pl._sm./sf. vb.            $ vb.           adj.     $
+\gD wie  können Mensch          geboren_werden $ sein          alt      $
+
+\ref BP_II_173.08
+\tx Er           gar     wel    ineiti      ßiwatana moti=|nos
+\std ar           gali    vėl   įeiti      žyvatan  motinos
+\mrph -            3.prs.  -      inf.        il.sg.    g.sg.
+\lm ar           galėti vėl   įeiti      žyvatas  motina
+\PoS part.        vb.     adv.   vb.         sm.       sf.
+\gD [Fragepart.] können wieder hineingehen Leib      Mutter
+
+\ref BP_II_173.09
+\tx ſawa              / ir   gimti          ?
+\std savo               $ ir   gimti          $
+\mrph -                  $ -    inf.           $
+\lm savo               $ ir   gimti          $
+\PoS prn.               $ cnj. vb.            $
+\gD [refl._Poss.-prn.] $ und  geboren_werden $
+
+\ref BP_II_173.10
+\tx Atſake   IEſus  / Iſchtieſos / Iſch=|tieſos
+\std atsakė   Jėzus  $ iš_tiesos   $ iš_tiesos
+\mrph 3.prt.    n.sg.   $ -            $ -
+\lm atsakyti  Jėzus  $ iš_tiesos   $ iš_tiesos
+\PoS vb.       sm.npr. $ adv.sec.     $ adv.sec.
+\gD antworten Jesus   $ fürwahr     $ fürwahr
+
+\ref BP_II_173.11
+\tx bilaw     taw  / iei         kas  neatgims                       iſch
+\std bylau     tau  $ jei         kas  ne        atgims               iš
+\mrph 1.sg.prs. d.   $ -           n.   -         3.ft.                +g.
+\lm byloti    tu   $ jei         kas  ne        atgimti              iš
+\PoS vb.       prn. $ cnj.        prn. pfx.      vb.                  prp.
+\gD sagen     du   $ wenn,_falls wer  Neg.      wiedergeboren_werden aus
+
+\ref BP_II_173.12
+\tx wandens ir   Dwaſes         / negales          ineiti      ing
+\std vandens ir   dvasės-dvasios $ ne       galės  įeiti      ing
+\mrph g.sg.   -    g.sg.           $ -        3.ft.   inf.        +a.
+\lm vanduo  ir   dvasė-dvasia   $ ne       galėti įeiti      ing
+\PoS sm.     cnj. sf.             $ pfx.     vb.     vb.         prp.
+\gD Wasser  und  Geist           $ Neg.     können hineingehen in_-_hinein
+
+\ref BP_II_173.13
+\tx Karaliſta  Diewo  . Kas  iſch kuno    uß=|gem       /
+\std karalystą  dievo  $ kas  iš   kūno   užgimsta      $
+\mrph a.sg.       g.sg.  $ n.   +g.   g.sg.   3.prs.         $
+\lm karalysta   dievas $ kas  iš   kūnas  užgimti       $
+\PoS sf.         sm.    $ prn. prp.  sm.     vb.            $
+\gD Königreich Gott   $ was  aus   Körper geboren_werden $
+
+\ref BP_II_173.14
+\tx kunas   ira    . Ir   kas  iſch Dwaſes
+\std kūnas  yra    $ ir   kas  iš   dvasės-dvasios
+\mrph n.sg.   3.prs. $ -    n.   +g.   g.sg.
+\lm kūnas  būti  $ ir   kas  iš   dvasė-dvasia
+\PoS sm.     vb.    $ cnj. prn. prp.  sf.
+\gD Körper sein   $ und  was  aus   Geist
+
+\ref BP_II_173.15
+\tx ußgem         Dwaſia     ira    . Neſiſtebekeſi                   / iog
+\std užgimsta      dvasia      yra    $ ne                stebėkis        $ jog
+\mrph 3.prs.         n.sg./i.sg. 3.prs. $ -                 2.sg.imp.        $ -
+\lm užgimti       dvasia      būti  $ ne                stebėtis        $ jog
+\PoS vb.            sf.         vb.    $ pfx.              vb.              $ cnj.
+\gD geboren_werden Geist       sein   $ Neg.              sich_wundern     $ dass
+
+\ref BP_II_173.16
+\tx taw  biloiau   / Reik       iumus iſch nauio   at=|gimti            .
+\std tau  bylojau   $ reikia     jums  iš   naujo   atgimti              $
+\mrph d.   1.sg.prt. $ 3.prs.     d.    +g.   g.sg.m. inf.                 $
+\lm tu   byloti    $ reikėti   jūs  iš   naujas  atgimti              $
+\PoS prn. vb.       $ vb.        prn.  prp.  adj.    vb.                  $
+\gD du   sagen     $ benötigen ihr   aus   neu     wiedergeboren_werden $
+
+\ref BP_II_173.17
+\tx Weias  kur  nor     pucʒ  / ir   tu   ußima
+\std vėjas kur  nori    pučia $ ir   tu   ūžimą
+\mrph n.sg.  -    3.prs.  3.prs. $ -    n.   a.sg.
+\lm vėjas kur  norėti pūsti $ ir   tu   ūžimas
+\PoS sm.    adv. vb.     vb.    $ cnj. prn. sm.
+\gD Wind   wo   wollen  wehen  $ und  du   Rauschen
+
+\ref BP_II_173.18
+\tx io      girdi     / bet           neßinai            iſch kur  ateit  / ir
+\std jo      girdi     $ bet           ne        žinai    iš   kur  ateina $ ir
+\mrph g.sg.m. 2.sg.prs. $ -             -         2.sg.prs. +g.   -    3.prs. $ -
+\lm jis     girdėti  $ bet           ne        žinoti   iš   kur  ateiti $ ir
+\PoS prn.    vb.       $ cnj.          pfx.      vb.       prp.  adv. vb.    $ cnj.
+\gD er      hören    $ aber,_sondern Neg.      wissen    aus   wo   kommen $ und
+\tx kur
+\std kur
+\mrph -
+\lm kur
+\PoS adv.
+\gD wo
+
+\ref BP_II_174.01
+\tx eit    . Teip eſt   koßnas   / kuris       iſch Dwa=|ſios
+\std eina   $ taip yra    kožnas   $ kuris       iš   dvasios
+\mrph 3.prs. $ -    3.prs. n.sg.m.   $ n.sg.m.     +g.   g.sg.
+\lm eiti   $ taip būti  kožnas   $ kuris       iš   dvasia
+\PoS vb.    $ adv. vb.    prn.      $ prn.        prp.  sf.
+\gD gehen  $ so   sein   jede(r/s) $ welche(r/s) aus   Geist
+
+\ref BP_II_174.02
+\tx ußgime        .
+\std užgimė       $
+\mrph 3.prt.         $
+\lm užgimti       $
+\PoS vb.            $
+\gD geboren_werden $
+
+\ref BP_II_174.03
+\tx Nikodemas atſake   / ir   biloia iopi     / kaip
+\std Nikodemas atsakė   $ ir   bylojo jop      $ kaip
+\mrph n.sg.     3.prt.    $ -    3.prt. al.sg.m. $ -
+\lm Nikodemas atsakyti  $ ir   byloti jis      $ kaip
+\PoS sm.npr.   vb.       $ cnj. vb.    prn.     $ adv.
+\gD Nikodemos antworten $ und  sagen  er       $ wie
+
+\ref BP_II_174.04
+\tx gal     tatai     buti  ? Ieſus  atſake   / ir   biloia
+\std gali    tatai     būti $ Jėzus  atsakė   $ ir   bylojo
+\mrph 3.prs.  -         inf.  $ n.sg.   3.prt.    $ -    3.prt.
+\lm galėti tatai     būti $ Jėzus  atsakyti  $ ir   byloti
+\PoS vb.     prn.      vb.   $ sm.npr. vb.       $ cnj. vb.
+\gD können dies,_das sein  $ Jesus   antworten $ und  sagen
+
+\ref BP_II_174.05
+\tx iopi     / Tu   eſſi    Miſtras Iſraele   a         ta              neßi=|nai             ?
+\std jop      $ tu   esi       mistras  Israele    o         to-tą          ne          žinai     $
+\mrph al.sg.m. $ n.   2.sg.prs. n.sg.    l.sg.      -         g.sg.m./a.sg.m. -           2.sg.prs.  $
+\lm jis      $ tu   būti     mistras  ext:Israel o         tas             ne          žinoti    $
+\PoS prn.     $ prn.           sm.      sm.npr.    cnj.      prn.            pfx.        vb.        $
+\gD er       $ du             Meister  Israel     und,_aber diese(r/s)      Neg.        wissen     $
+
+\ref BP_II_174.06
+\tx Iſchtieſos / Iſchtieſos / ſakau    taw  /
+\std iš_tiesos   $ iš_tiesos   $ sakau     tau  $
+\mrph -            $ -            $ 1.sg.prs. d.   $
+\lm iš_tiesos   $ iš_tiesos   $ sakyti    tu   $
+\PoS adv.sec.     $ adv.sec.     $ vb.       prn. $
+\gD fürwahr     $ fürwahr     $ sagen     du   $
+
+\ref BP_II_174.07
+\tx mes  kalbam    ka   ßinom    / ir   ludjem    ka   re=|geiom /
+\std mes  kalbame   ką  žinome   $ ir   liudijame ką  regėjome $
+\mrph n.   1.pl.prs. a.   1.pl.prs. $ -    1.pl.prs. a.   1.pl.prt. $
+\lm mes  kalbėti  kas  žinoti   $ ir   liudyti   kas  regėti   $
+\PoS prn. vb.       prn. vb.       $ cnj. vb.       prn. vb.       $
+\gD wir  sprechen  was  wissen    $ und  bezeugen  was  sehen     $
+
+\ref BP_II_174.08
+\tx ir   ius  liudimo  muſu  neprijmat            .
+\std ir   jūs liudymo  mūsų ne         priimate  $
+\mrph -    n.   g.sg.    g.     -          2.pl.prs. $
+\lm ir   jūs liudymas mes    ne         priimti   $
+\PoS cnj. prn. sm.      prn.   pfx.       vb.       $
+\gD und  ihr  Zeugnis  wir    Neg.       annehmen  $
+
+\ref BP_II_174.09
+\tx Iei         netikit            / kad  eſch iumus ßemiſchkus
+\std jei         ne       tikite    $ kad  aš   jums  žemiškus
+\mrph -           -        2.pl.prs. $ -    n.    d.    a.pl.m.
+\lm jei         ne       tikėti   $ kad  aš   jūs  žemiškas
+\PoS cnj.        pfx.     vb.       $ cnj. prn.  prn.  adj.
+\gD wenn,_falls Neg.     glauben   $ als  ich   ihr   irdisch
+
+\ref BP_II_174.10
+\tx daiktus     ſakau    kaipo tiketumbit   / kada      eſch
+\std daiktus     sakau     kaipo tikėtumėte $ kada      aš
+\mrph a.pl.       1.sg.prs. -     2.pl.cnd.    $ -         n.
+\lm daiktas     sakyti    kaipo tikėti      $ kada      aš
+\PoS sm.         vb.       adv.  vb.          $ cnj.      prn.
+\gD Sache,_Ding sagen     wie   glauben      $ wenn,_als ich
+
+\ref BP_II_174.11
+\tx iumus dangiſchkus daiktus     ſakicʒiau ?
+\std jums  dangiškus   daiktus     sakyčiau   $
+\mrph d.    a.pl.m.      a.pl.       1.sg.cnd.   $
+\lm jūs  dangiškas   daiktas     sakyti      $
+\PoS prn.  adj.         sm.         vb.         $
+\gD ihr   himmlisch    Sache,_Ding sagen       $
+
+\ref BP_II_174.12
+\tx Ir   newienas      neußeng                dangun / net
+\std ir   nė_vienas    ne        užžengia    dangun $ net
+\mrph -    n.sg.m.       -         3.prs.        il.sg. $ -
+\lm ir   nė_vienas    ne        užžengti    dangus $ net
+\PoS cnj. prn.+SNeg.    pfx.      vb.           sm.    $ cnj.
+\gD und  niemand,_kein Neg.      hinaufsteigen Himmel $ außer,_wenn_nicht
+
+\ref BP_II_174.13
+\tx tas        kurſai     nußenge     iſch Dangaus / Su=|nus
+\std tas        kursai      nužengė    iš   dangaus $ sūnus
+\mrph n.sg.m.    n.sg.m.def. 3.prt.       +g.   g.sg.   $ n.sg.
+\lm tas        kuris       nužengti    iš   dangus  $ sūnus
+\PoS prn.       prn.        vb.          prp.  sm.     $ sm.
+\gD diese(r/s) welche(r/s) hinabsteigen aus   Himmel  $ Sohn
+
+\ref BP_II_174.14
+\tx ßmogaus        / kurſai     ira    dangui  . Ir   kaip
+\std žmogaus        $ kursai      yra    danguje $ ir   kaip
+\mrph g.sg.           $ n.sg.m.def. 3.prs. l.sg.   $ -    -
+\lm žmogus         $ kuris       būti  dangus  $ ir   kaip
+\PoS sm._pl._sm./sf. $ prn.        vb.    sm.     $ cnj. adv.
+\gD Mensch          $ welche(r/s) sein   Himmel  $ und  wie
+
+\ref BP_II_174.15
+\tx Moſeſchus pakele   ßalti   puſcʒaie / taip
+\std Mozė       pakėlė žaltį  pūsčioje $ taip
+\mrph n.sg.       3.prt.   a.sg.    l.sg.      $ -
+\lm Mozė       pakelti  žaltys  pūsčia   $ taip
+\PoS sm.npr.     vb.      sm.      sf.        $ adv.
+\gD Mose        heben    Schlange Wüste     $ so
+
+\ref BP_II_174.16
+\tx tur     buti   pakeltas                 Sunus  ßmogaus        .
+\std turi    būti  pakeltas                 sūnus žmogaus        $
+\mrph 3.prs.  inf.   prc.prt.pss._n.sg.m.+PSS n.sg.  g.sg.           $
+\lm turėti būti  pakelti                  sūnus žmogus         $
+\PoS vb.     vb.aux vb.                      sm.    sm._pl._sm./sf. $
+\gD müssen sein   heben                    Sohn   Mensch          $
+
+\ref BP_II_174.17
+\tx Idant alwienas kurſai     ing         ghi     tik     ne=|praßutu               /
+\std idant alvienas kursai      ing         jį     tiki    ne            pražūtų   $
+\mrph -     n.sg.m.  n.sg.m.def. +a.         a.sg.m. 3.prs.  -             3.cnd.       $
+\lm idant alvienas kuris       ing         jis     tikėti ne            pražūti    $
+\PoS cnj.  prn.     prn.        prp.        prn.    vb.     pfx.          vb.          $
+\gD damit jeder    welche(r/s) in_-_hinein er      glauben Neg.          umkommen     $
+
+\ref BP_II_174.18
+\tx bet           apturetu   amßina  ßiwata  .
+\std bet           apturėtų amžiną žyvatą $
+\mrph -             3.cnd.     a.sg.m.  a.sg.    $
+\lm bet           apturėti  amžinas žyvatas $
+\PoS cnj.          vb.        adj.     sm.      $
+\gD aber,_sondern besitzen   ewig     Leben    $
+
+\ref BP_II_175.01
+\tx Iſchguldimas ſchos     Euangelios  .
+\std išguldymas   šios      evangelijos $
+\mrph n.sg.         g.sg.f.    g.sg.       $
+\lm išguldymas   šis       evangelija  $
+\PoS sm.           prn.       sf.         $
+\gD Auslegung     diese(r/s) Evangelium  $
+
+\ref BP_II_175.02
+\tx SChi diena / mieli brolei ir ſeſeres / iſch ſe=|no
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.03
+\tx wadinama ira diena Schwentos
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.04
+\tx Traices / alba Triwenibes / tatai eſti / triu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.05
+\tx perſonu Deiwiſtes . Neſa kadangi per
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.06
+\tx metus daug ir placʒei girdeiom ape Diewa Tiewa
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.07
+\tx pirma perſona Deiwiſtes / kurſai Sunu ſawa ſwietui
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.08
+\tx dawe . Ir ape Sunu Diewo / antra perſona Deiwi=|ſtes /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.09
+\tx kurſai ſwietana ateia / ir daug gera padarens
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.10
+\tx nůg Sʒidu ant pabaigos tapa nukrißawotas . Bei
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.11
+\tx taipaieg ape Schwenta Dwaſe trecʒia perſona
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.12
+\tx Deiwiſtes / kuri per Kriſtu nůg Tiewo iſch dangaus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.13
+\tx apaſchtalams regimai ſiunſta buwa : Noreia ſchwenti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.14
+\tx muſu Tiewai iau uß kiek ſchimta metu / idant pamokſla
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.15
+\tx ape Diewa ir tris perſonas Deiwiſtes / wienu kartu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.16
+\tx praſtuiu ßmoniu delei ant ſchos pirmos nedeles po
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.17
+\tx Sekminiu / trumpai butu atkartata / Tůgi ir mes ta
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.18
+\tx pamokſla ing ſches penkias dalis perdalita ſchů kar=|tu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.19
+\tx ſakiſim .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.20
+\tx Ant Pirmo . Bau ira Diewas / kurios reik bjoti=|ſi /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.21
+\tx mileti / ir klauſiti wiſſiems daiktams .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.22
+\tx Ant Antro . Kas ira Diewas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.23
+\tx Ant Trecʒio . Kiek ira Diewu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.24
+\tx Ant Ketwirto . Kiek ira perſonu Deiwiſtes ir
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_175.25
+\tx kaip ira perſkiriamas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.01
+\tx Ant Penkto . Ka gero kaßna perſona Deiwiſtes
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.02
+\tx ßmogui dara . Tu wiſſagalinſis wienas Diewe
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.03
+\tx Treiopas perſonaſu gelbek idant mes toktai tikrai ſa=|kiti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.04
+\tx ir primokti galetumbim / Amen .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.05
+\tx Ant Pirmo .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.06
+\tx Bau ira Diewas alba Ponas daritoias ir redi=|toias
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.07
+\tx wiſſu daiktu / teip Danguie
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.08
+\tx kaip ant Sʒemes ?
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.09
+\tx DAug ßmoniu  iſch pradʒio  ſwieto per   ſugrieſchi=|ma
+\std daug žmonių iš   pradžio  svieto  per   sugriešymą
+\mrph -    g.pl.    +g.   g.sg.     g.sg.   +a.   a.sg.
+\lm daug žmogus  iš   pradžias svietas per   sugriešymas
+\PoS adv. sm.      prp.  sm.       sm.     prp.  sm.
+\gD viel Mensch   aus   Beginn    Welt    durch Versündigung
+
+\ref BP_II_176.10
+\tx Adamo   pagadinti            / ir        ſawa              tiktai primgim=|ta
+\std Adomo   pagadinti            $ ir        savo               tiktai prigimtą
+\mrph g.sg.   prc.prt.pss._n.pl.m. $ -         -                  -      prc.prt.pss._a.sg.m.
+\lm Adomas  pagadinti            $ ir        savo               tiktai prigimti
+\PoS sm.npr. vb.                  $ $ cnj.    prn.               adv.   vb.
+\gD Adam    schädigen           $ und,_auch [refl._Poss.-prn.] nur    angeboren_werden
+
+\ref BP_II_176.11
+\tx prata    ſekdami      / neßinnoia             / Diewa  / alba
+\std protą   sekdami       $ ne          žinojo    $ dievą $ alba
+\mrph a.sg.    prc.cn._pl.m. $ -           3.prt.     $ a.sg.  $ -
+\lm protas   sekti         $ ne          žinoti    $ dievas $ alba
+\PoS sm.      vb.           $ $ pfx       vb.        $ sm.    $ cnj.
+\gD Verstand folgen        $ Neg.        wissen     $ Gott   $ oder
+
+\ref BP_II_176.12
+\tx Pona  ſanti               / kurſai     Sʒeme / Dangu  / ir        wiſſus
+\std poną esantį              $ kursai      žemę $ dangų $ ir        visus
+\mrph a.sg. prc.prs.act._a.sg.m. $ n.sg.m.def. a.sg.  $ a.sg.  $ -         a.pl.m.
+\lm ponas būti                $ kuris       žemė $ dangus $ ir        visas
+\PoS sm.   vb.                  $ prn.        sf.    $ sm.    $ $ cnj.    prn.
+\gD Herr  sein                 $ welche(r/s) Erde   $ Himmel $ und,_auch jede(r/s),_alle
+\tx daiktus
+\std daiktus
+\mrph a.pl.
+\lm daiktas
+\PoS sm.
+\gD Sache,_Ding
+
+\ref BP_II_176.13
+\tx leida      / dabar iſchlaika / ir        mace  ſawa              reda        / Bet           tare
+\std leido      $ dabar išlaiko   $ ir        macę savo               rėdo       $ bet           tarė
+\mrph 3.prt.     $ -     3.prs.     $ -         a.sg. -                  3.prs.      $ -             3.prt.
+\lm leisti     $ dabar išlaikyti $ ir        macė savo               rėdyti     $ bet           taryti=tarti
+\PoS vb.        $ adv.  vb.        $ $ cnj.    sf.   prn.               vb.         $ cnj.          vb.
+\gD erschaffen $ jetzt erhalten   $ und,_auch Macht [refl._Poss.-prn.] beherrschen $ aber,_sondern sagen
+
+\ref BP_II_176.14
+\tx wiſſi         daiktai     niekam     neßinant                patis   teip radoſi / kaip
+\std visi            daiktai     niekam     ne         žinant       patys   taip radosi  $ kaip
+\mrph n.pl.m.         n.pl.       d.sg.      -          prc.indc.prs. n.pl.m. -    3.prt.  $ -
+\lm visas           daiktas     niekas     ne         žinoti       pats    taip rastis  $ kaip
+\PoS prn.            sm.         prn.+SNeg. pfx.       vb.           prn.    adv. vb.     $ $ cnj.
+\gD jede(r/s),_alle Sache,_Ding nichts     Neg.       wissen        selbst  so           $ wie
+
+\ref BP_II_176.15
+\tx antai        buwa   Philoſophai / kurie       tare         wiſſi         daiktai     iſch
+\std antai        buvo   filosofai    $ kurie       tarė        visi            daiktai     iš
+\mrph -            3.prt. n.pl.        $ n.pl.m.     3.prt.       n.pl.m.         n.pl.       +g.
+\lm antai        būti  filosofas    $ kuris       taryti=tarti visas           daiktas     iš
+\PoS adv.         vb.    sm.          $ prn.        vb.          prn.            sm.         prp.
+\gD zum_Beispiel sein   Philosoph    $ welche(r/s) sagen        jede(r/s),_alle Sache,_Ding aus
+
+\ref BP_II_176.16
+\tx dulkiu  ſaules radoſi   .
+\std dulkių saulės radosi    $
+\mrph g.pl.   g.sg.   3.prt.    $
+\lm dulkės saulė  rastis    $
+\PoS sf.     sf.     vb.       $
+\gD Staub   Sonne   entstehen $
+
+\ref BP_II_176.17
+\tx Daug wel ßmoniu pirmai buwa / ir dabar ant ſwie=|to
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.18
+\tx randaſi    / kurie       kacʒei Diewo  ßodi  girdedami     / ta=|cʒiau
+\std randasi     $ kurie       kačei  dievo  žodį girdėdami    $ tačiau
+\mrph 3.prs.      $ n.pl.m.     -       g.sg.  a.sg.  prc.cn._pl.m. $ -
+\lm rastis      $ kuris       kačei  dievas žodis girdėti      $ tačiau
+\PoS vb.         $ prn.        cnj.    sm.    sm.    vb.           $ adv.
+\gD sich_finden $ welche(r/s) obwohl  Gott   Wort   hören        $ jedoch
+
+\ref BP_II_176.19
+\tx netik          Diewa  ſanti               / Tůgi               anis
+\std ne     tiki    dievą esantį              $ tuogi               anys
+\mrph -      3.prs.  a.sg.  prc.prs.act._a.sg.m. $ -                   n.pl.m.
+\lm ne     tikėti dievas būti                $ tuogi               anas
+\PoS pfx.   vb.     sm.    vb.                  $ $ cnj.              prn.
+\gD Neg.   glauben Gott   sein                 $ eben_deshalb,_daher jene(r/s)
+\tx nei                   Diewa        mil     /
+\std nei                   dievą-dievo myli    $
+\mrph -                     a.sg./g.sg.  3.prs.  $
+\lm nei                   dievas       mylėti $
+\PoS cnj.                  sm.          vb.     $
+\gD und_nicht,_weder_noch Gott         lieben  $
+
+\ref BP_II_176.20
+\tx nei                   Diewo  bjaſſi       / net     tiktai ſawa              deka
+\std nei                   dievo  bijosi         $ net     tiktai savo               dėka
+\mrph -                     g.sg.  3.prs.         $ -       -      -                  i.sg.
+\lm nei                   dievas bijotis        $ net     tiktai savo               dėka
+\PoS cnj.                  sm.    vb.            $ $ cnj.  adv.   prn.               sf.
+\gD und_nicht,_weder_noch Gott   sich_fürchten $ sondern nur    [refl._Poss.-prn.] Belieben
+\tx giwen   / ir        wiſſu
+\std gyvena  $ ir        visų
+\mrph 3.prs.  $ -         g.pl.m.
+\lm gyventi $ ir        visas
+\PoS vb.     $ $ cnj.    prn.
+\gD leben   $ und,_auch jede(r/s),_alle
+
+\ref BP_II_176.21
+\tx biauriauſiu grieku  newengdami                / kaip  ape   tokias
+\std bjauriausių griekų ne          vengdami      $ kaip  apie  tokias
+\mrph g.pl.m.spr.  g.pl.   -           prc.cn._pl.m. $ -     +a.   a.pl.f.
+\lm biaurus      griekas ne          vengti        $ kaip  apie  toks
+\PoS adj          sm.     pfx.        vb.           $ $ cnj prp.  prn.
+\gD hässlich    Sünde  Neg.        vermeiden     $ wie   über solche(r/s)
+
+\ref BP_II_176.22
+\tx ßmones patſai Diewas ſkundʒiaſi / bilodams Pſ . 14.
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_176.23
+\tx Paikieghi          kalba    ſawa              ſchirdije / nera   newieno    Diewo  .
+\std paikieji           kalba    savo               širdyje   $ nėra  nė_vieno  dievo  $
+\mrph n.pl.m.def.        3.prs.   -                  l.sg.      $ 3.prs. g.sg.m.    g.sg.  $
+\lm paikas             kalbėti savo               širdis    $ ne     nė_vienas dievas $
+\PoS adj.               vb.      prn.               sf.        $ $ pfx             sm.    $
+\gD schlecht,_töricht sprechen [refl._Poss.-prn.] Herz       $ Neg.              Gott   $
+
+\ref BP_II_177.01
+\tx Daug ir        dabar ant  ſwieto ßmoniu  randaſi    / kurie
+\std daug ir        dabar ant  svieto  žmonių randasi     $ kurie
+\mrph -    -         -     +g.  g.sg.   g.pl.    3.prs.      $ n.pl.m.
+\lm daug ir        dabar ant  svietas žmogus  rastis      $ kuris
+\PoS adv. cnj.      adv.  prp. sm.     sm.      vb.         $ prn.
+\gD viel und,_auch noch  auf  Welt    Mensch   sich_finden $ welche(r/s)
+
+\ref BP_II_177.02
+\tx kacʒei iſch Diewo  ßodʒio gird     / Diewa  eſſanti            / tacʒiau
+\std kačei  iš   dievo  žodžio girdi    $ dievą esantį              $ tačiau
+\mrph -       +g.   g.sg.  g.sg.    3.prs.   $ a.sg.  prc.prs.act._a.sg.m. $ -
+\lm kačei  iš   dievas žodis   girdėti $ dievas būti                $ tačiau
+\PoS cnj.    prp.  sm.    sm.      vb.      $ sm.    vb.                  $ adv.
+\gD obwohl  aus   Gott   Wort     hören   $ Gott   sein                 $ jedoch
+
+\ref BP_II_177.03
+\tx anis      abeioj   / tam        ſtiprei netitik          / Tůgi
+\std anys      abejoja  $ tam        stipriai ne       tiki    $ tuogi
+\mrph n.pl.m.   3.prs.   $ d.sg.m.    adv.     -        3.prs.  $ -
+\lm anas      abejoti  $ tas        stiprus  ne       tikėti $ tuogi
+\PoS prn.      vb.      $ prn.       adj.     pfx      vb.     $ $ cnj.
+\gD jene(r/s) zweifeln $ diese(r/s) stark    Neg.     glauben $ eben_deshalb,_daher
+\tx nei                   anis      neweng         
+\std nei                   anys      ne       vengia
+\mrph -                     n.pl.m.   -        3.prs.
+\lm nei                   anas      ne       vengti
+\PoS cnj.                  prn.      pfx.     vb.
+\gD und_nicht,_weder_noch jene(r/s) Neg.     vermeiden
+
+\ref BP_II_177.04
+\tx grieku  dariti      biauru      . Bei  ſchitie   wiſſi         / neßinodami                /
+\std griekų daryti      bjaurių    $ bei  šitie     visi            $ ne           žinodami     $
+\mrph g.pl.   inf.        g.pl.m.     $ -    n.pl.m.    n.pl.m.         $ -            prc.cn._pl.m. $
+\lm griekas daryti      bjaurus     $ bei  šitas     visas           $ ne           žinoti       $
+\PoS sm.     vb.         adj.        $ cnj. prn.       prn.            $ $ pfx        vb.           $
+\gD Sünde  tun,_machen schrecklich $ und  diese(r/s) jede(r/s),_alle $ Neg.         wissen        $
+
+\ref BP_II_177.05
+\tx ne   tikedami      / alba abeiodami     Diewa  eſſanti            / griekoſu
+\std ne   tikėdami     $ alba abejodami     dievą esantį              $ griekuose
+\mrph -    prc.cn._pl.m. $ -    prc.cn._pl.m. a.sg.  prc.prs.act._a.sg.m. $ l.pl.
+\lm ne   tikėti       $ alba abejoti       dievas būti                $ griekas
+\PoS pfx. vb.           $ cnj. vb.           sm.                         $ sm.
+\gD Neg. glauben       $ oder zweifeln      Gott                        $ Sünde
+
+\ref BP_II_177.06
+\tx ſawa              briſdami     / Diewa        nei                   mil     /
+\std savo               brisdami      $ dievą-dievo nei                   myli    $
+\mrph -                  prc.cn._pl.m. $ a.sg./g.sg.  -                     3.prs.  $
+\lm savo               bristi        $ dievas       nei                   mylėti $
+\PoS prn.               vb.           $ sm.          cnj.                  vb.     $
+\gD [refl._Poss.-prn.] waden         $ Gott         und_nicht,_weder_noch lieben  $
+\tx nei                   bjoſi         / nei                   tam        tar=|nauia /
+\std nei                   bijosi         $ nei                   tam        tarnauja   $
+\mrph -                     3.prs.         $ -                     d.sg.m.    3.prs.     $
+\lm nei                   bijotis        $ nei                   tas        tarnauti   $
+\PoS cnj.                  vb.            $ $ cnj.                prn.       vb.        $
+\gD und_nicht,_weder_noch sich_fürchten $ und_nicht,_weder_noch diese(r/s) dienen     $
+
+\ref BP_II_177.07
+\tx bet wiſſoſu daiktoſu kleiodami ſawe patis am=|ßinai
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.08
+\tx ſkandin / teip ant kuno kaip ant Duſches .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.09
+\tx A mes krikſchcʒonis Pono Diewo ſchwenta
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.10
+\tx ßodi ſkaitidami ir mokindamies iſch ſchu daiktu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.11
+\tx Diewa tikrai ſanti / bei ßinam / bei iſchpaßinſtam .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.12
+\tx Ant Pirma tatai ſuprantam ir iſchmanam iſch
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.13
+\tx ſutwerimo Dangaus / ßemes / Saules / meneſio /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.14
+\tx ßwaiſdu    / Sʒmoniu / ir        daug kitu        nepaſkaitamu daik=|tu    /
+\std žvaizdžių $ žmonių $ ir        daug kitų       nepaskaitomų daiktų     $
+\mrph g.pl.        $ g.pl.    $ -         -    g.pl.m.     g.pl.m./f.    g.pl.       $
+\lm žvaizdė    $ žmogus  $ ir        daug kitas       nepaskaitomas daiktas     $
+\PoS sf.          $ sm.      $ cnj.      adv. prn.        adj.          sm.         $
+\gD Stern        $ Mensch   $ und,_auch viel andere(r/s) unzählbar    Sache,_Ding $
+
+\ref BP_II_177.15
+\tx ſchitus daiktus wiſſus didʒio kakio Pono darbus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.16
+\tx ſancʒius           . Kadangi iu      newienas      ßmogus nei                   Ange=|las /
+\std esančius            $ kadangi jų     nė_vienas    žmogus nei                   angelas   $
+\mrph prc.prs.act._a.pl.m. $ -       g.pl.m. n.sg.m.       n.sg.   -                     n.sg.     $
+\lm būti                $ kadangi jis     nė_vienas    žmogus nei                   angelas   $
+\PoS vb.                  $ cnj.    prn.    prn.+SNeg.    sm.     cnj+SNeg.             sm.       $
+\gD sein                 $ weil    er      niemand,_kein Mensch  und_nicht,_weder_noch Engel     $
+
+\ref BP_II_177.17
+\tx negal          dariti      / alba ſchitaip rediti      / ir        iſchlaikiti /
+\std ne     gali    daryti      $ alba šitaip   rėdyti     $ ir        išlaikyti   $
+\mrph -      3.prs.  inf.        $ -    -         inf.        $ -         inf.         $
+\lm ne     galėti daryti      $ alba šitaip   rėdyti     $ ir        išlaikyti   $
+\PoS pfx.   vb.     vb.         $ cnj. adv.      vb.         $ $ cnj.    vb.          $
+\gD Neg.   können tun,_machen $ oder so        beherrschen $ und,_auch erhalten     $
+
+\ref BP_II_177.18
+\tx kaip anis po muſu akiu gatawi rodaſſi / ir koßnas daik=|tas /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.19
+\tx ſawa darba prigimta nudirb / Saule ßibin diena /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.20
+\tx menu   nakti  / ßeme  důſt waiſiu / Wandu  nauda  / Ir
+\std mėnuo naktį $ žemė duoda  vaisių $ vanduo naudą $ ir
+\mrph n.sg.  a.sg.  $ n.sg.  3.prs. a.sg.   $ n.sg.  a.sg.  $ -
+\lm mėnuo naktis $ žemė duoti  vaisius $ vanduo nauda  $ ir
+\PoS sm.    sf.    $ sf.    vb.    sm.     $ sm.    sf.    $ $ cnj.
+\gD Mond   Nacht  $ Erde   geben  Frucht  $ Wasser Nutzen $ und,_auch
+
+\ref BP_II_177.21
+\tx niekas     iu         negal          ginti     alba nudrauſti         / Schitie    daiktai
+\std niekas     jų        ne     gali    ginti     alba nudrausti          $ šitie     daiktai
+\mrph n.         g.pl.m./f. -      3.prs.  inf.      -    inf.               $ n.pl.m.    n.pl.
+\lm niekas     jis        ne     galėti ginti     alba nudrausti          $ šitas     daiktas
+\PoS prn.+SNeg. prn.       pfx.   vb.     vb.       cnj. vb.                $ prn.       sm.
+\gD niemand    er         Neg.   können verwehren oder abwehren,_abhalten $ diese(r/s) Sache,_Ding
+
+\ref BP_II_177.22
+\tx wiſſi         ſakau    důſt ſtipra  liudima  . Diewa  didi    Pona
+\std visi            sakau     duoda  stiprią liudymą $ dievą didį   poną
+\mrph n.pl.m.         1.sg.prs. 3.prs. a.sg.f.  a.sg.    $ a.sg.  a.sg.m. a.sg.
+\lm visas           sakyti    duoti  stiprus  liudymas $ dievas didis   ponas
+\PoS prn.            vb.       vb.    adj.     sm.      $ sm.    adj.    sm.
+\gD jede(r/s),_alle sagen     geben  stark    Zeugnis  $ Gott   groß   Herr
+
+\ref BP_II_177.23
+\tx ſanti               .
+\std esantį              $
+\mrph prc.prs.act._a.sg.m. $
+\lm būti                $
+\PoS vb.                  $
+\gD sein                 $
+
+\ref BP_II_177.24
+\tx Ant Antra . Wiſſas Schwentas raſchtas taip
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_177.25
+\tx ſeno kaip nauio Teſtamento / teipaieg liudij ir moka
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.01
+\tx Pona Diewa iſchtieſos ſanti ir giwenanti ikki amßiu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.02
+\tx amßo           . Eſch eſmi     Diewas tawa / Tu   ſwetimu   Diewu
+\std amžio          $ aš   esu       dievas tavo $ tu   svetimų   dievų
+\mrph g.sg.           $ n.    1.sg.prs. n.sg.  -    $ n.   g.pl.m./f. g.pl.
+\lm amžias         $ aš   būti     dievas tavo $ tu   svetimas   dievas
+\PoS sm.             $ prn.  vb.       sm.    prn. $ prn. adj.       sm.
+\gD Zeit,_Zeitalter $ ich   sein      Gott   dein $ du   fremd      Gott
+
+\ref BP_II_178.03
+\tx neturek            . Iſch pradʒio  ſutwere   Diewas Dangu  ir
+\std ne       turėk    $ iš   pradžio  sutvėrė  dievas dangų ir
+\mrph -        2.sg.imp. $ +g.   g.sg.     3.prt.     n.sg.  a.sg.  -
+\lm ne       turėti   $ iš   pradžias sutverti   dievas dangus ir
+\PoS pfx.     vb.       $ prp.  sm.       vb.        sm.    sm.
+\gD Neg.     haben     $ aus   Beginn    erschaffen Gott   Himmel
+
+\ref BP_II_178.04
+\tx ßeme . Bei tokiu liudimu beſkaitliaus raſſi ſchwe=|tame
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.05
+\tx raſchte .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.06
+\tx Ant Trecʒio . Diewa ſanti / roda ſwietui / didi
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.07
+\tx Diewo  diwai  ir        Stebuklai . Diewas didʒiu diwu
+\std dievo  dyvai  ir        stebuklai $ dievas didžiu dyvu
+\mrph g.sg.  n.pl.  -         n.pl.     $ n.sg.  i.sg.m. i.sg.
+\lm dievas dyvas  ir        stebuklas $ dievas didis   dyvas
+\PoS sm.    sm.    cnj.      sm.       $ sm.    adj.    sm.
+\gD Gott   Wunder und,_auch Wunder    $ Gott   groß   Wunder
+
+\ref BP_II_178.08
+\tx Sʒidus iſchwed      iſch newalios Egypto   / per    mares
+\std žydus  išveda       iš   nevalios Egipto   $ per    marias
+\mrph a.pl.   3.prs.        +g.   g.sg.    g.sg.    $ +a.    a.pl.
+\lm žydas  išvesti      iš   nevalia  Egiptas  $ per    marios
+\PoS sm.     vb.           prp.  sf.      sm.npr.  $ $ prp. sf.pl.
+\gD Jude    herausführen aus            Ägypten $ durch  Meer
+
+\ref BP_II_178.09
+\tx raudonas . Saule apſiſtoia / be karauient Ioſua .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.10
+\tx Ponas Kriſtus prikel numiruſi Laʒari ir kitus iſch=|numiruſiu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.11
+\tx Ponas Kriſtus girioie paſotin penkis
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.12
+\tx tukſtantis wiru / ſeptineis kepalais .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.13
+\tx Ant Ketwirto . Diewa ſanti liudij / ſunkus ka=|roghimai
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.14
+\tx piktoio ſwieto . Iſch patwano tur nuſken=|ſti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.15
+\tx wiſſas ſwietas / be aſchtůniu Duſchu . Septini
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.16
+\tx mieſtai iſch dangaus uſſidege ir tapa iſchpuſtiti . Mo=|teriſchke
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.17
+\tx Lotho / pawirta ing ſtulpa druſkos .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.18
+\tx Iſch ſchu      daiktu      galim     / numaniti  / iog  iſch tieſos
+\std iš   šių      daiktų     galime    $ numanyti  $ jog  iš_tiesos
+\mrph +g.   Gen.Pl.m.  g.pl.       1.pl.prs. $ inf.      $ -    -
+\lm iš   šis       daiktas     galėti   $ numanyti  $ jog  iš_tiesos
+\PoS prp.  prn.       sm.         vb.       $ vb.       $ cnj. adv.sec.
+\gD aus   diese(r/s) Sache,_Ding können   $ verstehen $ dass fürwahr
+
+\ref BP_II_178.19
+\tx ira    tikras      ir        amßinas  Ponas dangaus / ßemes  ir
+\std yra    tikras      ir        amžinas  ponas dangaus $ žemės ir
+\mrph 3.prs. Nom.Sg.m.   -         Nom.Sg.m. n.sg. g.sg.   $ Gen.Sg. -
+\lm būti  tikras      ir        amžinas  ponas dangus  $ žemė  ir
+\PoS Vb.    adj.        Konj.     adj.      sm.   sm.     $ sf.     Konj.
+\gD sein   wahr,_recht und,_auch ewig      Herr  Himmel  $ Erde    und,_auch
+
+\ref BP_II_178.20
+\tx wiſſu daiktu . Todelei tho bjokimes / ta milekim / tam
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.21
+\tx tikekem / tam ſlußikem / neſa ghiſſai wiſſus darbus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_178.22
+\tx ßmogaus reg / ir gird ka anis kalba .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.01
+\tx Ant Antro .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.02
+\tx Kas ira Diewas ?
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.03
+\tx ISchmoke ir ßinnodami Diewa tikrai ſanti /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.04
+\tx nu antra mokinkimes pilnai / kas alba kokſai
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.05
+\tx daikts ira Diewas / neſa Ponas Kriſtus teip
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.06
+\tx ſaka / Schwentamip / Ianip . 17. paguldim . Schitai
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.07
+\tx ira amßinas ßiwatas / kaip anis tawe / iog tu tikras
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.08
+\tx Diewas eſſi / ir kuri ſiuntei Ieſu Kriſtu paßinſta . Bet
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.09
+\tx noredami      ßinoti kas  Diewas ira    / neturim            ta              tirtiſi
+\std norėdami     žinoti kas  dievas yra    $ ne       turime    to-tą          tirtis
+\mrph prc.cn._pl.m. inf.    n.   n.sg.  3.prs. $ -        1.pl.prs. g.sg.m./a.sg.m. inf.
+\lm norėti       žinoti kas  dievas būti  $ ne       turėti   tas             tirtis
+\PoS vb.           vb.     prn. sm.           $          vb.       prn.            vb.
+\gD wollen        wissen  wer  Gott          $                    diese(r/s)      ausforschen
+
+\ref BP_II_179.10
+\tx iſch proto    ſawa              / neſa 1. Cor     . 2. Sʒmogaus iſch
+\std iš   proto    savo               $ nes   1. lt:Cor.      žmogaus  iš
+\mrph +g.   g.sg.    -                  $ -     1               g.sg.     +g.
+\lm iš   protas   savo               $ nes   1               žmogus   iš
+\PoS prp.  sm.      prn.               $ cnj.  1               sm.       prp.
+\gD aus   Verstand [refl._Poss.-prn.] $ denn  1               Mensch    aus
+\tx prigi=|mimo
+\std prigimimo
+\mrph g.sg.
+\lm prigimimas
+\PoS sm.
+\gD Natur
+
+\ref BP_II_179.11
+\tx ſawa              nieka        neßinna           / ape   Dwaſe         Diewo  . Bei
+\std savo               nieko-nieką ne        žino    $ apie  dvasę-dvasią dievo  $ bei
+\mrph -                  g.sg./a.sg.  -         3.prs.   $ +a.   a.sg.          g.sg.  $ -
+\lm savo               niekas       ne        žinoti  $ apie  dvasė-dvasia  dievas $ bei
+\PoS prn.               prn.+SNeg.   pfx.      vb.      $ prp.  sf.            sm.    $ cnj.
+\gD [refl._Poss.-prn.] nichts       Neg.      wissen   $ über Geist          Gott   $ und
+
+\ref BP_II_179.12
+\tx Kriſtus pats    bila   / Diewa        newiens       niekadai  / ne
+\std Kristus  pats    bylo   $ dievą-dievo nė_vienas    niekadai  $ ne
+\mrph n.sg.    n.sg.m. 3.prs. $ a.sg./g.sg.  n.sg.m.       -         $ -
+\lm Kristus  pats    byloti $ dievas       nė_vienas    niekadai  $ ne
+\PoS sm.npr.  prn.    vb.    $ sm.          prn.+SNeg.    adv.+SNeg $ $ pfx.
+\gD Christus selbst  sagen  $ Gott         niemand,_kein nie       $ Neg.
+\tx re=|geia /
+\std regėjo  $
+\mrph 3.prt.   $
+\lm regėti  $
+\PoS vb.      $
+\gD sehen    $
+
+\ref BP_II_179.13
+\tx Sunus kurſai ira priglopſtije io / tas apreiſchke
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.14
+\tx mumus . Niekas     nepaßinſt              Sunu   / net     tiktai Tiewas /
+\std mums  $ niekas     ne           pažįsta   sūnų $ net     tiktai tėvas $
+\mrph d.    $ n.         -            3.prs.      a.sg.  $ -       -      n.sg.  $
+\lm mes   $ niekas     ne           pažinti    sūnus $ net     tiktai tėvas $
+\PoS prn.  $ prn.+SNeg. pfx.         vb.         sm.    $ $ adv.  adv.   sm.    $
+\gD wir   $ niemand    Neg.         (er)kennen  Sohn   $ sondern nur    Vater  $
+
+\ref BP_II_179.15
+\tx bei  niekas     nepaßinſt              Tiewa  / net     tiekiai Sunus  / bei
+\std bei  niekas     ne           pažįsta   tėvą $ net     tiktai  sūnus $ bei
+\mrph -    n.         -            3.prs.      a.sg.  $ -       -       n.sg.  $ -
+\lm bei  niekas     ne           pažinti    tėvas $ net     tiktai  sūnus $ bei
+\PoS cnj. prn.+SNeg. pfx.         vb.         sm.    $ $ cnj.  adv.    sm.    $ cnj.
+\gD und  niemand    Neg.         (er)kennen  Vater  $ sondern nur     Sohn   $ und
+
+\ref BP_II_179.16
+\tx kuriam      tatai     Sunus  nor     apreikſchti . Tiktai iſch
+\std kuriam      tatai     sūnus nori    apreikšti   $ tiktai iš
+\mrph d.sg.m.     -         n.sg.  3.prs.  inf.         $ -      +g.
+\lm kuris       tatai     sūnus norėti apreikšti   $ tiktai iš
+\PoS prn.        prn.      sm.    vb.     vb.          $ adv.   prp.
+\gD welche(r/s) dies,_das Sohn   wollen  offenbaren   $ nur    aus
+
+\ref BP_II_179.17
+\tx wieno Schwento raſchto ßmogus gal primokti kas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.18
+\tx Diewas ira .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.19
+\tx O         iſch Diewo  ßodʒio numanam   Diewa  ſanti
+\std o         iš   dievo  žodžio numanome  dievą esantį
+\mrph -         +g.   g.sg.  g.sg.    1.pl.prs. a.sg.  prc.prs.act._a.sg.m.
+\lm o         iš   dievas žodis   numanyti  dievas būti
+\PoS cnj.      prp.  sm.    sm.      vb.       sm.    v.
+\gD und,_aber aus   Gott   Wort     verstehen Gott   sein
+
+\ref BP_II_179.20
+\tx ne    kuniſchka  koki        daikta      / bet           duchauniſchka / amßina  /
+\std ne    kūnišką  kokį       daiktą     $ bet           duchaunišką  $ amžiną $
+\mrph -     a.sg.       a.sg.m.     a.sg.       $ -             a.sg.          $ a.sg.m.  $
+\lm ne    kūniškas  koks        daiktas     $ bet           duchauniškas  $ amžinas $
+\PoS part. adj.        prn.        sm.         $ cnj.          adj.           $ adj.     $
+\gD Neg.  körperlich welche(r/s) Sache,_Ding $ aber,_sondern geistlich      $ ewig     $
+
+\ref BP_II_179.21
+\tx wiſſagalinti / Neiſchmierůtos Iſchminties / Geribes  /
+\std visagalintį   $ neišmieruotos   išminties   $ gerybės $
+\mrph a.sg.m.        $ g.sg.f.          g.sg.        $ g.sg.    $
+\lm visagalįs     $ neišmieruotas   išmintis    $ gerybė  $
+\PoS adj.           $ adj.             sf.          $ sf.      $
+\gD allmächtig    $ unermesslich     Weisheit     $ Güte    $
+
+\ref BP_II_179.22
+\tx Teiſibes / Wierna / Cʒiſta / Wieſchliba / Suſimil=|ſtanti /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.23
+\tx kuri Deiwiſchka butibe ſchitepo apſireiſchke /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.24
+\tx Iog ghis ira amßinas Tiewas / kurſai ſawa Sunu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_179.25
+\tx nůg amßo pagimde . Ir iog ira Sunus nůg amßiu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.01
+\tx amßo / nůg Tiewo gimens Sʒodis ir ligweidis / wie=|nos
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.02
+\tx butibes ſu Tiewu . Ir iog ira Schwentoghi
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.03
+\tx Dwaſe / kuri nůg Tiewo ir Sunaus nůg amßio
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.04
+\tx iſcheit / kurſai Diewas ſutwere / ir iſchlaika Dangu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.05
+\tx bei ßeme / ir wis kas ioſu ira .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.06
+\tx Ant Trecʒio .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.07
+\tx Kiek ira Diewu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.08
+\tx PAgonis ſawa durna prigimima ſekdami / daug
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.09
+\tx Diewu tare eſſancʒu / Tůgi ir daug Diewu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.10
+\tx patis   ſaw        pramane   ir        garbinoia / kits        tare         iog
+\std patys   sau         pramanė  ir        garbinojo $ kitas       tarė        jog
+\mrph n.pl.m. d.          3.prt.    -         3.prt.    $ n.sg.m.     3.prt.       -
+\lm pats    savęs      pramanyti ir        garbinoti $ kitas       taryti=tarti jog
+\PoS prn.    prn.        vb.       cnj.      vb.       $ prn.        vb.          cnj.
+\gD selbst  [refl.prn.] erdenken  und,_auch ehren     $ andere(r/s) sagen        dass
+
+\ref BP_II_180.11
+\tx Saule  butu   Diewas / kits        iog  Menu   / kits        kita
+\std saulė būtų dievas $ kitas       jog  mėnuo $ kitas       kitą
+\mrph n.sg.  3.cnd. n.sg.  $ n.sg.m.     -    n.sg.  $ n.sg.m.     a.sg.m.
+\lm saulė būti  dievas $ kitas       jog  mėnuo $ kitas       kitas
+\PoS sf.    vb.    sm.    $ prn.        cnj. sm.    $ prn.        prn.
+\gD Sonne  sein   Gott   $ andere(r/s) dass Mond   $ andere(r/s) andere(r/s)
+\tx daik=|ta
+\std daiktą
+\mrph a.sg.
+\lm daiktas
+\PoS sm.
+\gD Sache,_Ding
+
+\ref BP_II_180.12
+\tx Diewu  eſſant      tikeia  / kaip ir        durnai   Lietuwa pirm
+\std dievu  esant         tikėjo $ kaip ir        durnai   Lietuva pirm
+\mrph i.sg.  prc.indc.prs. 3.prt.  $ -    -         adv.     n.sg.   +g.
+\lm dievas būti         tikėti $ kaip ir        durnas   Lietuva pirm
+\PoS sm.    vb.           vb.     $ cnj. cnj.      adj.     sf.npr. prp.
+\gD Gott   sein          glauben $ wie  und,_auch töricht Litauen vor
+
+\ref BP_II_180.13
+\tx ſchu      metu   / meldeſſi / Sʒemepacʒus / Kaukus                . A
+\std šių      metų  $ meldžiasi $ žemėpačius $ kaukus                $ o
+\mrph g.pl.m.    g.pl.  $ 3.prs.     $ a.pl.         $ a.pl.                 $ -
+\lm šis       metai  $ melstis    $ žemėpatis   $ kaukas                $ o
+\PoS prn.       sm.pl. $ vb.        $ sm.           $ sm.                   $ cnj.
+\gD diese(r/s) Jahr   $ beten      $ Erdgott       $ ein_zwerghafter_Geist $ und,_aber
+
+\ref BP_II_180.14
+\tx mes  krikſchcʒonis tikrai      ßinnam   / iog  tiktai wienas
+\std mes  krikščionys   tikrai      žinome   $ jog  tiktai vienas
+\mrph n.   n.pl.           adv.        1.pl.prs. $ -    -      n.sg.m.
+\lm mes  krikščionis   tikras      žinoti   $ jog  tiktai vienas
+\PoS prn. sm.             adj.        vb.       $ cnj. adv.   c.
+\gD wir  Christ          wahr,_recht wissen    $ dass nur    eins_,eine(r/s)
+
+\ref BP_II_180.15
+\tx Diewas ira    . Neſa teip ſkaitam  . Klauſik  Iſrael    /
+\std dievas yra    $ nes   taip skaitome  $ klausyk   ext:Israel $
+\mrph n.sg.  3.prs. $ -     -    1.pl.prs. $ 2.sg.imp. indc.      $
+\lm dievas būti  $ nes   taip skaityti  $ klausyti  ext:Israel $
+\PoS sm.    vb.    $ cnj.  adv. vb.       $ vb.       sm.npr.    $
+\gD Gott   sein   $ denn  so   lesen     $ zuhören  Israel     $
+
+\ref BP_II_180.16
+\tx Ponas muſu Diewas / eſti wienatighis Diewas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.17
+\tx Eſch eſmi     pirmas     / eſch paſkuias   / ir        be   manes  ner
+\std aš   esu       pirmas     $ aš   paskujas    $ ir        be   manęs nėra
+\mrph n.    1.sg.prs. n.sg.m.    $ n.    n.sg.m.     $ -         +g.  g.     3.prs.
+\lm aš   būti     pirmas     $ aš   paskujas    $ ir        be   aš    ne
+\PoS prn.  vb.       o.         $ prn.  adj.        $ $ cnj.    prp. prn.   pfx
+\gD ich   sein      erste(r/s) $ ich   letzte(r,s) $ und,_auch ohne ich    Neg.
+
+\ref BP_II_180.18
+\tx newieno       Diewo  . Kacʒei ira    kurie       Diewais ira    wa=|dinami
+\std nė_vieno     dievo  $ kačei  yra    kurie       dievais yra    vadinami
+\mrph g.sg.m.       g.sg.  $ -       3.prs. n.pl.m.     i.pl.   3.prs. prc.prs.pss._n.pl.m.+PSS
+\lm nė_vienas    dievas $ kačei  būti  kuris       dievas  būti  vadinti
+\PoS prn.+SNeg.    sm.    $ cnj.    vb.    prn.        sm.     v.au   vb.
+\gD niemand,_kein Gott   $ obwohl  sein   welche(r/s) Gott    sein
+\tx /
+\std $
+\mrph $
+\lm $
+\PoS $
+\gD $
+
+\ref BP_II_180.19
+\tx o tacʒiau wiena teturim Diewa / iſch ko wiſſi
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.20
+\tx daiktai ira . Wienas ira Diewas ir Tiewas wiſſu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.21
+\tx Wienas ira Diewas / ir wienas tarpinikas / tarp
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_180.22
+\tx Diewo ir ßmoniu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.01
+\tx Ant Ketwirto .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.02
+\tx Ape perſonas Deiwiſtes / ir iu perſkirima .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.03
+\tx KAcʒei wienas tiktai ira Diewas / tacʒiau toie
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.04
+\tx wienoie Deiwiſchkoie butibeie / ira tris perſkir=|tas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.05
+\tx perſonas / butent Tiewas / Sunus / ir
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.06
+\tx Schwenta Dwaſe .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.07
+\tx Ir kacʒei ſename Teſtamente / daug ape tatai ira
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.08
+\tx liudimu / Gen. 1. 19. Eſaie 6. tacʒiau nauieme Te=|ſtamente
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.09
+\tx ira ſchwieſeſni liudimai / O wiſſu didʒiau=|ſei
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.10
+\tx krikſchtimas paties Pono Kriſtaus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.11
+\tx Kriſtus krikſchta prijm . Tiewas iſch dangaus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.12
+\tx pilnu balſu kalb . Schwenta Dwaſſe ateit ant Kri=|ſtaus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.13
+\tx Bei Kriſtus patſai teipo ſaka / krikſchtidami
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.14
+\tx wiſſas ßmones wardan / Diewo Tiewo / Sunaus ir
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.15
+\tx Schwentos Dwaſes . Tris ira kurie liudima důſt /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.16
+\tx Tiewas / Sʒodis / ir Schwenta Dwaſſe / Bei thie tris
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.17
+\tx wienu ira .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.18
+\tx Bei ſchicʒe reikia mumus ßinoti / kaip tos tris
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.19
+\tx perſonas ira perſkiriamas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.20
+\tx Diewas Tiewas nůg amßio pagimde Sunu /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.21
+\tx ir nůg io iſcheit Schwenta Dwaſe / kurſai ſu Sunu=|mi
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.22
+\tx ir Schwenta Dwaſe / ſutwere ir iſchlaika wiſſus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.23
+\tx daiktus / ir tas ſiunte Sunu ſawa ant iſchganimo
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_181.24
+\tx Swieto .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.01
+\tx Diewas Sunus ira nůg Tiewo iſch amßio gi=|mes /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.02
+\tx ir ßmogiſte ant Cʒieſo tam paſkirto priemens /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.03
+\tx ieib ſwieta iſchganitu . Bei ghis ſu Tiewu ir Schwen=|ta
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.04
+\tx Dwaſe leida ir iſchlaika wiſſus Sutwerimus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.05
+\tx Diewas Schwenta Dwaſe        nei                   gimuſſi            nei                   da=|rita
+\std dievas šventa  dvasė-dvasia nei                   gimusi               nei                   daryta
+\mrph n.sg.  n.sg.f.  n.sg.         -                     prc.prt.act._n.sg.f. -                     prc.prt.pss._n.sg.f.+PSS
+\lm dievas šventas dvasė-dvasia nei                   gimti                nei                   daryti
+\PoS sm.    adj.     sf.           cnj.                  vb.                  cnj.                  vb.
+\gD Gott   heilig   Geist         und_nicht,_weder_noch geboren_werden       und_nicht,_weder_noch tun,_machen
+
+\ref BP_II_182.06
+\tx ira    / nůg Tiewo  alba Sunus  / Bet           per   Sunu   nůg
+\std yra    $ nuog tėvo  alba sūnus $ bet           per   sūnų nuog
+\mrph 3.prs. $ +g.  g.sg.  -    n.sg.  $ -             +a.   a.sg.  +g.
+\lm būti  $ nuog tėvas alba sūnus $ bet           per   sūnus nuog
+\PoS v.aux  $ prp. sm.    cnj. sm.    $ cnj.          prp.  sm.    prp.
+\gD sein   $ von  Vater  oder Sohn   $ aber,_sondern durch Sohn   von
+
+\ref BP_II_182.07
+\tx Tiewo   ſiuncʒama eſti / ir ateit ßmoniump / Idant
+\std tėvo
+\mrph g.sg.
+\lm tėvas
+\PoS sm.
+\gD Vater
+
+\ref BP_II_182.08
+\tx anas linkſmintu / mokitu ir tieſon weſtu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.09
+\tx Ant Penkto .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.10
+\tx Ape Pono Diewo didʒiauſius darbus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.11
+\tx ir geradeghiſtes didʒiauſes .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.12
+\tx KAcʒei newiens       ßmogus negal          paſkaititi wiſ=|ſus
+\std kačei  nė_vienas    žmogus ne     gali    paskaityti  visus
+\mrph -       n.sg.m.       n.sg.   -      3.prs.  inf.        a.pl.m.
+\lm kačei  nė_vienas    žmogus ne     galėti paskaityti  visas
+\PoS cnj.    prn.+SNeg.    sm.     pfx.   vb.     vb.         prn.
+\gD obwohl  niemand,_kein Mensch  Neg.   können rechnen     jede(r/s),_alle
+
+\ref BP_II_182.13
+\tx Diewo  brangus darbus / ir        ka     ghis    ßmo=|niems
+\std dievo  brangus darbus $ ir        ko-ką jis     žmonėms
+\mrph g.sg.  a.pl.m. a.pl.  $ -         g./a.  n.sg.m. d.pl.
+\lm dievas brangus darbas $ ir        kas    jis     žmogus
+\PoS sm.    adj.    sm.    $ cnj.      prn.   prn.    sm.
+\gD Gott   teuer   Werk   $ und,_auch was    er      Mensch
+
+\ref BP_II_182.14
+\tx ger dara / tacʒiau turrim iſchpaßinti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.15
+\tx ſchůs darbus Diewo labai didʒius ſancʒius .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.16
+\tx Ant  Pirmo      . Sutwerims   wiſſu         daiktu      iſch nieko  .
+\std ant  pirmo      $ sutvėrimas visų           daiktų     iš   nieko  $
+\mrph +g.  g.sg.m.    $ n.sg.       g.pl.m.         g.pl.       +g.   g.sg.  $
+\lm ant  pirmas     $ sutvėrimas visas           daiktas     iš   niekas $
+\PoS prp. o.         $ sm.         prn.            sm.         prp.  prn.   $
+\gD auf  erste(r/s) $ Schöpfung  jede(r/s),_alle Sache,_Ding aus   nichts $
+
+\ref BP_II_182.17
+\tx Ant  Antro       . Iſchgelbeghimas ir        iſchganimas
+\std ant  antro       $ išgelbėjimas   ir        išganymas
+\mrph +g.  g.sg.m.     $ n.sg.            -         n.sg.
+\lm ant  antras      $ išgelbėjimas   ir        išganymas
+\PoS prp. o.          $ sm.              cnj.      sm.
+\gD auf  zweite(r/s) $ Erlösung        und,_auch Erlösung
+
+\ref BP_II_182.18
+\tx ßmogaus grieſchnoio / kuram       buwa   prapulti amßi=|nai /
+\std žmogaus griešnojo   $ kuriam      buvo   prapulti amžinai   $
+\mrph g.sg.    g.sg.m.def.  $ d.sg.m.     3.prt. inf.     adv.       $
+\lm žmogus  griešnas    $ kuris       būti  prapulti amžinas   $
+\PoS sm.      adj.         $ prn.        vb.    vb.      adj.       $
+\gD Mensch   sündig      $ welche(r/s) sein   vergehen ewig       $
+
+\ref BP_II_182.19
+\tx iei         Diewas patſai     negelbeiens                       .
+\std jei         dievas patsai      ne           gelbėjęs           $
+\mrph -           n.sg.  n.sg.m.def. -            prc.prt.act._n.sg.m. $
+\lm jei         dievas pats        ne           gelbėti             $
+\PoS cnj.        sm.    prn.        pfx.         vb.                  $
+\gD wenn,_falls Gott   selbst      Neg.         helfen               $
+
+\ref BP_II_182.20
+\tx Ant Trecʒio . Atgimimas ßmogaus per Sʒodi
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.21
+\tx ir Sakramentus / kaip ape ta atgimima / Ponas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.22
+\tx Kriſtus ſchos dienos Euangelioie daug kalb / bilo=|dams .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_182.23
+\tx Iei         kas  neatſigims                       iſch wandinio ir        Dwaſes
+\std jei         kas  ne           atsigims             iš   vandens  ir        dvasės-dvasios
+\mrph -           n.   -            3.ft.                +g.   g.sg.    -         g.sg.
+\lm jei         kas  ne           atsigimti            iš   vanduo   ir        dvasė-dvasia
+\PoS cnj.        prn. pfx.         vb.                  prp.  sm.      cnj.      sf.
+\gD wenn,_falls wer  Neg.         wiedergeboren_werden aus   Wasser   und,_auch Geist
+
+\ref BP_II_182.24
+\tx Schwentos / dangaus karaliſte  ne   iſchwjs  .
+\std šventos  $ dangaus karalystę  ne   išvys    $
+\mrph g.sg.f.   $ g.sg.   a.sg.       -    3.ft.     $
+\lm šventas  $ dangus  karalystė  ne   išvysti  $
+\PoS adj.      $ sm.     sf.         pfx. vb.       $
+\gD heilig    $ Himmel  Königreich Neg. erblicken $
+
+\ref BP_II_183.01
+\tx Ant Ketwirto . Prikelimas iſch numiruſiu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.02
+\tx wiſſo         Swieto  ant  amßino  giwenimo  . Schu       daiktu
+\std viso            svieto  ant  amžino  gyvenimo  $ šių      daiktų
+\mrph g.sg.m.         g.sg.   +g.  g.sg.m.  g.sg.     $ g.pl.m.    g.pl.
+\lm visas           svietas ant  amžinas gyvenimas $ šis       daiktas
+\PoS prn.            sm.     prp. adj.     sm.       $ prn.       sm.
+\gD jede(r/s),_alle Welt    auf  ewig     Leben     $ diese(r/s) Sache,_Ding
+
+\ref BP_II_183.03
+\tx newiens       ßmogus nei                   Angelas negal          / tiktai wiens
+\std nė_vienas    žmogus nei                   angelas ne     gali    $ tiktai vienas
+\mrph n.sg.m.       n.sg.   -                     n.sg.   -      3.prs.  $ -      n.sg.m.
+\lm nė_vienas    žmogus nei                   angelas ne     galėti $ tiktai vienas
+\PoS prn.+SNeg.    sm.     cnj+SNeg.             sm.     pfx.   vb.     $ adv.   adj.
+\gD niemand,_kein Mensch  und_nicht,_weder_noch Engel   Neg.   können $ nur    allein
+
+\ref BP_II_183.04
+\tx Diews  / todelei  anis      iſch tieſos labai brangus  darbai
+\std dievas $ todėlei anys      iš_tiesos    labai brangūs darbai
+\mrph n.sg.  $ -        n.pl.m.   -             -     n.pl.m.  n.pl.
+\lm dievas $ todėlei anas      iš_tiesos    labai brangus  darbas
+\PoS sm.    $ adv.     prn.      adv.sec.      adv.  adj.     sm.
+\gD Gott   $ deshalb  jene(r/s) fürwahr      sehr  teuer    Werk
+
+\ref BP_II_183.05
+\tx Diewo  ira    .
+\std dievo  yra    $
+\mrph g.sg.  3.prs. $
+\lm dievas būti  $
+\PoS sm.    vb.    $
+\gD Gott   sein   $
+
+\ref BP_II_183.06
+\tx Kaip nu wiſſu didʒiu darbu Schwentos Traices
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.07
+\tx primineiom ir mokinameſi / Teipo toliaus dabakimes /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.08
+\tx ka kiek wiena perſona ipacʒei ßmogui gera dara .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.09
+\tx Diewas Tiewas ſwietui prapůluſiam dawe
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.10
+\tx ſawa              Sunu   wienturti    ant  iſchgelbeghimo / Vß  ka
+\std savo               sūnų vienturtį   ant  išgelbėjimo   $ už  ką
+\mrph -                  a.sg.  a.sg.m.      +g.  g.sg.m.         $ +a.  a.
+\lm savo               sūnus vienturtis   ant  išgelbėjimas  $ už  kas
+\PoS prn.               sm.    adj.         prp. sm.             $ prp. prn.
+\gD [refl._Poss.-prn.] Sohn   einzige(r/s) auf  Erlösung       $ für was
+
+\ref BP_II_183.11
+\tx Diewas nieko      gereſnio   negal          Swietui dariti      .
+\std dievas nieko      geresnio    ne     gali    svietui daryti      $
+\mrph n.sg.  g.sg.      g.sg.m.cmp. -      3.prs.  d.sg.   inf.        $
+\lm dievas niekas     geras       ne     galėti svietas daryti      $
+\PoS sm.    prn.+SNeg. adj.        pfx.   vb.     sm.     vb.         $
+\gD Gott   nichts     gut         Neg.   können Welt    tun,_machen $
+
+\ref BP_II_183.12
+\tx Diewas Sunus . Leidoſi iſch dangaus / ieib
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.13
+\tx mus ßmones kenteghimu ir Smertimi ſawa amßi=|nai
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.14
+\tx iſchganitu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.15
+\tx Diewas Schwenta Dwaſe / ſurenk krikſchcʒo=|niſte
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.16
+\tx per Sʒodi / ir Schwentůſius Sakramentus /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.17
+\tx paſchwencʒ ir atgimda ßmones / ieib anis po ſchu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.18
+\tx wargu dangaus galetu iſchkakti karaliſtona .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_183.19
+\tx Schitai ira    muſu  wiera  ir        pamokſla ape   Diewa
+\std šitai  yra    mūsų viera  ir        pamoksla  apie  dievą
+\mrph -       3.prs. g.     n.sg.  -         n.sg.     +a.   a.sg.
+\lm šitai  būti  mes    viera  ir        pamoksla  apie  dievas
+\PoS part.   vb.    prn.   sf.    cnj.      sf.       prp.  sm.
+\gD siehe   sein   wir    Glaube und,_auch Lehre     über Gott
+
+\ref BP_II_183.20
+\tx ir        Schwenta Traice         / trumpai kalbant       / Bei  prieg tos
+\std ir        šventą traicę        $ trumpai kalbant       $ bei  prieg tos
+\mrph -         a.sg.f.  a.sg.          $ adv.    prc.indc.prs. $ -    +g.   g.sg.f.
+\lm ir        šventas traicė        $ trumpas kalbėti      $ bei  prieg tas
+\PoS cnj.      adj.     sf.            $ adj.    vb.           $ cnj. prp.  prn.
+\gD und,_auch heilig   Dreifaltigkeit $ kurz    sprechen      $ und  bei   diese(r/s)
+
+\ref BP_II_183.21
+\tx Wieros koßnas   (iei        nenorim            amßinai prapulti) tur=|rim
+\std vieros kožnas   jei         ne       norime    amžinai prapulti  turime
+\mrph g.sg.  n.sg.m.   -           -        1.pl.prs. adv.     inf.      1.pl.prs.
+\lm viera  kožnas   jei         ne       norėti   amžinas prapulti  turėti
+\PoS sf.    prn.      cnj.        pfx.     vb.       adj.     vb.       vb.
+\gD Glaube jede(r/s) wenn,_falls Neg.     wollen    ewig     vergehen  müssen
+
+\ref BP_II_183.22
+\tx paſſilikti wiſſadai .
+\std pasilikti    visadai    $
+\mrph inf.         -          $
+\lm pasilikti    visadai    $
+\PoS vb.          adv.       $
+\gD bleiben      immer      $
+
+\ref BP_II_183.23
+\tx Bei  ſchiteipo netiktai  mes  ſchů     amßiu          mokinam
+\std bei  šitaipo   netiktai  mes  šiuo      amžiu          mokiname
+\mrph -    -          -         n.   i.sg.m.    i.sg.           1.pl.prs.
+\lm bei  šitaipo   netiktai  mes  šis       amžias         mokinti
+\PoS cnj. adv.       adv.      prn. prn.       sm.             vb.
+\gD und  so         nicht_nur wir  diese(r/s) Zeit,_Zeitalter lehren
+
+\ref BP_II_183.24
+\tx ir        iſchpaßinſtam / Bet           ir        muſu  Tiewu  Tiewai iſch ſenu
+\std ir        išpažįstame   $ bet           ir        mūsų tėvų tėvai iš   senų
+\mrph -         1.pl.prs.        $ -             -         g.     g.pl.  n.pl.  +g.   g.pl.f.
+\lm ir        išpažinti      $ bet           ir        mes    tėvas tėvas iš   senas
+\PoS cnj.      vb.              $ cnj.          cnj.      prn.   sm.    sm.    prp.  adj.
+\gD und,_auch bekennen         $ aber,_sondern und,_auch wir    Vater  Vater  aus   alt
+
+\ref BP_II_183.25
+\tx dienu  teipo tikeie                   ir        paßinne                 ira    / kaip iſch
+\std dienų taipo tikėję                 ir        pažinę                 yra    $ kaip iš
+\mrph g.pl.  -     prc.prt.act._n.pl.m.+PSS -         prc.prt.act._n.pl.m.+PSS 3.prs. $ -    +g.
+\lm diena  taipo tikėti                  ir        pažinti                 būti  $ kaip iš
+\PoS sf.    adv.  vb.                      cnj.      vb.                      v.     $      prp.
+\gD Tag    so    glauben                  und,_auch (er)kennen               sein   $      aus
+\tx ſekancʒiu
+\std sekančių
+\mrph prc.prs.act._g.pl.m.
+\lm sekti
+\PoS vb.
+\gD folgen
+
+\ref BP_II_183.26
+\tx triu Symbolu graßei galim permaniti .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.01
+\tx Symbolum Nicenum .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.02
+\tx Tatai eſti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.03
+\tx Iſchpaßinimas Nicena .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.04
+\tx TIkiu ing wienaghi Diewa / Tiewa wiſſaga=|linti /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.05
+\tx daritoghi dangaus ir ßemes / wiſſu regi=|muiu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.06
+\tx ir        neregimuiu   daiktu      .
+\std ir        neregimųjų daiktų     $
+\mrph -         g.pl.m.def.  g.pl.       $
+\lm ir        neregimas    daiktas     $
+\PoS cnj.      adj.         sm.         $
+\gD und,_auch unsichtbar   Sache,_Ding $
+
+\ref BP_II_184.07
+\tx Ir        ing         wiena           Wieſchpati IEſu   Kriſtu  / Sunu
+\std ir        ing         vieną          viešpatį  Jėzų  Kristų  $ sūnų
+\mrph -         +a.         Akk.Sg.f.       a.sg.       a.sg.   a.sg.    $ a.sg.
+\lm ir        ing         vienas          viešpats   Jėzus  Kristus  $ sūnus
+\PoS Konj.     prp.        Card            sm.         sm.npr. sm.npr.  $ sm.
+\gD und,_auch in_-_hinein eins_,eine(r/s) Herr        Jesus   Christus $ Sohn
+
+\ref BP_II_184.08
+\tx Diewo wienatighi / ir iſch Tiewo gimuſi / pirm wiſſu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.09
+\tx amßiu / Diewa iſch Diewo / ſchwieſuma iſch ſchwieſu=|mo /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.10
+\tx Diewa  tikra       iſch Diewo  tikro       / gimdita              / nedarita           
+\std dievą tikrą      iš   dievo  tikro       $ gimdytą             $ ne         darytą
+\mrph a.sg.  a.sg.m.     +g.   g.sg.  g.sg.m.     $ prc.prt.pss._a.sg.m. $ -          prc.prt.pss._a.sg.m.
+\lm dievas tikras      iš   dievas tikras      $ gimdyti              $ ne         daryti
+\PoS sm.    adj.        prp.  sm.    adj.        $ vb.                  $ $ part     vb.
+\gD Gott   wahr,_recht aus   Gott   wahr,_recht $ gebären             $ Neg.       tun,_machen
+
+\ref BP_II_184.11
+\tx ligu    butibeie   / per   kuri        wis   darita                    ira    . Kurſai     del   muſu
+\std lygų   būtybėje $ per   kurį       vis   daryta                    yra    $ kursai      dėl  mūsų
+\mrph a.sg.m. l.sg.      $ +a.   a.sg.m.     indc. prc.prt.pss._n.sg.nt.+PSS 3.prs. $ n.sg.m.def. +g.   g.
+\lm lygus   būtybė   $ per   kuris       vis   daryti                    būti  $ kuris       dėl  mes
+\PoS adj.    sf.        $ prp.  prn.        adv.  vb.                       v.au   $ prn.        prp.  prn.
+\gD gleich  Wesen      $ durch welche(r/s) alles tun,_machen               sein   $ welche(r/s) wegen wir
+
+\ref BP_II_184.12
+\tx ßmoniu / ir delei muſu iſchganimo nußenge nůg Dan=|gaus /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.13
+\tx ir inſikunia nůg Dwaſſes ſchwentos iſch Ma=|rios
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.14
+\tx Mergos . Ir ßmogumi ſtoioſi . Nukrißawotas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.15
+\tx teipaieg del muſu / po Ponſku Pilatu / kenteia ir pa=|kaſtas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.16
+\tx eſt / Ir priſſikele trecʒia diena pagalei raſchi=|mus /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.17
+\tx Ir ußßenge Danguna / Sied po deſchines Tie=|wo .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.18
+\tx Iſch te   atpencʒ ateis  garbeie  Suditu   giwu     ir
+\std iš   tę  atpenč  ateis  garbėje sūdytų gyvų    ir
+\mrph +g.   -    -        3.ft.  l.sg.    sp.      g.pl.m.  -
+\lm iš   tę  atpenč  ateiti garbė   sūdyti  gyvas    ir
+\PoS prp.  adv. adv.     vb.    sf.      vb.      adj.     cnj.
+\gD aus   dort dagegen  kommen Ruhm     richten  lebendig und,_auch
+\tx mi=|ruſiu           /
+\std mirusių             $
+\mrph prc.prt.act._g.pl.m. $
+\lm mirti                $
+\PoS vb.                  $
+\gD sterben              $
+
+\ref BP_II_184.19
+\tx kuro        karaliſtes nebus        galo  .
+\std kurio       karalystės ne     bus   galo  $
+\mrph g.sg.m.     g.sg.       -      3.ft. g.sg. $
+\lm kuris       karalystė  ne     būti galas $
+\PoS prn.        sf.         pfx.   vb.   sm.   $
+\gD welche(r/s) Königreich Neg.   sein  Ende  $
+
+\ref BP_II_184.20
+\tx Ir ing Dwaſe Schwenta / Wieſchpati / ir atgi=|dancʒe /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.21
+\tx kuri        iſch Tiewo  ir        Sunaus  iſcheit    / kuri        ſu
+\std kuri        iš   tėvo  ir        sūnaus išeina     $ kuri        su
+\mrph n.sg.f.     +g.   g.sg.  -         g.sg.   3.prs.      $ n.sg.f.     +i.
+\lm kuris       iš   tėvas ir        sūnus  išeiti     $ kuris       su
+\PoS prn.        prp.  sm.    Konj.     sm.     vb.         $ prn.        prp.
+\gD welche(r/s) aus   Vater  und,_auch Sohn    herausgehen $ welche(r/s) mit
+
+\ref BP_II_184.22
+\tx Tiewu ir Sunumi ligei meldʒama ir garbinama ira /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.23
+\tx kuri kalbeia per prarakus . Ir wiena ſchwenta krikſch=|cʒoniſchka
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_184.24
+\tx bei Apaſchtaliſchka Baßnicʒe . Iſchpa=|ßinſtu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.01
+\tx wiena krikſchta / ing atleidima grieku / irgi lau=|kiu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.02
+\tx priſſikielima numiruſiuiu / ir ßiwata buſencʒio
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.03
+\tx amßio .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.04
+\tx Symbolum Athanaſij
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.05
+\tx Tatai eſti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.06
+\tx Iſchpaßinimas S . Athanaſiaus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.07
+\tx KVrſai     nor     iſchganitu              buti  / tas        tur     pirm wiſſu
+\std kursai      nori    išganytu                būti $ tas        turi    pirm visų
+\mrph n.sg.m.def. 3.prs.  prc.prt.pss._i.sg.m.+PSS inf.  $ n.sg.m.    3.prs.  +g.  g.pl.m.
+\lm kuris       norėti išganyti                būti $ tas        turėti pirm visas
+\PoS prn.        vb.     vb.                      v.    $ prn.       vb.          prn.
+\gD welche(r/s) wollen  erlösen                 sein  $ diese(r/s) müssen      jede(r/s),_alle
+
+\ref BP_II_185.08
+\tx daiktu tikra krikſchcʒoniſchka wiera tureti .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.09
+\tx Kurſai     ta         ciela            ir        cʒiſta nelaika          / tas        beabeioghi=|ma                 
+\std kursai      tą        cielą           ir        čystą  ne       laiko   $ tas        be               abejojimo
+\mrph n.sg.m.def. a.sg.f.    a.sg.f.          -         a.sg.f.  -        3.prs.  $ n.sg.m.    +g.              g.sg.
+\lm kuris       tas        cielas           ir        čystas  ne       laikyti $ tas        be               abejojimas
+\PoS prn.        prn.       adj.             cnj.      adj.     pfx.     vb.     $ prn.       prp.             sm.
+\gD welche(r/s) diese(r/s) ganz,_unversehrt und,_auch rein     Neg.     halten  $ diese(r/s) ohne             Zweifel
+
+\ref BP_II_185.10
+\tx amßinai prapuls  .
+\std amžinai prapuls  $
+\mrph adv.     3.ft.    $
+\lm amžinas prapulti $
+\PoS adj.     vb.      $
+\gD ewig     vergehen $
+
+\ref BP_II_185.11
+\tx A ſchitai ira tikra krikſchcʒoniſchka wiera / iog
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.12
+\tx wiena tiktai Diewa triſa perſonaſu / ir tris perſonas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.13
+\tx wienoie Deiwiſteie garbinam .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.14
+\tx Tu         perſonu neſumaiſchidami                    / nei                   Deiwiſchka
+\std tų        personų ne                 sumaišydami      $ nei                   deivišką
+\mrph g.pl.f.    g.pl.    -                  prc.cn._pl.m.     $ -                     a.sg.f.
+\lm tas        persona  ne                 sumaišyti        $ nei                   deiviškas
+\PoS prn.       sf.      pfx.               vb.               $ $ cnj.                adj.
+\gD diese(r/s) Person   Neg.               vermischen        $ und_nicht,_weder_noch göttlich
+
+\ref BP_II_185.15
+\tx butibe   iſchardidami .
+\std būtybę išardydami   $
+\mrph a.sg.    prc.cn._pl.m. $
+\lm būtybė išardyti     $
+\PoS sf.      vb.           $
+\gD Wesen    niedereißen  $
+
+\ref BP_II_185.16
+\tx Kita perſona ira Tiewas / kita Sunus / kita
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.17
+\tx Schwenta Dwaſe .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.18
+\tx Bet Tiewas ir Sunus ir Schwenta Dwaſe
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.19
+\tx eſti wienas wienatighis Diewas / ligus garbeie / li=|gus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.20
+\tx amßiname Maieſtote .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.21
+\tx Kokſai ira Tiewas / tokſai ira Sunus / toke eſti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.22
+\tx ir Schwenta Dwaſe .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_185.23
+\tx Tiewas ne   eſt   ſutwertas               / Sunus  ne   eſt   ſutwer=|tas             /
+\std tėvas ne   yra    sutvertas                $ sūnus ne   yra    sutvertas                $
+\mrph n.sg.  -    3.prs. prc.prt.pss._n.sg.m.+PSS $ n.sg.  -    3.prs. prc.prt.pss._n.sg.m.+PSS $
+\lm tėvas ne   būti  sutverti                 $ sūnus ne   būti  sutverti                 $
+\PoS sm.    pfx. v.aux  vb.                      $ sm.    pfx         vb.                      $
+\gD Vater  Neg. sein   erschaffen               $ Sohn   Neg.        erschaffen               $
+
+\ref BP_II_185.24
+\tx Schwenta Dwaſe        ne   eſti  ſutwerta                .
+\std šventa  dvasė-dvasia ne   yra    sutverta                 $
+\mrph n.sg.f.  n.sg.         -    3.prs. prc.prt.pss._n.sg.f.+PSS $
+\lm šventas dvasė-dvasia ne   būti  sutverti                 $
+\PoS adj.     sf.           pfx. v.aux  vb.                      $
+\gD heilig   Geist         Neg. sein   erschaffen               $
+
+\ref BP_II_186.01
+\tx Tiewas ne   eſt   ſutwertas               / Sunus  ne   eſt
+\std tėvas ne   yra    sutvertas                $ sūnus ne   yra
+\mrph n.sg.  -    3.prs. prc.prt.pss._n.sg.m.+PSS $ n.sg.  -    3.prs.
+\lm tėvas ne   būti  sutverti                 $ sūnus ne   būti
+\PoS sm.    pfx. v.aux  vb.                      $ sm.    pfx
+\gD Vater  Neg. sein   erschaffen               $ Sohn   Neg.
+\tx ſutwer=|tas             /
+\std sutvertas                $
+\mrph prc.prt.pss._n.sg.m.+PSS $
+\lm sutverti                 $
+\PoS vb.                      $
+\gD erschaffen               $
+
+\ref BP_II_186.02
+\tx Schwenta Dwaſe        ne   eſti  ſutwerta                .
+\std šventa  dvasė-dvasia ne   yra    sutverta                 $
+\mrph n.sg.f.  n.sg.         -    3.prs. prc.prt.pss._n.sg.f.+PSS $
+\lm šventas dvasė-dvasia ne   būti  sutverti                 $
+\PoS adj.     sf.           pfx. v.aux  vb.                      $
+\gD heilig   Geist         Neg. sein   erschaffen               $
+
+\ref BP_II_186.03
+\tx Tiewas ne iſchmerůiams ira    / Sunus  ne iſchmie=|roiams
+\std tėvas neišmieruojamas  yra    $ sūnus neišmieruojamas
+\mrph n.sg.  n.sg.m.           3.prs. $ n.sg.  n.sg.m.
+\lm tėvas neišmieruojamas  būti  $ sūnus neišmieruojamas
+\PoS sm.    adj.              vb.    $ sm.    adj.
+\gD Vater  unermesslich      sein   $ Sohn   unermesslich
+
+\ref BP_II_186.04
+\tx ira    / Schwenta Dwaſe        ne iſchmierůiama ira    .
+\std yra    $ šventa  dvasė-dvasia neišmieruojama    yra    $
+\mrph 3.prs. $ n.sg.f.  n.sg.         n.sg.f.            3.prs. $
+\lm būti  $ šventas dvasė-dvasia neišmieruojamas   būti  $
+\PoS vb.    $ adj.     sf.           adj.               vb.    $
+\gD sein   $ heilig   Geist         unermesslich       sein   $
+
+\ref BP_II_186.05
+\tx Tiewas ira amßins / Sunus ira amßins /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.06
+\tx Schwenta Dwaſe ira amßina .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.07
+\tx O         wienok  ne    tris amßini  ira    / Bet           wiens
+\std o         vienok  ne    trys amžini  yra    $ bet           vienas
+\mrph -         -       -     n.   n.pl.m.  3.prs. $ -             n.sg.m.
+\lm o         vienok  ne    trys amžinas būti  $ bet           vienas
+\PoS cnj.      adv.    part. c.   adj.     vb.    $ cnj.          adj.
+\gD und,_aber dennoch Neg.  drei ewig     sein   $ aber,_sondern eins_,eine(r/s)
+\tx amßi=|nas
+\std amžinas
+\mrph n.sg.m.
+\lm amžinas
+\PoS adj.
+\gD ewig
+
+\ref BP_II_186.08
+\tx teira         .
+\std te-    yra    $
+\mrph -      3.prs. $
+\lm te-    būti  $
+\PoS pfx.-  vb.    $
+\gD []-    sein   $
+
+\ref BP_II_186.09
+\tx Kaip ir        netris             neſutwerti                       / nei                   tris ne iſchmie=|růiami /
+\std kaip ir        nė         trys   ne           sutverti             $ nei                   trys neišmieruojami      $
+\mrph -    -         -           n.     -            prc.prt.pss._n.pl.m. $ -                     n.   n.pl.m.              $
+\lm kaip ir        nė         trys   ne           sutverti             $ nei                   trys neišmieruojamas     $
+\PoS cnj. cnj.      part.+SNeg. c.     pfx.         vb.                  $ $ cnj+SNeg.           c.   adj.                 $
+\gD wie  und,_auch Neg.        drei   Neg.         erschaffen           $ und_nicht,_weder_noch drei unermesslich         $
+
+\ref BP_II_186.10
+\tx Bet           wienas          ira    neſutwertas                           / ir        wienas          ne=|iſchmierůiamas .
+\std bet           vienas          yra    ne            sutvertas                $ ir        vienas          neišmieruojamas     $
+\mrph -             n.sg.m.         3.prs. -             prc.prt.pss._n.sg.m.+PSS $ -         n.sg.m.         n.sg.m.              $
+\lm bet           vienas          būti  ne            sutverti                 $ ir        vienas          neišmieruojamas     $
+\PoS cnj.          adj.            v.aux  pfx.          vb.                      $ $ cnj.    adj.            adj.                 $
+\gD aber,_sondern eins_,eine(r/s) sein   Neg.          erschaffen               $ und,_auch eins_,eine(r/s) unermesslich         $
+
+\ref BP_II_186.12
+\tx Schitaip wel / Tiewas ira wiſgalis / Sunus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.13
+\tx ira wiſgalins / Schwenta Dwaſe ira wiſgalinti .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.14
+\tx O         wienok  netris         ira    wiſſagali / Bet           wienas          ira
+\std o         vienok  ne      trys   yra    visagalį   $ bet           vienas          yra
+\mrph -         -       -       n.     3.prs. n.pl.m.     $ -             n.sg.m.         3.prs.
+\lm o         vienok  ne      trys   būti  visagalįs  $ bet           vienas          būti
+\PoS cnj.      adv.    part.   c.     vb.    adj.        $ cnj.          adj.            v.
+\gD und,_aber dennoch Neg.    drei   sein   allmächtig $ aber,_sondern eins_,eine(r/s) sein
+
+\ref BP_II_186.15
+\tx wiſgalins  .
+\std visagalįs  $
+\mrph n.sg.m.     $
+\lm visagalįs  $
+\PoS adj.        $
+\gD allmächtig $
+
+\ref BP_II_186.16
+\tx Schiteipo / Tiewas ira Diewas / Sunus ira
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.17
+\tx Diewas / Schwenta Dwaſe ira Diewas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.18
+\tx O         wienok  netris         ira    Diewai / Bet           wienas          ira
+\std o         vienok  ne      trys   yra    dievai $ bet           vienas          yra
+\mrph -         -       -       n.     3.prs. n.pl.  $ -             n.sg.m.         3.prs.
+\lm o         vienok  ne      trys   būti  dievas $ bet           vienas          būti
+\PoS cnj.      adv.    part.   c.     vb.    sm.    $ cnj.          adj.            v.
+\gD und,_aber dennoch Neg.    drei   sein   Gott   $ aber,_sondern eins_,eine(r/s) sein
+
+\ref BP_II_186.19
+\tx Diewas .
+\std dievas $
+\mrph n.sg.  $
+\lm dievas $
+\PoS sm.    $
+\gD Gott   $
+
+\ref BP_II_186.20
+\tx Schiteipo / Tiewas ira Ponas / Sunus ira
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.21
+\tx Ponas / Schwenta Dwaſe ira Ponas .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.22
+\tx O         wienok  ne    tris ira    Ponai . Bet           wienas          ira
+\std o         vienok  ne    trys yra    ponai $ bet           vienas          yra
+\mrph -         -       -     n.   3.prs. n.pl. $ -             n.sg.m.         3.prs.
+\lm o         vienok  ne    trys būti  ponas $ bet           vienas          būti
+\PoS cnj.      adv.    part. c.   vb.    sm.   $ cnj.          adj.            v.
+\gD und,_aber dennoch Neg.  drei sein   Herr  $ aber,_sondern eins_,eine(r/s) sein
+
+\ref BP_II_186.23
+\tx Ponas .
+\std ponas $
+\mrph n.sg. $
+\lm ponas $
+\PoS sm.   $
+\gD Herr  $
+
+\ref BP_II_186.24
+\tx Neſa kaip turim pagal Krikſchcʒoniſchka tieſa /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_186.25
+\tx koßna perſona ipatei Diewa ir Pona iſchpaßinti .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.01
+\tx Schiteipo mes  krikſchcʒoniſchkoie wieroie / ne=|galim            
+\std šitaip   mes  krikščioniškoje     vieroje $ ne          galime
+\mrph -         n.   l.sg.f.                l.sg.   $ -           1.pl.prs.
+\lm šitaip   mes  krikščioniškas      viera   $ ne          galėti
+\PoS adv.      prn. adj.                   sf.     $ pfx.        vb.
+\gD so        wir  christlich             Glaube  $ Neg.        können
+
+\ref BP_II_187.02
+\tx tris Diewus alba / tris Ponus wadinti .
+\std tris dievus alba $ tris ponus vadinti $
+\mrph a.   a.pl.  -    $ a.   a.pl. inf.    $
+\lm trys dievas alba $ trys ponas vadinti $
+\PoS c.   sm.    cnj. $ c.   sm.   vb.     $
+\gD drei Gott   oder $ drei Herr  nennen  $
+
+\ref BP_II_187.03
+\tx Tiewas nera          nei                   nůg wieno           nei
+\std tėvas nėra         nei                   nuog vieno           nei
+\mrph n.sg.  3.prs. 3.prs. -                     +g.  g.sg.m.         -
+\lm tėvas ne     būti  nei                   nuog vienas          nei
+\PoS sm.    pfx.   v.aux  cnj+SNeg.             prp. adj.            cnj+SNeg.
+\gD Vater  Neg.   sein   und_nicht,_weder_noch von  eins_,eine(r/s) und_nicht,_weder_noch
+\tx daritas              / nei                   ſu=|twertas             /
+\std darytas              $ nei                   sutvertas                $
+\mrph prc.prt.pss._n.sg.m. $ -                     prc.prt.pss._n.sg.m.+PSS $
+\lm daryti               $ nei                   sutverti                 $
+\PoS vb.                  $ $ cnj+SNeg.           vb.                      $
+\gD tun,_machen          $ und_nicht,_weder_noch erschaffen               $
+
+\ref BP_II_187.04
+\tx nei                   pagimditas               .
+\std nei                   pagimdytas               $
+\mrph -                     prc.prt.pss._n.sg.m.+PSS $
+\lm nei                   pagimdyti                $
+\PoS cnj+SNeg.             vb.                      $
+\gD und_nicht,_weder_noch gebären                 $
+
+\ref BP_II_187.05
+\tx Sunus  ira    tiktai nůg Tiewo  nedarits                       / nei
+\std sūnus yra    tiktai nuog tėvo  ne        darytas              $ nei
+\mrph n.sg.  3.prs. -      +g.  g.sg.  -         prc.prt.pss._n.sg.m. $ -
+\lm sūnus būti  tiktai nuog tėvas ne        daryti               $ nei
+\PoS sm.    v.aux  adv.   prp. sm.    pfx.      vb.                  $ $ cnj+SNeg.
+\gD Sohn   sein   nur    von  Vater  Neg.      tun,_machen          $ und_nicht,_weder_noch
+\tx ſu=|twerts              /
+\std sutvertas                $
+\mrph prc.prt.pss._n.sg.m.+PSS $
+\lm sutverti                 $
+\PoS vb.                      $
+\gD erschaffen               $
+
+\ref BP_II_187.06
+\tx bet           pagimditas               .
+\std bet           pagimdytas               $
+\mrph -             prc.prt.pss._n.sg.m.+PSS $
+\lm bet           pagimdyti                $
+\PoS cnj.          vb.                      $
+\gD aber,_sondern gebären                 $
+
+\ref BP_II_187.07
+\tx Schwenta Dwaſe ira nůg Tiewo ir Sunaus /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.08
+\tx nedarita                       / neſutwerta                       / ne   pagimdita            / bet           iſchenti            .
+\std ne        daryta               $ ne           sutverta             $ ne   pagimdytą           $ bet           išeinanti           $
+\mrph -         prc.prt.pss._n.sg.f. $ -            prc.prt.pss._n.sg.f. $ -    prc.prt.pss._a.sg.m. $ -             prc.prs.act._n.sg.f. $
+\lm ne        daryti               $ ne           sutverti             $ ne   pagimdyti            $ bet           išeiti              $
+\PoS pfx.      vb.                  $ $ pfx        vb.                  $ $ p  vb.                  $ cnj.          vb.                  $
+\gD Neg.      tun,_machen          $ Neg.         erschaffen           $ Neg. gebären             $ aber,_sondern herausgehen          $
+
+\ref BP_II_187.09
+\tx Tůgi               nu     ira    / wienas          Tiewas / ne     tris Tiewai /
+\std tuogi               nū    yra    $ vienas          tėvas $ ne     trys tėvai $
+\mrph -                   -      3.prs. $ n.sg.m.         n.sg.  $ -      n.   n.pl.  $
+\lm tuogi               nu=nū būti  $ vienas          tėvas $ ne     trys tėvas $
+\PoS cnj.                adv.   vb.    $ $ adj.          sm.    $ $ part c.   sm.    $
+\gD eben_deshalb,_daher jetzt  sein   $ eins_,eine(r/s) Vater  $ Neg.   drei Vater  $
+
+\ref BP_II_187.10
+\tx wienas          Sunus  / ne    tris Sunus   / wiena           Schwenta
+\std vienas          sūnus $ ne    trys sūnūs $ viena           šventa
+\mrph n.sg.m.         n.sg.  $ -     n.   n.pl.   $ n.sg.f.         n.sg.f.
+\lm vienas          sūnus $ ne    trys sūnus  $ vienas          šventas
+\PoS adj.            sm.    $ part. c.   sm.     $ adj.            adj.
+\gD eins_,eine(r/s) Sohn   $ Neg.  drei Sohn    $ eins_,eine(r/s) heilig
+
+\ref BP_II_187.11
+\tx Dwaſia / ne    tris ſchwentas Dwaſes         .
+\std dvasia  $ ne    trys šventos   dvasės-dvasios $
+\mrph n.sg.   $ -     n.   n.pl.f.    n.pl.           $
+\lm dvasia  $ ne    trys šventas   dvasė-dvasia   $
+\PoS sf.     $ part. c.   adj.       sf.             $
+\gD Geist   $ Neg.  drei heilig     Geist           $
+
+\ref BP_II_187.12
+\tx Ir        tarp     ſchu      triu   perſonu / newiena       neeſt         pir=|miauſe /
+\std ir        tarp     šių      trijų personų $ nė_viena     ne      yra    pirmiausia   $
+\mrph -         +g.      g.pl.f.    g.     g.pl.    $ n.sg.f.       -       3.prs. n.sg.f.spr.  $
+\lm ir        tarp     šis       trys   persona  $ nė_vienas    ne      būti  pirmas       $
+\PoS cnj.      prp.     prn.       c.     sf.      $ prn.+SNeg.    pfx.    vb.    o.           $
+\gD und,_auch zwischen diese(r/s) drei   Person   $ niemand,_kein Neg.    sein   erste(r/s)   $
+
+\ref BP_II_187.13
+\tx newiena       paſkucʒiauſe / newiena       didʒiauſe ne=|wiena
+\std nė_viena     paskučiausia   $ nė_viena     didžiausia nė_viena
+\mrph n.sg.f.       n.sg.f.spr.     $ n.sg.f.       n.sg.f.spr. n.sg.f.
+\lm nė_vienas    paskutis        $ nė_vienas    didis       nė_vienas
+\PoS prn.          adj.            $ prn.          adj.        prn.
+\gD niemand,_kein letzte(r,s)     $ niemand,_kein groß       niemand,_kein
+
+\ref BP_II_187.14
+\tx maßiauſe  .
+\std mažiausia  $
+\mrph n.sg.f.spr. $
+\lm mažas      $
+\PoS adj.        $
+\gD klein       $
+
+\ref BP_II_187.15
+\tx Bei wiſſas tris perſonas / drauge ira / ligei am=|ßinas /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.16
+\tx ligei didʒias .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.17
+\tx Idant ſchiteipo / kaip ſakita ira / tris perſonas wie=|noie
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.18
+\tx Deiwiſteie / ir wienas Diewas triſſa perſonaſa
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.19
+\tx garbintas butu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.20
+\tx Iei nu kas nor iſchganitu buti / ape tas tris per=|ſonas
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.21
+\tx Dieweie teip tur tiketi .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.22
+\tx A ir to taipaieg priwalu ira / ant amßino iſchga=|nimo /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.23
+\tx Idant wiernai tiketu iog IEſus Kriſtus muſu
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.24
+\tx Ponas / tikru ßmogumi ira .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.25
+\tx Schitaigi nu tikroghi ira wiera / iei tikim ir iſch=|paßinſtam /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.26
+\tx iog muſu Ponas Ieſus Kriſtus Diewo
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_187.27
+\tx Sunus / Diewas bei ßmogus ira .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.01
+\tx Diewu ghis ira iſch Tiewo Naturos / pirm ſwieto
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.02
+\tx gimens / Sʒmogumi ghis ira / iſch Motinos natu=|ros /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.03
+\tx ſwiete gimens .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.04
+\tx Pilnas ( tobulas ) Diewas / pilnas ( tikras ) ßmo=|gus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.05
+\tx ſu protinga duſche / ir ßmogiſchku kunu .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.06
+\tx Ligus   ghis    ira    Tiewui / pagal   Deiwiſte     / maßeſnis
+\std lygus   jis     yra    tėvui $ pagal   deivystę     $ mažesnis
+\mrph n.sg.m. n.sg.m. 3.prs. d.sg.  $ +a.     a.sg.         $ n.sg.m.cmp.
+\lm lygus   jis     būti  tėvas $ pagal   deivystė     $ mažas
+\PoS adj.    prn.    vb.    sm.    $ prp.    sf.           $ adj.
+\gD gleich  er      sein   Vater  $ gemäß Göttlichkeit $ klein
+
+\ref BP_II_188.07
+\tx ghis    ira    nei Tiewas pagal   ßmogiſte .
+\std jis     yra    nei tėvas pagal   žmogystę $
+\mrph n.sg.m. 3.prs. -   n.sg.  +a.     a.sg.      $
+\lm jis     būti  nei tėvas pagal   žmogystė $
+\PoS prn.    vb.    cnj sm.    prp.    sf.        $
+\gD er      sein   als Vater  gemäß Menscheit  $
+
+\ref BP_II_188.08
+\tx Ir        kacʒei ghis    Diewu  ir        Sʒmogumi ira    / O         tacʒiau
+\std ir        kačei  jis     dievu  ir        žmogumi  yra    $ o         tačiau
+\mrph -         -       n.sg.m. i.sg.  -         i.sg.     3.prs. $ -         -
+\lm ir        kačei  jis     dievas ir        žmogus   būti  $ o         tačiau
+\PoS cnj.      cnj.    prn.    sm.    cnj.      sm.       vb.    $ cnj.      adv.
+\gD und,_auch obwohl  er      Gott   und,_auch Mensch    sein   $ und,_aber jedoch
+
+\ref BP_II_188.09
+\tx ghis    ne   ira    du   / bet           wienas          Kriſtus .
+\std jis     ne   yra    du   $ bet           vienas          Kristus  $
+\mrph n.sg.m. -    3.prs. n.m. $ -             n.sg.m.         n.sg.    $
+\lm jis     ne   būti  du   $ bet           vienas          Kristus  $
+\PoS prn.    pfx. vb.    c.   $ cnj.          adj.            sm.npr.  $
+\gD er      Neg. sein   zwei $ aber,_sondern eins_,eine(r/s) Christus $
+
+\ref BP_II_188.10
+\tx Wienas          / nekaip         Deiwiſte     ing         ßmogiſte butu   per=|werſta         /
+\std vienas          $ ne      kaip   deivystė     ing         žmogystę būtų perversta            $
+\mrph n.sg.m.         $ -       -      n.sg.         +a.         a.sg.      3.cnd. prc.prt.pss._n.sg.f. $
+\lm vienas          $ ne      kaip   deivystė     ing         žmogystė būti  perversti            $
+\PoS adj.            $ part.   cnj.   sf.           prp.        sf.        v.aux  vb.                  $
+\gD eins_,eine(r/s) $ Neg.    wie    Göttlichkeit in_-_hinein Menscheit  sein   verkehren,_verdrehen $
+
+\ref BP_II_188.11
+\tx Bet           iog  Deiwiſte     ßmogiſte prieme   .
+\std bet           jog  deivystė     žmogystę priėmė $
+\mrph -             -    n.sg.         a.sg.      3.prt.   $
+\lm bet           jog  deivystė     žmogystė priimti  $
+\PoS cnj.          cnj. sf.           sf.        vb.      $
+\gD aber,_sondern dass Göttlichkeit Menscheit  annehmen $
+
+\ref BP_II_188.12
+\tx Teip ghis    wienu           ira    / nekaip         thie       dwi  naturi  ſu  ma=|iſchitas
+\std taip jis     vienu           yra    $ ne      kaip   tie        dvi  natūri sumaišytos
+\mrph -    n.sg.m. i.sg.m.         3.prs. $ -       -      n.pl.m.    n.f. n.du.   prc.prt.pss._n.pl.f.+PSS
+\lm taip jis     vienas          būti  $ ne      kaip   tas        du   natūra sumaišyti
+\PoS adv. prn.    adj.            vb.    $ $ part         prn.       c.   sf.     vb.
+\gD so   er      eins_,eine(r/s) sein   $ Neg.           diese(r/s) zwei Natur   vermischen
+
+\ref BP_II_188.13
+\tx butu   / bet           iog  ghis    wiena           tiktai perſona ira    .
+\std būtų $ bet           jog  jis     viena           tiktai persona  yra    $
+\mrph 3.cnd. $ -             -    n.sg.m. n.sg.f.         -      n.sg.    3.prs. $
+\lm būti  $ bet           jog  jis     vienas          tiktai persona  būti  $
+\PoS v.aux  $ cnj.          cnj. prn.    adj.            adv.   sf.      vb.    $
+\gD sein   $ aber,_sondern dass er      eins_,eine(r/s) nur    Person   sein   $
+
+\ref BP_II_188.14
+\tx Neſa kaip antai kunas ir duſche / wiens ßmogus
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.15
+\tx ira / Schiteipo ira Diewas bei ßmogus wiens Kri=|ſtus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.17
+\tx Kurſai kenteia delei muſu iſchganimo / nußenge
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.18
+\tx peklon / Trecʒia diena iſchnumiruſiu keleſi .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.19
+\tx Vßenge       Dangun / Sed       po   deſchinei Diewo /
+\std užžengė    dangun $ sėdi     po
+\mrph 3.prt.        il.sg. $ 3.prs.
+\lm užžengti    dangus $ sėdėti
+ po
+\PoS vb.           sm.    $ vb.       prp.
+\gD hinaufsteigen Himmel $ sitzen
+
+\ref BP_II_188.20
+\tx wiſgalincʒoio Tiewo  .
+\std visgalinčiojo  tėvo  $
+\mrph g.sg.m.def.     g.sg.  $
+\lm visgalįs       tėvas $
+\PoS adj.            sm.    $
+\gD allmächtig     Vater  $
+
+\ref BP_II_188.21
+\tx Iſch the  ghis    ateis  ſuditu  / Giwus    ir        numiruſius .
+\std iš   tę  jis     ateis  sūdytų $ gyvus    ir
+\mrph +g.   -    n.sg.m. 3.ft.  3.Kond.  $ a.pl.m.  -
+\lm iš   tę  jis     ateiti sūdyti  $ gyvas    ir
+\PoS prp.  adv. prn.    vb.    vb.      $ adj.     Konj.
+\gD aus   dort er      kommen richten  $ lebendig und,_auch
+
+\ref BP_II_188.22
+\tx Ir iam atent tures wiſſi ßmones keltiſſi / ſawa
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.23
+\tx tikrais kunais .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.24
+\tx Ir tures rakunda attadůti / ka ghie padare .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.25
+\tx Ir kurie ger bus dare / eis ing amßina giwenima /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_188.26
+\tx A kurie pikt bus dare / ing amßina ugni .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.01
+\tx Schitai ira    tikra       krikſchcʒoniſchka wiera  / kurſai
+\std šitai  yra    tikra       krikščioniška     viera  $ kursai
+\mrph -       3.prs. n.sg.f.     n.sg.f.              n.sg.  $ n.sg.m.def.
+\lm šitai  būti  tikras      krikščioniškas    viera  $ kuris
+\PoS part.   vb.    adj.        adj.                 sf.    $ prn.
+\gD siehe   sein   wahr,_recht christlich           Glaube $ welche(r/s)
+
+\ref BP_II_189.02
+\tx tha        ſtiprai ir        wiernai    netik          / taſſai    negal        
+\std tą        stipriai ir        viernai    ne     tiki    $ tasai       ne      gali
+\mrph a.sg.f.    adv.     -         adv.       -      3.prs.  $ n.sg.m.def. -       3.prs.
+\lm tas        stiprus  ir        viernas    ne     tikėti $ tas         ne      galėti
+\PoS prn.       adj.     cnj.      adj.       pfx.   vb.     $ prn.        pfx     vb.
+\gD diese(r/s) stark    und,_auch wahr,_treu Neg.   glauben $ diese(r/s)  Neg.    können
+\tx iſchganitu
+\std išganytu
+\mrph prc.prt.pss._i.sg.m.+PSS
+\lm išganyti
+\PoS vb.
+\gD erlösen
+
+\ref BP_II_189.03
+\tx buti  .
+\std būti $
+\mrph inf.  $
+\lm būti $
+\PoS v.aux $
+\gD sein  $
+
+\ref BP_II_189.04
+\tx 
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.05
+\tx Symbolum Apoſtolorum .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.06
+\tx Tatai eſti
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.07
+\tx Iſchpaßinimas Apaſchtalu Pono Kriſtaus .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.08
+\tx TIkiu     ing         Diewa  Tiewa  wiſſa galintighi / ſu=|twertaghi
+\std tikiu     ing         dievą tėvą visagalintįjį    $ sutvertoją
+\mrph 1.sg.prs. +a.         a.sg.  a.sg.  a.sg.m.def.        $ a.sg.
+\lm tikėti   ing         dievas tėvas visagalįs         $ sutvertojas
+\PoS vb.       prp.        sm.    sm.    adj.               $ sm.
+\gD glauben   in_-_hinein Gott   Vater  allmächtig        $ Schöpfer
+
+\ref BP_II_189.09
+\tx dangaus ir        Sʒemes .
+\std dangaus ir        žemės $
+\mrph g.sg.   -         Gen.Sg. $
+\lm dangus  ir        žemė  $
+\PoS sm.     Konj.     sf.     $
+\gD Himmel  und,_auch Erde    $
+
+\ref BP_II_189.10
+\tx Ir ing IEſu Kriſtu Sunu io wienatighi / Pona
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.11
+\tx muſu  / kurs        praſſideia nůg Schwentos dwaſes         / gi=|me
+\std mūsų $ kuris       prasidėjo   nuog šventos  dvasės-dvasios $ gimė
+\mrph g.     $ n.sg.m.     3.prt.       +g.  Gen.Sg.f. Gen.Sg.         $ 3.prt.
+\lm mes    $ kuris       prasidėti   nuog šventas  dvasė-dvasia   $ gimti
+\PoS prn.   $ prn.        vb.          prp. adj.      sf.             $ vb.
+\gD wir    $ welche(r/s) empfangen    von  heilig    Geist           $ geboren_werden
+
+\ref BP_II_189.12
+\tx iſch Panos    Marios  / kenteia  po      Panſku Pilatu /
+\std iš   panos    Marijos $ kentėjo po
+\mrph +g.   Gen.Sg.  g.sg.   $ 3.prt.   +Instr.
+\lm iš   pana     Marija  $ kentėti po
+\PoS prp.  sf.      sf.npr. $ vb.      prp.
+\gD aus   Jungfrau Maria   $ leiden   unter
+
+\ref BP_II_189.13
+\tx nukrißawotas              / numirens                  ir        pakaſtas                  . Nußenge     Pe=|kloſna /
+\std nukryžiavotas             $ numiręs                  ir        pakastas                   $ nužengė    peklosna    $
+\mrph Part.Prät.Pass._Nom.Sg.m. $ Part.Prät.Akt._Nom.Sg.m. -         Part.Prät.Pass._Nom.Sg.m. $ 3.prt.       il.pl.      $
+\lm nukryžiavoti              $ numirti                   ir        pakasti                    $ nužengti    pekla       $
+\PoS vb.                        $ vb.                       Konj.     vb.                        $ vb.          sf.         $
+\gD kreuzigen                  $ sterben                   und,_auch begraben                   $ hinabsteigen Hölle      $
+
+\ref BP_II_189.14
+\tx Trecʒe          diena        keleſi   iſch numiruſiu                / Vßßenge
+\std trečią-trečia dieną-diena kėlėsi  iš   numirusių                $ užžengė
+\mrph a.sg.f./i.sg.f.  a.sg./i.sg.  3.prt.    +g.   Part.Prät.Akt._Gen.Sg.m. $ 3.prt.
+\lm trečias         diena        keltis    iš   numirti                   $ užžengti
+\PoS o.               sf.          vb.       prp.  vb.                       $ vb.
+\gD dritte(r/s)      Tag          aufstehen aus   sterben                   $ hinaufsteigen
+
+\ref BP_II_189.15
+\tx danguna / Sed      po   deſchines  Diewo  Tiewo  wiſſaga=|lincʒioio .
+\std dangun  $ sėdi    po   dešinės   dievo  tėvo  visagalinčiojo       $
+\mrph il.sg.  $ 3.prs.   +Gen Gen.Sg.     g.sg.  g.sg.  g.sg.m.def.           $
+\lm dangus  $ sėdėti po   dešinys    dievas tėvas visagalįs            $
+\PoS sm.     $ vb.      prp. adj.        sm.    sm.    adj.                  $
+\gD Himmel  $ sitzen   zu   rechte(r/s) Gott   Vater  allmächtig           $
+
+\ref BP_II_189.16
+\tx Iſch the  ateis  ſuditu  giwu      ir        numiruſiu                .
+\std iš   tę  ateis  sūdytų gyvų     ir        numirusių                $
+\mrph +g.   -    3.ft.  3.Kond.  Gen.Sg.m. -         Part.Prät.Akt._Gen.Sg.m. $
+\lm iš   tę  ateiti sūdyti  gyvas     ir        numirti                   $
+\PoS prp.  adv. vb.    vb.      adj.      Konj.     vb.                       $
+\gD aus   dort kommen richten  lebendig  und,_auch sterben                   $
+
+\ref BP_II_189.17
+\tx Tikiu     ing         Dwaſe Schwenta  / Schwenta  krikſch=|cʒoniſchka
+\std tikiu     ing         dvasę šventą  $ šventą  krikščionišką
+\mrph 1.sg.prs. +a.         a.sg.  Akk.Sg.f. $ Akk.Sg.f. Akk.Sg.f.
+\lm tikėti   ing         dvasė šventas  $ šventas  krikščioniškas
+\PoS vb.       prp.        sf.    adj.      $ adj.      adj.
+\gD glauben   in_-_hinein Geist  heilig    $ heilig    christlich
+
+\ref BP_II_189.18
+\tx Baßnicʒe / draugiſte Schwentuniu / Grie=|ku
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.19
+\tx atleidima / kuno prikelima . Ir amßina Sʒiwata
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.20
+\tx Amen .
+\std amen $
+\mrph -    $
+\lm amen $
+\PoS adv. $
+\gD amen $
+
+\ref BP_II_189.21
+\tx Iſch ſchiu triu Iſchpaßinimu gal koßnas per=|maniti /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.22
+\tx muſa Wiera krikſchcʒoniſchka / ape Diewa /
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.23
+\tx tikra ſanti . Todel praſchikemes Diewa / ieib ghis
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.24
+\tx mus prieg thos iſchlaikitu / Ir per Ieſu Kriſtu io mie=|la
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 
+
+\ref BP_II_189.25
+\tx Sunu amßinai iſchganitu / Amen .
+\std 
+\mrph 
+\lm 
+\PoS 
+\gD 

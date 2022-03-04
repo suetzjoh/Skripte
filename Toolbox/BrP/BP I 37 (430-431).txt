@@ -1,0 +1,227 @@
+\_sh v3.0  621  Text
+
+\id BP I 37 p430-431
+
+\ref BP_I_430.01
+\tx Dwi  Maldi ape   muka
+\std dvi  maldi apie  mūką
+\mrph n.f. n.du. +a.   a.sg.
+\lm du   malda apie  mūka
+\PoS c.   sf.   prp.  sf.
+\gD zwei Gebet über Qual
+
+\ref BP_I_430.02
+\tx ir   ſmerti Pono  muſu  IEſaus
+\std ir   smertį pono  mūsų Jėzaus
+\mrph -    a.sg.   g.sg. g.     g.sg.
+\lm ir   smertis ponas mes    Jėzus
+\PoS cnj. sf.     sm.   prn.   sm.npr.
+\gD und  Tod     Herr  wir    Jesus
+
+\ref BP_I_430.03
+\tx Kriſtaus .
+\std Kristaus  $
+\mrph g.sg.     $
+\lm Kristus   $
+\PoS sm.npr.   $
+\gD Christus  $
+
+\ref BP_I_430.04
+\tx Pirma      .
+\std pirma      $
+\mrph n.sg.f.    $
+\lm pirmas     $
+\PoS o.         $
+\gD erste(r/s) $
+
+\ref BP_I_430.05
+\tx Kriſtus iſchronitas                    eſt   delei  piktenibiu  muſu  .
+\std Kristus  išronytas                      yra    dėlei piktenybių mūsų $
+\mrph n.sg.    Part.Prät.Pass._Nom.Sg.m.+PASS 3.prs. +g.    g.pl.       g.     $
+\lm Kristus  išronyti                       būti  dėlei piktenybė  mes    $
+\PoS sm.npr.  vb.                             Vb.aux prp.   sf.         prn.   $
+\gD Christus verwunden                       sein   wegen  Bosheit     wir    $
+
+\ref BP_I_430.06
+\tx Ir        ſumuſchtas               delei  grieku  muſu  .
+\std ir        sumuštas                  dėlei griekų mūsų $
+\mrph -         Part.Prät.Pass._Nom.Sg.m. +g.    g.pl.   g.     $
+\lm ir        sumušti                   dėlei griekas mes    $
+\PoS Konj.     vb.                        prp.   sm.     prn.   $
+\gD und,_auch erschlagen                 wegen  Sünde  wir    $
+
+\ref BP_I_430.07
+\tx SVſſimilſtanſis      / amßinaſſis Diewe  /
+\std susimilstąsis           $ amžinasis    dieve  $
+\mrph prc.prs.act._n.sg.m.def. $ n.sg.m.def.   vc.sg. $
+\lm susimilti                $ amžinas      dievas $
+\PoS vb.                      $ adj.          sm.    $
+\gD sich_erbarmen            $ ewig          Gott   $
+
+\ref BP_I_430.08
+\tx kurſai     tu   ſawa              Wienatijo    Sunaus
+\std kursai      tu   savo               vienatijo    sūnaus
+\mrph n.sg.m.def. n.   -                  g.sg.m.      g.sg.
+\lm kuris       tu   savo               vienatijas   sūnus
+\PoS prn.        prn. prn.               adj.         sm.
+\gD welche(r/s) du   [refl._Poss.-prn.] einzige(r/s) Sohn
+
+\ref BP_I_430.09
+\tx necʒedijei              / Bet           ghi     uß  mus  wiſſus        nuda=|wei /
+\std ne           čėdijai   $ bet           jį     už  mus  visus           nudavei   $
+\mrph -            2.sg.prs.   $ -             a.sg.m. +a.  a.   a.pl.m.         2.sg.prt. $
+\lm ne           čėdyti    $ bet           jis     už  mes  visas           nuduoti   $
+\PoS pfx.         vb.         $ cnj.          prn.    prp. prn. prn.            vb.       $
+\gD Neg.         schonen     $ aber,_sondern er      für wir  jede(r/s),_alle weggeben  $
+
+\ref BP_I_430.10
+\tx idant ghis    muſu  Griekus ant  kri=|ßaus
+\std idant jis     mūsų griekus ant  kryžiaus
+\mrph -     n.sg.m. g.     a.pl.   +g.  g.sg.
+\lm idant jis     mes    griekas ant  kryžius
+\PoS cnj.  prn.    prn.   sm.     prp. sm.
+\gD damit er      wir    Sünde  auf  Kreuz
+
+\ref BP_I_430.11
+\tx neſchotu : Dodi      mumus / idant
+\std nešiotų $ duok      mums  $ idant
+\mrph 3.cnd.    $ 2.sg.imp. d.    $ -
+\lm nešioti  $ duoti     mes   $ idant
+\PoS vb.       $ vb.       prn.  $ cnj.
+\gD tragen    $ geben     wir   $ damit
+
+\ref BP_I_430.12
+\tx muſu  ſchirdis       tokioij     Wieroij niekadai
+\std mūsų širdis-širdys tokioje     vieroje niekadai
+\mrph g.     n.sg./pl.       l.sg.f.     l.sg.   -
+\lm mes    širdis         toks        viera   niekadai
+\PoS prn.   sf.             prn.        sf.     adv.+SNeg.
+\gD wir    Herz            solche(r/s) Glaube  nie
+
+\ref BP_I_430.13
+\tx neiſſiganſtu                   / nei                   nuſſimintu . Per   tan=|iau
+\std ne               išsigąstu      $ nei                   nusimintų   $ per   tą-jau
+\mrph -                3.cnd.           $ -                     3.cnd.       $ +a.   a.sg.m.
+\lm ne               išsigąsti      $ nei                   nusiminti    $ per   tas-jau
+\PoS pfx.             vb.              $ $ cnj.                vb.          $ $ pr  prn.em.
+\gD Neg.             sich_erschrecken $ und_nicht,_weder_noch verzweifeln  $ durch diese(r/s)
+
+\ref BP_I_430.14
+\tx tawa Sunu   IEſu   Kriſtu  muſu
+\std tavo sūnų Jėzų  Kristų  mūsų
+\mrph -    a.sg.  a.sg.   a.sg.    g.
+\lm tavo sūnus Jėzus  Kristus  mes
+\PoS prn. sm.    sm.npr. sm.npr.  prn.
+\gD dein Sohn   Jesus   Christus wir
+
+\ref BP_I_430.15
+\tx Pona  . Amen .
+\std poną $ amen $
+\mrph a.sg. $ -    $
+\lm ponas $ amen $
+\PoS sm.   $ adv. $
+\gD Herr  $ amen $
+
+\ref BP_I_431.01
+\tx Antra       .
+\std antra       $
+\mrph Nom.Sg.f.   $
+\lm antras      $
+\PoS Ord.        $
+\gD zweite(r/s) $
+
+\ref BP_I_431.02
+\tx WIſſagalinſis Tiewe   / Amßinaſis
+\std visagalįsis     tėve   $ amžinasis
+\mrph n.sg.m.def.      Lok.Sg. $ n.sg.m.def.
+\lm visagalįs       tėvas  $ amžinas
+\PoS adj.             sm.     $ adj.
+\gD allmächtig      Vater   $ ewig
+
+\ref BP_I_431.03
+\tx Diewe   / kurſai     dawei     tawa Sunu
+\std dieve   $ kursai      davei     tavo sūnų
+\mrph Vok.Sg. $ n.sg.m.def. 2.sg.prt. -    a.sg.
+\lm dievas  $ kuris       duoti     tavo sūnus
+\PoS sm.     $ prn.        vb.       prn. sm.
+\gD Gott    $ welche(r/s) geben     dein Sohn
+
+\ref BP_I_431.04
+\tx IEſu   Kriſtu  uß   mus  Krißaus  Muka
+\std Jėzų  Kristų  už   mus  kryžiaus mūką
+\mrph a.sg.   a.sg.    +Akk. a.   g.sg.     a.sg.
+\lm Jėzus  Kristus  už   mes  kryžius  mūka
+\PoS sm.npr. sm.npr.  prp.  prn. sm.       sf.
+\gD Jesus   Christus für  wir  Kreuz     Qual
+
+\ref BP_I_431.05
+\tx kenteti  . Idant nog  muſu  ſila Neprie=|teliaus
+\std kentėti $ idant nuog mūsų sylą neprieteliaus
+\mrph inf.     $ -     +g.  g.     a.sg. g.sg.
+\lm kentėti $ idant nuog mes    syla  neprietelius
+\PoS vb.      $ cnj.  prp. prn.   sf.   sm.
+\gD leiden   $ damit von  wir    Kraft Feind
+
+\ref BP_I_431.06
+\tx atwaritumbei . Gelbek    idant
+\std atvarytum    $ gelbėk   idant
+\mrph 2.sg.cnd.    $ 2.sg.imp. -
+\lm atvaryti     $ gelbėti  idant
+\PoS vb.          $ vb.       cnj.
+\gD vertreiben   $ helfen    damit
+
+\ref BP_I_431.07
+\tx tatai     teipo atmintumbim   / ir        io      kenteghi=|mui
+\std tatai     taipo atmintumėme  $ ir        jo      kentėjimui
+\mrph -         -     1.pl.cnd.     $ -         g.sg.m. d.sg.
+\lm tatai     taipo atminti       $ ir        jis     kentėjimas
+\PoS prn.      adv.  vb.           $ Konj.     prn.    sm.
+\gD dies,_das so    sich_erinnern $ und,_auch er      Leiden
+
+\ref BP_I_431.08
+\tx diekawotumbim  / Ieib mes  per    ta=|tai
+\std dėkavotumėme $ jeib mes  per    tatai
+\mrph 1.pl.cnd.      $ -    n.   +Akk.  -
+\lm dėkavoti      $ jeib mes  per    tatai
+\PoS vb.            $ cnj. prn. Präp. prn.
+\gD danken         $ dass wir  durch  dies,_das
+
+\ref BP_I_431.09
+\tx Grieku  atleidimma gautumbim  / ir
+\std griekų atleidimo  gautumėme $ ir
+\mrph g.pl.   g.sg.      1.pl.cnd.  $ -
+\lm griekas atleidimas gauti      $ ir
+\PoS sm.     sm.        vb.        $ Konj.
+\gD Sünde  Vergebung  erhalten   $ und,_auch
+
+\ref BP_I_431.10
+\tx nog  amßinos  Smerties Iſchgelbeghi=|ma
+\std nuog amžinos  smerties išgelbėjimą
+\mrph +g.  Gen.Sg.f. g.sg.    a.sg.
+\lm nuog amžinas  smertis  išgelbėjimas
+\PoS prp. adj.      sf.      sm.
+\gD von  ewig      Tod      Erlösung
+
+\ref BP_I_431.11
+\tx apturetumbim   . Per    taniau
+\std apturėtumėme $ per    tą-jau
+\mrph 1.pl.cnd.      $ +Akk.  Akk.Sg.m.
+\lm apturėti      $ per    tas-jau
+\PoS vb.            $ Präp. prn.em.
+\gD besitzen       $ durch  diese(r/s)
+
+\ref BP_I_431.12
+\tx tawa Sunu   IEſu   Kriſtu  mu=|ſu
+\std tavo sūnų Jėzų  Kristų  mūsų
+\mrph -    a.sg.  a.sg.   a.sg.    g.
+\lm tavo sūnus Jėzus  Kristus  mes
+\PoS prn. sm.    sm.npr. sm.npr.  prn.
+\gD dein Sohn   Jesus   Christus wir
+
+\ref BP_I_431.13
+\tx Pona  . Amen .
+\std poną $ amen $
+\mrph a.sg. $ -    $
+\lm ponas $ amen $
+\PoS sm.   $ adv. $
+\gD Herr  $ amen $

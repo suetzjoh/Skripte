@@ -1,0 +1,107 @@
+\_sh v3.0  621  Text
+
+\id BP II 00 p0
+
+\ref BP_II_000.01
+\tx POSTILLA
+\std postila
+\mrph n.sg.
+\lm postila
+\PoS sf.
+\gD Postille
+
+\ref BP_II_000.02
+\tx tatai     eſti
+\std tatai     yra
+\mrph -         3.prs.
+\lm tatai     būti
+\PoS prn.      vb.
+\gD dies,_das sein
+
+\ref BP_II_000.03
+\tx Trumpas ir
+\std trumpas ir
+\mrph n.sg.m. -
+\lm trumpas ir
+\PoS adj.    cnj.
+\gD kurz    und
+
+\ref BP_II_000.04
+\tx Praſtas Iſchguldimas
+\std prastas  išguldymas
+\mrph n.sg.m.  n.sg.
+\lm prastas  išguldymas
+\PoS adj.     sm.
+\gD einfach  Auslegung
+
+\ref BP_II_000.05
+\tx Euangeliu   / ſakamuiu            Baßnicʒoie
+\std evangelijų $ sakomųjų           bažnyčioje
+\mrph g.pl.       $ prc.prs.pss._g.pl.m. l.sg.
+\lm evangelija  $ sakyti               bažnyčia
+\PoS sf.         $ vb.                  sf.
+\gD Evangelium  $ sagen                Kirche
+
+\ref BP_II_000.06
+\tx Krikſchcʒioniſchkoie / nůg Wæliku
+\std krikščioniškoje      $ nuog Velykų
+\mrph l.sg.f.                 $ +g.  g.pl.
+\lm krikščioniškas       $ nuog Velykos
+\PoS adj.                    $ prp. sf.pl.
+\gD christlich              $ von  Ostern
+
+\ref BP_II_000.07
+\tx ik   Aduento  .
+\std iki  advento  $
+\mrph +g.  g.sg.    $
+\lm iki  adventas $
+\PoS prp. sm.      $
+\gD bis  Advent   $
+
+\ref BP_II_000.08
+\tx Per
+\std per
+\mrph +a.
+\lm per
+\PoS prp.
+\gD durch
+
+\ref BP_II_000.09
+\tx Iana     Bretkuna   Lietuwos Plebona
+\std Joną    Bretkūną Lietuvos pleboną
+\mrph a.sg.    a.sg.      g.sg.    a.sg.
+\lm Jonas    Bretkūnas Lietuva  plebonas
+\PoS sm.npr.  sm.npr.    sf.npr.  sm.
+\gD Johannes Bretke     Litauen  Priester
+
+\ref BP_II_000.10
+\tx Karaliaucʒiuie Pruſůſu .
+\std Karaliaučiuje  Prūsuose  $
+\mrph l.sg.           l.pl.      $
+\lm Karaliaučius   Prūsai    $
+\PoS sm.npr.         sm.pl.npr. $
+\gD Königsberg     Preußen   $
+
+\ref BP_II_000.11
+\tx Iſſpauſta         Karaliaucʒiuie /
+\std išspausta           Karaliaučiuje  $
+\mrph prc.prt.pss._n.sg.f. l.sg.           $
+\lm išspausti           Karaliaučius   $
+\PoS vb.                  sm.npr.         $
+\gD drucken              Königsberg     $
+
+\ref BP_II_000.12
+\tx Iurgio  Oſterbergero .
+\std Jurgio  Osterbergero  $
+\mrph g.sg.   g.sg.         $
+\lm Jurgis  Osterbergeras $
+\PoS sm.npr. sm.npr.       $
+\gD Jurgis  Osterberger   $
+
+\ref BP_II_000.13
+\tx Mæta Pono  1591.
+\std metą pono  1591.
+\mrph a.sg. g.sg. 1591
+\lm metas ponas 1591
+\PoS sm.   sm.   1591
+\gD Jahr  Herr  1591
