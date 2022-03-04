@@ -1,0 +1,2427 @@
+\_sh v3.0  621  Text
+
+\id JH_20
+
+
+\ref Johannes 20 (As) Überschrift
+
+\tx неⷣ           б҃              антипаⷭ
+\std недѣ́л҄ꙗ вътора́ꙗ анти́пасхꙑ
+\mrph n.sg.             n.sg.f.em.        g.sg.
+\lm недѣл҄ꙗ   въторъ      антипасха
+\PoS sf.               adj.num.ord.      sf.
+\cls a                 ???
+\gD Sonntag           zweiter           Sonntag vor Ostern,ἀντίπασχα
+
+
+\tx евађ҃           ѡⷮ  иоаⷩ    глаⷡ    с҃в҃ꙇ҃                                                                   
+\std еванђе́лиѥ отъ Иоа́на глава́ дъвѣ́      сътѣ́      тре́тьꙗꙗ на            де́сѧте
+\mrph n.sg.                $      g.sg.        n.sg.        n.du.n.         n.du.           n.sg.f.em.         $               l.sg.
+\lm еванђелиѥ   отъ Ноанъ   глава   дъва        съто        третьи       на            десѧть
+\PoS sn.                  prp.   sm.npr.      sf.          num.            num.            adj.num.           prp.            num.
+\cls a                    $                   c            $                                                  $               c
+\gD Evangelium           von    Johannes     Kapitel      zwei            hundert         dritter            auf             zehn
+
+
+\ref Johannes 20.19 (As) 
+
+\tx сѫщі            поздѣ   въ ть       дьнь   въ едінъ   сѫботъ,
+\std сѫ́щи          по́здѣ въ тъ       дь́нь въ ѥди́нъ сѫбо́тъ
+\mrph prc.prs.act.d.sg.n. l.sg.        $    a.sg.m.    n.sg.m.    $    a.sg.m.      a.sg.
+\lm бꙑти           поздѣ   въ тъ       дьнь   въ ѥдинъ   сѫботъ
+\PoS vb.im.              adv.         prp. prn.       sm.        prp. num.         sm.
+\cls a                   $            $    $          b          $    b
+\gD sein                spät        in   der,dieser Tag        in   eins         Samstag
+
+
+\tx и   двъремъ   затвореномъ,
+\std и   двьрь́мъ затворе́номъ
+\mrph $    d.pl.            prc.prt.pass.d.pl.m.
+\lm и   двьрь       затворити
+\PoS prn. sf.              vb.pf.
+\cls $
+\gD und  Tür             schließen
+
+
+\tx идеже             бѣахѫ   оученіці   его
+\std иде      же       бѣ́ахѫ оученици́ ѥго́
+\mrph $           $          3.pl.impf.   n.pl.              g.sg.
+\lm иде      же       бꙑти    оученикъ   и
+\PoS adv.        part.      vb.im.       sm.                prn.
+\cls $           $          a                               $
+\gD da          же       sein         Schüler           er,sie,es
+
+
+\tx сьбьрані     за страхъ   июдеискъ,
+\std съ́бьрани   за стра́хъ июдѣ́искъ
+\mrph prc.prt.pass.n.pl.m. $    a.sg.          a.sg.m.
+\lm събьрати     за страхъ   июдѣискъ
+\PoS vb.pf.               prp. sm.            adv.
+\cls $    c              $
+\gD versammeln           für Furcht         Juden-
+
+
+\tx приде   ис҃ъ҃     и   ста     по      срѣдѣ   оученікь   своихъ,
+\std приде́ Исоу́съ и   ста     по      срѣдѣ́ оучени́къ свои́хъ
+\mrph 3.sg.aor.    n.sg.          $    3.sg.aor.  $         d.sg.        g.pl.              g.pl.m.
+\lm приити Исоусъ   и   стати по      срѣда   оученикъ   свои
+\PoS vb.pf.       sm.npr.        prn. vb.        prp.      sf.          sm.                prn.
+\cls b            a              $    a          $                                         $
+\gD kommen       Jesus          und  stehen     auf,über Mitte        Schüler           sein,eigene(r,s)
+
+
+\tx и   г҃л҃а         имъ    міръ   вамъ,
+\std и   глаго́ла   и́мъ  ми́ръ ва́мъ
+\mrph $    3.sg.aor.          d.pl.m.   a.sg.      d.pl.
+\lm и   глаголати и        миръ   вꙑ
+\PoS prn. vb.                prn.      sm.        prn.
+\cls $    a                  $         c          $
+\gD und  sprechen           er,sie,es Friede     ihr
+
+
+\ref Johannes 20.20 (As)
+
+\tx и   се       рекь            показа     имъ
+\std и   се       ре́къ          показа́   и́мъ
+\mrph $    a.sg.n.    prc.prt.act.n.sg.m. 3.sg.aor.        d.pl.m.
+\lm и   сь       рещи            показати и
+\PoS prn. pron.      vb.pf.              vb.pf.           prn.
+\cls $    $          c                                    $
+\gD und  diese(r,s) reden               zeigen           er,sie,es
+
+
+\tx рѫцѣ   и   ноꙃѣ   и   ребра   своѣ,
+\std рѫ́цѣ и   но́ꙃѣ и   ребра́ своꙗ́
+\mrph a.du.      $    a.du.       $    a.pl.        a.pl.n.
+\lm рѫка   и   нога    и   ребро   свои
+\PoS sf.        prn. sf.         prn. sn.          prn.
+\cls c          $    c           $                 $
+\gD Hand       und  Bein,Fuß   und  Rippe        sein,eigene(r,s)
+
+
+\tx въздрадовашѧ   же  сѧ оученици   відѣвъше    г҃а҃,
+\std въздра́довашѧ же  сѧ оученици́ ви́дѣвъше  госпо́да
+\mrph 3.pl.aor.                  $     a.   n.pl.              prc.prt.act.n.pl.m. a.sg.
+\lm възра́довати   же  сѧ оученикъ   видѣти        господь
+\PoS vb.pf.                     part. prn. sm.                vb.im.              sm.
+\cls $     $                       a                   c
+\gD sich freuen                δὲ med. Schüler           sehen               Herr
+
+
+\ref Johannes 20.21 (As)
+
+\tx рече   же  имъ    пакъи  міръ   вамъ,
+\std ре́че же  и́мъ  па́кꙑ ми́ръ ва́мъ
+\mrph 3.sg.aor.  $     d.pl.m.   $           a.sg.      d.pl.
+\lm рещи   же  и        пакꙑ   миръ   вꙑ
+\PoS vb.pf.     part. prn.      adv.        sm.        prn.
+\cls c          $     $         $           c          $
+\gD reden      δὲ er,sie,es wieder      Friede     ihr
+
+
+\tx ѣко    же  посъла     мѧ   о҃ц҃ь,
+\std ꙗ́ко же  посъла́   мѧ   оть́ць
+\mrph $         $     3.sg.aor.        a.sg.  n.sg.
+\lm ꙗко   же  посълати азъ отьць
+\PoS adv.      part. vb.pf.           prn.   sm.
+\cls $         $     b                $      b
+\gD wie       же  schicken         ich    Vater
+
+
+\tx и   азь   сьлѭ     въи,
+\std и   а́зъ съл҄ѭ́ вꙑ
+\mrph $    n.sg.    1.sg.prs.    a.pl.
+\lm и   азъ   сълати вꙑ
+\PoS prn. prn.     vb.im.       prn.
+\cls $    $        c            $
+\gD und  ich      schicken     ihr
+
+
+\ref Johannes 20.22 (As)
+
+\tx и   се       рекъ            доунѫ
+\std и   се       ре́къ          доу́нѫ
+\mrph $    a.sg.n.    prc.prt.act.n.sg.m. 3.sg.aor.
+\lm и   сь       рещи            доунѫти
+\PoS prn. pron.      vb.pf.              vb.pf.
+\cls $    $          c
+\gD und  diese(r,s) reden               hauchen
+
+
+\tx и   г҃л҃а         имъ    приимѣте   д҃х҃ъ҃ с҃т҃ь,
+\std и   глаго́ла   и́мъ  приимѣ́те доу́хъ свѧ́тъ
+\mrph $    3.sg.aor.          d.pl.m.   2.pl.imp.          a.sg.        a.sg.m.
+\lm и   глаголати и        приѩти       доухъ   свѧтъ
+\PoS prn. vb.                prn.      vb.pf.             sm.          adj.
+\cls $    a                  $         b                  c            c
+\gD und  sprechen           er,sie,es empfangen          Geist        heilig
+
+
+\ref Johannes 20.23 (As)
+
+\tx и   имьже             оⷮпоустіте    грѣхꙑ
+\std и   и́мъ    же       отъпоу́стите грѣхꙑ́
+\mrph $    d.pl.m.     $          2.pl.prs.                a.pl.
+\lm и   и          же       отъпоустити   грѣхъ
+\PoS prn. prn.        part.      vb.pf.                   sm.
+\cls $    $           $          c                        b
+\gD und  rel.prn.    же       entlassen                Sünde
+
+
+\tx оⷮпоустѧтъ    сѧ  имъ.
+\std отъпоу́стѧтъ сѧ  и́мъ
+\mrph 3.pl.prs.                a.    d.pl.m.
+\lm отъпоустити   сѧ  и
+\PoS vb.pf.                   prn.  prn.
+\cls c                        $     $
+\gD entlassen                pass. er,sie,es
+
+
+\tx и   имъже             дръжіте   дръжѧтъ   сѧ  имъ
+\std и   и́мъ    же       дрьжи́те дрь́жѧтъ сѧ  и́мъ
+\mrph $    d.pl.m.     $          2.pl.prs.        3.pl.prs.        a.    d.pl.m.
+\lm и   и          же       дрьжати   дрьжати   сѧ  и
+\PoS prn. prn.        part.      vb.im.           vb.im.           prn.  prn.
+\cls $    $           $          b                b                $     $
+\gD und  rel.prn.    же       halten           halten           pass. er,sie,es
+
+
+\ref Johannes 20.24 (As)
+
+\tx ѳома   же  едінъ   оⷮ  обою   на десѧте   наріцаемън    блізнець
+\std Ѳома́ же  ѥди́нъ отъ обо́ю на де́сѧте нарица́ѥмъи  близнь́ць
+\mrph n.sg.      $     a.sg.m.      $      g.du.m.    $    l.sg.          prc.prs.pass.n.sg.m.em. n.sg.
+\lm Ѳома   же  ѥдинъ   отъ оба     на десѧть   нарицати        близньць
+\PoS sm.npr.    part. num.         prp.   prn.       prp. num.           vb.                     sm.
+\cls $     b            $                 $    c
+\gD Thomas     δὲ eins         von    beide      auf  zehn           nennen                  Zwilling
+
+
+\tx не  бѣ       тоу  сь       німі
+\std не  бѣ       тоу  сь       ни́ми
+\mrph $     3.sg.impf. $       $          i.pl.m.
+\lm не  бꙑти  тоу  сь       и
+\PoS part. vb.im.     adv.    pron.      prn.
+\cls $     a          $       $          $
+\gD nicht sein       da,dort diese(r,s) er,sie,es
+
+
+\tx егда   пріде   и҃с҃
+\std ѥгда́ приде́ Исоу́съ
+\mrph $          3.sg.aor.    n.sg.
+\lm ѥгда   приити Исоусъ
+\PoS adv.       vb.pf.       sm.npr.
+\cls $          b            a
+\gD wann       kommen       Jesus
+
+
+\ref Johannes 20.25 (As)
+
+\tx г҃л҃ашѧ       емоу   дроуꙃіи   оучениці,
+\std глаго́лашѧ ѥмоу́ дроуꙃи́и оученици́
+\mrph 3.pl.aor.            d.sg.m.    n.pl.m.em.        n.pl.
+\lm глаголати   и         дроугъ      оученикъ
+\PoS vb.                  prn.       prn.              sm.
+\cls a                    $
+\gD sprechen             er,sie,es  ander             Schüler
+
+
+\tx відѣхомъ   г҃а҃,
+\std ви́дѣхомъ госпо́да
+\mrph 1.pl.aor.          a.sg.
+\lm видѣти       господь
+\PoS vb.im.             sm.
+\cls a                  c
+\gD sehen              Herr
+
+
+\tx онъ    же  рече   аще   не  віждѫ
+\std о́нъ  же  ре́че а́ще не  ви́ждѫ
+\mrph n.sg.m.   $     3.sg.aor.  $        $     1.sg.prs.
+\lm онъ    же  рещи   аще   не  видѣти
+\PoS prn.      part. vb.pf.     cnj.     part. vb.im.
+\cls $         $     c          $        $     a
+\gD er,sie,es δὲ reden      wenn,if  nicht sehen
+
+
+\tx на рѫкоу   его,   ѣзвꙑ    гвоздіинꙑѩ,
+\std на рѫкоу́ ѥго́  ꙗ́звꙑ гвозди́инꙑѩ
+\mrph $    g.du.        g.sg.     g.pl.        g.sg.f.em.
+\lm на рѫка     и        ꙗзва    гвоздиинъ
+\PoS prp. sf.          prn.      sf.          adj.
+\cls $    c            $
+\gD auf  Hand         er,sie,es Wunde        Nagel-
+
+
+\tx и   въложѫ     пръста   моего   въ ѣзвѫ    гвоздіинѫѭ,
+\std и   въложѫ́   прь́ста моѥго́ въ ꙗ́звѫ гвозди́инѫѭ
+\mrph $    1.sg.prs.        g.sg.          g.sg.m.      $    a.sg.       a.sg.f.em.
+\lm и   въложити прьстъ   мои       въ ꙗзва   гвоздиинъ
+\PoS prn. vb.pf.           sm.            prn.         prp. sf.         adj.
+\cls $                                    $            $
+\gD und  hineinlegen      Finger         mein         in   Wunde       Nagel-
+
+
+\tx и   въложѭ     рѫкѫ   моѭ   въ ребра   его,   не  имѫ    вѣрꙑ,
+\std и   въложѫ́   рѫ́кѫ моѭ́ въ ребра́ ѥго́  не  имѫ́  вѣ́рꙑ
+\mrph $    1.sg.prs.        a.sg.      a.sg.f.  $    a.pl.        g.sg.     $     1.sg.prs. g.sg.
+\lm и   въложити рѫка   мои   въ ребро   и        не  ѩти    вѣра
+\PoS prn. vb.pf.           sf.        prn.     prp. sn.          prn.      part. vb.pf.    sf.
+\cls $                     c          $        $                 $         $               a
+\gD und  hineinlegen      Hand       mein     in   Rippe        er,sie,es nicht nehmen    Glauben
+
+
+\ref Johannes 20.26 (As)
+
+\tx и   по осмі   день   пакꙑ   бѣахѫ   оученици   его
+\std и   по осми́ дьнь́ па́кꙑ бѣ́ахѫ оученици́ ѥго́
+\mrph $    $    l.pl.      g.pl.      $           3.pl.impf.   n.pl.              g.sg.
+\lm и   по осмь   дьнь   пакꙑ   бꙑти    оученикъ   и
+\PoS prn. prp. num.       sm.        adv.        vb.im.       sm.                prn.
+\cls $    $               b          $           a                               $
+\gD und  nach acht       Tag        wieder      sein         Schüler           er,sie,es
+
+
+\tx и   ѳома   сь       німі,                           пріде   же  и҃с҃ъ
+\std и   Ѳома́ сь       ни́ми                          приде́ же  Исоу́съ
+\mrph $    n.sg.      $          $               d.sg.en. i.pl.m.    3.sg.aor.    $     n.sg.
+\lm и   Ѳома   сь       ни                     и         приити же  Исоусъ
+\PoS prn. sm.npr.    pron.      part.                    prn.       vb.pf.       part. sm.npr.
+\cls $               $          $                        $          b            $     a
+\gD und  Thomas     diese(r,s) nicht,neĩ               ich        kommen       δὲ Jesus
+
+
+\tx двьремъ   затвореномъ,  и   ста     по      срѣдѣ   ихъ
+\std двьрь́мъ затворе́номъ и   ста     по      срѣдѣ́ и́хъ
+\mrph d.pl.            prc.prt.pass.d.pl.m.     $    3.sg.aor.  $         d.sg.        g.pl.m.
+\lm двьрь       затворити       и   стати по      срѣда   и
+\PoS sf.              vb.pf.                   prn. vb.        prp.      sf.          prn.
+\cls $    a          $                      $
+\gD Tür             schließen               und  stehen     auf,über Mitte        er,sie,es
+
+
+\tx и   г҃л҃а         им      пакꙑ   міръ   вамъ,
+\std и   глаго́ла   и́мъ  па́кꙑ ми́ръ ва́мъ
+\mrph $    3.sg.aor.          d.pl.m.   $           a.sg.      d.pl.
+\lm и   глаголати и        пакꙑ   миръ   вꙑ
+\PoS prn. vb.                prn.      adv.        sm.        prn.
+\cls $    a                  $         $           c          $
+\gD und  sprechen           er,sie,es wieder      Friede     ihr
+
+
+\ref Johannes 20.27 (As)
+
+\tx потом             же  г҃л҃а         ѳомѣ   прінесі   пръстъ   твои   сѣмо
+\std по        томь́ же  глаго́ла   Ѳомѣ́ принеси́ прь́стъ твои́ сѣ́мо
+\mrph $           l.sg.n.    $     3.sg.aor.          d.sg.      2.sg.imp.        a.sg.          a.sg.      $
+\lm по        тъ       же  глаголати Ѳома   принести прьстъ   твои   сѣмо
+\PoS prp.        prn.       part. vb.                sm.npr.    vb.pf.           sm.            prn.poss.  adv.
+\cls $           $          $     a                             c                               $          $
+\gD nach        der,dieser δὲ sprechen           Thomas     herbringen       Finger         dein       hierher
+
+
+\tx и   виждъ   рѫцѣ   мои,  и   прінесі   рѫкѫ   твоѭ,
+\std и   ви́ждь рѫ́цѣ мои́ и   принеси́ рѫ́кѫ твоѭ́
+\mrph $    2.sg.imp.    a.du.      a.du.f.  $    2.sg.imp.        a.sg.      a.sg.f.
+\lm и   видѣти рѫка   мои   и   принести рѫка   твои
+\PoS prn. vb.im.       sf.        prn.     prn. vb.pf.           sf.        prn.poss.
+\cls $    a            c          $        $    c                c          $
+\gD und  sehen        Hand       mein     und  herbringen       Hand       dein
+
+
+\tx и   въложи     въ ребра   моѣ,   и   не  бѫді
+\std и   въложи́   въ ребра́ моꙗ́ и   не  бѫ́ди
+\mrph $    2.sg.imp.        $    a.pl.        a.pl.n.   $    $     3.sg.imp.
+\lm и   въложити въ ребро   мои    и   не  бꙑти
+\PoS prn. vb.pf.           prp. sn.          prn.      prn. part. vb.im.
+\cls $                     $                 $         $    $     a
+\gD und  hineinlegen      in   Rippe        mein      und  nicht sein
+
+
+\tx неневѣренъ,                        нъ  вѣренъ,
+\std не                   вѣ́рьнъ        нъ  вѣ́рьнъ
+\mrph $                      n.sg.m.               $     n.sg.m.
+\lm не                   вѣрьнъ          нъ  вѣрьнъ
+\PoS part.                  adj.                  adv.  adj.
+\cls $                                            $
+\gD nicht                  gläubig              jetzt gläubig
+
+
+\ref Johannes 20.28 (As)
+
+\tx ѡтъвѣщавъ   же  ѳома   рече   емоу,  г҃ь҃         мои   б҃ъ҃   мои,
+\std отъвѣща́въ же  Ѳома́ ре́че ѥмоу́ госпо́дь мо́и бо́гъ мои́
+\mrph prc.prt.act.n.sg.m.  $     n.sg.      3.sg.aor.  d.sg.m.    n.sg.            n.sg.m.  n.sg.      n.sg.m.
+\lm отъвѣщати   же  Ѳома   рещи   и         господь   мои   богъ   мои
+\PoS vb.im.               part. sm.npr.    vb.pf.     prn.       sm.              prn.     sm.        prn.
+\cls $                c          $          c                $        c          $
+\gD antworten            δὲ Thomas     reden      er,sie,es  Herr             mein     Gott       mein
+
+
+\ref Johannes 20.29 (As)
+
+\tx г҃л҃а         емоу   и҃с҃ъ,    ѣко    відѣвъ        мѧ   вѣрова,
+\std глаго́ла   ѥмоу́ Исоу́съ ꙗ́ко ви́дѣвъ      мѧ   вѣ́рова
+\mrph 3.sg.aor.          d.sg.m.    n.sg.          $         prc.prt.act.n.sg.m. a.sg.  2.sg.aor.
+\lm глаголати и         Исоусъ   ꙗко   видѣти        азъ вѣровати
+\PoS vb.                prn.       sm.npr.        adv.      vb.im.              prn.   vb.
+\cls a                  $          a              $         a                   $
+\gD sprechen           er,sie,es  Jesus          dass      sehen               ich    glauben
+
+
+\tx блажені       не  відѣвъшіи     и   вѣровавшіи,
+\std блаже́ни     не  ви́дѣвъшии   и   вѣ́ровавъшии
+\mrph prc.prt.pass.n.pl.m. $     prc.prt.act.n.pl.m.em. $    prc.prt.act.n.pl.m.em.
+\lm блажити       не  видѣти           и   вѣровати
+\PoS vb.pf.               part. vb.im.                 prn. vb.
+\cls b?                   $     a                      $
+\gD heiligen,segnen      nicht sehen                  und  glauben
+
+
+\ref Johannes 20.30 (As)
+
+\tx многа     же  знаменіѣ    сътворі     и҃с҃ъ     прѣдь     оученікꙑ   своимі,                               
+\std мъно́га же  знаме́ниꙗ сътвори́   Исоу́съ прѣ́дъ   оученикꙑ́ свои́ми                               
+\mrph n.pl.n.        $     n.pl.               2.sg.imp.          n.sg.          $              a.pl.               a.sg.m.               d.sg.en. a.sg.m.               d.sg.en.
+\lm мъногъ   же  знамениѥ    сътворити Исоусъ   прѣдъ     оученикъ    свои                       азъ
+\PoS prn.           part. sn.                 vb.pf.             sm.npr.        prp.           sm.                 prn.                           prn.
+\cls a              $     a                   c                  a              $                                  $                              $
+\gD viel           δὲ Zeichen             machen             Jesus          vor,gegenüber Schüler            sein,eigene(r,s)               ich
+
+
+\ref Johannes 20 (Ochr) Überschrift
+
+\tx ѣже          не  сѫтъ   вь новѫ   неⷣл.       ѣже          по пастѣ
+\std ꙗ      же   не  сѫ́тъ въ но́вѫ недѣ́л҄ѭ ꙗ      же   по па́стѣ
+\mrph n.pl.n.  $      $     3.pl.prs.  $    a.sg.f.    a.sg.            n.sg.f.  $      $    l.sg.
+\lm и       же   не  бꙑти  въ новъ   недѣл҄ꙗ  и       же   по пасха
+\PoS prn.     part.  part. vb.im.     prp. adj.       sf.              prn.     part.  prp. sf.
+\cls $        $      $     a          $               a                $        $      $
+\gD rel.prn. же   nicht sein       in   neu        Sonntag          rel.prn. же   nach Ostern
+
+
+\tx оⷮ  иоаⷩ    глаⷡ    с҃і҃в҃                                                                
+\std отъ Иоа́на глава́ дъвѣ́     сътѣ́     тре́тьꙗꙗ на           де́сѧте
+\mrph $      g.sg.        n.sg.        n.du.n.        n.du.          n.sg.f.em.         $              l.sg.
+\lm отъ Ноанъ   глава   дъва       съто       третьи       на           десѧть
+\PoS prp.   sm.npr.      sf.          num.           num.           adj.num.           prp.           num.
+\cls $                   c            $                                                $              c
+\gD von    Johannes     Kapitel      zwei           hundert        dritter            auf            zehn
+
+
+\ref Johannes 20.19 (Ochr)
+
+\tx сѫшті          поздѣ   въ тъ       денъ,  вь едінѫ   сѫбот*
+\std сѫ́щи          по́здѣ въ тъ       дь́нь въ ѥдинѫ́ сѫбо́тѫ
+\mrph prc.prs.act.n.sg.f. l.sg.        $    a.sg.m.    n.sg.m.    $    a.sg.f.      a.sg.
+\lm бꙑти           поздѣ   въ тъ       дьнь   въ ѥдинъ   сѫбота
+\PoS vb.im.              adv.         prp. prn.       sm.        prp. num.         sf.
+\cls a                   $            $    $          b          $    b
+\gD sein                spät        in   der,dieser Tag        in   eins         Samstag
+
+
+\tx і   двъремъ   заренамъ,
+\std и   двьрь́мъ затворе́намъ
+\mrph $    d.pl.            prc.prt.pass.d.pl.f.
+\lm и   двьрь       затворити
+\PoS prn. sf.              vb.pf.
+\cls $
+\gD und  Tür             schließen
+
+
+\tx идеже             бѣхѫ     оученци     с*бърані,
+\std иде      же       бѣ́ахѫ оученици́ съ́бьрани
+\mrph $           $          3.pl.impf.   n.pl.              prc.prt.pass.n.pl.m.
+\lm иде      же       бꙑти    оученикъ   събьрати
+\PoS adv.        part.      vb.im.       sm.                vb.pf.
+\cls $           $          a
+\gD da          же       sein         Schüler           versammeln
+
+
+\tx за страхъ   июдѣискъ,  пріде   и҃с҃*
+\std за стра́хъ июдѣ́искъ приде́ Исоу́съ
+\mrph $    a.sg.          a.sg.m.            3.sg.aor.    n.sg.
+\lm за страхъ   июдѣискъ   приити Исоусъ
+\PoS prp. sm.            adv.               vb.pf.       sm.npr.
+\cls $    c              $                  b            a
+\gD für Furcht         Juden-             kommen       Jesus
+
+
+\tx і   ста     по срѣдѣ,
+\std и   ста     по срѣдѣ́
+\mrph $    3.sg.aor.  $    d.sg.
+\lm и   стати по срѣда
+\PoS prn. vb.        prp. sf.
+\cls $    a          $
+\gD und  stehen          Mitte
+
+
+\tx і   г҃л҃а         имъ,   міръ   вамъ,
+\std и   глаго́ла   и́мъ  ми́ръ ва́мъ
+\mrph $    3.sg.aor.          d.pl.m.   a.sg.      d.pl.
+\lm и   глаголати и        миръ   вꙑ
+\PoS prn. vb.                prn.      sm.        prn.
+\cls $    a                  $         c          $
+\gD und  sprechen           er,sie,es Friede     ihr
+
+
+\ref Johannes 20.20 (Ochr)
+
+\tx і   рекъ,           показа     имъ
+\std и   ре́къ          показа́   и́мъ
+\mrph $    prc.prt.act.n.sg.m. 3.sg.aor.        d.pl.m.
+\lm и   рещи            показати и
+\PoS prn. vb.pf.              vb.pf.           prn.
+\cls $    c                                    $
+\gD und  reden               zeigen           er,sie,es
+
+
+\tx рѫцѣ   и   ноꙃѣ,  и   ребра   св*
+\std рѫ́цѣ и   но́ꙃѣ и   ребра́ своꙗ́
+\mrph a.du.      $    a.du.       $    a.pl.        a.pl.n.
+\lm рѫка   и   нога    и   ребро   свои
+\PoS sf.        prn. sf.         prn. sn.          prn.
+\cls c          $    c           $                 $
+\gD Hand       und  Bein,Fuß   und  Rippe        sein,eigene(r,s)
+
+
+\tx вьздрадовашѧ   же  сѧ оученіці   видѣвъше    г҃д҃ѣ
+\std въздра́довашѧ же  сѧ оученици́ ви́дѣвъше  го́сподꙗ
+\mrph 3.pl.aor.                  $     a.   n.pl.              prc.prt.act.n.pl.m. a.sg.
+\lm възра́довати   же  сѧ оученикъ   видѣти        господь
+\PoS vb.pf.                     part. prn. sm.                vb.im.              sm.
+\cls $     $                       a                   c
+\gD sich freuen                δὲ med. Schüler           sehen               Herr
+
+
+\ref Johannes 20.21 (Ochr)
+
+\tx рече   имъ    пакꙑ,  миръ   вамъ,
+\std ре́че и́мъ  па́кꙑ ми́ръ ва́мъ
+\mrph 3.sg.aor.  d.pl.m.   $           a.sg.      d.pl.
+\lm рещи   и        пакꙑ   миръ   вꙑ
+\PoS vb.pf.     prn.      adv.        sm.        prn.
+\cls c          $         $           c          $
+\gD reden      er,sie,es wieder      Friede     ihr
+
+
+\tx ѣко    же  посъла     м*    о҃ц҃ь,
+\std ꙗ́ко же  посъла́   мѧ   оть́ць
+\mrph $         $     3.sg.aor.        a.sg.  n.sg.
+\lm ꙗко   же  посълати азъ отьць
+\PoS adv.      part. vb.pf.           prn.   sm.
+\cls $         $     b                $      b
+\gD wie       же  schicken         ich    Vater
+
+
+\tx и   азъ   посълѭ     вꙑ,
+\std и   а́зъ посъл҄ѭ́ вꙑ
+\mrph $    n.sg.    1.sg.aor.        a.pl.
+\lm и   азъ   посълати вꙑ
+\PoS prn. prn.     vb.pf.           prn.
+\cls $    $        b                $
+\gD und  ich      schicken         ihr
+
+
+\ref Johannes 20.22 (Ochr)
+
+\tx і   се рекъ            доуноу,
+\std и   се ре́къ          доу́нѫ
+\mrph $    $    prc.prt.act.n.sg.m. 3.sg.aor.
+\lm и   се рещи            доунѫти
+\PoS prn. adv. vb.pf.              vb.pf.
+\cls $    $    c
+\gD und  ecce reden               hauchen
+
+
+\tx і   г҃҃л҃*        імъ,   пріимѣте   д҃х҃ъ   с҃т҃ъ,
+\std и   глаго́ла   и́мъ  приимѣ́те доу́хъ свѧ́тъ
+\mrph $    3.sg.aor.          d.pl.m.   2.pl.imp.          a.sg.        a.sg.m.
+\lm и   глаголати и        приѩти       доухъ   свѧтъ
+\PoS prn. vb.                prn.      vb.pf.             sm.          adj.
+\cls $    a                  $         b                  c            c
+\gD und  sprechen           er,sie,es empfangen          Geist        heilig
+
+
+\ref Johannes 20.23 (Ochr)
+
+\tx і   имъже             отъпоуст*те    грѣхꙑ,
+\std и   и́мъ    же       отъпоу́стите грѣхꙑ́
+\mrph $    d.pl.m.     $          2.pl.prs.                a.pl.
+\lm и   и          же       отъпоустити   грѣхъ
+\PoS prn. prn.        part.      vb.pf.                   sm.
+\cls $    $           $          c                        b
+\gD und  er,sie,es   же       entlassen                Sünde
+
+
+\tx отъпоустѧтъ   сѧ  вамъ,
+\std отъпоу́стѧтъ сѧ  ва́мъ
+\mrph 3.pl.prs.                a.    d.pl.
+\lm отъпоустити   сѧ  вꙑ
+\PoS vb.pf.                   prn.  prn.
+\cls c                        $     $
+\gD entlassen                pass. ihr
+
+
+\tx і   имъ*          дръжіте,  дръжѧтъ   сѧ,
+\std и   и́мъ же    дрьжи́те дрь́жѧтъ сѧ
+\mrph $    d.pl.m.  $       2.pl.prs.        3.pl.prs.        a.
+\lm и   и       же    дрьжати   дрьжати   сѧ
+\PoS prn. prn.     part.   vb.im.           vb.im.           prn.
+\cls $    $        $       b                b                $
+\gD und  rel.prn. же    halten           halten           pass.
+
+
+\ref Johannes 20.24 (Ochr)
+
+\tx тома   же  единъ   о*    обою   на десѧте,
+\std Ѳома́ же  ѥди́нъ отъ обо́ю на де́сѧте
+\mrph n.sg.      $     a.sg.m.      $      g.du.m.    $    l.sg.
+\lm Ѳома   же  ѥдинъ   отъ оба     на десѧть
+\PoS sm.npr.    part. num.         prp.   prn.       prp. num.
+\cls $     b            $                 $    c
+\gD Thomas     δὲ eins         von    beide      auf  zehn
+
+
+\tx нарищаемꙑи   блізнец*    не  бѣ       съ
+\std нарица́ѥмъи  близнь́ць не  бѣ       съ
+\mrph prc.prs.pass.n.sg.m.em. n.sg.              $     3.sg.impf. $
+\lm нарицати        близньць   не  бꙑти  съ
+\PoS vb.                     sm.                part. vb.im.     prp.
+\cls $     a          $
+\gD nennen                  Zwilling           nicht sein       mit
+
+
+\tx німи,                           егда   пріде   и҃с҃ъ,
+\std ни́ми                          ѥгда́ приде́ Исоу́съ
+\mrph $               d.sg.en. i.pl.m.    $          3.sg.aor.    n.sg.
+\lm ни                     и         ѥгда   приити Исоусъ
+\PoS part.                    prn.       adv.       vb.pf.       sm.npr.
+\cls $                        $          $          b            a
+\gD nicht,neĩ               ich        wann       kommen       Jesus
+
+
+\ref Johannes 20.25 (Ochr)
+
+\tx г҃л҃ахѫ         же  дроуꙃіи   оученіці,  відѣхомъ   г҃ѣ҃,
+\std глаго́лаахѫ же  дроуꙃи́и оученици́ ви́дѣхомъ госпо́дꙗ
+\mrph 3.pl.impf.             $     n.pl.m.em.        n.pl.              1.pl.aor.          a.sg.
+\lm глаголати     же  дроугъ      оученикъ   видѣти       господь
+\PoS vb.                    part. prn.              sm.                vb.im.             sm.
+\cls a                      $                                          a                  c
+\gD sprechen               δὲ ander             Schüler           sehen              Herr
+
+
+\tx онъ    же  *че      імъ,   аще   не  віждѫ
+\std о́нъ  же  ре́че и́мъ  а́ще не  ви́ждѫ
+\mrph n.sg.m.   $     3.sg.aor.  d.pl.m.   $        $     1.sg.prs.
+\lm онъ    же  рещи   и        аще   не  видѣти
+\PoS prn.      part. vb.pf.     prn.      cnj.     part. vb.im.
+\cls $         $     c          $         $        $     a
+\gD er,sie,es же  reden      er,sie,es wenn,if  nicht sehen
+
+
+\tx на рѫкоу   его    ѣзв**     *здінꙑѩ,
+\std на рѫкоу́ ѥго́  ꙗ́звꙑ гвозди́инꙑѩ
+\mrph $    g.du.        g.sg.     n.pl.        a.pl.f.em.
+\lm на рѫка     и        ꙗзва    гвоздиинъ
+\PoS prp. sf.          prn.      sf.          adj.
+\cls $    c            $
+\gD auf  Hand         er,sie,es Wunde        Nagel-
+
+
+\tx і   въложѫ     пръстъ   мои   въ *звѫ,    гвоздиінѫѭ,
+\std и   въложѫ́   прь́стъ мо́и въ ꙗ́звѫ гвозди́инѫѭ
+\mrph $    1.sg.prs.        a.sg.          a.sg.m.  $    a.sg.       a.sg.f.em.
+\lm и   въложити прьстъ   мои   въ ꙗзва   гвоздиинъ
+\PoS prn. vb.pf.           sm.            prn.     prp. sf.         adj.
+\cls $                                    $        $
+\gD und  hineinlegen      Finger         mein     in   Wunde       Nagel-
+
+
+\tx і   въложѫ     рѫкѫ   м*      въ ребра   его,   не
+\std и   въложѫ́   рѫ́кѫ моѭ́ въ ребра́ ѥго́  не
+\mrph $    1.sg.prs.        a.sg.      a.sg.f.  $    a.pl.        g.sg.     $
+\lm и   въложити рѫка   мои   въ ребро   и        не
+\PoS prn. vb.pf.           sf.        prn.     prp. sn.          prn.      part.
+\cls $                     c          $        $                 $         $
+\gD und  hineinlegen      Hand       mein     in   Rippe        er,sie,es nicht
+
+
+\ref Johannes 20.26 (Ochr)
+
+\tx *імъ   ми*      вамъ,
+\std и́мъ  ми́ръ ва́мъ
+\mrph d.pl.m.   a.sg.      d.pl.
+\lm и        миръ   вꙑ
+\PoS prn.      sm.        prn.
+\cls $         c          $
+\gD er,sie,es Friede     ihr
+
+
+\ref Johannes 20.27 (Ochr)
+
+\tx помь             г҃л҃а         томѣ,  прінеси   *ръстъ    твои   сѣмо,
+\std по      томь́ глаго́ла   Ѳомѣ́ принеси́ прь́стъ твои́ сѣ́мо
+\mrph $         l.sg.n.    3.sg.aor.          d.sg.      2.sg.imp.        a.sg.          a.sg.      $
+\lm по      тъ       глаголати Ѳома   принести прьстъ   твои   сѣмо
+\PoS prp.      prn.       vb.                sm.npr.    vb.pf.           sm.            prn.poss.  adv.
+\cls $         $          a                             c                               $          $
+\gD nach      der,dieser sprechen           Thomas     herbringen       Finger         dein       hierher
+
+
+\tx і   віждъ   рѫцѣ   моі,  і   прінесі   рѫкѫ   твоѭ,
+\std и   ви́ждь рѫ́цѣ мои́ и   принеси́ рѫ́кѫ твоѭ́
+\mrph $    2.sg.imp.    a.du.      a.du.f.  $    2.sg.imp.        a.sg.      a.sg.f.
+\lm и   видѣти рѫка   мои   и   принести рѫка   твои
+\PoS prn. vb.im.       sf.        prn.     prn. vb.pf.           sf.        prn.poss.
+\cls $    a            c          $        $    c                c          $
+\gD und  sehen        Hand       mein     und  herbringen       Hand       dein
+
+
+\tx і   вьложі     вь ребра   моѣ,
+\std и   въложи́   въ ребра́ моꙗ́
+\mrph $    2.sg.imp.        $    a.pl.        a.pl.n.
+\lm и   въложити въ ребро   мои
+\PoS prn. vb.pf.           prp. sn.          prn.
+\cls $                     $                 $
+\gD und  hineinlegen      in   Rippe        mein
+
+
+\tx іне         бѫді                                                            невѣренъ, нъ    вѣренъ,
+\std и      не   бѫ́дине                                            вѣ́рьнъ              нъ    вѣ́рьнъ
+\mrph $       $      3.sg.imp. $                  3.sg.imp. $                  n.sg.m.                     $       n.sg.m.
+\lm и      не   бꙑти                    не                         вѣрьнъ                нъ    вѣрьнъ
+\PoS prn.    part.  vb.im.                       part.                        adj.                        adv.    adj.
+\cls $       $      a                            $                                                        $
+\gD und     nicht  sein                         nicht                        gläubig                    sondern gläubig
+
+
+\ref Johannes 20.28 (Ochr)
+
+\tx отъвѣща     тома,  і   *ече    емоу,  г҃ь҃         мои   б҃ъ҃   моі,
+\std отъвѣща́   Ѳома́ и   ре́че ѥмоу́ госпо́дь мо́и бо́гъ мои́
+\mrph 3.sg.aor.          n.sg.      $    3.sg.aor.  d.sg.m.    n.sg.            n.sg.m.  n.sg.      n.sg.m.
+\lm отъвѣщати Ѳома   и   рещи   и         господь   мои   богъ   мои
+\PoS vb.im.             sm.npr.    prn. vb.pf.     prn.       sm.              prn.     sm.        prn.
+\cls $    c          $          c                $        c          $
+\gD antworten          Thomas     und  reden      er,sie,es  Herr             mein     Gott       mein
+
+
+\ref Johannes 20.29 (Ochr)
+
+\tx г҃л҃а         емоу   і҃с҃ъ,    ѣко    відѣвъ        мѧ   вѣрова,
+\std глаго́ла   ѥмоу́ Исоу́съ ꙗ́ко ви́дѣвъ      мѧ   вѣ́рова
+\mrph 3.sg.aor.          d.sg.m.    n.sg.          $         prc.prt.act.n.sg.m. a.sg.  2.sg.aor.
+\lm глаголати и         Исоусъ   ꙗко   видѣти        азъ вѣровати
+\PoS vb.                prn.       sm.npr.        adv.      vb.im.              prn.   vb.
+\cls a                  $          a              $         a                   $
+\gD sprechen           er,sie,es  Jesus          dass      sehen               ich    glauben
+
+
+\tx блажени       невѣдѣвъшеі,                          и   вѣровавъшеі,
+\std блаже́ни     не                     ви́дѣвъшеи    и   вѣ́ровавъшеи
+\mrph prc.prt.pass.n.pl.m. $                        prc.prt.act.n.pl.m.em.  $    prc.prt.act.n.pl.m.em.
+\lm блажити       не                     видѣти            и   вѣровати
+\PoS vb.pf.               part.                    vb.im.                  prn. vb.
+\cls b?                   $                        a                       $
+\gD heiligen,segnen      nicht                    sehen                   und  glauben
+
+
+\id JH_4
+
+\ref Johannes 04.05
+
+\tx Въ оно    [врѣмѧ] въниде   исоусъ въ градъ   самареискъ
+\std въ оно    врѣмѧ   въниде́ Исоусъ въ гра́дъ самареискъ
+\mrph $    a.sg.n.   a.sg.        3.sg.aor.      n.sg.        $    a.sg.        a.sg.m.
+\lm въ онъ    врѣмѧ   вънити   Исоусъ въ градъ   самареискъ
+\PoS prp. prn.      sn.          vb.pf.         sm.npr.      prp. sm.          adj.
+\cls $    $         c                           a            $
+\gD in   jene(r,s) Zeit         hineingehen    Jesus        in   Stadt        samaritisch
+
+
+\tx наріцаемъи    соухарь искрь въсі, ѭже          дастъ иаковь
+\std нарицаѥмꙑи   Сѵхарь   искрь вьси  ѭ       же   дастъ Иꙗковъ
+\mrph prc.prs.pass.a.sg.m.em. n.sg.          $          g.sg.     a.sg.f.  $      3.sg.aor.  sm.npr.
+\lm нарицати        Сѵхарь   искрь вьсь  и       же   дати   Иꙗковъ
+\PoS vb.                     sm.npr.        adv.       sf.       prn.     part.  vb.        sm.npr.
+\cls $                    $        $      c
+\gD nennen                  Sichem         nah        Dorf      rel.prn. же   geben      Jakob
+
+
+\tx иосіфоу   съіноу своемоу.
+\std Ио́сифоу сꙑноу  своѥмоу
+\mrph d.sg.            d.sg.        d.sg.m.
+\lm Иосифъ     сꙑнъ    свои
+\PoS sm.npr.          sm.          prn.
+\cls $
+\gD Joseph           Sohn         sein,eigene(r,s)
+
+
+\ref Johannes 04.06
+
+\tx бѣ       же  тоу  стоуденець иаковль.
+\std бѣ       же  тоу  стоуденьць иꙗковль
+\mrph 3.sg.impf. $     $       n.sg.                n.sg.m.
+\lm бꙑти  же  тоу  стоуденьць иꙗковль
+\PoS vb.im.     part. adv.    sm.                  adj.
+\cls a          $     $
+\gD sein       же  da,dort Quelle               Jakob-
+
+
+\tx Исоусъ же  троуждъ      сѧ  отъ пѫти
+\std Исоусъ же  троу́ждь    сѧ  отъ пѫти
+\mrph n.sg.        $     prc.prt.act.n.sg.m. a.    $      g.sg.
+\lm Исоусъ же  троудити    сѧ  отъ пѫть
+\PoS sm.npr.      part. vb.                 prn.  prp.   sm.
+\cls a            $                         $     $      b
+\gD Jesus        же                      refl. von    Pfad
+
+
+\tx сѣдѣаше тако   на стоуденци.
+\std сѣдѣаше та́ко на стоуденьци
+\mrph 3.sg.impf.     $          $    l.sg.
+\lm сѣдѣти   тако   на стоуденьць
+\PoS vb.im.         adv.       prp. sm.
+\cls c              $          $
+\gD sitzen         so         auf  Quelle
+
+
+\tx годіна же  бѣ       ѣко    шестаа.
+\std година же  бѣ       ꙗ́ко шестаꙗ
+\mrph n.sg.        $     3.sg.impf. $         n.sg.f.em.
+\lm година же  бꙑти  ꙗко   шестъ
+\PoS sf.          part. vb.im.     adv.      adj.num.
+\cls $     a          $
+\gD Stunde       же  sein       wie       sechste(r,s)
+
+
+\ref Johannes 04.07
+
+\tx И   пріде   жена   отъ самариѩ  почръпатъ водъі.
+\std и   приде́ жена́ отъ самариѩ  почрьпатъ водꙑ
+\mrph $    3.sg.aor.    n.sg.      $      g.sg.           sup.               g.sg.
+\lm и   приити жена   отъ самариꙗ почрьпати вода
+\PoS prn. vb.pf.       sf.        prp.   sf.             vb.                sf.
+\cls $    b            b          $
+\gD und  kommen       Ehefrau    von    Samarien        schöpfen          Wasser
+
+
+\tx глагола     еи      исоусъ: даждъ ми     піті.
+\std глаго́ла   ѥ́и    Исоусъ  даждь ми     пити
+\mrph 3.sg.aor.          d.sg.f.   n.sg.         2.sg.imp.  d.sg.en. inf.
+\lm глаголати и        Исоусъ  дати   азъ   пити
+\PoS vb.                prn.      sm.npr.       vb.        prn.     vb.
+\cls a                  $         a             c          $
+\gD sprechen           er,sie,es Jesus         geben      ich      trinken
+
+
+\ref Johannes 04.08
+
+\tx оученици   бо его    ошьлі    бѣахѫ   въ градъ,
+\std оученици́ бо ѥго́  ошьли    бѣ́ахѫ въ градъ
+\mrph n.pl.              $    g.sg.     prc.prf.pl.m. 3.pl.impf.   $    a.sg.
+\lm оученикъ   бо и        обити    бꙑти    въ градъ
+\PoS sm.                cnj. prn.      vb.           vb.im.       prp. sm.
+\cls $    $         b             a            $
+\gD Schüler           denn er,sie,es verlassen     sein         in   Stadt
+
+
+\tx да брашъна   коупѧтъ.
+\std да бра́шъна коупѧтъ
+\mrph $    a.pl.            3.sg.prs.
+\lm да брашъно   коупити
+\PoS cnj. sn.              vb.pf.
+\cls $
+\gD dass Essen            kaufen
+
+
+\id LK_2
+
+\ref Lukas 2 (As) Überschrift
+
+\tx мⷺц҃а    дⷧе           и҃г҃                                                             
+\std мѣ́сѧца декѧбрꙗ́ дъвадесѧ́тьнъи и         четврь́тъи дь́нь
+\mrph g.sg.          g.sg.             n.sg.m.em.                   $          n.sg.m.em.           n.sg.m.
+\lm мѣсѧць   декѧбрь    дъвадесѧтьнъ     и         четврьтъ     дьнь
+\PoS sm.            sm.               adj.num.ord.                 prn.       adj.num.ord.         sm.
+\cls a                                                             $          a                    b
+\gD Monat          Dezember          zwanzigster                  und        vierter              Tag
+
+
+\tx вь навечерие   родства     х҃ва
+\std въ навече́риѥ родьства́ хрьсто́ва
+\mrph $    n.sg.                g.sg.              g.sg.n.
+\lm въ навечериѥ   родьство   хрьстовъ
+\PoS prp. sn.                  sn.                adj.
+\cls $    a                    a
+\gD in   Vorabend             Geburt             christlich
+
+
+\tx евђа              ѡⷮ  лоуⷦ     глаⷡ    в҃
+\std еванђе́лиꙗ отъ Лоу́кꙑ глава́ вътора́ꙗ
+\mrph g.sg.                 $      g.sg.         n.sg.        n.sg.f.em.
+\lm еванђелиѥ    отъ Лоука    глава   въторъ
+\PoS sn.                   prp.   sm.npr.       sf.          adj.num.ord.
+\cls a                     $                    c            ???
+\gD Evangelium            von    Lukas         Kapitel      zweiter
+
+
+\ref Lukas 2.01
+
+\tx въ оноⷡ               нзіде   заповѣ       отъ кесарѣ    авгоста,
+\std въ оно́   врѣ́мѧ изиде́ за́повѣдь отъ ке́сарꙗ А́вгоуста
+\mrph $    a.sg.n.    a.sg.        3.sg.aor.    n.sg.              $      g.sg.           g.sg.
+\lm въ онъ     врѣмѧ   изити   заповѣдь   отъ кесарь    Авгоустъ
+\PoS prp. prn.       sn.          vb.          sf.                prp.   sm.             sm.npr.
+\cls $    $          c                                            $
+\gD in   jene(r,s)  Zeit         ausgehen     Gebot              von    Kaiser          Augustus
+
+
+\tx напісаті   всѫ     вьселенѫѭ,
+\std написа́ти вьсѫ́ въселе́нѫѭ
+\mrph inf.               a.sg.f.    a.sg.
+\lm написати   вьсь   въселенаꙗ
+\PoS vb.                prn.       sf.
+\cls 
+\gD aufschreiben       all,ganz   Welt
+
+
+\ref Lukas 2.02
+
+\tx се напісаніе   пръвое   бꙑⷭ,
+\std се написа́ниѥ прь́воѥ бꙑ́стъ
+\mrph n.sg.                n.sg.n.em.     3.sg.aor.
+\lm написаниѥ   прьвъ     бꙑти
+\PoS sn.                  adj.           vb.im.
+\cls a                                   a
+\gD Zählung             erste(r,s)     sein
+
+
+\tx владѫщоу    соуріеѭ коуріниеѭ
+\std владѫ́щоу  Сѵри́ѥѭ Кѵрини́ю
+\mrph prc.prs.act.d.sg.m. i.sg.          d.sg.
+\lm власти        Сѵриꙗ    Кѵринии
+\PoS vb.                 sf.npr.        sm.npr.
+\cls 
+\gD herrschen           Syrien         Quirinius
+
+
+\ref Lukas 2.03
+
+\tx и   идѣахѫ   вьсі   напісатъ   сѧ,
+\std и   идѣ́ахѫ вьси́ написа́тъ сѧ
+\mrph $    3.pl.impf.     n.pl.m.    sup.               a.
+\lm и   ити         вьсь   написати   сѧ
+\PoS prn. vb.im.         prn.       vb.                prn.
+\cls $    b                                            $
+\gD und  gehen          all,ganz   aufschreiben       refl.
+
+
+\tx кьждо     въ свои         градъ.
+\std къ́жьдо въ свои         гра́дъ
+\mrph n.sg.m.        $    a.sg.m.          a.sg.
+\lm къжьдо   въ свои         градъ
+\PoS pron.          prp. prn.             sm.
+\cls $              $    $
+\gD jede(r,s)      in   sein,eigene(r,s) Stadt
+
+
+\ref Lukas 2.04
+
+\tx вьзіде   же  носіфь   ѡⷮ  галілеѧ   и   града   иазаретьска
+\std възиде́ же  Ио́сифъ отъ Галиле́ѩ и   гра́да наꙅаре́тьска
+\mrph 3.sg.aor.      $     n.sg.          $      g.sg.            $    g.sg.        g.sg.m.
+\lm възити   же  Иосифъ   отъ Галилеꙗ  и   градъ   наꙅаретьскъ
+\PoS vb.            part. sm.npr.        prp.   sf.npr.          prn. sm.          adj.
+\cls $                    $                       $
+\gD losgehen       же  Joseph         von    Galilea          und  Stadt        Nazareth-
+
+
+\tx вь нюдеѭ   вь градъ   ддвъ,
+\std въ Июде́ѭ въ гра́дъ давꙑ́довъ
+\mrph $    a.sg.        $    a.sg.        a.sg.m.
+\lm въ Июдеꙗ  въ градъ   давꙑдовъ
+\PoS prp. sf.npr.      prp. sm.          adj.
+\cls $                 $
+\gD in   Judea        in   Stadt        von David
+
+
+\tx іже          наріцаетъ   сѧ  віѳлеемь,
+\std и       же   нарица́ѥтъ сѧ  Виѳлее́мъ
+\mrph $        $      3.sg.prs.            a.    n.sg.
+\lm и       же   нарицати     сѧ  Виѳлеемъ
+\PoS prn.     part.  vb.                  prn.  sm.npr.
+\cls $        $                           $
+\gD rel.prn. же   nennen               refl. Bethlehem
+
+
+\tx зане   вѣаше   оⷮ  домоу   и   отчствіѣ        ддова,
+\std зане́ бѣ́аше отъ до́моу и   о́тьчьствиꙗ давꙑ́дова
+\mrph $          3.sg.impf.   $      g.sg.        $    g.sg.                   g.sg.
+\lm зане   бꙑти    отъ домъ     и   отьчьствиѥ    давꙑдовъ
+\PoS cnj.       vb.im.       prp.   sm.          prn. sn.                     adj.
+\cls a            $                   $    a
+\gD weil       sein         von    Haus         und  Familie                 von David
+
+
+\ref Lukas 2.05
+
+\tx напісатъ   сѧ  съ маріеѭ   обрѫчеиѫѭ      емоу   женоѭ,
+\std написа́тъ сѧ  съ Мари́ѥѭ обрѫче́нѫѭ    ѥмоу́ жено́ѭ
+\mrph sup.               a.    $    i.sg.          prc.prt.pass.i.sg.f.em. d.sg.      i.sg.
+\lm написати   сѧ  съ Мариꙗ    обрѫчити        и         жена
+\PoS vb.                prn.  prp. sf.npr.        vb.                     prn.       sf.
+\cls $     $                                           $          b
+\gD aufschreiben       refl. mit  Maria          verheiraten             er,sie,es  Ehefrau
+
+
+\tx сѫштеѭ        непраздъноѭ,
+\std сѫщеѭ          непра́здьноѭ
+\mrph prc.prs.act.i.sg.f. i.sg.f.
+\lm бꙑти           непраздьнъ
+\PoS vb.im.              adj.
+\cls a
+\gD sein                schwanger
+
+
+\ref Lukas 2.06
+
+\tx бꙑⷭ      же  егда   бꙑсте   тоу,
+\std бꙑ́стъ же  ѥгда́ бꙑ́сте тоу
+\mrph 3.sg.aor.     $     $          2.du.aor.     $
+\lm бꙑти     же  ѥгда   бꙑти     тоу
+\PoS vb.im.        part. adv.       vb.im.        adv.
+\cls a             $     $          a             $
+\gD sein          же  wann       sein          da,dort
+
+
+\tx исплънишѧ   сѧ  дение   да родітъ,
+\std исплъ́нишѧ сѧ  дь́ньѥ да роди́тъ
+\mrph 3.pl.aor.            a.    n.pl.        $    sup.
+\lm исплънити   сѧ  дьнь     да родити
+\PoS vb.                  prn.  sm.          cnj. vb.pf.
+\cls a                    $     b            $
+\gD erfüllen            refl. Tag          dass gebären
+
+
+\ref Lukas 2.07
+
+\tx и   роді     снъ      свои         пръвѣнець,
+\std и   роди́   сꙑ́нъ свои         прь́вѣньць
+\mrph $    3.sg.aor.    a.sg.       a.sg.m.          a.sg.
+\lm и   родити сꙑнъ   свои         прьвѣньць
+\PoS prn. vb.pf.       sm.         prn.             sm.
+\cls $                             $
+\gD und  gebären     Sohn        sein,eigene(r,s) Erstgeborener
+
+
+\tx и   обитꙑ и,
+\std и   обитъ  и
+\mrph $    sup.        a.sg.m.
+\lm и   обити  и
+\PoS prn. vb.         prn.
+\cls $    b           $
+\gD und  einwickeln  er,sie,es
+
+
+\tx и   положі     и        въ ѣслехъ,
+\std и   положи́   и        въ ꙗ́сльхъ
+\mrph $    3.sg.aor.        a.sg.m.   $    l.pl.
+\lm и   положити и        въ ꙗсли
+\PoS prn. vb.              prn.      prp. sf.pl.
+\cls $    b                $         $
+\gD und  hinlegen         er,sie,es in   Krippe
+
+
+\tx зане   не  бѣ       има    мѣста   въ обитѣли,
+\std зане́ не  бѣ       има́  мѣ́ста въ оби́тѣли
+\mrph $          $     3.sg.impf. d.du.m.   g.sg.        $    l.sg.
+\lm зане   не  бꙑти  и        мѣсто   въ обитѣль
+\PoS cnj.       part. vb.im.     prn.      sn.          prp. sf.
+\cls $     a          $         a            $
+\gD weil       nicht sein       er,sie,es Ort          in   Herberge
+
+
+\ref Lukas 2.08
+
+\tx и   пастъирі  бѣахѫ   въ тоижде       странѣ
+\std и   па́стꙑри бѣ́ахѫ въ тоижде       странѣ́
+\mrph $    n.pl.             3.pl.impf.   $    l.sg.f.            l.sg.
+\lm и   пастꙑрь   бꙑти    въ тъжде         страна
+\PoS prn. sm.               vb.im.       prp. prn.               sf.
+\cls $                      a            $
+\gD und  Schäfer          sein         in   der-,die-,dasselbe Gegend
+
+
+\tx бъдѧще        и   стрѣгѫще    стражѫ   нощьнѫѭ   о    стадѣ   своемъ,
+\std бъ́дѧще      и   стрѣ́гѫще  стра́жѫ но́щьнѫѭ о    ста́дѣ своѥ́мь
+\mrph prc.prs.act.n.pl.m. $    prc.prs.act.n.pl.m. a.sg.          a.sg.f.em.       $     l.sg.        l.sg.n.
+\lm бъдѣти        и   стрѣшти      стража   нощьнъ     о    стадо   свои
+\PoS vb.                 prn. vb.                 sf.            adj.             prp.  sn.          prn.
+\cls $                                                                           $
+\gD wachen              und  hüten              Wache          nächtlich       über Herde        sein,eigene(r,s)
+
+
+\ref Lukas 2.09
+
+\tx и   се анђлъ     г҃нь             ста     вь нихъ,
+\std и   се а́нђелъ госпо́дьнь ста     въ нихъ
+\mrph $    $    n.sg.          n.sg.m.              3.sg.aor.  $    l.pl.m.
+\lm и   се анђелъ   господьнь   стати въ и
+\PoS prn. adv. sm.            adj.                 vb.        prp. prn.
+\cls $    $                                        a          $    $
+\gD und  ecce Engel          des Herren           stehen     in   er,sie,es
+
+
+\tx и   слава   г҃нѣ              осіѣ      ѧ,
+\std и   сла́ва госпо́дьнꙗ осиꙗ́   ѩ
+\mrph $    n.sg.        n.sg.f.               3.sg.aor.     a.pl.m.
+\lm и   слава   господьнь    осиꙗти и
+\PoS prn. sf.          adj.                  vb.           prn.
+\cls $    a                                                $
+\gD und  Ehre         des Herren            umleuchten    er,sie,es
+
+
+\tx и   оубоѣшѧ    сѧ  страхомъ   велиемъ,
+\std и   оубоꙗ́шѧ сѧ  стра́хомь ве́льѥмь
+\mrph $    3.pl.aor.         a.    i.sg.              i.sg.m.
+\lm и   оубоꙗти   сѧ  страхъ       вельи
+\PoS prn. vb.               prn.  sm.                adj.
+\cls $                      $     c
+\gD und  fürchten         refl. Furcht             groß
+
+
+\ref Lukas 2.10
+
+\tx и   рече   имъ    анђлъ     не  боите   сѧ,
+\std и   ре́че и́мъ  а́нђелъ не  бо́ите сѧ
+\mrph $    3.sg.aor.  d.pl.m.   n.sg.          $     2.pl.imp.    a.
+\lm и   рещи   и        анђелъ   не  боꙗти  сѧ
+\PoS prn. vb.pf.     prn.      sm.            part. vb.          prn.
+\cls $    c          $                        $                  $
+\gD und  reden      er,sie,es Engel          nicht fürchten    refl.
+
+
+\tx се бо благовѣщаѭ                       вамъ,
+\std се бо бла́го          вѣща́ѭ         вамъ
+\mrph $    $    $                     1.sg.prs.            d.pl.
+\lm се бо благо            бѣщати         вꙑ
+\PoS adv. cnj. adv.                  vb.im.               prn.
+\cls $    $    $                                          $
+\gD ecce denn gut                   verkünden           ihr
+
+
+\tx радость   веліѭ,  ѣже          бѫдет     бьсѣмь   людемъ.
+\std ра́дость ве́льѭ ꙗ      же   бѫ́детъ вьсѣ́мъ лю́дьмъ
+\mrph a.sg.            a.sg.f.      n.sg.f.  $      3.sg.fut.      d.pl.m.        d.pl.
+\lm радость   вельи   и       же   бꙑти      вьсь       людье
+\PoS sf.              adj.         prn.     part.  vb.im.         prn.           sm.pl.
+\cls $        $      a
+\gD Freude           groß        rel.prn. же   sein           all,ganz       Leute
+
+
+\ref Lukas 2.11
+
+\tx ѣко    роді     сѧ  вамъ   спсъ,
+\std ꙗ́ко роди́   сѧ  ва́мъ съпа́съ
+\mrph $         3.sg.aor.    a.    d.pl.      a.sg.
+\lm ꙗко   родити сѧ  вꙑ      съпасъ
+\PoS adv.      vb.pf.       prn.  prn.       sm.
+\cls $                      $     $
+\gD dass      gebären     pass. ihr        Erlöser
+
+
+\tx іже          естъ   хь           гь,
+\std и       же   ѥ́стъ хрь́стъ госпо́дь
+\mrph $        $      3.sg.prs.  n.sg.          n.sg.
+\lm и       же   бꙑти  хрьстъ   господь
+\PoS prn.     part.  vb.im.     sm.            sm.
+\cls $        $      a                         c
+\gD rel.prn. же   sein       Christus       Herr
+
+
+\tx въ градѣ   ддвѣ,
+\std въ гра́дѣ давꙑ́довѣ
+\mrph $    l.sg.        l.sg.m.
+\lm въ градъ   давꙑдовъ
+\PoS prp. sm.          adj.
+\cls $
+\gD in   Stadt        von David
+
+
+\ref Lukas 2.12
+
+\tx и   се       вамъ   знамение,
+\std и   се       ва́мъ зна́мениѥ
+\mrph $    n.sg.n.    d.pl.      n.sg.
+\lm и   сь       вꙑ      знамениѥ
+\PoS prn. pron.      prn.       sn.
+\cls $    $          $          a
+\gD und  diese(r,s) ihr        Zeichen
+
+
+\tx обрѧштете младьнець   повітъ,
+\std обрѧ́щете младь́ньць пови́тъ
+\mrph 2.pl.prs.          a.sg.                prc.prt.pass.a.sg.m.
+\lm обрѣсти     младьньць   повити
+\PoS vb.pf.             sm.                  vb.
+\cls a
+\gD finden             Kind                 einwickeln
+
+
+\tx и   лежѧшть      вь ѣслехъ,
+\std и   лежѧ́щь      въ ꙗ́сльхъ
+\mrph $    prc.prs.act.a.sg.m. $    l.pl.
+\lm и   лежати        въ ꙗсли
+\PoS prn. vb.                 prp. sf.pl.
+\cls $                        $
+\gD und  liegen              in   Krippe
+
+
+\ref Lukas 2.13
+
+\tx и   вънезаапѫ    бꙑстъ    съ анђлмъ,
+\std и   вънезаꙗ́пѫ бꙑ́стъ  съ а́нђеломь
+\mrph $    $                     3.sg.aor.perf. $    i.sg.
+\lm и   вънезаꙗпѫ   бꙑти      съ анђелъ
+\PoS prn. adv.                  vb.im.         prp. sm.
+\cls $    $                     a              $
+\gD und  plötzlich            sein           mit  Engel
+
+
+\tx множьство     вои      нбснꙑих,         хвалѧштиихъ ба,      и   глѭшть
+\std мъно́жьство во́и    небе́сьнъихъ хвалѧ́щьихъ бо́га и   глаго́лѭщь
+\mrph n.sg.                  g.pl.       g.pl.m.em                prc.prs.act.g.pl.m.em. g.sg.      $    prc.prs.act.g.pl.m.
+\lm мъножьство   вои      небесьнъ         хвалити         богъ   и   глаголати
+\PoS sn.                    sm.pl.      adj.                     vb.                    sm.        prn. vb.
+\cls a                      c                                                           c          $    a
+\gD Menge                  Herrscharen himmlisch                preisen                Gott       und  sprechen
+
+
+\ref Lukas 2.14
+
+\tx сла       въ вꙑшніих       боу,      и   на земи      миръ
+\std сла́ва въ вꙑ́шьниихъ бо́гоу и   на земли́  ми́ръ
+\mrph n.sg.        $    l.pl.m.em.            d.sg.        $    $    l.sg.         n.sg.
+\lm слава   въ вꙑшьнь         богъ     и   на земл҄ꙗ миръ
+\PoS sf.          prp. adj.                  sm.          prn. prp. sf.           sm.
+\cls a            $                          c            $    $    c             c
+\gD Ehre         in   hoch                  Gott         und  auf  Erde          Friede
+
+
+\tx въ члцѣхъ           влаговоление,                            
+\std въ чьловѣ́цѣхъ бла́го                воле́ниѥ
+\mrph $    l.pl.                  $                           n.sg.
+\lm въ чьловѣкъ       благо                  волениѥ
+\PoS prp. sm.                    adv.                        sn.
+\cls $    a                      $                           a
+\gD in   Mensch                 gut                         Wollen
+
+
+\ref Lukas 2.15
+
+\tx и   бꙑстъ   ѣко    отідѫ   оть ніхъ     анђлі     на н҃бо,
+\std и   бꙑ́стъ ꙗ́ко оти́дѫ отъ н҄и́хъ а́нђели на не́бо
+\mrph $    3.sg.aor.     $         3.pl.aor.    $      l.pl.m.      n.pl.          $    a.sg.
+\lm и   бꙑти     ꙗко   отити   отъ и           анђелъ   на небо
+\PoS prn. vb.im.        adv.      vb.          prp.   prn.         sm.            prp. sn.
+\cls $    a             $                      $      $                           $    c
+\gD und  sein          wie       weggehen     von    er,sie,es    Engel          auf  Himmel
+
+
+\tx и   чци             пастъирі  рѣшѧ   дроугь   кь дроугоу,
+\std и   чьловѣ́ци па́стꙑри рѣ́шѧ дроу́гъ къ дроу́гоу
+\mrph $    n.pl.              n.pl.             3.pl.aor.  n.sg.          $    d.sg.
+\lm и   чьловѣкъ   пастꙑрь   рещи   дроугъ   къ дроугъ
+\PoS prn. sm.                sm.               vb.pf.     prn.           prp. prn.
+\cls $    a                                    c                         $
+\gD und  Mensch             Schäfer          reden      ein_jeder      zu   ein_jeder
+
+
+\tx прѣидѣмъ   оубо   до віѳлеома,
+\std прѣидѣ́мъ оу́бо до Виѳлее́ма
+\mrph 2.pl.imp.          $          $    g.sg.
+\lm прѣити       оубо   до Виѳлеемъ
+\PoS vb.                int.       prp. sm.npr.
+\cls $          $
+\gD weitergehen        also       bis  Bethlehem
+
+
+\tx и   відімъ   гль           сь       бꙑвьшіи,
+\std и   ви́димъ глаго́лъ сь       бꙑ́въшьи
+\mrph $    2.pl.imp.      a.sg.            a.sg.m.    prc.prs.act.a.sg.m.em.
+\lm и   видѣти   глаголъ   сь       бꙑти
+\PoS prn. vb.im.         sm.              pron.      vb.im.
+\cls $    a              a                $          a
+\gD und  sehen          Wort             diese(r,s) sein
+
+
+\tx егоже             гь             съказа     нам,
+\std ѥго́    же       го́сподь съказа́   на́мъ
+\mrph g.sg.       $          n.sg.            3.sg.aor.        d.pl.
+\lm и          же       господь   съказати вꙑ
+\PoS prn.        part.      sm.              vb.              prn.
+\cls $           $          c                                 $
+\gD rel.prn.    же       Herr             sagen            ihr
+
+
+\ref Lukas 2.16
+
+\tx и   прѣидѫ   подвігьше   сѧ,
+\std и   прѣи́дѫ подви́гъше сѧ
+\mrph $    3.pl.aor.      prc.prt.act.n.pl.m.  a.
+\lm и   прѣити   подвигнѫти сѧ
+\PoS prn. vb.            vb.                  prn.
+\cls $                                        $
+\gD und  weitergehen    loseilen             refl.
+
+
+\tx и   обрѣтѫ   маріѭ   и   иосифа,
+\std и   обрѣ́тѫ Мари́ѭ и   Ио́сифа
+\mrph $    3.pl.aor.      a.sg.        $    g.sg.
+\lm и   обрѣсти Мариꙗ  и   Иосифъ
+\PoS prn. vb.pf.         sf.npr.      prn. sm.npr.
+\cls $    a                           $
+\gD und  finden         Maria        und  Joseph
+
+
+\tx и   младьнець   лежѧшть      вь ѣслехъ,
+\std и   младь́ньць лежѧ́щь      въ ꙗ́сльхъ
+\mrph $    a.sg.                prc.prs.act.a.sg.m. $    l.pl.
+\lm и   младьньць   лежати        въ ꙗсли
+\PoS prn. sm.                  vb.                 prp. sf.pl.
+\cls $                                             $
+\gD und  Kind                 liegen              in   Krippe
+
+
+\ref Lukas 2.17
+
+\tx сидѣвъше    же  ськазашѧ   о    глѣ,
+\std сидѣ́въше  же  съказа́шѧ о    глаго́лѣ
+\mrph prc.prt.act.n.pl.m. $     3.pl.aor.          $     l.sg.
+\lm сидѣти        же  съказати   о    глаголъ
+\PoS vb.                 part. vb.                prp.  sm.
+\cls $                              a
+\gD sitzen              же  sagen              über Wort
+
+
+\tx гланѣмь           о    отрочѧті   семъ,
+\std глаго́ланѣмъ о    отрочѧ́те семь
+\mrph prc.prt.pass.l.sg.m.em.  $     l.sg.              l.sg.n.
+\lm глаголати       о    отрочѧ       сь
+\PoS vb.                      prp.  sn.                pron.
+\cls a                                                 $
+\gD sprechen                 über Kind               diese(r,s)
+
+
+\ref Lukas 2.18
+
+\tx и   въсі   слꙑшавъше   дівішѧ   сѧ,
+\std и   вьси́ слꙑ́шавъше диви́шѧ сѧ
+\mrph $    n.pl.m.    prc.prt.act.n.pl.m.   3.pl.aor.      a.
+\lm и   вьсь   слꙑшати       дивити   сѧ
+\PoS prn. prn.       vb.ip.                vb.            prn.
+\cls $               a                                    $
+\gD und  all,ganz   hören                wundern        refl.
+
+
+\tx о    гланꙑихъ          отъ пастъирь  кь німъ,
+\std о    глаго́ланъихъ отъ па́стꙑрь къ нимъ
+\mrph $     prc.prt.pass.l.pl.n.em.    $      g.pl.             $    d.pl.m.
+\lm о    глаголати         отъ пастꙑрь   къ и
+\PoS prp.  vb.                        prp.   sm.               prp. prn.
+\cls a                          $                        $    $
+\gD über sprechen                   von    Schäfer          zu   er,sie,es
+
+
+\ref Lukas 2.19
+
+\tx маріѣ    же  вьсѧ   съблюдааше   глꙑ           сіи
+\std Мари́ꙗ же  вьсѧ́ съблюда́аше глаго́лꙑ си́и
+\mrph n.sg.         $     a.pl.m.    3.sg.impf.             a.pl.             a.pl.m.
+\lm Мариꙗ   же  вьсь   съблюдати     глаголъ    сь
+\PoS sf.npr.       part. prn.       vb.                    sm.               pron.
+\cls $                                       a                 $
+\gD Maria         же  all,ganz   behüten               Wort              diese(r,s)
+
+
+\tx въ срдци       своімъ,
+\std въ срь́дьци своѥ́мь
+\mrph $    l.sg.            l.sg.n.
+\lm въ срьдьце   свои
+\PoS prp. sn.              prn.
+\cls $    c/b              $
+\gD in   Herz             sein,eigene(r,s)
+
+
+\ref Lukas 2.20
+
+\tx и   възвратішѧ   сѧ  пастꙑрі,  славѧште    и   хвалѧште    ба,
+\std и   възврати́шѧ сѧ  па́стꙑри сла́вѧще    и   хвалѧ́ще    бо́га
+\mrph $    3.pl.aor.              a.    n.pl.             prc.prs.act.n.pl.m. $    prc.prs.act.n.pl.m. g.sg.
+\lm и   възвратити   сѧ  пастꙑрь   славити      и   хвалити      богъ
+\PoS prn. vb.                    prn.  sm.               vb.                 prn. vb.                 sm.
+\cls $                           $                                           $                        c
+\gD und  zurückkehren          refl. Schäfer          preisen             und  preisen             Gott
+
+
+\tx о    всѣхъ     ѣже          слꙑшашѧ   и   відѣшѧ,
+\std о    вьсѣ́хъ ꙗ      же   слꙑ́шашѧ и   ви́дѣшѧ
+\mrph $     l.pl.n.        n.pl.n.  $      3.pl.aor.         $    3.pl.aor.
+\lm о    вьсь       и       же   слꙑшати   и   видѣти
+\PoS prp.  prn.           prn.     part.  vb.ip.            prn. vb.im.
+\cls $        $      a                 $    a
+\gD über all,ganz       rel.prn. же   hören            und  sehen
+
+
+\tx ѣкоже             глано           бъисть   кь нимъ
+\std ꙗ́ко   же       глаго́лано бꙑ́стъ  къ н҄и́мъ
+\mrph $           $          prc.prt.pass.n.sg.n. 3.sg.aor.perf. $    d.pl.m.
+\lm ꙗко     же       глаголати   бꙑти      къ и
+\PoS adv.        part.      vb.                  vb.im.         prp. prn.
+\cls $           $          a                    a              $    $
+\gD wie         же       sprechen             sein           zu   er,sie,es
+
+
+\id LK_8
+
+\ref Lukas 8 (As) Überschrift
+
+\tx неꚞ           ж҃              ноⷡ          лѣⷮ
+\std недѣ́л҄ꙗ седьма́ꙗ но́ваѥго лѣта
+\mrph n.sg.             n.sg.f.em.        g.sg.n.em.       g.sg.
+\lm недѣл҄ꙗ   седьмъ      новъ         лѣто
+\PoS sf.               adj.num.ord.      adj.             sn.
+\cls a
+\gD Sonntag           siebter           neu              Jahr
+
+
+\tx еⷡ                оⷮ  лоуⷦ     глаⷡ    о҃д҃                                         
+\std еванђе́лиѥ отъ Лоу́кꙑ глава́ осмьдесѧ́тьнаꙗ и         пѧ́таꙗ
+\mrph n.sg.                $      g.sg.         n.sg.        n.sg.f.em.                    $          n.sg.f.em.
+\lm еванђелиѥ   отъ Лоука    глава   осмьдесѧтьнъ      и         пѧтъ
+\PoS sn.                  prp.   sm.npr.       sf.          adj.num.ord.                  prn.       adj.num.ord.
+\cls a                    $                    c                                          $
+\gD Evangelium           von    Lukas         Kapitel      achtzigster                   und        fünfter
+
+
+\ref Lukas 8.41
+
+\tx въ оноⷡ             ч҃к҃ъ         етеръ приде   кь н҃с҃в҃и, именемъ   аиръ,
+\std въ оно     врѣмѧ чьловѣ́къ ѥтеръ приде́ къ                 и́меньмь Иа́иръ
+\mrph $    a.sg.n.    a.sg.      n.sg.              n.sg.m.    3.sg.aor.    $                    i.sg.            n.sg.
+\lm въ онъ     врѣмѧ чьловѣкъ   ѥтеръ приити къ                 имѧ           Иаиръ
+\PoS prp. prn.       sn.        sm.                prn.       vb.pf.       prp.                 sn.              sm.npr.
+\cls $    $          c          a                             b            $                    c
+\gD in   jene(r,s)  Zeit       Mensch             irgendein  kommen       zu                   Name             Ἴάειρος
+
+
+\tx и   тъ       кьнѧꙃь    сьньмиштоу бѣ,
+\std и   тъ       кънѧ́ꙃь  съньмищоу   бѣ
+\mrph $    n.sg.m.    n.sg.            d.sg.                3.sg.impf.
+\lm и   тъ       кънѧꙃь    съньмище     бꙑти
+\PoS prn. prn.       sm.              sn.                  vb.im.
+\cls $    $                                                a
+\gD und  der,dieser Fürst,Vorsteher Synagoge             sein
+
+
+\tx и   падъ   прі ногоу   и҃с҃в҃оу,
+\std и   па́дъ при ногоу́ исоусовоу
+\mrph $    3.sg.aor.  $      l.du.        l.du.f.
+\lm и   пасти при нога     исоусовъ
+\PoS prn. vb.        prp.   sf.          adj.
+\cls $               $      c
+\gD und  fallen     bei    Bein,Fuß    Jesus-
+
+
+\tx молѣаше и   въ домъ   свои         въніті
+\std молѣаше и   въ до́мъ свои         вънити
+\mrph 3.sg.impf.     $    $    a.sg.      a.sg.m.          inf.
+\lm молити   и   въ домъ   свои         вънити
+\PoS vb.            prn. prp. sm.        prn.             vb.pf.
+\cls b              $    $               $
+\gD bitten         und  in   Haus       sein,eigene(r,s) hineingehen
+
+
+\ref Lukas 8.42
+
+\tx ѣко    дьшти едіночѧда емоу   бѣ,
+\std ꙗ́ко дъ́щи ѥдиночѧда ѥмоу́ бѣ
+\mrph $         n.sg.      n.sg.f.            d.sg.      3.sg.impf.
+\lm ꙗко   дъщи   ѥдиночѧдъ и         бꙑти
+\PoS adv.      sf.        adj.               prn.       vb.im.
+\cls $         c                             $          a
+\gD wie       Tochter    einziggeboren      er,sie,es  sein
+
+
+\tx ѣко    дьвою на десѧте   лѣтоу,
+\std ꙗ́ко дъвою на де́сѧте лѣ́тоу
+\mrph $         g.du.n.    $    l.sg.          g.du.
+\lm ꙗко   дъва   на десѧть   лѣто
+\PoS adv.      num.       prp. num.           sn.
+\cls $         $          $    c
+\gD wie       zwei       auf  zehn           Jahr
+
+
+\tx и   та       оумірааше,
+\std и   та       оумира́аше
+\mrph $    n.sg.f.    3.sg.impf.
+\lm и   тъ       оумирати
+\PoS prn. prn.       vb.
+\cls $    $
+\gD und  der,dieser am sterben sein
+
+
+\tx егда   же  идѣаше   и҃с҃ь,
+\std ѥгда́ же  идѣ́аше Исоусъ
+\mrph $          $     3.sg.impf.     n.sg.
+\lm ѥгда   же  ити         Исоусъ
+\PoS adv.       part. vb.im.         sm.npr.
+\cls $          $     b              a
+\gD wann       же  gehen          Jesus
+
+
+\tx народі   оугнѣтаахѫ   и,
+\std наро́ди оугнѣта́ахѫ и
+\mrph n.pl.          3.pl.impf.             a.sg.m.
+\lm народъ   оугнѣтати     и
+\PoS sm.            vb.im.                 prn.
+\cls $
+\gD Volk,Leute     bedrängen             er,sie,es
+
+
+\ref Lukas 8.49
+
+\tx еще   же  емоу   г҃л҃щ҃ю,        приде   етеръ оⷮ  сунагога,
+\std ѥще́ же  ѥмоу́ глаго́лѭщоу приде́ ѥтеръ отъ сѵнагога
+\mrph $        $     d.sg.      prc.prs.act.d.sg.m.    3.sg.aor.    n.sg.m.    $      g.sg.
+\lm ѥще   же  и         глаголати     приити ѥтеръ отъ сѵнагогъ
+\PoS adv.     part. prn.       vb.                    vb.pf.       prn.       prp.   sm.
+\cls $        $     $          a                      b                       $
+\gD noch     же  er,sie,es  sprechen               kommen       irgendein  von    Synagoge
+
+
+\tx г҃лѧ            емоу, ѣко    оумърѣтъ дьщі   твоѣ    не  движи      оучителѣ̑,
+\std глаго́лѧ    ѥмоу  ꙗ́ко оумрѣ́тъ дъщи́ твоꙗ́ не  движи      оучи́телꙗ
+\mrph prc.prs.act.n.sg.m. d.sg.     $         3.sg.aor.        n.sg.      n.sg.f.     $     2.sg.imp.       g.sg.
+\lm глаголати  и        ꙗко   оумрѣти   дъщи   твои    не  двиꙃати оучитель
+\PoS vb.                 prn.      adv.      vb.              sf.        prn.poss.   part. vb.             sm.
+\cls a                   $         $                          c          $           $
+\gD sprechen            er,sie,es wie       sterben          Tochter    dein        nicht belästigen     Lehrer
+
+
+\ref Lukas 8.50
+
+\id MK_5
+
+\ref Markus 5.24 (Sav)
+
+\tx и҃с҃ъ     же  слꙑшавъ     въ оноⷡ               идѣше     по і҃с҃ѣ
+\std Исоу́съ же  слꙑ́шавъ   въ оно́   врѣ́мѧ идѣ́аше по Исоу́сѣ
+\mrph n.sg.          $     prc.prt.act.n.sg.m. $    a.sg.n.    a.sg.        3.sg.impf.     $    l.sg.
+\lm Исоусъ   же  слꙑшати     въ онъ     врѣмѧ   ити         по Исоусъ
+\PoS sm.npr.        part. vb.ip.              prp. prn.       sn.          vb.im.         prp. sm.npr.
+\cls a              $     a                   $    $          c            b              $    a
+\gD Jesus          же  hören              in   jene(r,s)  Zeit         gehen          nach Jesus
+
+
+\tx народъ   многъ,    и   оугнѣтахѫ     і,
+\std наро́дъ мъно́гъ и   оугнѣта́ахѫ и
+\mrph n.sg.          n.sg.m.        $    3.pl.impf.             a.sg.m.
+\lm народъ   мъногъ   и   оугнѣтати     и
+\PoS sm.            prn.           prn. vb.im.                 prn.
+\cls a              $                           $
+\gD Volk,Leute     viel           und  bedrängen             er,sie,es
+
+
+\ref Markus 5.25 (Sav)
+
+\tx и   жена   едина   сѫщи            въ точениі   крьве,
+\std и   жена́ ѥдина́ сѫ́щи          въ точе́нии кръ́ве
+\mrph $    n.sg.      n.sg.f.      prc.prs.act.n.sg.f. $    l.sg.            g.sg.
+\lm и   жена   ѥдинъ   бꙑти           въ точениѥ   крꙑ
+\PoS prn. sf.        num.         vb.im.              prp. sn.              sf.
+\cls $    b          b            a                   $    a                b
+\gD und  Ehefrau    eins         sein                in   Strom            Blut
+
+
+\tx лѣтъ   в҃і҃,                        
+\std лѣ́тъ дъвѣ́  на        де́сѧте
+\mrph g.pl.      n.du.n.     $           l.sg.
+\lm лѣто   дъва    на        десѧть
+\PoS sn.        num.        prp.        num.
+\cls $           $           c
+\gD Jahr       zwei        auf         zehn
+
+
+\ref Markus 5.26 (Sav)
+
+\tx и   много     пострадавъши   отъ врачевъ,
+\std и   мъно́го пострада́въши отъ враче́въ
+\mrph $    a.sg.n.        prc.prt.act.n.sg.f.        $      g.pl.
+\lm и   мъногъ   пострадати       отъ врачь
+\PoS prn. prn.           vb.pf.                     prp.   sm.
+\cls $    a              a                          $
+\gD und  viel           leiden                     von    Arzt
+
+
+\tx и   иждивъши    все     свое,
+\std и   ижди́въши  вьсе́ своѥ́
+\mrph $    prc.prt.act.n.sg.f. a.sg.n.    a.sg.n.
+\lm и   изжити        вьсь   свои
+\PoS prn. vb.pf.              prn.       prn.
+\cls $                                   $
+\gD und  aufwenden           all,ganz   sein,eigene(r,s)
+
+
+\tx и   ни       единоѩ   пользѧ    обрѣтъши,
+\std и   ни       ѥдино́ѩ по́льꙃѧ обрѣ́тъши
+\mrph $    $          g.sg.f.        g.sg.           prc.prt.act.n.sg.f.
+\lm и   ни       ѥдинъ     польꙃа   обрѣсти
+\PoS prn. part.      num.           sf.             vb.pf.
+\cls $    $          b                              a
+\gD und  nicht,neĩ eins           Nutzen          finden
+
+
+\tx паче   въ горе     въпадъши,
+\std па́че въ го́р҄е въпа́дъши
+\mrph $          $    a.sg.n.      prc.prt.act.n.sg.f.
+\lm паче   въ гор҄ь   въпасти
+\PoS adv.       prp. adj.         vb.pf.
+\cls $          $
+\gD mehr       in   schlimmer    hineinfallen
+
+
+\ref Markus 5.27 (Sav)
+
+\tx слꙑшавъши   і҃с҃а,    пришъдъши   съзади               
+\std слꙑ́шавъши Исоу́са прише́дъши съ           за́ди
+\mrph prc.prt.act.n.sg.f.   g.sg.          prc.prt.act.n.sg.f.  $              g.sg.
+\lm слꙑшати       Исоусъ   приити         съ           зади
+\PoS vb.ip.                sm.npr.        vb.pf.               prp.           adv.
+\cls a                     a              b                    $              $
+\gD hören                Jesus          kommen               von            hinten
+
+
+\tx прикоснѫ     сѧ, ризѣ   его,
+\std прикоснѫ́   сѧ  ри́зѣ ѥго́
+\mrph 3.sg.aor.            a.    l.sg.      g.sg.
+\lm прикоснѫти сѧ  риза   и
+\PoS vb.pf.               prn.  sf.        prn.
+\cls $                $
+\gD berühren            med.  Gewand     er,sie,es
+
+
+\ref Markus 5.28 (Sav)
+
+\tx г҃л҃аше         бо, ꙗко
+\std глаго́лааше бо  ꙗ́ко
+\mrph 3.sg.impf.             $     $
+\lm глаголати     бо  ꙗко
+\PoS vb.                    cnj.  adv.
+\cls a                      $     $
+\gD sprechen               denn  dass
+
+
+\tx аще   прикоснѫ     сѧ ризѣ   его    с҃п҃е҃на     бѫдѫ,
+\std а́ще прикоснѫ́   сѧ ри́зѣ ѥго́  съпасена́   бѫ́дѫ
+\mrph $        1.sg.prs.            a.   l.sg.      g.sg.     prc.prt.pass.n.sg.f. 1.sg.fut.
+\lm аще   прикоснѫти сѧ риза   и        съпасти       бꙑти
+\PoS cnj.     vb.pf.               prn. sf.        prn.      vb.pf.               vb.im.
+\cls $                             $               $                              a
+\gD wenn,if  berühren            med. Gewand     er,sie,es erretten             sein
+
+
+\ref Markus 5.29 (Sav)
+
+\tx и   абие   исѧкнѫ       источьникъ   крьви   еѩ,
+\std и   а́биѥ исѧ́кнѫ     исто́чьникъ кръ́ви ѥ́ѩ
+\mrph $    $          3.sg.aor.          n.sg.                  g.sg.        g.sg.f.
+\lm и   абиѥ   иссѧкнѫти источьникъ   кръвь   и
+\PoS prn. adv.       vb.pf.             sm.                    sf.          prn.
+\cls $    $                                                    c            $
+\gD und  sogleich   austrocknen        Quelle                 Blut         er,sie,es
+
+
+\tx и   разоумѣ     тѣломъ   ꙗко   цѣетъ       отъ ранꙑ,
+\std и   разоумѣ́   тѣ́ломь ꙗ́ко цѣлѣ́ѥтъ отъ ра́нꙑ
+\mrph $    3.sg.aor.          i.sg.          $         3.sg.prs.        $      g.sg.
+\lm и   разоумѣти тѣло       ꙗко   цѣлѣти     отъ рана
+\PoS prn. vb.                sn.            adv.      vb.ip.           prp.   sf.
+\cls $    a                  c              $                          $
+\gD und  bemerken           Körper        dass      gesund werden    von    Wunde
+
+
+\ref Markus 5.30 (Sav)
+
+\tx и   абие   і҃с҃       ощющь          в   себѣ,
+\std и   а́биѥ Исоу́съ ощю́щь        въ себѣ́
+\mrph $    $          n.sg.          prc.prt.act.n.sg.m. $    d.sg.
+\lm и   абиѥ   Исоусъ   ощютити      въ сѧ
+\PoS prn. adv.       sm.npr.        vb.pf.              prp. prn.
+\cls $    $          a                                  $    $
+\gD und  sogleich   Jesus          fühlen             in   refl.
+
+
+\tx силѫ   ишъдъшѫѭ       отъ него,
+\std си́лѫ ише́дъшѫѭ     отъ н҄его́
+\mrph a.sg.      prc.prt.act.a.sg.f.em. $      g.sg.m.
+\lm сила   изити             отъ и
+\PoS sf.        vb.                    prp.   prn.
+\cls $      $
+\gD Stärke    ausgehen               von    er,sie,es
+
+
+\tx обращь        сѧ  въ народѣ   г҃л҃аше,
+\std обра́щь      сѧ  въ наро́дѣ глаго́лааше
+\mrph prc.prt.act.n.sg.m. a.    $    l.sg.          3.sg.impf.
+\lm обратити    сѧ  въ народъ   глаголати
+\PoS vb.                 prn.  prp. sm.            vb.
+\cls $     $                   a
+\gD wenden              refl. in   Volk,Leute     sprechen
+
+
+\tx кто     прикоснѫ     сѧ ризахъ   моіхъ,
+\std къто́ прикоснѫ́   сѧ ри́захъ мои́хъ
+\mrph n.         3.sg.aor.            a.   l.pl.          l.pl.f.
+\lm къто   прикоснѫти сѧ риза       мои
+\PoS prn.       vb.pf.               prn. sf.            prn.
+\cls $                               $                   $
+\gD wer        berühren            med. Gewand         mein
+
+
+\ref Markus 5.31 (Sav)
+
+\tx и   г҃л҃ашѧ       емꙋ    оученици   его,
+\std и   глаго́лашѧ ѥмоу́ оученици́ ѥго́
+\mrph $    3.pl.aor.            d.sg.      n.pl.              g.sg.
+\lm и   глаголати   и         оученикъ   и
+\PoS prn. vb.                  prn.       sm.                prn.
+\cls $    a                    $                             $
+\gD und  sprechen             er,sie,es  Schüler           er,sie,es
+
+
+\tx видѧ            народъ   оугнѣтаѭщъ   тѧ,
+\std ви́дѧ          наро́дъ оугнѣта́ѭщь тѧ
+\mrph prc.prs.act.n.sg.m. a.sg.          prc.prs.act.g.pl.m.    a.sg.
+\lm видѣти        народъ   оугнѣтати     тꙑ
+\PoS vb.im.              sm.            vb.im.                 prn.
+\cls a                                                         $
+\gD sehen               Volk,Leute     bedrängen             du
+
+
+\tx и   г҃л҃еши         кто     прикоснѫ     сѧ мнѣ,
+\std и   глаго́л҄еши къто́ прикоснѫ́   сѧ мьнѣ́
+\mrph $    2.sg.prs.              n.         3.sg.aor.            a.   l.sg.
+\lm и   глаголати     къто   прикоснѫти сѧ азъ
+\PoS prn. vb.                    prn.       vb.pf.               prn. prn.
+\cls $    a                      $                               $    $
+\gD und  sprechen               wer        berühren            med. ich
+
+
+\ref Markus 5.32 (Sav)
+
+\tx и   озираше     сѧ видѣти   створьшѫѭ     се,
+\std и   озира́аше сѧ ви́дѣти сътво́рьшѫѭ се
+\mrph $    3.sg.impf.         a.   inf.           prc.prt.act.a.sg.f.em. a.sg.n.
+\lm и   озирати     сѧ видѣти   сътворити     сь
+\PoS prn. vb.im.             prn. vb.im.         vb.pf.                 pron.
+\cls $                       $    a              c                      $
+\gD und  umschauen          med. sehen          machen                 diese(r,s)
+
+
+\ref Markus 5.33 (Sav)
+
+\tx жена   же  оубоꙗвъши   сѧ, и   трепещѫщи
+\std жена́ же  оубоꙗ́въши сѧ  и   трепе́щѫщи
+\mrph n.sg.      $     prc.prt.act.n.sg.f.   a.    $    prc.prs.act.n.sg.f.
+\lm жена   же  оубоꙗти       сѧ  и   трепетати
+\PoS sf.        part. vb.                   prn.  prn. vb.im.
+\cls b          $                           $     $
+\gD Ehefrau    δὲ fürchten             med.  und  zittern
+
+
+\tx вѣдѫщи        еже          бꙑстъ   еі
+\std вѣ́дѫщи      ѥ       же   бꙑ́стъ ѥ́и
+\mrph prc.prs.act.n.sg.f. n.sg.n.  $      3.sg.aor.     d.sg.f.
+\lm вѣдѣти        и       же   бꙑти     и
+\PoS vb.im.              prn.     part.  vb.im.        prn.
+\cls c                   $        $      a             $
+\gD wissen              rel.prn. же   sein          er,sie,es
+
+
+\tx приде   и   припаде   къ немоу,
+\std приде́ и   припа́де къ н҄емоу́
+\mrph 3.sg.aor.    $    3.sg.aor.        $    d.sg.m.
+\lm приити и   припасти къ и
+\PoS vb.pf.       prn. vb.pf.           prp. prn.
+\cls b            $                     $    $
+\gD kommen       und  fallen vor       zu   er,sie,es
+
+
+\tx и   рече   емоу   всѫ     истинѫ,
+\std и   ре́че ѥмоу́ вьсѫ́ и́стинѫ
+\mrph $    3.sg.aor.  d.sg.      a.sg.f.    a.sg.
+\lm и   рещи   и         вьсь   истина
+\PoS prn. vb.pf.     prn.       prn.       sf.
+\cls $    c          $                     a
+\gD und  reden      er,sie,es  all,ganz   Wahrheit
+
+
+\ref Markus 5.34 (Sav)
+
+\tx і҃с҃       же  рече
+\std Исоу́съ же  ре́че
+\mrph n.sg.          $     3.sg.aor.
+\lm Исоусъ   же  рещи
+\PoS sm.npr.        part. vb.pf.
+\cls a              $     c
+\gD Jesus          δὲ reden
+
+
+\tx вѣра   твоꙗ   с҃п҃е҃   тѧ, иди    съ миромъ.
+\std вѣ́ра твоꙗ́ съпасе́ тѧ  иди́  съ ми́ромь
+\mrph n.sg.      n.sg.f.     3.sg.aor.      a.sg. 2.sg.imp. $    i.sg.
+\lm вѣра   твои    съпасти тꙑ ити    съ миръ
+\PoS sf.        prn.poss.   vb.pf.         prn.  vb.im.    prp. sm.
+\cls a          $                          $     b         $    c
+\gD Glauben    dein        erretten       du    gehen     mit  Friede
+
+
+\ref Markus 5.24 (Und)
+
+\tx въⷩ_мѧ                             *****д**ашѧ            і҃с҃оу
+\std въ          оно́      врѣ́мѧ послѣ́довааше Исоу́соу
+\mrph $             a.sg.n.       a.sg.        3.sg.impf.                 d.sg.
+\lm въ          онъ        врѣмѧ   послѣдовати     Исоусъ
+\PoS prp.          prn.          sn.          vb.pf.                     sm.npr.
+\cls $             $             c                                       a
+\gD in            jene(r,s)     Zeit         folgen                     Jesus
+
+
+\tx нарѡдъ   многъ     и   оугнⷺтахѫ    и,
+\std наро́дъ мъно́гъ и   оугнѣта́ахѫ и
+\mrph n.sg.          n.sg.m.        $    3.pl.impf.             a.sg.m.
+\lm народъ   мъногъ   и   оугнѣтати     и
+\PoS sm.            prn.           prn. vb.im.                 prn.
+\cls a              $                           $
+\gD Volk,Leute     viel           und  bedrängen             er,sie,es
+
+
+\ref Markus 5.25 (Und)
+
+\tx и   се жена   етера  въ точение   кръви,
+\std и   се жена́ етера  въ точе́ниѥ кръ́ви
+\mrph $    $    n.sg.      n.sg.f.     $    a.sg.            g.sg.
+\lm и   се жена   етеръ  въ точениѥ   кръвь
+\PoS prn. adv. sf.        prn.        prp. sn.              sf.
+\cls $    $    b                      $    a                c
+\gD und  ecce Ehefrau    irgendeiner in   Strom            Blut
+
+
+\tx лѣтъ   двѣ     на десѧте   имѫщи,
+\std лѣ́тъ дъвѣ́ на де́сѧте имѫ́щи
+\mrph g.pl.      a.du.n.    $    l.sg.          prc.prs.act.n.sg.f.
+\lm лѣто   дъва   на десѧть   имѣти
+\PoS sn.        num.       prp. num.           vb.im.
+\cls $          $    c              b/a
+\gD Jahr       zwei       auf  zehn           haben
+
+
+\ref Markus 5.26 (Und)
+
+\tx и   многѡ     пострꚞдавъши, отъ многъ     врачъ,
+\std и   мъно́го пострада́въши отъ мъно́гъ врачь́
+\mrph $    a.sg.n.        prc.prt.act.n.sg.f.        $      n.sg.m.        g.pl.
+\lm и   мъногъ   пострадати       отъ мъногъ   врачь
+\PoS prn. prn.           vb.pf.                     prp.   prn.           sm.
+\cls $    a              a                          $      a
+\gD und  viel           leiden                     von    viel           Arzt
+
+
+\tx иждивъши    свое         въсе,
+\std ижди́въши  своѥ́       вьсе́
+\mrph prc.prt.act.n.sg.f. a.sg.n.          a.sg.n.
+\lm изжити        свои         вьсь
+\PoS vb.pf.              prn.             prn.
+\cls $
+\gD aufwenden           sein,eigene(r,s) all,ganz
+
+
+\tx и   ниединоѧже   полъꙃѧ   ѡбрѣтъши,
+\std и   ниедино́ѩже по́льꙃѧ обрѣ́тъши
+\mrph $    g.sg.f.                g.sg.           prc.prt.act.n.sg.f.
+\lm и   ниединъже     польꙃа   обрѣсти
+\PoS prn. prn.                   sf.             vb.pf.
+\cls $                                           a
+\gD und  kein                   Nutzen          finden
+
+
+\tx нъ  паче   въ горе     въпадъши,
+\std нъ  па́че въ го́р҄е въпа́дъши
+\mrph $     $          $    a.sg.n.      prc.prt.act.n.sg.f.
+\lm нъ  паче   въ гор҄ь   въпасти
+\PoS adv.  adv.       prp. adj.         vb.pf.
+\cls $     $          $
+\gD jetzt mehr       in   schlimmer    hineinfallen
+
+
+\ref Markus 5.27 (Und)
+
+\tx слꙑшавъши   ѡ    і҃с҃ѣ,    пришедъши   въ нарѡдъ   съзади,                
+\std слꙑ́шавъши о    Исоу́сѣ прише́дъши въ наро́дъ съ            за́ди
+\mrph prc.prt.act.n.sg.f.   $     l.sg.          prc.prt.act.n.sg.f.  $    a.sg.          $               g.sg.
+\lm слꙑшати       о    Исоусъ   приити         въ народъ   съ            зади
+\PoS vb.ip.                prp.  sm.npr.        vb.pf.               prp. sm.            prp.            adv.
+\cls a                           a              b                    $                   $               $
+\gD hören                über Jesus          kommen               in   Volk,Leute     von             hinten
+
+
+\tx прикоснѫ     сѧ ризѣ   его,
+\std прикоснѫ́   сѧ ри́зѣ ѥго́
+\mrph 3.sg.aor.            a.   l.sg.      g.sg.
+\lm прикоснѫти сѧ риза   и
+\PoS vb.pf.               prn. sf.        prn.
+\cls $               $
+\gD berühren            med. Gewand     rel.prn.
+
+
+\ref Markus 5.28 (Und)
+
+\tx гл҃а҃ше         бо ѣко
+\std глаго́лааше бо ꙗ́ко
+\mrph 3.sg.impf.             $    $
+\lm глаголати     бо ꙗко
+\PoS vb.                    cnj. adv.
+\cls a                      $    $
+\gD sprechen               denn dass
+
+
+\tx аще   прикоснѫ     сѧ ризѣ   его    с҃п҃с҃ена   бѫдѫ,
+\std а́ще прикоснѫ́   сѧ ри́зѣ ѥго́  съпасена́   бѫ́дѫ
+\mrph $        1.sg.prs.            a.   l.sg.      g.sg.     prc.prt.pass.n.sg.f. 1.sg.fut.
+\lm аще   прикоснѫти сѧ риза   и        съпасти       бꙑти
+\PoS cnj.     vb.pf.               prn. sf.        prn.      vb.pf.               vb.im.
+\cls $                             $               $                              a
+\gD wenn,if  berühren            med. Gewand     er,sie,es erretten             sein
+
+
+\ref Markus 5.29 (Und)
+
+\tx и   абие   исѧкнѫ        источъникъ   кръве   еѩ,
+\std и   а́биѥ исѧ́кнѫ      исто́чьникъ кръ́ве ѥ́ѩ
+\mrph $    $          prc.prt.act.n.sg.m. n.sg.                  g.sg.        g.sg.f.
+\lm и   абиѥ   иссѧкнѫти  источьникъ   крꙑ      и
+\PoS prn. adv.       vb.pf.              sm.                    sf.          prn.
+\cls $    $                                                     b            $
+\gD und  sogleich   austrocknen         Quelle                 Blut         er,sie,es
+
+
+\tx и   разоумѣ     тѣломъ   ѣко    ицѣлѣ       ѡⷮ  ранꙑ,
+\std и   разоумѣ́   тѣло́мъ ꙗ́ко исцѣлѣ́   отъ ра́нꙑ
+\mrph $    3.sg.aor.          d.pl.          $         3.sg.aor.        $      g.sg.
+\lm и   разоумѣти тѣло       ꙗко   исцѣлѣти отъ рана
+\PoS prn. vb.                sn.            adv.      vb.pf.           prp.   sf.
+\cls $    a                  c              $                          $
+\gD und  bemerken           Körper        dass      gesund werden    von    Wunde
+
+
+\ref Markus 5.30 (Und)
+
+\tx абие   і҃с҃ъ     ѡщоути   силѫ   ишъдъшѫ      ꙇз него,
+\std а́биѥ Исоу́съ ощюти́   си́лѫ ише́дъшѫ    из  н҄его́
+\mrph $          n.sg.          3.sg.aor.      a.sg.      prc.prt.act.a.sg.f. $     g.sg.m.
+\lm абиѥ   Исоусъ   ощютити сила   изити          из  и
+\PoS adv.       sm.npr.        vb.pf.         sf.        vb.                 prp.  prn.
+\cls $          a                                                            $     $
+\gD sogleich   Jesus          fühlen        Stärke    ausgehen            aus   er,sie,es
+
+
+\tx и   ѡбращъ        сѧ  въ народѣ   г҃л҃аше
+\std и   обращь́      сѧ  въ наро́дѣ глаго́лааше
+\mrph $    prc.prt.act.n.sg.m. a.    $    l.sg.          3.sg.impf.
+\lm и   обратити    сѧ  въ народъ   глаголати
+\PoS prn. vb.                 prn.  prp. sm.            vb.
+\cls $                        $     $                   a
+\gD und  wenden              refl. in   Volk,Leute     sprechen
+
+
+\tx кто     прикⷪснѫ    сѧ ризахъ   моихъ,
+\std къто́ прикоснѫ́   сѧ ри́захъ мои́хъ
+\mrph n.         3.sg.aor.            a.   l.pl.          l.pl.f.
+\lm къто   прикоснѫти сѧ риза       мои
+\PoS prn.       vb.pf.               prn. sf.            prn.
+\cls $                               $                   $
+\gD wer        berühren            med. Gewand         mein
+
+
+\ref Markus 5.31 (Und)
+
+\tx г҃л҃ахѫ         же  емоу   оученꙇци  его,
+\std глаго́лаахѫ же  ѥмоу́ оученици́ ѥго́
+\mrph 3.pl.impf.             $     d.sg.      n.pl.              g.sg.
+\lm глаголати     же  и         оученикъ   и
+\PoS vb.                    part. prn.       sm.                prn.
+\cls a                      $     $                             $
+\gD sprechen               δὲ er,sie,es  Schüler           er,sie,es
+
+
+\tx видиши   ли  нарѡдъ   оугнѣтаѫщъ   тѧ,
+\std ви́диши ли  наро́дъ оугнѣта́ѭщь тѧ
+\mrph 2.sg.prs.      $     a.sg.          prc.prs.act.g.pl.m.    a.sg.
+\lm видѣти   ли  народъ   оугнѣтати     тꙑ
+\PoS vb.im.         part. sm.            vb.im.                 prn.
+\cls a              $                                           $
+\gD sehen          ли  Volk,Leute     bedrängen             du
+
+
+\tx и   г҃л҃еши         кто     прикоснѫ     сѧ мънѣ,
+\std и   глаго́л҄еши къто́ прикоснѫ́   сѧ мьнѣ́
+\mrph $    2.sg.prs.              n.         3.sg.aor.            a.   l.sg.
+\lm и   глаголати     къто   прикоснѫти сѧ азъ
+\PoS prn. vb.                    prn.       vb.pf.               prn. prn.
+\cls $    a                      $                               $    $
+\gD und  sprechen               wer        berühren            med. ich
+
+
+\ref Markus 5.32 (Und)
+
+\tx и   ѡглѧдаше     сѧ видѣти,  сътворъшѫѫ   се,
+\std и   оглѧ́дааше сѧ ви́дѣти сътво́рьшѫѭ се
+\mrph $    3.sg.impf.           a.   inf.           prc.prt.act.a.sg.f.em. a.sg.n.
+\lm и   оглѧдати     сѧ видѣти   сътворити     сь
+\PoS prn. vb.                  prn. vb.im.         vb.pf.                 pron.
+\cls $                         $    a              c                      $
+\gD und  betrachten           med. sehen          machen                 diese(r,s)
+
+
+\ref Markus 5.33 (Und)
+
+\tx жена   же  оубоѣвъши    сѧ, и   трепещѫщи   припаде,
+\std жена́ же  оубоꙗ́въши сѧ  и   трепе́щѫщи припа́де
+\mrph n.sg.      $     prc.prt.act.n.sg.f.   a.    $    prc.prs.act.n.sg.f.  3.sg.aor.
+\lm жена   же  оубоꙗти       сѧ  и   трепетати   припасти
+\PoS sf.        part. vb.                   prn.  prn. vb.im.               vb.pf.
+\cls b          $                           $     $
+\gD Ehefrau    δὲ fürchten             med.  und  zittern              fallen vor
+
+
+\tx вѣдѫщи        е        бꙑⷭ      и   приде   къ немоу,
+\std вѣ́дѫщи      ѥ        бꙑ́стъ и   приде́ къ н҄емоу́
+\mrph prc.prs.act.n.sg.f. n.sg.n.   3.sg.aor.     $    3.sg.aor.    $    d.sg.m.
+\lm вѣдѣти        и        бꙑти     и   приити къ и
+\PoS vb.im.              prn.      vb.im.        prn. vb.pf.       prp. prn.
+\cls c                   $         a             $    b            $    $
+\gD wissen              er,sie,es sein          und  kommen       zu   er,sie,es
+
+
+\tx и   рече   емоу   въсѫ   истинѫ,
+\std и   ре́че ѥмоу́ вьсѫ́ и́стинѫ
+\mrph $    3.sg.aor.  d.sg.      a.sg.f.    a.sg.
+\lm и   рещи   и         вьсь   истина
+\PoS prn. vb.pf.     prn.       prn.       sf.
+\cls $    c          $                     a
+\gD und  reden      er,sie,es  all,ganz   Wahrheit
+
+
+\ref Markus 5.34 (Und)
+
+\tx ***            **    ***е      ен
+\std Исоу́съ же  ре́че ѥ́и
+\mrph n.sg.          $     3.sg.aor.  d.sg.f.
+\lm Исоусъ   же  рещи   и
+\PoS sm.npr.        part. vb.pf.     prn.
+\cls a              $     c          $
+\gD Jesus          же  reden
+
+
+\tx дщи     вѣра   твоѣ    с҃п҃с҃е тѧ,
+\std дъщи́ вѣ́ра твоꙗ́ съпасе́ тѧ
+\mrph n.sg.      n.sg.      n.sg.f.     3.sg.aor.      a.sg.
+\lm дъщи   вѣра   твои    съпасти тꙑ
+\PoS sf.        sf.        prn.poss.   vb.pf.         prn.
+\cls c          a          $                          $
+\gD Tochter    Glauben    dein        erretten       du
+
+
+\id MT_8
+
+\ref Matthäus 8.01 (Zogr)
+
+\tx съшедъшю    же  емоу   съ горꙑ,
+\std съше́дъшю  же  ѥмоу́ съ горꙑ́
+\mrph prc.prt.act.d.sg.m. $     d.sg.      $    g.sg.
+\lm сънити        же  и         съ гора
+\PoS vb.                 part. prn.       prp. sf.
+\cls $     $          $
+\gD hinabgehen          δὲ er,sie,es  von  Berg
+
+
+\tx въ слѣдъ   его    ꙇдѫ   народи   мнози,
+\std въ слѣ́дъ ѥго́  и́дѫ  наро́ди мъно́ꙃи
+\mrph $    a.sg.        g.sg.     3.pl.aor. n.pl.          n.pl.m.
+\lm въ слѣдъ   и        ити    народъ   мъногъ
+\PoS prp. sm.          prn.      vb.im.    sm.            prn.
+\cls $                 $         b                        a
+\gD in   Weg,Spur     er,sie,es gehen     Volk,Leute     viel
+
+
+\ref Matthäus 8.02
+
+\tx ꙇ  се прокаженъ   пристѫпь     клан҄ѣаше  сѧ  емоу
+\std и   се прокаже́нъ пристѫпль́ кланꙗ́аше сѧ  ѥмоу́
+\mrph $    $    prc.prt.pass.n.sg.m. prc.prt.act.n.sg.m.  3.sg.impf.          a.    d.sg.
+\lm и   се проказити   пристѫпити кланꙗти     сѧ  и
+\PoS prn. adv. vb.                  vb.                  vb.                 prn.  prn.
+\cls $    $                         b                                        $     $
+\gD und  ecce verderben            hinzutreten          verneigen           refl. er,sie,es
+
+
+\tx г҃л҃ѧ          г҃и҃         аште хоштеши можеши   мѧ   ꙇштистити,
+\std глаго́лѧ    госпо́ди а́ще хо́щеши мо́жеши мѧ   ищи́стити
+\mrph prc.prs.act.n.sg.m. d.sg.            $        2.sg.prs.      2.sg.prs.      a.sg.  inf.
+\lm глаголати  господь   аще   хотѣти   мощи       азъ изчистити
+\PoS vb.                 sm.              cnj.     vb.            vb.            prn.   vb.
+\cls a                   c                $        c              b              $
+\gD sprechen            Herr             wenn,if  wollen         können        ich    säubern
+
+
+\ref Matthäus 8.03
+
+\tx ꙇ  простьръ    рѫкѫ   и҃с҃,      коснѫ     и        г҃л҃ѧ,
+\std и   про́стьръ  рѫ́кѫ Исоу́съ ко́снѫ   и        глаго́лѧ
+\mrph $    prc.prt.act.n.sg.m. a.sg.      n.sg.          3.sg.aor.      a.sg.m.   prc.prs.act.n.sg.m.
+\lm и   прострѣти  рѫка   Исоусъ   коснѫти и        глаголати
+\PoS prn. vb.                 sf.        sm.npr.        vb.            prn.      vb.
+\cls $                        c          a                             $         a
+\gD und  ausstrecken         Hand       Jesus          berühren      er,sie,es sprechen
+
+
+\tx хоштѫ   ꙇштисти    сѧ, ꙇ  абие   ꙇштисти    сѧ отъ проказꙑ,
+\std хощѫ́   ищи́сти     сѧ  и   а́биѥ ищи́сти     сѧ отъ прока́зꙑ
+\mrph 1.sg.prs.    2.sg.imp.          a.    $    $          3.sg.aor.          a.   $      g.sg.
+\lm хотѣти изчистити сѧ  и   абиѥ   изчистити сѧ отъ проказа
+\PoS vb.          vb.                prn.  prn. adv.       vb.                prn. prp.   sf.
+\cls c                               $     $    $                             $    $
+\gD wollen       säubern           med.  und  sogleich   säubern           med. von    Aussatz,Lepra
+
+
+\ref Matthäus 8.04
+
+\tx ꙇ  рече   емоу   и҃с҃,      бл҄юди   никомоуже   не  повѣждь,
+\std и   ре́че ѥмоу́ Исоу́съ бл҄юди́ никомоу́же не  повѣ́ждь
+\mrph $    3.sg.aor.  d.sg.      n.sg.          2.sg.imp.      d.sg.                $     2.sg.imp.
+\lm и   рещи   и         Исоусъ   блюсти   никъто́же   не  повѣдѣти
+\PoS prn. vb.pf.     prn.       sm.npr.        vb.            prn.                 part. vb.pf.
+\cls $    c          $          a                                                  $     c
+\gD und  reden      er,sie,es  Jesus          achten         niemand              nicht mitteilen
+
+
+\tx нъ  шьдъ            покажи     сѧ архиереови
+\std нъ  ше́дъ          покажи́   сѧ архиере́ови
+\mrph $     prc.prt.act.n.sg.m. 2.sg.imp.        a.   d.sg.
+\lm нъ  ити              покажити сѧ архиереи
+\PoS adv.  vb.im.              vb.              prn. sm.
+\cls $     b                                    $
+\gD jetzt gehen               zeigen           med. Hohepriester,ἀρχιερεύς
+
+
+\tx ꙇ  неси   даръ,  ꙇже          повелѣ     моси,
+\std и   неси́ да́ръ и       же    повелѣ́   Моси́
+\mrph $    2.sg.imp.  a.sg.      a.sg.m.  $       3.sg.aor.        n.sg.
+\lm и   нести даръ   и       же    повелѣти Моси
+\PoS prn. vb.        sm.        prn.     part.   vb.              sm.npr.
+\cls $               c          $        $       c
+\gD und             Geschenk   rel.prn. же    befehlen         Moses,Μωυσῆς
+
+
+\tx въ съвѣдѣние   ꙇмъ:
+\std въ съвѣдѣ́ниѥ и́мъ
+\mrph $    a.sg.                d.pl.m.
+\lm въ съвѣдѣниѥ   и
+\PoS prp. sn.                  prn.
+\cls $    a                    $
+\gD in   Zeugnis              er,sie,es
+
+
+\ref Matthäus 8.05
+
+\tx въшедъшю    же  емоу   въ каферънаоумъ,
+\std въше́дъшю  же  ѥмоу́ въ Капернаоу́мъ
+\mrph prc.prt.act.d.sg.m. $     d.sg.      $    a.sg.
+\lm вънити        же  и         въ Капернаоумъ
+\PoS vb.pf.              part. prn.       prp. sm.npr.
+\cls $     $          $
+\gD hineingehen         δὲ er,sie,es  in   Καπερναούμ
+
+
+\tx пристѫпи     къ н҄емоу   сътьникъ   молѧ            и
+\std пристѫпи́   къ н҄емоу́ съ́тьникъ молѧ́          и
+\mrph 3.sg.aor.            $    d.sg.m.        n.sg.              prc.prs.act.n.sg.m. a.sg.m.
+\lm пристѫпити къ и             сътьникъ   молити        и
+\PoS vb.                  prp. prn.           sm.                vb.                 prn.
+\cls b                    $    $                                 b                   $
+\gD hinzutreten          zu   er,sie,es      Centurio           bitten              er,sie,es
+
+
+\ref Matthäus 8.06
+
+\tx ꙇ  г҃л҃ѧ,         г҃и҃,
+\std и   глаго́лѧ    госпо́ди
+\mrph $    prc.prs.act.n.sg.m. d.sg.
+\lm и   глаголати  господь
+\PoS prn. vb.                 sm.
+\cls $    a                   c
+\gD und  sprechen            Herr
+
+
+\tx отрокъ   мои   лежитъ   въ домоу   ослабл҄енъ,
+\std о́трокъ мо́и лежи́тъ въ до́моу осла́бл҄енъ
+\mrph n.sg.          n.sg.m.  3.sg.prs.      $    l.sg.        prc.prt.pass.n.sg.m.
+\lm отрокъ   мои   лежити   въ домъ     ослабити
+\PoS sm.            prn.     vb.            prp. sm.          vb.
+\cls a              $                       $
+\gD Knecht         mein     liegen         in   Haus         lähmen,schwächen
+
+
+\tx л҄ютѣ     ѣко    страждѧ,
+\std л҄ютѣ́и ꙗ́ко стра́ждѧ
+\mrph n.sg.m.comp.   $         prc.prs.act.n.sg.m.
+\lm л҄ютъ     ꙗко   страдати
+\PoS adj.           adv.      vb.
+\cls $
+\gD grausam        wie       leiden
+
+
+\ref Matthäus 8.07
+
+\tx ꙇ  г҃л҃а         емоу   и҃с҃,
+\std и   глаго́ла   ѥмоу́ Исоу́съ
+\mrph $    3.sg.aor.          d.sg.      n.sg.
+\lm и   глаголати и         Исоусъ
+\PoS prn. vb.                prn.       sm.npr.
+\cls $    a                  $          a
+\gD und  sprechen           er,sie,es  Jesus
+
+
+\tx азъ   пришедъ      ꙇсцѣл҄ѭ  и,
+\std а́зъ прише́дъ    исцѣл҄ѭ́ и
+\mrph n.sg.    prc.prt.act.n.sg.m. 1.sg.prs.        a.sg.m.
+\lm азъ   приити        исцѣлити и
+\PoS prn.     vb.pf.              vb.              prn.
+\cls $        b                                    $
+\gD ich      kommen              heilen           er,sie,es
+
+
+\ref Matthäus 8.08
+
+\tx ꙇ  отъвѣштавъ сътьникъ   рече   емоу,
+\std и   отъвѣща́въ съ́тьникъ ре́че ѥмоу́
+\mrph $    prc.prt.act.n.sg.m.  n.sg.              3.sg.aor.  d.sg.
+\lm и   отъвѣщати   сътьникъ   рещи   и
+\PoS prn. vb.im.               sm.                vb.pf.     prn.
+\cls $                                            c          $
+\gD und  antworten            Centurio           reden      er,sie,es
+
+
+\tx г҃и           нѣсмь                 достоꙇнъ
+\std го́споди нѣ́смь               досто́инъ
+\mrph v.sg.            1.sg.prs.     1.sg.prs.    n.sg.m.
+\lm господь   не          бꙑти    достоинъ
+\PoS sm.              part.         vb.im.       adj.
+\cls c                $             a
+\gD Herr             nicht         sein         würdig
+
+
+\tx да въ домъ   мои   вьнидеши,
+\std да въ до́мъ мо́и въниде́ши
+\mrph $    $    a.sg.      a.sg.m.  2.sg.prs.
+\lm да въ домъ   мои   вънити
+\PoS cnj. prp. sm.        prn.     vb.pf.
+\cls $    $               $
+\gD dass in   Haus       mein     hineingehen
+
+
+\tx нъ  тъкмо     рци     слово,  ꙇ  ицѣлѣетъ     отрокъ   мои,
+\std нъ  тъ́къмо рьци́ сло́во и   исцѣлѣ́ѥтъ о́трокъ мои
+\mrph $     $              2.sg.imp.  a.sg.        $    3.sg.prs.            n.sg.          n.sg.m.
+\lm нъ  тъкъмо   рещи   слово   и   исцѣлѣти     отрокъ   мои
+\PoS adv.  adv.           vb.pf.     sn.          prn. vb.pf.               sm.            prn.
+\cls $     $              c          c            $                         a              $
+\gD jetzt nur            reden      Wort         und  gesund werden        Knabe          mein
+
+
+\ref Matthäus 8.09
+
+\tx ꙇбо  азъ   ч҃к҃ъ         есмь   подъ   владꙑкоѭ,
+\std и́бо а́зъ чьловѣ́къ ѥ́смь по́дъ владꙑ́коѭ
+\mrph $        n.sg.    n.sg.              1.sg.prs.  $          i.sg.
+\lm ибо   азъ   чьловѣкъ   бꙑти  подъ   владꙑка
+\PoS cnj.     prn.     sm.                vb.im.     prp.       sm.
+\cls $        a                  a          $          a
+\gD denn     ich      Mensch             sein       unter      Herrscher
+
+
+\tx ꙇмꙑ            подъ   собоѭ   воꙇнꙑ, ꙇ  г҃л҄҃ѭ,      семоу
+\std имꙑ́           по́дъ собо́ѭ во́инꙑ и   глаго́л҄ѭ семоу́
+\mrph prc.prs.act.n.sg.m. $          i.sg.        a.pl.         $    1.sg.prs.          d.sg.
+\lm имѣти          подъ   сѧ         воинъ    и   глаголати сѧ
+\PoS vb.im.              prp.       prn.         sm.           prn. vb.                prn.
+\cls b/a                 $          $                          $    a                  $
+\gD haben               unter      refl.        Krieger       und  sprechen           refl.
+
+
+\tx ꙇди,  ꙇ  идетъ,  ꙇ  дроугоумоу   приди,  ꙇ  придетъ,
+\std иди́  и   иде́тъ и   дроугоу́моу приди́ и   приде́тъ
+\mrph 2.sg.imp. $    3.sg.prs.    $    d.sg.m.em.             2.sg.imp.    $    3.sg.prs.
+\lm ити    и   ити       и   дроугъ           приити и   приити
+\PoS vb.im.    prn. vb.im.       prn. prn.                   vb.pf.       prn. vb.pf.
+\cls b         $    b            $                           b            $    b
+\gD gehen     und  gehen        und  ander                  kommen       und  kommen
+
+
+\tx ꙇ  рабоу   моемоу   сътвори     се       ꙇ  сътворитъ,
+\std и   рабоу́ моѥмоу́ сътвори́   се       и   сътвори́тъ
+\mrph $    d.sg.        d.sg.m.        2.sg.imp.          a.sg.n.    $    3.sg.prs.
+\lm и   рабъ     мои         сътворити сь       и   сътворити
+\PoS prn. sm.          prn.           vb.pf.             pron.      prn. vb.pf.
+\cls $    b            $              c                  $          $    c
+\gD und  Sklave       mein           machen             diese(r,s) und  machen
+
+
+\ref Matthäus 8.10
+
+\tx слꙑшавъ     же  и҃с҃       диви     сѧ  емоу,
+\std слꙑ́шавъ   же  Исоу́съ диви́   сѧ  ѥмоу́
+\mrph prc.prt.act.n.sg.m. $     n.sg.          3.sg.aor.    a.    d.sg.m.
+\lm слꙑшати     же  Исоусъ   дивити сѧ  и
+\PoS vb.ip.              part. sm.npr.        vb.          prn.  prn.
+\cls a                   $     a                           $     $
+\gD hören              δὲ Jesus          wundern      refl. er,sie,es
+
+
+\tx ꙇ  г҃л҃а         грѧдѫшти́мъ по н҄емь,  амни’  г҃л҃ѭ         вамъ,
+\std и   глаго́ла   грѧдѫщи́имъ по н҄е́мь ами́нь глаго́л҄ѭ ва́мъ
+\mrph $    3.sg.aor.          prc.prs.act.d.pl.m.em. $    l.sg.        $            1.sg.prs.          d.pl.
+\lm и   глаголати грѧсти           по и           аминь   глаголати вꙑ
+\PoS prn. vb.                vb.                    prp. prn.         int.         vb.                prn.
+\cls $    a                                         $    $            $            a                  $
+\gD und  sprechen           schreiten              nach er,sie,es    Amen         sprechen           ihr
+
+
+\tx ни       въ ꙇ҃л҃и        толикꙑ   вѣрꙑ   не  обрѣтъ,
+\std ни       въ Издра́или толи́кꙑ вѣ́рꙑ не  обрѣ́тъ
+\mrph $          $    l.sg.              g.sg.f.         g.sg.       $     1.sg.aor.
+\lm ни       въ Издраиль   толикъ    вѣра    не  обрѣсти
+\PoS part.      prp. sm.npr.            prn.            sf.         part. vb.pf.
+\cls $          $                                       a           $     a
+\gD nicht,neĩ in   Israel             solch           Glauben     nicht finden
+
+
+\ref Matthäus 8.11
+
+\tx г҃л҃ѭ         же  вамъ,  ѣко    мноꙃи     отъ въстокъ,  ꙇ  западъ,
+\std глаго́л҄ѭ же  ва́мъ ꙗ́ко мъно́ꙃи отъ въсто́къ и   за́падъ
+\mrph 1.sg.prs.          $     d.pl.      $         n.pl.m.         $      g.pl.m.          $    g.pl.m.
+\lm глаголати же  вꙑ      ꙗко   мъногъ    отъ въстокъ   и   западъ
+\PoS vb.                part. prn.       adv.      prn.            prp.   adj.             prn. adj.
+\cls a                  $     $          $         a               $                       $
+\gD sprechen           δὲ ihr        dass      viel            von    östlich         und  westlich
+
+
+\tx придѫтъ   ꙇ  възлѧгѫтъ   съ авраамомь   ꙇ  исакомь,  ꙇ  ѣковомь,
+\std придѫ́тъ и   възлѧ́гѫтъ съ Авраа́момь и   Иса́комь и   Иꙗ́ковомь
+\mrph 3.pl.prs.        $    3.sg.prs.            $    i.sg.                $    i.sg.            $    i.sg.
+\lm приити     и   възлещи       съ Авраамъ       и   Исакъ       и   Иꙗковъ
+\PoS vb.pf.           prn. vb.pf.               prp. sm.npr.              prn. sm.npr.          prn. sm.npr.
+\cls b                $                         $                         $                     $
+\gD kommen           und  sich hinlegen        mit  Abraham              und  Isaac            und  Jakob
+
+
+\tx въ ц҃р҃с҃и           н҃б҃с҃цѣмь,
+\std въ цѣ́сарьствии небе́сьсцѣмь
+\mrph $    l.sg.                    l.sg.n.em.
+\lm въ цѣсарьствиѥ   несесьскъ
+\PoS prp. sn.                      adj.
+\cls $    a
+\gD in   Königreich              himmlisch
+
+
+\ref Matthäus 8.12
+
+\tx а   с҃н҃ове  ц҃р҃ствиѣ        ꙇзгънани    бѫдѫтъ,
+\std а   сꙑ́нове цѣ́сарьствиꙗ и́згънани   бѫ́дѫтъ
+\mrph $    n.pl.           g.sg.                     prc.prt.pass.n.pl.m. 3.sg.fut.
+\lm а   сꙑнъ       цѣсарьствиѥ    изгънати     бꙑти
+\PoS cnj. sm.             sn.                       vb.                  vb.im.
+\cls $                    a                                              a
+\gD aber Sohn            Königreich               austreiben           sein
+
+
+\tx въ тъмѫ   кромѣшьн҄ѭѭ,
+\std въ тьмѫ́ кромѣ́шьнѭѭ
+\mrph $    a.sg.      a.sg.f.em.
+\lm въ тьма   кромѣшьнь
+\PoS prp. sf.        adj.
+\cls $
+\gD in   Finsternis äußerst
+
+
+\tx тоу  бѫдетъ   плачь   ꙇ  скрьжьтъ   зѫбомъ:
+\std тоу  бѫ́детъ пла́чь и   скрь́жьтъ зѫ́бомъ
+\mrph $       3.sg.fut.      a.sg.        $    a.sg.              d.pl.
+\lm тоу  бꙑти      плачь   и   скрьжьтъ   зѫбъ
+\PoS adv.    vb.im.         sm.          prn. sm.                sm.
+\cls $       a                           $                       d
+\gD da,dort sein           Geheule      und  Knirschen          Zahn
+
+
+\ref Matthäus 8.13
+
+\tx ꙇ  рече   и҃с҃       сътьникоу,  ꙇди
+\std и   ре́че Исоу́съ съ́тьникоу иди́
+\mrph $    3.sg.aor.  n.sg.          d.sg.                2.sg.imp.
+\lm и   рещи   Исоусъ   сътьникъ     ити
+\PoS prn. vb.pf.     sm.npr.        sm.                  vb.im.
+\cls $    c          a                                   b
+\gD und  reden      Jesus          Centurio             gehen
+
+
+\tx ѣкоже             вѣрова     бѫди   тебѣ,
+\std ꙗ́ко   же       вѣ́рова   бѫ́ди тебѣ́
+\mrph $           $          2.sg.aor.        3.sg.imp.  d.sg.
+\lm ꙗко     же       вѣровати бꙑти  тꙑ
+\PoS adv.        part.      vb.              vb.im.     prn.
+\cls $           $                           a          $
+\gD wie         же       glauben          sein       du
+
+
+\tx ꙇ  ицѣлѣ       отрокъ   его    въ тъ       часъ,  к҃о҃н҃,
+\std и   исцѣлѣ́   о́трокъ ѥго́  въ тъ       часъ́ конь́ць
+\mrph $    3.sg.aor.        n.sg.          g.sg.     $    a.sg.m.    a.sg.      n.sg.
+\lm и   исцѣлѣти отрокъ   и        въ тъ       часъ   коньць
+\PoS prn. vb.pf.           sm.            prn.      prp. prn.       sm.        sm.
+\cls $                     a              $         $    $                     b
+\gD und  gesund werden    Knabe          er,sie,es in   der,dieser Stunde     Ende
+
+
+\tx ꙇ  обрашть      сѧ  сътьникъ   въ тъ       часъ
+\std и   обращь́      сѧ  съ́тьникъ въ тъ       часъ́
+\mrph $    prc.prt.act.n.sg.m. a.    n.sg.              $    a.sg.m.    a.sg.
+\lm и   обратити    сѧ  сътьникъ   въ тъ       часъ
+\PoS prn. vb.                 prn.  sm.                prp. prn.       sm.
+\cls $                        $                        $    $
+\gD und  wenden              refl. Centurio           in   der,dieser Stunde
+
+
+\tx въ домъ   свои         обрѣте   и        съдрава,
+\std въ до́мъ свои         обрѣ́те и        съдра́ва
+\mrph $    a.sg.      a.sg.m.          3.sg.aor.      a.sg.m.   g.sg.m.
+\lm въ домъ   свои         обрѣсти и        съдравъ
+\PoS prp. sm.        prn.             vb.pf.         prn.      adj.
+\cls $               $                a              $
+\gD in   Haus       sein,eigene(r,s) finden         er,sie,es gesund
+
+

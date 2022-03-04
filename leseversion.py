@@ -3,9 +3,9 @@ import re, codecs
 import csv
 
 git_dir_korr = "D:\git\korrektur"
-git_dir_tool = "D:\git\mancelius-postille\\McP1"
+git_dir_tool = "D:\git\mancelius-epitaphium"
 
-dir_path = git_dir_korr #os.getcwd()
+dir_path = sys.argv[1]
 
 files = [os.path.join(dir_path, f) for f in os.listdir(dir_path) if f[-4:] == ".xml"]
 
@@ -39,9 +39,10 @@ for f in files:
 	
 	txt = re.sub(" (\[.+?\]) \n\n(\S)", " \n\n\g<1> \g<2>", txt)
 	
+	txt = re.sub("<p/>", "\n\np: ", txt)
 	txt = re.sub("<[^>]+?/>", "\n\n", txt)
 	
 	out += txt
-	
-with open("leseversion.txt", "w", encoding="utf-8-sig") as file:
+
+with open(dir_path.split("\\")[-2] + "-leseversion.txt", "w", encoding="utf-8-sig") as file:
 	file.write(out)
