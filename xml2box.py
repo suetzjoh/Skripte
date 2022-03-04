@@ -4,12 +4,27 @@ import csv
 import marshmallow
 from bs4 import BeautifulSoup, Tag
 
+print("hello")
+
 def open_xml(path):
 	with open(path, "r", encoding="utf-8") as f:
 		return re.sub("[\r\n]+?( +)?", "", f.read())
 		
 def intify(str):
-	return int(re.match("\d*", str).group(0))
+	ganz, rat = int(re.match("\d+", str).group(0)), 0
+	rational = re.match("\d+([abcd])", str)
+	if rational:
+		if rational.group(1) == "a":
+			rat = 0.2
+		if rational.group(1) == "b":
+			rat = 0.4
+		if rational.group(1) == "c":
+			rat = 0.6
+		if rational.group(1) == "d":
+			rat = 0.8
+	
+	return ganz + rat
+	
 def return_line_nr(nr):
 	if nr < 10:
 		return "0"+str(nr)
@@ -26,6 +41,7 @@ def extract_lines(read_path, save_path, first, last):
 	page_z = intify(last.split(",")[0])
 	line_z = intify(last.split(",")[1])
 	
+	print(soup.document)
 	doc_title = soup.document["title"]
 	output = "\\_sh v3.0  621  Text\n\n\\id {id}\n\n".format(id=doc_title)
 	
@@ -48,7 +64,7 @@ def extract_lines(read_path, save_path, first, last):
 					store.append([reference, text])
 		elif page_nr > page_z:
 			break
-	
+
 	konkordanz = []
 	for i in range(len(store)):
 		if store[i][1][-1] == "-":
@@ -57,7 +73,7 @@ def extract_lines(read_path, save_path, first, last):
 			store[i][1] = store[i][1][:-1] + "=|" + next_line[0]
 			store[i+1][1] = next_line[1]
 			
-		output += "\\ref {ref}\n\\tx {tx}\n\\std\n\\mrph\n\\lm\n\\PoS\n\\gD\n\n".format(ref=store[i][0], tx=store[i][1])
+		output += "\\ref {ref}\n\\tx {tx}\n\\std\n\\mrph\n\\lm\n\\PoS\n\\gD\n\n\\trans\n\n".format(ref=store[i][0], tx=store[i][1])
 		
 		for word in store[i][1].split(" "):
 			word_ = re.sub("=|", "", word)
@@ -68,11 +84,11 @@ def extract_lines(read_path, save_path, first, last):
 		f.write(output)
 		print("printed", save_path)
 	
-	save_path = re.sub(".txt", "_konk.txt", save_path)
-	konkordanz.sort()
-	with open(save_path, "w", encoding="utf-8") as f:
-		f.write("\n".join(konkordanz))
-		print("printed", save_path)
+	#save_path = re.sub(".txt", "_konk.txt", save_path)
+	#konkordanz.sort() 
+	#with open(save_path, "w", encoding="utf-8") as f:
+	#	f.write("\n".join(konkordanz))
+	#	print("printed", save_path)
 
 def extract_sentences(read_path, save_path, first, last):
 	raw = open_xml(read_path)
@@ -90,7 +106,7 @@ def extract_sentences(read_path, save_path, first, last):
 	store = []
 	line_first = 0
 	sentence = ""
-	delimiter = " [.:?!] ?"
+	delimiter = " [.:?!•] ?"
 	for page in soup.document.find_all("lpp"):
 		page_nr = intify(page["nr"]) # "56a"
 		if not (page_nr < page_a or page_nr > page_z):
@@ -130,10 +146,10 @@ def extract_sentences(read_path, save_path, first, last):
 			break
 		
 	for i in range(len(store)):
-		output += "\\ref {ref}\n\\tx {tx}\n\\std\n\\mrph\n\\lm\n\\PoS\n\\gD\n\n".format(ref=store[i][0], tx=store[i][1])
+		output += "\\ref {ref}\n\\tx {tx}\n\\std\n\\mrph\n\\lm\n\\PoS\n\\gD\n\n\\trans\n\n".format(ref=store[i][0], tx=store[i][1])
 			
-	save_path = re.sub(".txt", "_Sätze.txt", save_path)
-	save_path = "Wortlisten/" + save_path
+	#save_path = re.sub(".txt", "_Sätze.txt", save_path)
+	#save_path = "Wortlisten/" + save_path
 	with open(save_path, "w", encoding="utf-8") as f:
 		f.write(output)
 		print("printed", save_path)
@@ -143,6 +159,7 @@ git_dir_tool = "" #"D:\\git\\mancelius-postille\\McP1"
 
 input_path = os.path.join(git_dir_korr, sys.argv[1])
 output_path = os.path.join(git_dir_tool, sys.argv[2])
+
 
 by_phrase = False
 by_line = False
@@ -159,7 +176,7 @@ while supervisor:
 	first = input("read from page,line: ")
 	last = input("to page,line: ")
 
-	if re.match("\d*,\d*", first) and re.match("\d*,\d*", last):
+	if re.match("\d+[abcd]?,\d+", first) and re.match("\d+[abcd]?,\d+", last):
 		supervisor = False
 		if by_phrase:
 			extract_sentences(input_path, output_path, first, last)

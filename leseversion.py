@@ -39,6 +39,7 @@ for f in files:
 	
 	txt = re.sub(" (\[.+?\]) \n\n(\S)", " \n\n\g<1> \g<2>", txt)
 	
+	txt = re.sub("<p/>", "\n\np: ", txt)
 	txt = re.sub("<[^>]+?/>", "\n\n", txt)
 	
 	out += txt
