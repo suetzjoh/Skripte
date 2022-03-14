@@ -148,9 +148,9 @@
 
 \ref BP_I_218.03
 \tx ſmerties neturetu           regeti  / net   pirm iſch=|wides
-\std smerties  ne        turėtų regėti $ net_pirm   išvydęs
+\std smerties  ne_       turėtų regėti $ net_pirm   išvydęs
 \mrph g.sg.     -         3.cnd.   inf.    $ -          prc.prt.act._n.sg.m.
-\lm smertis   ne        turėti  regėti $ net_pirm   išvysti
+\lm smertis   ne_       turėti  regėti $ net_pirm   išvysti
 \PoS sf.       pfx.      vb.      vb.     $ cnj.       vb.
 \gD Tod       Neg.      müssen  sehen   $ bevor      erblicken
 
@@ -748,9 +748,9 @@
 
 \ref BP_I_221.17
 \tx anis      netartu          / mes  eſme     iſch gimines  Abrahamo / mu=|mus
-\std anys      ne       tartų  $ mes  esame     iš   giminės Abraomo  $ mums
+\std anys      ne_      tartų  $ mes  esame     iš   giminės Abraomo  $ mums
 \mrph n.pl.m.   -        3.cnd.  $ n.   1.pl.prs. +g.   g.sg.    g.sg.    $ d.
-\lm anas      ne       tarti   $ mes  būti     iš   giminė  Abraomas $ mes
+\lm anas      ne_      tarti   $ mes  būti     iš   giminė  Abraomas $ mes
 \PoS prn.      pfx.     vb.     $ prn.           prp.  sf.      sm.npr.  $ prn.
 \gD jene(r/s) Neg.     sagen   $ wir            aus            Abraham  $ wir
 
@@ -868,10 +868,10 @@
 
 \ref BP_I_222.06
 \tx neßmogaus             / bet           paties  Pono  Diewo  darbas ira    / bei
-\std ne          žmogaus   $ bet           paties  pono  dievo  darbas yra    $ bei
+\std ne_         žmogaus   $ bet           paties  pono  dievo  darbas yra    $ bei
 \mrph -           g.sg.      $ -             g.sg.m. g.sg. g.sg.  n.sg.  3.prs. $ -
-\lm ne          žmogus    $ bet           pats    ponas dievas darbas būti  $ bei
-\PoS part.       sm.        $ cnj.          prn.    sm.   sm.    sm.    vb.    $ cnj.
+\lm ne_         žmogus    $ bet           pats    ponas dievas darbas būti  $ bei
+\PoS pfx.        sm.        $ cnj.          prn.    sm.   sm.    sm.    vb.    $ cnj.
 \gD Neg.        Mensch     $ aber,_sondern selbst  Herr  Gott   Werk   sein   $ und
 
 \ref BP_I_222.07
@@ -882,9 +882,9 @@
 \PoS cnj. adv.+SNeg. cnj+SNeg.             sm.      cnj+SNeg.             prn.
 \gD dass nie        und_nicht,_weder_noch Kind     und_nicht,_weder_noch selbst
 \tx augiwe  negaletu           
-\std augyvė ne         galėtų
+\std augyvė ne_        galėtų
 \mrph n.sg.   -          3.cnd.
-\lm augyvė ne         galėti
+\lm augyvė ne_        galėti
 \PoS sf.     pfx.       vb.
 \gD Mutter  Neg.       können
 
@@ -898,9 +898,9 @@
 
 \ref BP_I_222.09
 \tx negelbetu            . Tatai     turetu    ußaunikes padumoti / Baß=|nicʒon
-\std ne         gelbėtų $ tatai     turėtų
+\std ne_        gelbėtų $ tatai     turėtų
 \mrph -          3.cnd.    $ -         3.cnd.
-\lm ne         gelbėti  $ tatai     turėti
+\lm ne_        gelbėti  $ tatai     turėti
 \PoS pfx.       vb.       $ prn.      vb.
 \gD Neg.       helfen    $ dies,_das müssen
 
@@ -1010,9 +1010,9 @@
 
 \ref BP_I_222.23
 \tx Vkeniks    / netur          moterei  ſawa              toki        pakaiu
-\std ūkininkas $ ne     turi    moteriai savo               tokį       pakajų
+\std ūkininkas $ ne_    turi    moteriai savo               tokį       pakajų
 \mrph n.sg.      $ -      3.prs.  d.sg.    -                  a.sg.m.     a.sg.
-\lm ūkininkas $ ne     turėti motė    savo               toks        pakajus
+\lm ūkininkas $ ne_    turėti motė    savo               toks        pakajus
 \PoS sm.        $ pfx.   vb.     sf.      prn.               prn.        sm.
 \gD Bauer      $ Neg.   müssen Frau     [refl._Poss.-prn.] solche(r/s) Friede
 
@@ -1034,9 +1034,9 @@
 
 \ref BP_I_222.26
 \tx nenuſſidůtu                 .
-\std ne              nusiduotų     $
+\std ne_             nusiduotų     $
 \mrph -               3.cnd.         $
-\lm ne              nusiduoti      $
+\lm ne_             nusiduoti      $
 \PoS pfx.            vb.            $
 \gD Neg.            geschehen      $
 
@@ -1106,9 +1106,9 @@
 
 \ref BP_I_223.09
 \tx ne wiena      / nepapiktintu               / namie    paſſilikdama ir
-\std nė_vieną    $ ne            papiktintų  $ namie    pasilikdama    ir
+\std nė_vieną    $ ne_           papiktintų  $ namie    pasilikdama    ir
 \mrph a.sg.m.       $ -             3.cnd.       $ -        prc.cn._sg.f.  -
-\lm nė_vienas    $ ne            papiktinti   $ namie    pasilikti      ir
+\lm nė_vienas    $ ne_           papiktinti   $ namie    pasilikti      ir
 \PoS prn.+SNeg.    $ pfx.          vb.          $ adv.     vb.            cnj.
 \gD niemand,_kein $ Neg.          ärgern      $ zu_Hause bleiben        und,_auch
 \tx Baß=|nicʒona /
@@ -1120,9 +1120,9 @@
 
 \ref BP_I_223.10
 \tx neatſiwaikſchcʒodama                          . Bei  noreia  ſchi=|taipo
-\std ne                       atsivaikščiodama      $ bei  norėjo šitaipo
+\std ne_                      atsivaikščiodama      $ bei  norėjo šitaipo
 \mrph -                        prc.cn._sg.f.           $ -    3.prt.  -
-\lm ne                       atsivaikščioti        $ bei  norėti šitaipo
+\lm ne_                      atsivaikščioti        $ bei  norėti šitaipo
 \PoS pfx.                     vb.                     $ cnj. vb.     adv.
 \gD Neg.                     heranspazieren          $ und  wollen  so
 
@@ -1256,9 +1256,9 @@
 
 \ref BP_I_224.02
 \tx ſchicʒe neatſiſpir                  taipaieg  dwieiu
-\std šičia   ne            atsispiria      taipajėg dviejų
+\std šičia   ne_           atsispiria      taipajėg dviejų
 \mrph -         -             3.prs.          -         g.
-\lm šičia   ne            atsispirti      taipajėg du
+\lm šičia   ne_           atsispirti      taipajėg du
 \PoS adv.      pfx.          vb.             adv.      c.
 \gD hier      Neg.          von_sich_weisen auch      zwei
 
@@ -1336,9 +1336,9 @@
 
 \ref BP_I_224.12
 \tx kacʒei ghis    nebuwa         kaltas   pilditi ſcho      priſakimo /
-\std kačei  jis     ne      buvo   kaltas   pildyti šio       prisakymo  $
+\std kačei  jis     ne_     buvo   kaltas   pildyti šio       prisakymo  $
 \mrph -       n.sg.m. -       3.prt. n.sg.m.  inf.    g.sg.m.    g.sg.      $
-\lm kačei  jis     ne      būti  kaltas   pildyti šis       prisakymas $
+\lm kačei  jis     ne_     būti  kaltas   pildyti šis       prisakymas $
 \PoS cnj.    prn.    pfx.    vb.    adj.     vb.     prn.       sm.        $
 \gD obwohl  er      Neg.    sein   schuldig füllen diese(r/s) Gebot      $
 
@@ -1456,9 +1456,9 @@
 
 \ref BP_I_225.05
 \tx nepriſſiwale                 Ponas Diewas wiſſu         ßmoniu  pirm=|gimiu
-\std ne              prisivalė     ponas dievas visų           žmonių pirmgimių
+\std ne_             prisivalė     ponas dievas visų           žmonių pirmgimių
 \mrph -               3.prt.         n.sg. n.sg.  g.pl.m./f.      g.pl.    g.pl.m.
-\lm ne              prisivalyti    ponas dievas visas           žmogus  pirmgimis
+\lm ne_             prisivalyti    ponas dievas visas           žmogus  pirmgimis
 \PoS pfx.            vb.            sm.   sm.    prn.            sm.      adj.
 \gD Neg.            nötig_haben   Herr  Gott   jede(r/s),_alle Mensch   erstgeboren
 
@@ -1552,9 +1552,9 @@
 
 \ref BP_I_225.17
 \tx O    ßmoniu  Iſraelo   newiena              neußgawa            / Bet
-\std o    žmonių Israelo    nė_vieną-nė_vieno ne         užgavo   $ bet
+\std o    žmonių Israelo    nė_vieną-nė_vieno ne_        užgavo   $ bet
 \mrph -    g.pl.    g.sg.      a.sg./g.sg.          -          3.prt.    $ -
-\lm o    žmogus  ext:Israel nė_vienas           ne         užgauti  $ bet
+\lm o    žmogus  ext:Israel nė_vienas           ne_        užgauti  $ bet
 \PoS cnj. sm.      sm.npr.    prn.+SNeg.           pfx.       vb.       $ cnj.
 \gD und  Mensch   Israel     niemand,_kein        Neg.       antreffen $ aber,_sondern
 
@@ -1616,9 +1616,9 @@
 
 \ref BP_I_225.25
 \tx mus  nenoreia           iſchleiſti / ußmuſche Ponas
-\std mus  ne        norėjo  išleisti    $ užmušė  ponas
+\std mus  ne_       norėjo  išleisti    $ užmušė  ponas
 \mrph a.   -         3.prt.   inf.         $ 3.prt.     n.sg.
-\lm mes  ne        norėti  išleisti    $ užmušti  ponas
+\lm mes  ne_       norėti  išleisti    $ užmušti  ponas
 \PoS prn. pfx.      vb.      vb.          $ vb.        sm.
 \gD wir  Neg.      wollen   herauslassen $ erschlagen Herr
 
@@ -1672,9 +1672,9 @@
 
 \ref BP_I_226.06
 \tx lobio         neturedawa             / wienok  ſu  Moterimis ir        waikais
-\std lobio         ne          turėdavo  $ vienok  su   moterimis ir        vaikais
+\std lobio         ne_         turėdavo  $ vienok  su   moterimis ir        vaikais
 \mrph g.sg.         -           3.prt.frq. $ -       +i.  i.pl.     -         i.pl.
-\lm lobis         ne          turėti    $ vienok  su   motė     ir        vaikas
+\lm lobis         ne_         turėti    $ vienok  su   motė     ir        vaikas
 \PoS sm.           pfx.        vb.        $ adv.    prp. sf.       cnj.      sm.
 \gD Gut,_Reichtum Neg.        müssen    $ dennoch mit  Frau      und,_auch Kind
 
@@ -1704,9 +1704,9 @@
 
 \ref BP_I_226.10
 \tx Er           neßinnot            iog  thie       kurie       Altorui ſlußij  / nog  Alto=|riaus
-\std ar           ne         žinote   jog  tie        kurie       altorui slūžija $ nuog altoriaus
+\std ar           ne_        žinote   jog  tie        kurie       altorui slūžija $ nuog altoriaus
 \mrph -            -          2.pl.prs. -    n.pl.m.    n.pl.m.     g.sg.   3.prs.    $ +g.  g.sg.
-\lm ar           ne         žinoti   jog  tas        kuris       altoras slūžyti $ nuog altorius
+\lm ar           ne_        žinoti   jog  tas        kuris       altoras slūžyti $ nuog altorius
 \PoS part.        pfx.       vb.       cnj. prn.       prn.        sm.     vb.       $ prp. sm.
 \gD [Fragepart.] Neg.       wissen    dass diese(r/s) welche(r/s) Altar   dienen    $ von  Altar
 

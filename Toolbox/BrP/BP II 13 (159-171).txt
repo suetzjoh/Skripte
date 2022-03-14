@@ -100,9 +100,9 @@
 
 \ref BP_II_159.13
 \tx neſæk          / bet           beg     nug  io      / neſa nepaßinſta               bal=|ſa
-\std ne       seka    $ bet           bėga   nuog jo      $ nes   ne            pažįsta    balso-balsą
+\std ne_      seka    $ bet           bėga   nuog jo      $ nes   ne_           pažįsta    balso-balsą
 \mrph -        3.prs.  $ -             3.prs.  +g.  g.sg.m. $ -     -             3.prs.       g.sg./a.sg.
-\lm ne       sekti   $ bet           bėgti  nuog jis     $ nes   ne            pažinti     balsas
+\lm ne_      sekti   $ bet           bėgti  nuog jis     $ nes   ne_           pažinti     balsas
 \PoS pfx.     vb.     $ cnj.          vb.     prp. prn.    $ cnj.  pfx.          vb.          sm.
 \gD Neg.     folgen  $ aber,_sondern fliehen von  er      $ denn  Neg.          (er)kennen   Stimme
 
@@ -164,9 +164,9 @@
 
 \ref BP_II_160.04
 \tx bet           awis  iu      neeſti          klauſuſias              . Eſch
-\std bet           avys  jų     ne       esti    klausiusios               $ aš
+\std bet           avys  jų     ne_      esti    klausiusios               $ aš
 \mrph -             n.pl. g.pl.m. -        3.prs.  prc.prt.act._n.pl.f.+PERF $ n.
-\lm bet           avis  jis     ne       būti   klausyti                  $ aš
+\lm bet           avis  jis     ne_      būti   klausyti                  $ aš
 \PoS cnj.          sf.   prn.    pfx.     vb.aux  vb.                       $ prn.
 \gD aber,_sondern Schaf er      Neg.     sein    zuhören                  $ ich
 
@@ -188,9 +188,9 @@
 
 \ref BP_II_160.07
 \tx ras    . Wagis neateit          tiktai idant
-\std ras    $ vagis ne       ateina  tiktai idant
+\std ras    $ vagis ne_      ateina  tiktai idant
 \mrph 3.ft.  $ n.sg. -        3.prs.  -      -
-\lm rasti  $ vagis ne       ateiti  tiktai idant
+\lm rasti  $ vagis ne_      ateiti  tiktai idant
 \PoS vb.    $ sm.   pfx.     vb.     adv.   cnj.
 \gD finden $ Dieb  Neg.     kommen  nur    damit
 
@@ -810,9 +810,9 @@
 
 \ref BP_II_163.14
 \tx nelauk         tikro       ir        atwiro  pawadinimo  / ikki  ar
-\std ne      laukia tikro       ir        atviro  pavadinimo  $ iki   ar
+\std ne_     laukia tikro       ir        atviro  pavadinimo  $ iki   ar
 \mrph -       3.prs. g.sg.m.     -         g.sg.m. g.sg.       $ -     -
-\lm ne      laukti tikras      ir        atviras pavadinimas $ iki   ar
+\lm ne_     laukti tikras      ir        atviras pavadinimas $ iki   ar
 \PoS pfx.    vb.    adj.        cnj.      adj.    sm.         $ $ cnj part.
 \gD Neg.    warten wahr,_recht und,_auch offen   Benennung   $ bis   [Fragepart.]
 \tx wi=|reſniu
@@ -878,9 +878,9 @@
 
 \ref BP_II_163.21
 \tx Bei  tokius      koſnadieius / Diewas neſiun=|te              /
-\std bei  tokius      koznadėjus  $ dievas ne           siuntė     $
+\std bei  tokius      koznadėjus  $ dievas ne_          siuntė     $
 \mrph -    a.pl.m.     a.pl.        $ n.sg.  -            3.prt.      $
-\lm bei  toks        koznadėjas  $ dievas ne           siųsti     $
+\lm bei  toks        koznadėjas  $ dievas ne_          siųsti     $
 \PoS cnj. prn.        sm.          $ sm.    pfx.         vb.         $
 \gD und  solche(r/s) Prediger     $ Gott   Neg.         schicken    $
 
@@ -894,18 +894,18 @@
 
 \ref BP_II_163.23
 \tx iu      ſkunſdamaſi bila   . Eſch tu         pararaku neſiuncʒau               O
-\std jų     skųsdamasis   bylo   $ aš   tų        prarakų ne            siunčiau    o
+\std jų     skųsdamasis   bylo   $ aš   tų        prarakų ne_           siunčiau    o
 \mrph g.pl.m. prc.cn._sg.m.  3.prs. $ n.    g.pl.m.    g.pl.    -             1.sg.prt.    -
-\lm jis     skųstis       byloti $ aš   tas        prarakas ne            siųsti      o
-\PoS prn.    vb.            vb.    $ prn.  prn.       sm.      p             vb.          cnj.
+\lm jis     skųstis       byloti $ aš   tas        prarakas ne_           siųsti      o
+\PoS prn.    vb.            vb.    $ prn.  prn.       sm.      pfx.          vb.          cnj.
 \gD er      sich_beklagen  sagen  $ ich   diese(r/s) Prophet  Neg.          schicken     und,_aber
 
 \ref BP_II_163.24
 \tx tacʒiau anis      tekeia           / Eſch iemus   nekalbeiau             / o         tacʒiau
-\std tačiau  anys      tekėjo          $ aš   jiems   ne          kalbėjau  $ o         tačiau
+\std tačiau  anys      tekėjo          $ aš   jiems   ne_         kalbėjau  $ o         tačiau
 \mrph -        n.pl.m.   3.prt.           $ n.    d.pl.m. -           1.sg.prt.  $ -         -
-\lm tačiau  anas      tekėti          $ aš   jis     ne          kalbėti   $ o         tačiau
-\PoS adv.     prn.      vb.              $ prn.  prn.    pfx         vb.        $ cnj.      adv.
+\lm tačiau  anas      tekėti          $ aš   jis     ne_         kalbėti   $ o         tačiau
+\PoS adv.     prn.      vb.              $ prn.  prn.    pfx.        vb.        $ cnj.      adv.
 \gD jedoch   jene(r/s) laufen,_fließen $ ich   er      Neg.        sprechen   $ und,_aber jedoch
 
 \ref BP_II_163.25
@@ -942,9 +942,9 @@
 
 \ref BP_II_164.04
 \tx A         tatai     ira    pirma Kriſtus ateiti / Kada      kas  ne=|mokin            
-\std o         tatai     yra    pirm  Kristaus ateiti $ kada      kas  ne          mokina
+\std o         tatai     yra    pirm  Kristaus ateiti $ kada      kas  ne_         mokina
 \mrph -         -         3.prs. +g.   g.sg.    inf.   $ -         n.   -           3.prs.
-\lm o         tatai     būti  pirm  Kristus  ateiti $ kada      kas  ne          mokinti
+\lm o         tatai     būti  pirm  Kristus  ateiti $ kada      kas  ne_         mokinti
 \PoS cnj.      prn.      vb.    prp.  sm.npr.  vb.    $ cnj.      prn. pfx.        vb.
 \gD und,_aber dies,_das sein   vor   Christus kommen $ wenn,_als wer  Neg.        lehren
 
@@ -1008,11 +1008,11 @@
 
 \ref BP_II_164.10
 \tx ßenklu  gerai dabokimeſi     / ieib nebutumbim             priwilti                 .
-\std ženklų gerai dabokimės      $ jeib ne          būtumėme privilti                 $
+\std ženklų gerai dabokimės      $ jeib ne_         būtumėme privilti                 $
 \mrph g.pl.    adv.  1.pl.imp.       $ -    -           1.pl.cnd.  prc.prt.pss._n.pl.m.+PSS $
-\lm ženklas geras dabotis         $ jeib ne          būti      privilti                 $
-\PoS sm.      adj.  vb.             $ cnj.                        vb.                      $
-\gD Zeichen  gut   aufmerksam_sein $ dass                        betrügen                $
+\lm ženklas geras dabotis         $ jeib ne_         būti      privilti                 $
+\PoS sm.      adj.  vb.             $ cnj. pfx.                   vb.                      $
+\gD Zeichen  gut   aufmerksam_sein $ dass Neg.                   betrügen                $
 
 \ref BP_II_164.11
 \tx A         weiſdekem  nu     toliaus / koke        iſkada  tokie       negeri
@@ -1190,10 +1190,10 @@
 
 \ref BP_II_165.07
 \tx drauge   neatneſch             / tam        nedůket            padwarios  / nei                   ana
-\std drauge   ne          atneša    $ tam        ne        duokite   padvarijos $ nei                   aną
+\std drauge   ne_         atneša    $ tam        ne_       duokite   padvarijos $ nei                   aną
 \mrph -        -           3.prs.     $ d.sg.m.    -         2.pl.imp. g.sg.      $ -                     a.sg.m.
-\lm drauge   ne          atnešti   $ tas        ne        duoti     padvarija  $ nei                   anas
-\PoS adv.     pfx.        vb.        $ prn.       pfx       vb.       sf.        $ cnj.                  prn.
+\lm drauge   ne_         atnešti   $ tas        ne_       duoti     padvarija  $ nei                   anas
+\PoS adv.     pfx.        vb.        $ prn.       pfx.      vb.       sf.        $ cnj.                  prn.
 \gD zusammen Neg.        bringen    $ diese(r/s) Neg.      geben     Herberge   $ und_nicht,_weder_noch jene(r/s)
 
 \ref BP_II_165.08
@@ -1588,9 +1588,9 @@
 
 \ref BP_II_167.06
 \tx neſſibianti                       / nei                   grieko  nei                   Diewo  / nei                   amßino
-\std ne             bijantįs            $ nei                   grieko  nei                   dievo  $ nei                   amžino
+\std ne_            bijantįs            $ nei                   grieko  nei                   dievo  $ nei                   amžino
 \mrph -              prc.prs.act._a.sg.m. $ -                     g.sg.   -                     g.sg.  $ -                     g.sg.m.
-\lm ne             bijotis              $ nei                   griekas nei                   dievas $ nei                   amžinas
+\lm ne_            bijotis              $ nei                   griekas nei                   dievas $ nei                   amžinas
 \PoS pfx.           vb.                  $ $ cnj+SNeg.           sm.     cnj+SNeg.             sm.    $ $ cnj+SNeg.           adj.
 \gD Neg.           sich_fürchten       $ und_nicht,_weder_noch Sünde  und_nicht,_weder_noch Gott   $ und_nicht,_weder_noch ewig
 
@@ -1626,9 +1626,9 @@
 
 \ref BP_II_167.10
 \tx tu         / kurie       nenor          priſſiwerſti / tatai     eſti  / pakuta      dariti      .
-\std tų        $ kurie       ne     nori    prisiversti     $ tatai     yra    $ pakūtą    daryti      $
+\std tų        $ kurie       ne_    nori    prisiversti     $ tatai     yra    $ pakūtą    daryti      $
 \mrph g.pl.m.    $ n.pl.m.     -      3.prs.  inf.            $ -         3.prs. $ a.sg.       inf.        $
-\lm tas        $ kuris       ne     norėti prisiversti     $ tatai     būti  $ pakūta     daryti      $
+\lm tas        $ kuris       ne_    norėti prisiversti     $ tatai     būti  $ pakūta     daryti      $
 \PoS prn.       $ prn.        pfx.   vb.     vb.             $ prn.      v      $ sf.         vb.         $
 \gD diese(r/s) $ welche(r/s) Neg.   wollen  sich_bekehren   $ dies,_das sein   $ Reue,_Buße tun,_machen $
 
@@ -1942,9 +1942,9 @@
 \PoS vb.          vb.       prn.               sm.     cnj. prn.
 \gD abschwächen beruhigen [refl._Poss.-prn.] Körper dass andere(r/s)
 \tx ne=|ſakicʒiau                  /
-\std ne               sakyčiau       $
+\std ne_              sakyčiau       $
 \mrph -                1.sg.cnd.       $
-\lm ne               sakyti          $
+\lm ne_              sakyti          $
 \PoS pfx.             vb.             $
 \gD Neg.             sagen           $
 
@@ -2412,18 +2412,18 @@
 
 \ref BP_II_171.10
 \tx ſwetimo neſekti           . Swetimo  neſekti           / taiai     eſt   / pikto
-\std svetimo  ne        sekti    $ svetimo  ne        sekti    $ tatai     yra    $ pikto
+\std svetimo  ne_       sekti    $ svetimo  ne_       sekti    $ tatai     yra    $ pikto
 \mrph g.sg.m.  -         inf.     $ g.sg.m.  -         inf.     $ -         3.prs. $ g.sg.m.
-\lm svetimas ne        sekti    $ svetimas ne        sekti    $ tatai     būti  $ piktas
-\PoS adj.     pfx.      vb.      $ adj.     pfx       vb.      $ prn.      v      $ adj.
+\lm svetimas ne_       sekti    $ svetimas ne_       sekti    $ tatai     būti  $ piktas
+\PoS adj.     pfx.      vb.      $ adj.     pfx.      vb.      $ prn.      v      $ adj.
 \gD fremd    Neg.      folgen   $ fremd    Neg.      folgen   $ dies,_das sein   $ böse,_schlecht
 
 \ref BP_II_171.11
 \tx falſchiwo pamokſlo neklauſiti              / ne    prijmti  / anam      ne=|pritarti               /
-\std falšyvo   pamokslo  ne           klausyti    $ ne    priimti  $ anam      ne            pritarti     $
+\std falšyvo   pamokslo  ne_          klausyti    $ ne    priimti  $ anam      ne_           pritarti     $
 \mrph g.sg.m.    g.sg.     -            inf.        $ -     inf.     $ d.sg.m.   -             inf.         $
-\lm falšyvas  pamokslas ne           klausyti    $ ne    priimti  $ anas      ne            pritarti     $
-\PoS adj.       sm.       pfx.         vb.         $ $ pfx vb.      $ prn.      p             vb.          $
+\lm falšyvas  pamokslas ne_          klausyti    $ ne    priimti  $ anas      ne_           pritarti     $
+\PoS adj.       sm.       pfx.         vb.         $ $ pfx vb.      $ prn.      pfx.          vb.          $
 \gD falsch     Predigt   Neg.         zuhören    $ Neg.  annehmen $ jene(r/s) Neg.          billigen     $
 
 \ref BP_II_171.12

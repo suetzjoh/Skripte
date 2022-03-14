@@ -96,17 +96,17 @@
 
 \ref BP_II_374.01
 \tx noreia  regeti  / ka   ius  regit     / ir   neregeia           /
-\std norėjo regėti $ ką  jūs regite    $ ir   ne        regėjo  $
+\std norėjo regėti $ ką  jūs regite    $ ir   ne_       regėjo  $
 \mrph 3.prt.  inf.    $ a.   n.   2.pl.prs. $ -    -         3.prt.   $
-\lm norėti regėti $ kas  jūs regėti   $ ir   ne        regėti  $
+\lm norėti regėti $ kas  jūs regėti   $ ir   ne_       regėti  $
 \PoS vb.     vb.     $ prn. prn. vb.       $ cnj. pfx.      vb.      $
 \gD wollen  sehen   $ was  ihr  sehen     $ und  Neg.      sehen    $
 
 \ref BP_II_374.02
 \tx ir   girdeti  ka   ius  girdit    / ir   negirdeia            .
-\std ir   girdėti ką  jūs girdite   $ ir   ne         girdėjo  $
+\std ir   girdėti ką  jūs girdite   $ ir   ne_        girdėjo  $
 \mrph -    inf.     a.   n.   2.pl.prs. $ -    -          3.prt.    $
-\lm ir   girdėti kas  jūs girdėti  $ ir   ne         girdėti  $
+\lm ir   girdėti kas  jūs girdėti  $ ir   ne_        girdėti  $
 \PoS cnj. vb.      prn. prn. vb.       $ cnj. pfx.       vb.       $
 \gD und  hören   was  ihr  hören    $ und  Neg.       hören    $
 
@@ -682,10 +682,10 @@
 
 \ref BP_II_377.03
 \tx iſchwiſi ne         nakti  nemieganti                       delei  rupeſcʒio / delei
-\std išvysi    nė        naktį ne          miegantį            dėlei rūpesčio  $ dėlei
+\std išvysi    nė        naktį ne_         miegantį            dėlei rūpesčio  $ dėlei
 \mrph 2.ft.      -          a.sg.  -           prc.prs.act._a.sg.m. +g.    g.sg.       $ +g.
-\lm išvysti   nė        naktis ne          miegoti              dėlei rūpestis   $ dėlei
-\PoS vb.        part.+SNeg sf.    pfx         vb.                  prp.   sm./sf.     $ prp.
+\lm išvysti   nė        naktis ne_         miegoti              dėlei rūpestis   $ dėlei
+\PoS vb.        part.+SNeg sf.    pfx.        vb.                  prp.   sm./sf.     $ prp.
 \gD erblicken  Neg.       Nacht  Neg.        schlafen             wegen  Sorge       $ wegen
 
 \ref BP_II_377.04
@@ -738,10 +738,10 @@
 
 \ref BP_II_377.10
 \tx ka     weikſiu / neturiu            kur  padeti  iawu     ſawa              / tatai
-\std ko-ką veiksiu  $ ne       turiu     kur  padėti javų    savo               $ tatai
+\std ko-ką veiksiu  $ ne_      turiu     kur  padėti javų    savo               $ tatai
 \mrph g./a.  1.sg.ft. $ -        1.sg.prs. -    inf.    g.pl.    -                  $ -
-\lm kas    veikti   $ ne       turėti   kur  padėti javas    savo               $ tatai
-\PoS prn.   vb.      $ $ pfx    vb.       adv. vb.     sm.      prn.               $ prn.
+\lm kas    veikti   $ ne_      turėti   kur  padėti javas    savo               $ tatai
+\PoS prn.   vb.      $ pfx.     vb.       adv. vb.     sm.      prn.               $ prn.
 \gD was    machen   $ Neg.               wo           Getreide [refl._Poss.-prn.] $ dies,_das
 \tx dari=|ſiu  /
 \std darysiu     $
@@ -808,25 +808,25 @@
 
 \ref BP_II_377.18
 \tx neſibiantis                       .
-\std ne            bijąsi              $
+\std ne_           bijąsi              $
 \mrph -             prc.prs.act._n.pl.m. $
-\lm ne            bijotis              $
+\lm ne_           bijotis              $
 \PoS pfx.          vb.                  $
 \gD Neg.          sich_fürchten       $
 
 \ref BP_II_377.19
 \tx Nuggi              bukem     linkſchmi kolei   beturrim            / kunui
-\std nū    gi          būkime   linksmi    kolei   be-       turime    $ kūnui
+\std nū    gi          būkime   linksmi    kolei   be_       turime    $ kūnui
 \mrph -      -           1.pl.imp. n.pl.m.    -       -         1.pl.prs. $ d.sg.
-\lm nu=nū gi          būti     linksmas   kolei   be-       turėti   $ kūnas
-\PoS adv.   part.       vb.       adj.       cnj.    Präf.    vb.       $ sm.
-\gD jetzt  [aff.part.] sein      froh       solange []-                 $ Körper
+\lm nu=nū gi          būti     linksmas   kolei   be_       turėti   $ kūnas
+\PoS adv.   part.       vb.       adj.       cnj.    pfx.      vb.       $ sm.
+\gD jetzt  [aff.part.] sein      froh       solange []                  $ Körper
 
 \ref BP_II_377.20
 \tx muſu  nieko      neginkem            / kolei   be   iaunas  / gerauſio   Wi=|no
-\std mūsų nieko      ne        ginkime   $ kolei   be-  jaunas  $ geriausio   vyno
+\std mūsų nieko      ne_       ginkime   $ kolei   be-  jaunas  $ geriausio   vyno
 \mrph g.     g.sg.      -         1.pl.imp. $ -       -    n.sg.m. $ g.sg.m.cmp. g.sg.
-\lm mes    niekas     ne        ginti     $ kolei   be-  jaunas  $ geras       vynas
+\lm mes    niekas     ne_       ginti     $ kolei   be-  jaunas  $ geras       vynas
 \PoS prn.   prn.+SNeg. pfx.      vb.       $ cnj.    pfx. adj.    $ adj.        sm.
 \gD wir    nichts     Neg.      verwehren $ solange []-  jung    $ gut         Wein
 
@@ -986,9 +986,9 @@
 \PoS cnj.      sm.      sf.
 \gD und,_auch Prophet  Auge
 \tx neregeia           / kacʒei
-\std ne        regėjo  $ kačei
+\std ne_       regėjo  $ kačei
 \mrph -         3.prt.   $ -
-\lm ne        regėti  $ kačei
+\lm ne_       regėti  $ kačei
 \PoS pfx.      vb.      $ cnj.
 \gD Neg.      sehen    $ obwohl
 \tx didei io      rege=|ti
@@ -1048,9 +1048,9 @@
 
 \ref BP_II_378.17
 \tx a         kuniſchkomis akimis io      neregeia           / kacʒei didei inſi=|geide
-\std o         kūniškomis  akimis jo      ne        regėjo  $ kačei  didei įsigeidė
+\std o         kūniškomis  akimis jo      ne_       regėjo  $ kačei  didei įsigeidė
 \mrph -         i.pl.f.       i.pl.  g.sg.m. -         3.prt.   $ -       -     3.prt.
-\lm o         kūniškas    akis   jis     ne        regėti  $ kačei  didei įsigeisti
+\lm o         kūniškas    akis   jis     ne_       regėti  $ kačei  didei įsigeisti
 \PoS cnj.      adj.          sf.    prn.    pfx.      vb.      $ cnj.    adv.  vb.
 \gD und,_aber körperlich   Auge   er      Neg.      sehen    $ obwohl  sehr  verlangen,_begehren
 
@@ -1424,10 +1424,10 @@
 
 \ref BP_II_380.02
 \tx ſawe       mjl     . A         ſcho      priſakimo newienas      ßmogus ne=|gal          
-\std save        myli    $ o         šio       prisakymo  nė_vienas    žmogus ne        gali
+\std save        myli    $ o         šio       prisakymo  nė_vienas    žmogus ne_       gali
 \mrph a.          3.prs.  $ -         g.sg.m.    g.sg.      n.sg.m.       n.sg.   -         3.prs.
-\lm savęs      mylėti $ o         šis       prisakymas nė_vienas    žmogus ne        galėti
-\PoS prn.        vb.     $ cnj.      prn.       sm.        prn.+SNeg.    sm.     pfx       vb.
+\lm savęs      mylėti $ o         šis       prisakymas nė_vienas    žmogus ne_       galėti
+\PoS prn.        vb.     $ cnj.      prn.       sm.        prn.+SNeg.    sm.     pfx.      vb.
 \gD [refl.prn.] lieben  $ und,_aber diese(r/s) Gebot      niemand,_kein Mensch  Neg.      können
 
 \ref BP_II_380.03
@@ -1499,10 +1499,10 @@
 \gD Körper $ dies,_das sein   $
 \tx ßmogus / nera        
 \std žmogus $ nėra        
-\mrph n.sg.   $ 3.prs.  3.prs.
-\lm žmogus $ ne      būti
+\mrph n.sg.   $ 3.prs.        
+\lm žmogus $ būti   būti
 \PoS sm.     $ pfx.    v.
-\gD Mensch  $ Neg.    sein
+\gD Mensch  $ sein    sein
 \tx teiſus po akim
 \std teisus  po_akim
 \mrph n.sg.m. +g.
@@ -1600,9 +1600,9 @@
 
 \ref BP_II_380.18
 \tx tenenuſitik               darbams
-\std ne            tenusitiki   darbams
+\std ne_           tenusitiki   darbams
 \mrph -             prm.         d.pl.
-\lm ne            nusitikėti  darbas
+\lm ne_           nusitikėti  darbas
 \PoS pfx.          vb.          sm.
 \gD Neg.          vertrauen    Werk
 \tx ſawa              / bet
@@ -1694,9 +1694,9 @@
 \PoS sm.npr. prn.        v.
 \gD Adam    andere(r/s) werden
 \tx / nu     negalim          
-\std $ nū    ne        galime
+\std $ nū    ne_       galime
 \mrph $ -      -         1.pl.prs.
-\lm $ nu=nū ne        galėti
+\lm $ nu=nū ne_       galėti
 \PoS $ adv.   pfx.      vb.
 \gD $ jetzt  Neg.      können
 \tx nei
@@ -1886,9 +1886,9 @@
 
 \ref BP_II_381.15
 \tx nedaritu              .
-\std ne        darytų     $
+\std ne_       darytų     $
 \mrph -         3.cnd.      $
-\lm ne        daryti      $
+\lm ne_       daryti      $
 \PoS pfx.      vb.         $
 \gD Neg.      tun,_machen $
 

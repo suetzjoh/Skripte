@@ -156,9 +156,9 @@
 
 \ref BP_II_042.13
 \tx kurs        wadinamas                ira    Dwinas   nebu=|wa           
-\std kuris       vadinamas                yra    dvynas   ne         buvo
+\std kuris       vadinamas                yra    dvynas   ne_        buvo
 \mrph n.sg.m.     prc.prs.pss._n.sg.m.+PSS 3.prs. n.sg.    -          3.prt.
-\lm kuris       vadinti                  būti  dvynas   ne         būti
+\lm kuris       vadinti                  būti  dvynas   ne_        būti
 \PoS prn.        vb.                      vb.aux sm.      pfx.       vb.
 \gD welche(r/s) nennen                   sein   Zwilling Neg.       sein
 
@@ -188,9 +188,9 @@
 
 \ref BP_II_042.17
 \tx neregeſiu             io      winiu  wietas      / ir   ne   indeſiu
-\std ne          regėsiu   jo      vinių vietas      $ ir   ne   įdėsiu
+\std ne_         regėsiu   jo      vinių vietas      $ ir   ne   įdėsiu
 \mrph -           1.sg.ft.   g.sg.m. g.pl.  a.pl.       $ -    -    1.sg.ft.
-\lm ne          regėti    jis     vinis  vieta       $ ir   ne   įdėti
+\lm ne_         regėti    jis     vinis  vieta       $ ir   ne   įdėti
 \PoS pfx.        vb.        prn.    sf.    sf.         $ cnj. pfx. vb.
 \gD Neg.        sehen      er      Nagel  Ort,_Stelle $ und  Neg. hineinlegen
 
@@ -204,9 +204,9 @@
 
 \ref BP_II_043.01
 \tx ranka  mana ing         ſchona io      / netikieſiu              [.]
-\std ranką mano ing         šoną  jo      $ ne           tikėsiu    $
+\std ranką mano ing         šoną  jo      $ ne_          tikėsiu    $
 \mrph a.sg.  -    +a.         a.sg.   g.sg.m. $ -            1.sg.ft.    $
-\lm ranka  mano ing         šonas  jis     $ ne           tikėti     $
+\lm ranka  mano ing         šonas  jis     $ ne_          tikėti     $
 \PoS sf.    prn. prp.        sm.     prn.    $ pfx.         vb.         $
 \gD Hand   mein in_-_hinein Seite   er      $ Neg.         glauben     $
 
@@ -268,9 +268,9 @@
 
 \ref BP_II_043.09
 \tx ir   indek       ie      ſchonana mana / ir   nebuk            ne                                       iti=|kins /
-\std ir   įdėk      ją     šonan    mano $ ir   ne     būk      ne                        įtikįs                 $
+\std ir   įdėk      ją     šonan    mano $ ir   ne_    būk      ne                        įtikįs                 $
 \mrph -    2.sg.imp.   a.sg.f. il.sg.    -    $ -    -      2.sg.imp. -                         prc.prs.act._n.sg.m.     $
-\lm ir   įdėti     jis     šonas    mano $ ir   ne     būti     ne                        įtikėti                $
+\lm ir   įdėti     jis     šonas    mano $ ir   ne_    būti     ne                        įtikėti                $
 \PoS cnj. vb.         prn.    sm.       prn. $ cnj. pfx.   vb.       pfx.                      vb.                      $
 \gD und  hineinlegen er      Seite     mein $ und  Neg.   sein      Neg.                      glauben                  $
 
@@ -308,9 +308,9 @@
 
 \ref BP_II_043.14
 \tx intikeiei  . Iſchganiti              ira    / kurie       nereg        
-\std įtikėjai $ išganyti                yra    $ kurie       ne      regi
+\std įtikėjai $ išganyti                yra    $ kurie       ne_     regi
 \mrph 2.sg.prt.  $ prc.prt.pss._n.pl.m.+PSS 3.prs. $ n.pl.m.     -       3.prs.
-\lm įtikėti  $ išganyti                būti  $ kuris       ne      regėti
+\lm įtikėti  $ išganyti                būti  $ kuris       ne_     regėti
 \PoS vb.        $ vb.                      vb.aux $ prn.        pfx.    vb.
 \gD glauben    $ erlösen                 sein   $ welche(r/s) Neg.    sehen
 
@@ -708,9 +708,9 @@
 
 \ref BP_II_046.01
 \tx netikeghima  / ir        ſchirdies kietibe  iog  anis      netikeia           
-\std netikėjimą $ ir        širdies   kietybę jog  anys      ne         tikėjo
+\std netikėjimą $ ir        širdies   kietybę jog  anys      ne_        tikėjo
 \mrph a.sg.        $ -         g.sg.      a.sg.    -    n.pl.m.   -          3.prt.
-\lm netikėjimas $ ir        širdis    kietybė jog  anas      ne         tikėti
+\lm netikėjimas $ ir        širdis    kietybė jog  anas      ne_        tikėti
 \PoS sm.          $ cnj.      sf.        sf.      cnj. prn.      pfx.       vb.
 \gD Unglaube     $ und,_auch Herz       Härte   dass jene(r/s) Neg.       glauben
 \tx tie=|mus   /
@@ -746,9 +746,9 @@
 
 \ref BP_II_046.05
 \tx kas  netikes          tas        bus   praßuditas              . Schwen=|tas
-\std kas  ne       tikės  tas        bus   pražudytas              $ šventas
+\std kas  ne_      tikės  tas        bus   pražudytas              $ šventas
 \mrph n.   -        3.ft.   n.sg.m.    3.ft. prc.prt.pss._n.sg.m.+PSS $ n.sg.m.
-\lm kas  ne       tikėti tas        būti pražudyti               $ šventas
+\lm kas  ne_      tikėti tas        būti pražudyti               $ šventas
 \PoS prn. pfx.     vb.     prn.       v.au  vb.                      $ adj.
 \gD wer  Neg.     glauben diese(r/s) sein  verdammen                $ heilig
 
@@ -866,10 +866,10 @@
 
 \ref BP_II_046.20
 \tx Vreda   nepeikti             / nedergti            / net     mileti  / garbinti / ir        ka
-\std urėdą ne        peikti     $ ne        dergti    $ net     mylėti $ garbinti $ ir        ką
+\std urėdą ne_       peikti     $ ne_       dergti    $ net     mylėti $ garbinti $ ir        ką
 \mrph a.sg.   -         inf.       $ -         inf.      $ -       inf.    $ inf.     $ -         a.
-\lm urėdas ne        peikti     $ ne        dergti    $ net     mylėti $ garbinti $ ir        kas
-\PoS sm.     pfx.      vb.        $ $ pfx     vb.       $ $ cnj.  vb.     $ vb.      $ $ cn      prn.
+\lm urėdas ne_       peikti     $ ne_       dergti    $ net     mylėti $ garbinti $ ir        kas
+\PoS sm.     pfx.      vb.        $ pfx.      vb.       $ $ cnj.  vb.     $ vb.      $ $ cn      prn.
 \gD Amt     Neg.      verfluchen $ Neg.      schmähen $ sondern lieben  $ ehren    $ und,_auch
 
 \ref BP_II_046.21
@@ -962,9 +962,9 @@
 
 \ref BP_II_047.06
 \tx neragauſi             . Neſa kure            diena        tu   iſch to         walgiſſi /
-\std ne          ragausi    $ nes   kurią-kuria    dieną-diena tu   iš   to         valgysi    $
+\std ne_         ragausi    $ nes   kurią-kuria    dieną-diena tu   iš   to         valgysi    $
 \mrph -           2.sg.ft.   $ -     a.sg.f./i.sg.f. a.sg./i.sg.  n.   +g.   g.sg.m.    2.sg.ft.   $
-\lm ne          ragauti    $ nes   kuris           diena        tu   iš   tas        valgyti    $
+\lm ne_         ragauti    $ nes   kuris           diena        tu   iš   tas        valgyti    $
 \PoS pfx.        vb.        $ cnj.  prn.            sf.          prn. prp.  prn.       vb.        $
 \gD Neg.        probieren  $ denn  welche(r/s)     Tag          du   aus   diese(r/s) essen      $
 \tx mirſi   .
@@ -1208,10 +1208,10 @@
 
 \ref BP_II_048.09
 \tx piktaſis       ſawe       amßinai ſkandin   / kadda     nenor          mi=|leti /
-\std piktasis        save        amžinai skandina   $ kada      ne     nori    mylėti  $
+\std piktasis        save        amžinai skandina   $ kada      ne_    nori    mylėti  $
 \mrph n.sg.m.def.     a.          adv.     3.prs.     $ -         -      3.prs.  inf.     $
-\lm piktas          savęs      amžinas skandinti  $ kada      ne     norėti mylėti  $
-\PoS adj.            prn.        adj.     vb.        $ $ cnj.    pfx    vb.     vb.      $
+\lm piktas          savęs      amžinas skandinti  $ kada      ne_    norėti mylėti  $
+\PoS adj.            prn.        adj.     vb.        $ $ cnj.    pfx.   vb.     vb.      $
 \gD böse,_schlecht [refl.prn.] ewig     ertränken $ wenn,_als Neg.   wollen  lieben   $
 
 \ref BP_II_048.10
@@ -1446,11 +1446,11 @@
 
 \ref BP_II_049.13
 \tx iſchganitas             / kas  netikes          / tas        bus   praßuditas              .
-\std išganytas               $ kas  ne       tikės  $ tas        bus   pražudytas              $
+\std išganytas               $ kas  ne_      tikės  $ tas        bus   pražudytas              $
 \mrph prc.prt.pss._n.sg.m.+PSS $ n.   -        3.ft.   $ n.sg.m.    3.ft. prc.prt.pss._n.sg.m.+PSS $
-\lm išganyti                $ kas  ne       tikėti $ tas        būti pražudyti               $
-\PoS vb.                      $ prn.          vb.     $ prn.       v.    vb.                      $
-\gD erlösen                 $ wer           glauben $ diese(r/s) sein  verdammen                $
+\lm išganyti                $ kas  ne_      tikėti $ tas        būti pražudyti               $
+\PoS vb.                      $ prn. pfx.     vb.     $ prn.       v.    vb.                      $
+\gD erlösen                 $ wer  Neg.     glauben $ diese(r/s) sein  verdammen                $
 
 \ref BP_II_049.14
 \tx Tůgi               ius  Diewa  ßodi  miledami      ir        girdedami     / mi=|leket /
@@ -1486,9 +1486,9 @@
 
 \ref BP_II_049.18
 \tx kas  neatgims                       iſch wandenio ir        Dwaſes         ſchwentos
-\std kas  ne        atgims               iš   vandens  ir        dvasės-dvasios šventos
+\std kas  ne_       atgims               iš   vandens  ir        dvasės-dvasios šventos
 \mrph n.   -         3.ft.                +g.   g.sg.    -         g.sg.           g.sg.f.
-\lm kas  ne        atgimti              iš   vanduo   ir        dvasė-dvasia   šventas
+\lm kas  ne_       atgimti              iš   vanduo   ir        dvasė-dvasia   šventas
 \PoS prn. pfx.      vb.                  prp.  sm.      cnj.      sf.             adj.
 \gD wer  Neg.      wiedergeboren_werden aus   Wasser   und,_auch Geist           heilig
 \tx /
@@ -1500,9 +1500,9 @@
 
 \ref BP_II_049.19
 \tx tas        neieis              dangaus Karaliſtona .
-\std tas        ne      įeis       dangaus karalyston   $
+\std tas        ne_     įeis       dangaus karalyston   $
 \mrph n.sg.m.    -       3.ft.       g.sg.   il.sg.       $
-\lm tas        ne      įeiti      dangus  karalysta    $
+\lm tas        ne_     įeiti      dangus  karalysta    $
 \PoS prn.       pfx.    vb.         sm.     sf.          $
 \gD diese(r/s) Neg.    hineingehen Himmel  Königreich  $
 
@@ -1636,9 +1636,9 @@
 
 \ref BP_II_050.09
 \tx iei         nenor          amßinai ſu  kunu    ir        duſche         prapulti .
-\std jei         ne     nori    amžinai su   kūnu   ir        dūše-dūšia  prapulti $
+\std jei         ne_    nori    amžinai su   kūnu   ir        dūše-dūšia  prapulti $
 \mrph -           -      3.prs.  adv.     +i.  i.sg.   -         i.sg.           inf.     $
-\lm jei         ne     norėti amžinas su   kūnas  ir        dūšė-dūšia prapulti $
+\lm jei         ne_    norėti amžinas su   kūnas  ir        dūšė-dūšia prapulti $
 \PoS cnj.        pfx.   vb.     adj.     prp. sm.     cnj.      sf.             vb.      $
 \gD wenn,_falls Neg.   wollen  ewig     mit  Körper und,_auch Seele           vergehen $
 \tx Neſa
@@ -1658,18 +1658,18 @@
 
 \ref BP_II_050.11
 \tx ßmones . Prijmket  pamokſla ius  karalei  / ir        neatmeſket              
-\std žmones $ priimkite pamokslą jūs karaliai $ ir        ne            atmeskite
+\std žmones $ priimkite pamokslą jūs karaliai $ ir        ne_           atmeskite
 \mrph a.pl.   $ 2.pl.imp. a.sg.     n.   n.pl.    $ -         -             2.pl.imp.
-\lm žmogus $ priimti   pamokslas jūs karalius $ ir        ne            atmesti
-\PoS sm.     $ vb.       sm.       prn. sm.      $ $ cnj.    pfx           vb.
+\lm žmogus $ priimti   pamokslas jūs karalius $ ir        ne_           atmesti
+\PoS sm.     $ vb.       sm.       prn. sm.      $ $ cnj.    pfx.          vb.
 \gD Mensch  $ annehmen  Predigt   ihr  König   $ und,_auch Neg.          zurückwerfen
 
 \ref BP_II_050.12
 \tx apbarima             ius  Sudʒes   antßemes            . Neius        eſte     / kurie
-\std apibarimą-apibarimo jūs sūdžios ant        žemės   $ ne     jūs  esate     $ kurie
+\std apibarimą-apibarimo jūs sūdžios ant        žemės   $ ne_    jūs  esate     $ kurie
 \mrph a.sg./g.sg.          n.   n.pl.     +g.        g.sg.     $ -      n.    2.pl.prs. $ n.pl.m.
-\lm apibarimas           jūs sūdžia  ant        žemė    $ ne     jūs  būti     $ kuris
-\PoS sm.                  prn. sm.       prp.       sf.       $ part.  prn.  vb.       $ prn.
+\lm apibarimas           jūs sūdžia  ant        žemė    $ ne_    jūs  būti     $ kuris
+\PoS sm.                  prn. sm.       prp.       sf.       $ pfx.   prn.  vb.       $ prn.
 \gD Schelten             ihr  Richter   auf        Erde      $ Neg.   ihr   sein      $ welche(r/s)
 
 \ref BP_II_050.13
@@ -1752,17 +1752,17 @@
 
 \ref BP_II_050.22
 \tx kurſai     ßmogus to         nenor          klauſiti / thas       paties  Pono
-\std kursai      žmogus to         ne     nori    klausyti  $ tas        paties  pono
+\std kursai      žmogus to         ne_    nori    klausyti  $ tas        paties  pono
 \mrph n.sg.m.def. n.sg.   g.sg.m.    -      3.prs.  inf.      $ n.sg.m.    g.sg.m. g.sg.
-\lm kuris       žmogus tas        ne     norėti klausyti  $ tas        pats    ponas
+\lm kuris       žmogus tas        ne_    norėti klausyti  $ tas        pats    ponas
 \PoS prn.        sm.     prn.       pfx.   vb.     vb.       $ prn.       prn.    sm.
 \gD welche(r/s) Mensch  diese(r/s) Neg.   wollen  zuhören  $ diese(r/s) selbst  Herr
 
 \ref BP_II_050.23
 \tx Diewo  neklauſa            / Neſa Kriſtus teipo ſaka  / kas  iuſu
-\std dievo  ne         klauso    $ nes   Kristus  taipo sako   $ kas  jūsų
+\std dievo  ne_        klauso    $ nes   Kristus  taipo sako   $ kas  jūsų
 \mrph g.sg.  -          3.prs.    $ -     n.sg.    -     3.prs. $ n.   g.
-\lm dievas ne         klausyti  $ nes   Kristus  taipo sakyti $ kas  jūs
+\lm dievas ne_        klausyti  $ nes   Kristus  taipo sakyti $ kas  jūs
 \PoS sm.    pfx.       vb.       $ cnj.  sm.npr.  adv.  vb.    $ prn. prn.
 \gD Gott   Neg.       zuhören  $ denn  Christus so    sagen  $ wer  ihr
 
@@ -1792,10 +1792,10 @@
 
 \ref BP_II_051.01
 \tx Todelei  pareitiſi nu     koßnam   ßmogui / neſſiſtenkti                  /
-\std todėlei parsieina  nū    kožnam   žmogui $ ne               stengtis        $
+\std todėlei parsieina  nū    kožnam   žmogui $ ne_              stengtis        $
 \mrph -        3.prs.     -      d.sg.m.   d.sg.   $ -                inf.            $
-\lm todėlei parsieiti  nu=nū kožnas   žmogus $ ne               stengtis        $
-\PoS adv.     vb.        adv.   prn.      sm.     $ $ pfx            vb.             $
+\lm todėlei parsieiti  nu=nū kožnas   žmogus $ ne_              stengtis        $
+\PoS adv.     vb.        adv.   prn.      sm.     $ pfx.             vb.             $
 \gD deshalb  zustehen   jetzt  jede(r/s) Mensch  $ Neg.                             $
 
 \ref BP_II_051.02
@@ -1836,17 +1836,17 @@
 \PoS prn.        sf.            prn.               vb.    prp.        prn. $ $ cnj.    adv.
 \gD welche(r/s) Geist          [refl._Poss.-prn.] geben  in_-_hinein ihr  $ und,_auch wieder
 \tx kas  neſſi=|bijo                
-\std kas  ne              bijosi
+\std kas  ne_             bijosi
 \mrph n.   -               3.prs.
-\lm kas  ne              bijotis
+\lm kas  ne_             bijotis
 \PoS prn. pfx.            vb.
 \gD wer  Neg.            sich_fürchten
 
 \ref BP_II_051.06
 \tx Diewo  / nei                   kunigo   ſawa              Baßnicʒos nenor          klau=|ſiti /
-\std dievo  $ nei                   kunigo   savo               bažnyčios ne     nori    klausyti    $
+\std dievo  $ nei                   kunigo   savo               bažnyčios ne_    nori    klausyti    $
 \mrph g.sg.  $ -                     g.sg.    -                  g.sg.       -      3.prs.  inf.        $
-\lm dievas $ nei                   kunigas  savo               bažnyčia  ne     norėti klausyti    $
+\lm dievas $ nei                   kunigas  savo               bažnyčia  ne_    norėti klausyti    $
 \PoS sm.    $ cnj+SNeg.             sm.      prn.               sf.         pfx.   vb.     vb.         $
 \gD Gott   $ und_nicht,_weder_noch Priester [refl._Poss.-prn.] Kirche      Neg.   wollen  zuhören    $
 
@@ -1860,9 +1860,9 @@
 
 \ref BP_II_051.08
 \tx nes  nenoris           apiůkems            .
-\std nes  ne       norisi   apjuokiamas          $
+\std nes  ne_      norisi   apjuokiamas          $
 \mrph -    -        3.prs.   prc.prs.pss._n.sg.m. $
-\lm nes  ne       norėtis apjuokti             $
+\lm nes  ne_      norėtis apjuokti             $
 \PoS cnj. pfx.     vb.      vb.                  $
 \gD denn Neg.     wollen   verlachen            $
 
@@ -2124,17 +2124,17 @@
 
 \ref BP_II_052.19
 \tx Atpent  Vßtureghimas            grieku  / ira    neatleidimas               /
-\std atpent  užturėjimas            griekų $ yra    ne            atleidimas   $
+\std atpent  užturėjimas            griekų $ yra    ne_           atleidimas   $
 \mrph -       n.sg.                    g.pl.   $ 3.prs. -             n.sg.        $
-\lm atpent  užturėjimas            griekas $ būti  ne            atleidimas   $
-\PoS adv.    sm.                      sm.     $        part.         sm.          $
+\lm atpent  užturėjimas            griekas $ būti  ne_           atleidimas   $
+\PoS adv.    sm.                      sm.     $        pfx.          sm.          $
 \gD dagegen Aufhalten,_Zurückhalten Sünde  $ sein   Neg.          Vergebung    $
 
 \ref BP_II_052.20
 \tx grieku  / ßmogaus neſſigailincʒio                       / kada      iam     dangaus
-\std griekų $ žmogaus ne                  besigailinčio       $ kada      jam     dangaus
+\std griekų $ žmogaus ne_                 besigailinčio       $ kada      jam     dangaus
 \mrph g.pl.   $ g.sg.    -                   prc.prs.act._g.sg.m. $ -         d.sg.m. g.sg.
-\lm griekas $ žmogus  ne                  gailėtis            $ kada      jis     dangus
+\lm griekas $ žmogus  ne_                 gailėtis            $ kada      jis     dangus
 \PoS sm.     $ sm.      pfx.                vb.                  $ $ cnj.    prn.    sm.
 \gD Sünde  $ Mensch   Neg.                bereuen              $ wenn,_als er      Himmel
 
@@ -2204,11 +2204,11 @@
 
 \ref BP_II_053.02
 \tx bei  atleiſti bei  neatleiſti              griekus ßmogui / tatai     nepra=|mane              
-\std bei  atleisti  bei  ne           atleisti    griekus žmogui $ tatai     ne            pramanė
+\std bei  atleisti  bei  ne_          atleisti    griekus žmogui $ tatai     ne_           pramanė
 \mrph -    inf.      -    -            inf.        a.pl.   d.sg.   $ -         -             3.prt.
-\lm bei  atleisti  bei  ne           atleisti    griekas žmogus $ tatai     ne            pramanyti
-\PoS cnj. vb.       cnj.              vb.         sm.     sm.     $ prn.      p             vb.
-\gD und  vergeben  und                           Sünde  Mensch  $ dies,_das Neg.          erdenken
+\lm bei  atleisti  bei  ne_          atleisti    griekas žmogus $ tatai     ne_           pramanyti
+\PoS cnj. vb.       cnj. pfx.         vb.         sm.     sm.     $ prn.      pfx.          vb.
+\gD und  vergeben  und  Neg.                     Sünde  Mensch  $ dies,_das Neg.          erdenken
 
 \ref BP_II_053.03
 \tx nei                   iſtate    ßmogus alba Angelas / Net     paties
@@ -2356,19 +2356,19 @@
 
 \ref BP_II_053.21
 \tx kuno    . Bei  iſch tu         grieku  / patis   negalim            gelbetiſi  / bet
-\std kūno   $ bei  iš   tų        griekų $ patys   ne       galime    gelbėtis   $ bet
+\std kūno   $ bei  iš   tų        griekų $ patys   ne_      galime    gelbėtis   $ bet
 \mrph g.sg.   $ -    +g.   g.pl.m.    g.pl.   $ n.pl.m. -        1.pl.prs. inf.        $ -
-\lm kūnas  $ bei  iš   tas        griekas $ pats    ne       galėti   gelbėtis   $ bet
+\lm kūnas  $ bei  iš   tas        griekas $ pats    ne_      galėti   gelbėtis   $ bet
 \PoS sm.     $ cnj. prp.  prn.       sm.     $ prn.    pfx.     vb.       vb.         $ cnj.
 \gD Körper $ und  aus   diese(r/s) Sünde  $ selbst  Neg.     können   sich_helfen $ aber,_sondern
 
 \ref BP_II_053.22
 \tx butu   mumus prapulti / iei         Diewas negelbetu            .
-\std būtų mums  prapulti $ jei         dievas ne         gelbėtų $
+\std būtų mums  prapulti $ jei         dievas ne_        gelbėtų $
 \mrph 3.cnd. d.    inf.     $ -           n.sg.  -          3.cnd.    $
-\lm būti  mes   prapulti $ jei         dievas ne         gelbėti  $
-\PoS vb.    prn.  vb.      $ cnj.        sm.               vb.       $
-\gD sein   wir   vergehen $ wenn,_falls Gott              helfen    $
+\lm būti  mes   prapulti $ jei         dievas ne_        gelbėti  $
+\PoS vb.    prn.  vb.      $ cnj.        sm.    pfx.       vb.       $
+\gD sein   wir   vergehen $ wenn,_falls Gott   Neg.       helfen    $
 
 \ref BP_II_053.23
 \tx Nei                   wel    turetu   ßmogus laukti ikki iſchkarſchens
@@ -2412,17 +2412,17 @@
 
 \ref BP_II_054.03
 \tx Neſa ßmones  ir        griekinikai  / newiſſi                  ligus   ira    / kits
-\std nes   žmonės ir        griekininkai $ ne         visi            lygūs  yra    $ kitas
+\std nes   žmonės ir        griekininkai $ ne_        visi            lygūs  yra    $ kitas
 \mrph -     n.pl.    -         n.pl.        $ -          n.pl.m.         n.pl.m. 3.prs. $ n.sg.m.
-\lm nes   žmogus  ir        griekininkas $ ne         visas           lygus   būti  $ kitas
-\PoS cnj.  sm.      cnj.      sm.          $ part.      prn.            adj.    vb.    $ prn.
+\lm nes   žmogus  ir        griekininkas $ ne_        visas           lygus   būti  $ kitas
+\PoS cnj.  sm.      cnj.      sm.          $ pfx.       prn.            adj.    vb.    $ prn.
 \gD denn  Mensch   und,_auch Sünder      $ Neg.       jede(r/s),_alle gleich  sein   $ andere(r/s)
 
 \ref BP_II_054.04
 \tx draſei  nieko      neſibaididams                 / titſchomis purwus  tus
-\std drąsiai nieko      ne              baidydamasi    $ tyčiomis   purvus  tuos
-\mrph adv.     g.sg.      -               prc.cn.._sg.m. $ -           a.pl.   a.pl.m.
-\lm drąsus  niekas     ne              baidytis       $ tyčiomis   purvas  tas
+\std drąsiai nieko      ne_             baidydamasi    $ tyčiomis   purvus  tuos
+\mrph adv.     g.sg.      -               prc.cn._sg.m.  $ -           a.pl.   a.pl.m.
+\lm drąsus  niekas     ne_             baidytis       $ tyčiomis   purvas  tas
 \PoS adj.     prn.+SNeg. pfx.            vb.            $ adv.        sm.     prn.
 \gD mutig    nichts     Neg.            fürchten      $ absichtlich Schmutz diese(r/s)
 
@@ -2436,23 +2436,23 @@
 
 \ref BP_II_054.06
 \tx nei                   Tarno  Diewo  nenor          klauſiti / kurſai
-\std nei                   tarno  dievo  ne     nori    klausyti  $ kursai
+\std nei                   tarno  dievo  ne_    nori    klausyti  $ kursai
 \mrph -                     g.sg.  g.sg.  -      3.prs.  inf.      $ n.sg.m.def.
-\lm nei                   tarnas dievas ne     norėti klausyti  $ kuris
+\lm nei                   tarnas dievas ne_    norėti klausyti  $ kuris
 \PoS cnj+SNeg.             sm.    sm.    pfx.   vb.     vb.       $ prn.
 \gD und_nicht,_weder_noch Diener Gott   Neg.   wollen  zuhören  $ welche(r/s)
 \tx neſigail            grie=|ku /
-\std ne         gailisi   griekų  $
+\std ne_        gailisi   griekų  $
 \mrph -          3.prs.    g.pl.    $
-\lm ne         gailėtis griekas  $
+\lm ne_        gailėtis griekas  $
 \PoS pfx.       vb.       sm.      $
 \gD Neg.       bereuen   Sünde   $
 
 \ref BP_II_054.07
 \tx kurſai     negeidʒ           atleidimo  / kurſai     io                girreſi     piktu
-\std kursai      ne        geidžia atleidimo  $ kursai      juo               giriasi      piktu
+\std kursai      ne_       geidžia atleidimo  $ kursai      juo               giriasi      piktu
 \mrph n.sg.m.def. -         3.prs.   g.sg.      $ n.sg.m.def. -                 3.prs.       i.sg.m.
-\lm kuris       ne        geisti   atleidimas $ kuris       juo               girtis       piktas
+\lm kuris       ne_       geisti   atleidimas $ kuris       juo               girtis       piktas
 \PoS prn.        pfx.      vb.      sm.        $ prn.        part.             vb.          adj.
 \gD welche(r/s) Neg.      begehren Vergebung  $ welche(r/s) umso,_desto,_noch sich_rühmen böse,_schlecht
 
@@ -2466,33 +2466,33 @@
 
 \ref BP_II_054.09
 \tx netur          atleſti / Nei                   Diewas nor     atleſti / iei         ne priſſi=|wers .
-\std ne     turi    atleisti $ nei                   dievas nori    atleisti $ jei         ne prisivers      $
+\std ne_    turi    atleisti $ nei                   dievas nori    atleisti $ jei         ne prisivers      $
 \mrph -      3.prs.  inf.     $ -                     n.sg.  3.prs.  inf.     $ -           -  3.ft.          $
-\lm ne     turėti atleisti $ nei                   dievas norėti atleisti $ jei         ne prisiverti     $
+\lm ne_    turėti atleisti $ nei                   dievas norėti atleisti $ jei         ne prisiverti     $
 \PoS pfx.   vb.     vb.      $ $ cnj.                sm.    vb.     vb.      $ cnj.           pfx.  vb.      $
 \gD Neg.   müssen vergeben $ und_nicht,_weder_noch Gott   wollen           $ wenn,_falls    bekehren       $
 
 \ref BP_II_054.10
 \tx Kriſtus neatgriekawa                          ßidu  Diewui netikin=|cʒiů                       .
-\std Kristus  ne            atgriekavo              žydų dievui ne               tikinčių           $
+\std Kristus  ne_           atgriekavo              žydų dievui ne_              tikinčių           $
 \mrph n.sg.    -             3.prt.                  g.pl.  d.sg.  -                prc.prs.act._g.pl.m. $
-\lm Kristus  ne            atgriekauti             žydas dievas ne               tikėti              $
-\PoS sm.npr.  pfx.          vb.                     sm.    sm.    pfx              vb.                  $
+\lm Kristus  ne_           atgriekauti             žydas dievas ne_              tikėti              $
+\PoS sm.npr.  pfx.          vb.                     sm.    sm.    pfx.             vb.                  $
 \gD Christus Neg.          von_der_Sünde_befreien Jude   Gott   Neg.             glauben              $
 
 \ref BP_II_054.11
 \tx Schwentas Powilas neatgriekawa                          kuris       ſu
-\std šventas  Paulius ne            atgriekavo              kuris       su
+\std šventas  Paulius ne_           atgriekavo              kuris       su
 \mrph n.sg.m.   n.sg.   -             3.prt.                  n.sg.m.     +i.
-\lm šventas  Paulius ne            atgriekauti             kuris       su
+\lm šventas  Paulius ne_           atgriekauti             kuris       su
 \PoS adj.      sm.npr. pfx.          vb.                     prn.        prp.
 \gD heilig    Paul    Neg.          von_der_Sünde_befreien welche(r/s) mit
 
 \ref BP_II_054.12
 \tx Mocʒeka    apſikekſchawa    / kolei   nenoreia           liautiſſi .
-\std močeka     apsikekšavo       $ kolei   ne        norėjo  liautis     $
+\std močeka     apsikekšavo       $ kolei   ne_       norėjo  liautis     $
 \mrph i.sg.       3.prt.             $ -       -         3.prt.   inf.        $
-\lm močeka     apsikekšauti      $ kolei   ne        norėti  liautis     $
+\lm močeka     apsikekšauti      $ kolei   ne_       norėti  liautis     $
 \PoS sf.         vb.                $ cnj.    pfx.      vb.      vb.         $
 \gD Stiefmutter ausschweifend_sein $ solange Neg.      wollen   aufhören   $
 

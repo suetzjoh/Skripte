@@ -418,9 +418,9 @@
 
 \ref BP_I_088.13
 \tx Diewas tatai     nedares                       / tada     bei  Adomas  bei  Eua     /
-\std dievas tatai     ne       daręs               $ tada     bei  Adomas  bei  Ieva    $
+\std dievas tatai     ne_      daręs               $ tada     bei  Adomas  bei  Ieva    $
 \mrph n.sg.  -         -        prc.prt.act._n.sg.m. $ -        -    n.sg.   -    n.sg.   $
-\lm dievas tatai     ne       daryti               $ tada     bei  Adomas  bei  Ieva    $
+\lm dievas tatai     ne_      daryti               $ tada     bei  Adomas  bei  Ieva    $
 \PoS sm.    prn.      pfx.     vb.                  $ adv.     cnj. sm.npr. cnj. sf.npr. $
 \gD Gott   dies,_das Neg.     tun,_machen          $ da,_dann und  Adam    und  Eva     $
 \tx ir
@@ -558,9 +558,9 @@
 
 \ref BP_I_089.02
 \tx Bernelio nepaſſipiktin                  . Schitu     daiktu      delei  Ange=|lai
-\std bernelio ne               pasipiktina     $ šitų     daiktų     dėlei angelai
+\std bernelio ne_              pasipiktina     $ šitų     daiktų     dėlei angelai
 \mrph g.sg.    -                3.prs.          $ g.pl.m.    g.pl.       +g.    n.pl.
-\lm bernelis ne               pasipiktinti    $ šitas     daiktas     dėlei angelas
+\lm bernelis ne_              pasipiktinti    $ šitas     daiktas     dėlei angelas
 \PoS sm.      pfx.             vb.             $ prn.       sm.         prp.   sm.
 \gD Kind     Neg.             zürnen         $ diese(r/s) Sache,_Ding wegen  Engel
 
@@ -582,9 +582,9 @@
 
 \ref BP_I_089.05
 \tx ßmoniems       nepawidincʒus                      Duſchios iu      iſchganima /
-\std žmonėms       ne              pavydinčius        dūšios  jų     išganymo   $
+\std žmonėms       ne_             pavydinčius        dūšios  jų     išganymo   $
 \mrph d.pl.           -               prc.prs.act_a.pl.m. g.sg.     g.pl.m. g.sg.       $
-\lm žmogus         ne              pavydėti           dūšia   jis     išganymas  $
+\lm žmogus         ne_             pavydėti           dūšia   jis     išganymas  $
 \PoS sm._pl._sm./sf. pfx.            vb.                 sf.       prn.    sm.         $
 \gD Mensch          Neg.            beneiden            Seele     er      Erlösung   $
 
@@ -630,9 +630,9 @@
 
 \ref BP_I_089.11
 \tx Diewui Dekawoti  neußmirſchtumbim                     / ußu ta         bran=|ge
-\std dievui dėkavoti ne                  užmirštumėme    $ už  tą        brangią
+\std dievui dėkavoti ne_                 užmirštumėme    $ už  tą        brangią
 \mrph d.sg.  inf.      -                   1.pl.cnd.          $ +a.  a.sg.f.    a.sg.f.
-\lm dievas dėkavoti ne                  užmiršti         $ už  tas        brangus
+\lm dievas dėkavoti ne_                 užmiršti         $ už  tas        brangus
 \PoS sm.    vb.       pfx.                vb.                $ prp. prn.       adj.
 \gD Gott   danken    Neg.                vergessen          $ für diese(r/s) teuer
 
@@ -678,9 +678,9 @@
 
 \ref BP_I_089.17
 \tx gieſmes / kacʒei daug metu   girdeie              / nemok          giedoti / Ta=|tai
-\std giesmės $ kačei  daug metų  girdėję            $ ne     moka    giedoti $ tatai
+\std giesmės $ kačei  daug metų  girdėję            $ ne_    moka    giedoti $ tatai
 \mrph g.sg.    $ -       -    g.pl.  prc.prt.act._n.pl.m. $ -      3.prs.  inf.    $ -
-\lm giesmė  $ kačei  daug metai  girdėti             $ ne     mokėti giedoti $ tatai
+\lm giesmė  $ kačei  daug metai  girdėti             $ ne_    mokėti giedoti $ tatai
 \PoS sf.      $ cnj.    adv. sm.pl. vb.                  $ pfx.   vb.     vb.     $ prn.
 \gD Lied     $ obwohl  viel Jahr   hören               $ Neg.   können singen  $ dies,_das
 
@@ -702,9 +702,9 @@
 
 \ref BP_I_089.20
 \tx krikſchcʒoniſchku / giedoti / netupekit                     baßnicʒoij
-\std krikščioniškų    $ giedoti $ ne         tupėkite          bažnyčioje
+\std krikščioniškų    $ giedoti $ ne_        tupėkite          bažnyčioje
 \mrph g.pl.f.              $ inf.    $ -          2.pl.imp.          l.sg.
-\lm krikščioniškas    $ giedoti $ ne         tupėti            bažnyčia
+\lm krikščioniškas    $ giedoti $ ne_        tupėti            bažnyčia
 \PoS adj.                 $ vb.     $ pfx.       vb.                sf.
 \gD christlich           $ singen  $ Neg.       hocken,_schleichen Kirche
 
@@ -898,17 +898,17 @@
 
 \ref BP_I_090.17
 \tx ßmogu          / moka   / idant ne wienas     neußmirſchtu                 ſchos
-\std žmogų         $ moko   $ idant nė_vienas    ne              užmirštų    šios
+\std žmogų         $ moko   $ idant nė_vienas    ne_             užmirštų    šios
 \mrph a.sg.           $ 3.prs. $ -     n.sg.m.       -               3.cnd.         g.sg.f.
-\lm žmogus         $ mokyti $ idant nė_vienas    ne              užmiršti     šis
+\lm žmogus         $ mokyti $ idant nė_vienas    ne_             užmiršti     šis
 \PoS sm._pl._sm./sf. $ vb.    $ cnj.  prn.+SNeg.    pfx.            vb.            prn.
 \gD Mensch          $ lehren $ damit niemand,_kein Neg.            vergessen      diese(r/s)
 
 \ref BP_I_090.18
 \tx malones  Diewo  / alba ana       nieku               nenuleiſtu                 : Bet
-\std malonės dievo  $ alba aną      niekuo              ne           nuleistų      $ bet
+\std malonės dievo  $ alba aną      niekuo              ne_          nuleistų      $ bet
 \mrph g.sg.    g.sg.  $ -    a.sg.f.   i.                  -            3.cnd.         $ -
-\lm malonė  dievas $ alba anas      niekas              ne           nuleisti       $ bet
+\lm malonė  dievas $ alba anas      niekas              ne_          nuleisti       $ bet
 \PoS sf.      sm.    $ cnj. prn.      prn.                pfx.         vb.            $ cnj.
 \gD Gnade    Gott   $ oder jene(r/s) nichts,_Nichtigkeit Neg.         herunterlassen $ aber,_sondern
 
@@ -962,9 +962,9 @@
 
 \ref BP_I_091.03
 \tx prijms   / ir   neliauſis             ußu tatai     iſch dugno  ſawa
-\std priims   $ ir   ne          liausis    už  tatai     iš   dugno  savo
+\std priims   $ ir   ne_         liausis    už  tatai     iš   dugno  savo
 \mrph 3.ft.    $ -    -           3.ft.      +a.  -         +g.   g.sg.  -
-\lm priimti  $ ir   ne          liautis    už  tatai     iš   dugnas savo
+\lm priimti  $ ir   ne_         liautis    už  tatai     iš   dugnas savo
 \PoS vb.      $ cnj. pfx.        vb.        prp. prn.      prp.  sm.    prn.
 \gD annehmen $ und  Neg.        aufhören  für dies,_das aus   Grund  [refl._Poss.-prn.]
 
@@ -1066,9 +1066,9 @@
 
 \ref BP_I_091.16
 \tx netureia           / net     koßnas   ßinodams     kalts    eſans               po                  Diewo_|akim
-\std ne        turėjo  $ net     kožnas   žinodamas    kaltas   esąs                po_akim          dievo
+\std ne_       turėjo  $ net     kožnas   žinodamas    kaltas   esąs                po_akim          dievo
 \mrph -         3.prt.   $ -       n.sg.m.   prc.cn._sg.m. n.sg.m.  prc.prs.act._n.sg.m. +g.              g.sg.
-\lm ne        turėti  $ net     kožnas   žinoti       kaltas   būti                po_akim          dievas
+\lm ne_       turėti  $ net     kožnas   žinoti       kaltas   būti                po_akim          dievas
 \PoS pfx.      vb.      $ cnj.    prn.      vb.           adj.     vb.                  prp.sec.disj.    sm.
 \gD Neg.      haben    $ sondern jede(r/s) wissen        schuldig sein                 vor              Gott
 
@@ -1188,9 +1188,9 @@
 
 \ref BP_I_092.06
 \tx / idant ne wienas     ſawa              grieku  delei  nenuſimintu               /
-\std $ idant nė_vienas    savo               griekų dėlei ne            nusimintų   $
+\std $ idant nė_vienas    savo               griekų dėlei ne_           nusimintų   $
 \mrph $ -     n.sg.m.       -                  g.pl.   +g.    -             3.cnd.       $
-\lm $ idant nė_vienas    savo               griekas dėlei ne            nusiminti    $
+\lm $ idant nė_vienas    savo               griekas dėlei ne_           nusiminti    $
 \PoS $ cnj.  prn.+SNeg.    prn.               sm.     prp.   pfx.          vb.          $
 \gD $ damit niemand,_kein [refl._Poss.-prn.] Sünde  wegen  Neg.          verzweifeln  $
 

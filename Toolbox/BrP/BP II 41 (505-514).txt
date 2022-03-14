@@ -184,9 +184,9 @@
 
 \ref BP_II_507.02
 \tx Atſtokite / neſa tha        Mergaite  nenumire           /
-\std atstokite  $ nes   ta         mergaitė ne        numirė  $
+\std atstokite  $ nes   ta         mergaitė ne_       numirė  $
 \mrph 2.pl.imp.  $ -     n.sg.f.    n.sg.     -         3.prt.   $
-\lm atstoti    $ nes   tas        mergaitė ne        numirti  $
+\lm atstoti    $ nes   tas        mergaitė ne_       numirti  $
 \PoS vb.        $ cnj.  prn.       sf.       pfx.      vb.      $
 \gD wegtreten  $ denn  diese(r/s) Mädchen  Neg.      sterben  $
 
@@ -298,9 +298,9 @@
 \PoS cnj.      cnj.
 \gD und,_aber wenn,_als
 \tx thie       io      nenoreia           
-\std tie        jo      ne         norėjo
+\std tie        jo      ne_        norėjo
 \mrph n.pl.m.    g.sg.m. -          3.prt.
-\lm tas        jis     ne         norėti
+\lm tas        jis     ne_        norėti
 \PoS prn.       prn.    pfx.       vb.
 \gD diese(r/s) er      Neg.       wollen
 \tx prijmti  / bet
@@ -722,9 +722,9 @@
 \PoS cnj.    adv.
 \gD obwohl  noch
 \tx negimens                       / iau
-\std ne        gimęs               $ jau
+\std ne_       gimęs               $ jau
 \mrph -         prc.prt.act._n.sg.m. $ -
-\lm ne        gimti                $ jau
+\lm ne_       gimti                $ jau
 \PoS pfx.      vb.                  $ adv.
 \gD Neg.      geboren_werden       $ schon
 \tx liggas    ir        kittas
@@ -788,9 +788,9 @@
 \PoS sm.      cnj.
 \gD Kind     obwohl
 \tx negimens                       tur
-\std ne        gimęs               turi
+\std ne_       gimęs               turi
 \mrph -         prc.prt.act._n.sg.m. 3.prs.
-\lm ne        gimti                turėti
+\lm ne_       gimti                turėti
 \PoS pfx.      vb.                  vb.
 \gD Neg.      geboren_werden       müssen
 \tx ßiwate
@@ -1028,10 +1028,10 @@
 
 \ref BP_II_509.26
 \tx braukti   / iei         ne   nor     badu   numirti / iei         nenor          nůgas
-\std braukti   $ jei         ne   nori    badu   numirti $ jei         ne     nori    nuogas
+\std braukti   $ jei         ne   nori    badu   numirti $ jei         ne_    nori    nuogas
 \mrph inf.      $ -           -    3.prs.  i.sg.  inf.    $ -           -      3.prs.  n.sg.m.
-\lm braukti   $ jei         ne   norėti badas  numirti $ jei         ne     norėti nuogas
-\PoS vb.       $ cnj.        pfx  vb.     sm.    vb.     $ cnj.               vb.     adj.
+\lm braukti   $ jei         ne   norėti badas  numirti $ jei         ne_    norėti nuogas
+\PoS vb.       $ cnj.        pfx  vb.     sm.    vb.     $ cnj.        pfx.   vb.     adj.
 \gD abwischen $ wenn,_falls Neg. wollen  Hunger sterben $ wenn,_falls Neg.   wollen  nackt
 
 \ref BP_II_510.01
@@ -1112,18 +1112,18 @@
 
 \ref BP_II_510.06
 \tx keleiwis            neßinnaſi                  kur  ußeians             raſbaininka    /
-\std keleivis            ne           žinosi         kur  užeinąs            razbaininką    $
+\std keleivis            ne_          žinosi         kur  užeinąs            razbaininką    $
 \mrph n.sg.               -            3.prs.          -    prc.prs.act._n.sg.m. a.sg.           $
-\lm keleivis            ne           žinotis        kur  užeiti              razbaininkas    $
+\lm keleivis            ne_          žinotis        kur  užeiti              razbaininkas    $
 \PoS sm.                 pfx.         vb.             adv. vb.                  sm.             $
 \gD Wanderer,_Reisender Neg.         von_sich_wissen wo                        Mörder,_Rauber $
 
 \ref BP_II_510.07
 \tx pikta           koki        drauga  / neßinnos            kur  apſergans           / neßinnos            
-\std piktą          kokį       draugą $ ne         žinos    kur  apsergąs            $ ne          žinos
+\std piktą          kokį       draugą $ ne_        žinos    kur  apsergąs            $ ne_         žinos
 \mrph a.sg.m.         a.sg.m.     a.sg.   $ -          3.ft.     -    prc.prs.act._n.sg.m. $ -           3.ft.
-\lm piktas          koks        draugas $ ne         žinoti   kur  apsirgti             $ ne          žinoti
-\PoS adj.            prn.        sm.     $ pfx.       vb.       adv. vb.                  $ $ p         vb.
+\lm piktas          koks        draugas $ ne_        žinoti   kur  apsirgti             $ ne_         žinoti
+\PoS adj.            prn.        sm.     $ pfx.       vb.       adv. vb.                  $ pfx.        vb.
 \gD böse,_schlecht welche(r/s) Freund  $ Neg.       wissen    wo   erkranken            $ Neg.        wissen
 
 \ref BP_II_510.08
@@ -1220,11 +1220,11 @@
 
 \ref BP_II_510.15
 \tx didei mileios                 / pradeſtiſſi peikti     / nebekenſti                           / kits        kitta
-\std didei mylėjosi               $ prasideda      peikti     $ ne           be-          kęsti      $ kitas       kitą
+\std didei mylėjosi               $ prasideda      peikti     $ ne_          be_          kęsti      $ kitas       kitą
 \mrph -     3.prt.                  $ 3.prs.         inf.       $ -            -            inf.        $ n.sg.m.     a.sg.m.
-\lm didei mylėtis                $ prasidėti     peikti     $ ne                        kęsti      $ kitas       kitas
-\PoS adv.  vb.                     $ vb.            vb.        $ $                         vb.         $ prn.        prn.
-\gD sehr  lieben,_einander lieben $ beginnen       verfluchen $ Neg.                      ertragen    $ andere(r/s) andere(r/s)
+\lm didei mylėtis                $ prasidėti     peikti     $ ne_          be_          kęsti      $ kitas       kitas
+\PoS adv.  vb.                     $ vb.            vb.        $ pfx.         pfx.         vb.         $ prn.        prn.
+\gD sehr  lieben,_einander lieben $ beginnen       verfluchen $ Neg.         []           ertragen    $ andere(r/s) andere(r/s)
 
 \ref BP_II_510.16
 \tx praſtoti . Kartais  ir        milintiemus          ſawe       bei  ganna
@@ -1242,9 +1242,9 @@
 \PoS vb.                  $
 \gD arbeiten             $
 \tx neſiſek            iu      darbai
-\std ne         sekasi    jų     darbai
+\std ne_        sekasi    jų     darbai
 \mrph -          3.prs.    g.pl.m. n.pl.
-\lm ne         sektis    jis     darbas
+\lm ne_        sektis    jis     darbas
 \PoS pfx.       vb.       prn.    sm.
 \gD Neg.       gelingen  er      Werk
 \tx / tur     pakuſti
@@ -1290,11 +1290,11 @@
 
 \ref BP_II_510.20
 \tx tur     aukleti  / migjti        ir        pati    nemiegodama                . Iei
-\std turi    auklėti $ migyti        ir        pati    ne           miegodama     $ jei
+\std turi    auklėti $ migyti        ir        pati    ne_          miegodama     $ jei
 \mrph 3.prs.  inf.     $ inf.          -         n.sg.f. -            prc.cn._sg.f. $ -
-\lm turėti auklėti $ migyti        ir        pats    ne           miegoti       $ jei
-\PoS vb.     vb.      $ vb.           cnj.      prn.                 vb.           $ cnj.
-\gD müssen pflegen  $ einschläfern und,_auch selbst               schlafen      $ wenn,_falls
+\lm turėti auklėti $ migyti        ir        pats    ne_          miegoti       $ jei
+\PoS vb.     vb.      $ vb.           cnj.      prn.    pfx.         vb.           $ cnj.
+\gD müssen pflegen  $ einschläfern und,_auch selbst  Neg.         schlafen      $ wenn,_falls
 
 \ref BP_II_510.21
 \tx apſerg waikas / iei numirſchta / cʒia wel nauia rabata
@@ -1322,9 +1322,9 @@
 
 \ref BP_II_510.24
 \tx alba netikuſios . Kartais  neſuder               ſu  piktais
-\std alba netikusios  $ kartais  ne        sudera       su   piktais
+\std alba netikusios  $ kartais  ne_       sudera       su   piktais
 \mrph -    g.sg.f.     $ -        -         3.prs.       +i.  i.pl.m.
-\lm alba netikęs    $ kartais  ne        suderėti    su   piktas
+\lm alba netikęs    $ kartais  ne_       suderėti    su   piktas
 \PoS cnj. adj.        $ adv.     pfx.      vb.          prp. adj.
 \gD oder untauglich  $ manchmal Neg.      einig_werden mit  böse,_schlecht
 
@@ -1586,10 +1586,10 @@
 
 \ref BP_II_511.22
 \tx mana trumpos bei  piktos          ira    / o         nenuſiek                 dienas
-\std mano trumpos bei  piktos          yra    $ o         ne         nusiekia       dienas
+\std mano trumpos bei  piktos          yra    $ o         ne_        nusiekia       dienas
 \mrph -    n.pl.f. -    n.pl.f.         3.prs. $ -         -          3.prs.         a.pl.
-\lm mano trumpas bei  piktas          būti  $ o         ne         nusiekti       diena
-\PoS prn. adj.    cnj. adj.            vb.    $ cnj.      . pfx      vb.            sf.
+\lm mano trumpas bei  piktas          būti  $ o         ne_        nusiekti       diena
+\PoS prn. adj.    cnj. adj.            vb.    $ cnj.      pfx.       vb.            sf.
 \gD mein kurz    und  böse,_schlecht sein   $ und,_aber Neg.       langen_können Tag
 
 \ref BP_II_511.23
@@ -1729,12 +1729,12 @@
 \lm griekas $ kadangi
 \PoS sm.     $ cnj.
 \gD Sünde  $ weil
-\tx ner           newieno       /
-\std nėra         nė_vieno     $
-\mrph 3.prs. 3.prs. g.sg.m.       $
-\lm ne     būti  nė_vienas    $
-\PoS pfx.   vb.    prn.+SNeg.    $
-\gD Neg.   sein   niemand,_kein $
+\tx ner            newieno       /
+\std nėra          nė_vieno     $
+\mrph 3.prs.         g.sg.m.       $
+\lm būti   būti  nė_vienas    $
+\PoS pfx.    vb.    prn.+SNeg.    $
+\gD sein    sein   niemand,_kein $
 \tx kurſai     be
 \std kursai      be
 \mrph n.sg.m.def. +g.
@@ -1816,9 +1816,9 @@
 
 \ref BP_II_512.18
 \tx Welino  / neſa taſſai    neprietelius muſu  nepa=|liaudams                 /
-\std velino  $ nes   tasai       neprietelius mūsų ne              paliaudamas    $
+\std velino  $ nes   tasai       neprietelius mūsų ne_             paliaudamas    $
 \mrph g.sg.   $ -     n.sg.m.def. n.sg.        g.     -               prc.cn._sg.m.  $
-\lm velinas $ nes   tas         neprietelius mes    ne              paliauti       $
+\lm velinas $ nes   tas         neprietelius mes    ne_             paliauti       $
 \PoS sm.     $ cnj.  prn.        sm.          prn.   pfx.            vb.            $
 \gD Teufel  $ denn  diese(r/s)  Feind        wir    Neg.            aufhören      $
 
@@ -1892,10 +1892,10 @@
 
 \ref BP_II_512.23
 \tx niekadai   negalim            buti  / Idant tada     wargůſu nenuſi=|mintumbim                     /
-\std niekadai   ne       galime    būti $ idant tada     varguose  ne                  nusimintumėme     $
+\std niekadai   ne_      galime    būti $ idant tada     varguose  ne_                 nusimintumėme     $
 \mrph -          -        1.pl.prs. inf.  $ -     -        l.pl.     -                   1.pl.cnd.          $
-\lm niekadai   ne       galėti   būti $ idant tada     vargas    ne                  nusiminti          $
-\PoS adv.+SNeg. pfx.     vb.       vb.   $ cnj.  adv.     sm.       p                   vb.                $
+\lm niekadai   ne_      galėti   būti $ idant tada     vargas    ne_                 nusiminti          $
+\PoS adv.+SNeg. pfx.     vb.       vb.   $ cnj.  adv.     sm.       pfx.                vb.                $
 \gD nie        Neg.     können   sein  $ damit da,_dann Mühe     Neg.                verzweifeln        $
 
 \ref BP_II_512.24
@@ -2184,10 +2184,10 @@
 
 \ref BP_II_513.24
 \tx wiernas    ira    / kurſai     nedůſt           ius  meginti   / didʒiaus
-\std viernas    yra    $ kursai      ne        duoda    jus  mėginti  $ didžiau
+\std viernas    yra    $ kursai      ne_       duoda    jus  mėginti  $ didžiau
 \mrph n.sg.m.    3.prs. $ n.sg.m.def. -         3.prs.   a.   inf.      $ adv.cmp.
-\lm viernas    būti  $ kuris       ne        duoti    jūs mėginti  $ didis
-\PoS adj.       vb.    $ prn.        pfx       vb.      prn. vb.       $ adj.
+\lm viernas    būti  $ kuris       ne_       duoti    jūs mėginti  $ didis
+\PoS adj.       vb.    $ prn.        pfx.      vb.      prn. vb.       $ adj.
 \gD wahr,_treu sein   $ welche(r/s) Neg.      geben    ihr  versuchen $ groß
 
 \ref BP_II_513.25
@@ -2224,9 +2224,9 @@
 
 \ref BP_II_514.04
 \tx Eſch iuſu  nepalikſiu              palikeis  .
-\std aš   jūsų ne           paliksiu    palikiais $
+\std aš   jūsų ne_          paliksiu    palikiais $
 \mrph n.    g.     -            1.sg.ft.    i.pl.     $
-\lm aš   jūs   ne           palikti     palikis   $
+\lm aš   jūs   ne_          palikti     palikis   $
 \PoS prn.  prn.   pfx.         vb.         sm.       $
 \gD ich   ihr    Neg.         verlassen   Waise     $
 
@@ -2298,9 +2298,9 @@
 \PoS cnj. adj.     vb.       adv.
 \gD wie  lebendig sein      so
 \tx nenoriu            prapůlimo
-\std ne       noriu     prapuolimo
+\std ne_      noriu     prapuolimo
 \mrph -        1.sg.prs. g.sg.
-\lm ne       norėti   prapuolimas
+\lm ne_      norėti   prapuolimas
 \PoS pfx.     vb.       sm.
 \gD Neg.     wollen    Niedergang
 \tx grieſch=|noio
@@ -2342,10 +2342,10 @@
 
 \ref BP_II_514.15
 \tx Diewas ſcheme    ſwiete ingi        ſawe       tikinti              negelbes           / ta=|cʒiau
-\std dievas šiame     sviete  ing         save        tikintį             ne        gelbės  $ tačiau
+\std dievas šiame     sviete  ing         save        tikintį             ne_       gelbės  $ tačiau
 \mrph n.sg.  l.sg.m.    l.sg.   +a.         a.          prc.prs.act._a.sg.m. -         3.ft.    $ -
-\lm dievas šis       svietas ing         savęs      tikėti              ne        gelbėti $ tačiau
-\PoS sm.    prn.       sm.     prp.        prn.        vb.                  pfx       vb.      $ adv.
+\lm dievas šis       svietas ing         savęs      tikėti              ne_       gelbėti $ tačiau
+\PoS sm.    prn.       sm.     prp.        prn.        vb.                  pfx.      vb.      $ adv.
 \gD Gott   diese(r/s) Welt    in_-_hinein [refl.prn.] glauben              Neg.      helfen   $ jedoch
 
 \ref BP_II_514.16
@@ -2446,9 +2446,9 @@
 \PoS adv.     prn.    prn.
 \gD da,_dann er      wir
 \tx neap=|leis             .
-\std ne          apleis     $
+\std ne_         apleis     $
 \mrph -           3.ft.      $
-\lm ne          apleisti   $
+\lm ne_         apleisti   $
 \PoS pfx.        vb.        $
 \gD Neg.        verlassen  $
 

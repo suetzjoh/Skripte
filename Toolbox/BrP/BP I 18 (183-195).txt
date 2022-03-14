@@ -92,9 +92,9 @@
 
 \ref BP_I_184.05
 \tx neſakitumbei                . Bet           eik       / ir   paſſiro=|dik
-\std ne             sakytum       $ bet           eik       $ ir   pasirodyk
+\std ne_            sakytum       $ bet           eik       $ ir   pasirodyk
 \mrph -              2.sg.cnd.     $ -             2.sg.imp. $ -    2.sg.imp.
-\lm ne             sakyti        $ bet           eiti      $ ir   pasirodyti
+\lm ne_            sakyti        $ bet           eiti      $ ir   pasirodyti
 \PoS pfx.           vb.           $ cnj.          vb.       $ cnj. vb.
 \gD Neg.           sagen         $ aber,_sondern gehen     $ und  sich_zeigen,_erscheinen
 
@@ -164,9 +164,9 @@
 
 \ref BP_I_184.14
 \tx biloia / Pone  / aſch neeſmi            wertas        / idant
-\std bylojo $ pone  $ aš   ne       esu       vertas        $ idant
+\std bylojo $ pone  $ aš   ne_      esu       vertas        $ idant
 \mrph 3.prt. $ v.sg. $ n.    -        1.sg.prs. n.sg.m.       $ -
-\lm byloti $ ponas $ aš   ne       būti     vertas        $ idant
+\lm byloti $ ponas $ aš   ne_      būti     vertas        $ idant
 \PoS vb.    $ sm.   $ prn.  pfx.     vb.       adj.          $ cnj.
 \gD sagen  $ Herr  $ ich   Neg.     sein      würdig,_wert $ damit
 
@@ -244,9 +244,9 @@
 
 \ref BP_I_185.06
 \tx ſakau    iumus / neradau            tokios      wieros
-\std sakau     jums  $ ne       radau     tokios      vieros
+\std sakau     jums  $ ne_      radau     tokios      vieros
 \mrph 1.sg.prs. d.    $ -        1.sg.prt. g.sg.f.     g.sg.
-\lm sakyti    jūs  $ ne       rasti     toks        viera
+\lm sakyti    jūs  $ ne_      rasti     toks        viera
 \PoS vb.       prn.  $ pfx.     vb.       prn.        sf.
 \gD sagen     ihr   $ Neg.     finden    solche(r/s) Glaube
 
@@ -388,9 +388,9 @@
 
 \ref BP_I_186.08
 \tx dabar neiſchkakus                ta              mieſta / net     ant  kelio  eſant        / uß=|tek
-\std dabar ne            iškakus      to-tą          miestą $ net     ant  kelio  esant         $ užteka
+\std dabar ne_           iškakus      to-tą          miestą $ net     ant  kelio  esant         $ užteka
 \mrph -     -             prc.indc.prt. g.sg.m./a.sg.m. a.sg.   $ -       +g.  g.sg.  prc.indc.prs. $ 3.prs.
-\lm dabar ne            iškakti      tas             miestas $ net     ant  kelias būti         $ užtekėti
+\lm dabar ne_           iškakti      tas             miestas $ net     ant  kelias būti         $ užtekėti
 \PoS adv.  pfx.          vb.           prn.            sm.     $ $ cnj.  prp. sm.    vb.           $ vb.
 \gD noch  Neg.          erreichen     diese(r/s)      Stadt   $ sondern auf  Weg    sein          $ aufgehen
 
@@ -556,9 +556,9 @@
 
 \ref BP_I_187.04
 \tx kacʒei iopi     neiſchkakens                       / Taſſai    ſakau    gal     perma=|niti
-\std kačei  jop      ne             iškakęs            $ tasai       sakau     gali    permanyti
+\std kačei  jop      ne_            iškakęs            $ tasai       sakau     gali    permanyti
 \mrph -       al.sg.m. -              prc.prt.act._n.sg.m. $ n.sg.m.def. 1.sg.prs. 3.prs.  inf.
-\lm kačei  jis      ne             iškakti             $ tas         sakyti    galėti permanyti
+\lm kačei  jis      ne_            iškakti             $ tas         sakyti    galėti permanyti
 \PoS cnj.    prn.     pfx.           vb.                  $ prn.        vb.       vb.     vb.
 \gD obwohl  er       Neg.           erreichen            $ diese(r/s)  sagen     können begreifen
 
@@ -874,17 +874,17 @@
 
 \ref BP_I_188.19
 \tx nebudawa             iſchgidama          / iei         Ponas Diewas
-\std ne        būdavo    išgydama            $ jei         ponas dievas
+\std ne_       būdavo    išgydama            $ jei         ponas dievas
 \mrph -         3.prt.frq. prc.prs.pss._n.sg.f. $ -           n.sg. n.sg.
-\lm ne        būti      išgydyti            $ jei         ponas dievas
+\lm ne_       būti      išgydyti            $ jei         ponas dievas
 \PoS pfx.      vb.        vb.                  $ cnj.        sm.   sm.
 \gD Neg.      sein       heilen               $ wenn,_falls Herr  Gott
 
 \ref BP_I_188.20
 \tx pats    negelbeia            / tadda    tureia  ßmogus prapulti .
-\std pats    ne         gelbėjo  $ tada     turėjo žmogus prapulti $
+\std pats    ne_        gelbėjo  $ tada     turėjo žmogus prapulti $
 \mrph n.sg.m. -          3.prt.    $ -        3.prt.  n.sg.   inf.     $
-\lm pats    ne         gelbėti  $ tada     turėti žmogus prapulti $
+\lm pats    ne_        gelbėti  $ tada     turėti žmogus prapulti $
 \PoS prn.    pfx.       vb.       $ adv.     vb.     sm.     vb.      $
 \gD selbst  Neg.       helfen    $ da,_dann müssen Mensch  vergehen $
 
@@ -992,9 +992,9 @@
 
 \ref BP_I_189.07
 \tx nebutu         gelbeiens            / teipaieg  butu   anna      ſirgens             ikki
-\std ne      būtų gelbėjęs           $ taipajėg būtų ana       sirgęs              iki
+\std ne_     būtų gelbėjęs           $ taipajėg būtų ana       sirgęs              iki
 \mrph -       3.cnd. prc.prt.act._n.sg.m. $ -         3.cnd. i.sg.f.   prc.prt.act._n.sg.m. +g.
-\lm ne      būti  gelbėti             $ taipajėg būti  anas      sirgti               iki
+\lm ne_     būti  gelbėti             $ taipajėg būti  anas      sirgti               iki
 \PoS pfx.    v.aux  vb.                  $ adv.      v.aux  prn.      vb.                  prp.
 \gD Neg.    sein   helfen               $ auch      sein   jene(r/s) kranken              bis
 
@@ -1034,8 +1034,8 @@
 \tx ſerga  . Daug ira    ſannariu kuno    ßmogaus / o             ner
 \std serga   $ daug yra    sąnarių kūno   žmogaus $ o             nėra
 \mrph 3.prs.  $ -    3.prs. g.pl.     g.sg.   g.sg.    $ -             3.prs.
-\lm sirgti  $ daug būti  sąnarys  kūnas  žmogus  $ o             ne
-\PoS vb.     $ adv.        sm.       sm.     sm.      $ $ cnj.        p
+\lm sirgti  $ daug būti  sąnarys  kūnas  žmogus  $ o             ne_
+\PoS vb.     $ adv.        sm.       sm.     sm.      $ $ cnj.        pfx.
 \gD kranken $ viel        Glied     Körper Mensch   $ aber,_sondern Neg.
 
 \ref BP_I_189.13
@@ -1064,9 +1064,9 @@
 
 \ref BP_I_189.16
 \tx kitta       ir        wiſſu         kunu    / kaip nepaeiti           nei                   padirbti / negal          /
-\std kitą       ir        visu            kūnu   $ kaip ne        paeiti   nei                   padirbti $ ne     gali    $
+\std kitą       ir        visu            kūnu   $ kaip ne_       paeiti   nei                   padirbti $ ne     gali    $
 \mrph a.sg.m.     -         i.sg.m.         i.sg.   $ -    -         inf.     -                     inf.     $ -      3.prs.  $
-\lm kitas       ir        visas           kūnas  $ kaip ne        paeiti   nei                   padirbti $ ne     galėti $
+\lm kitas       ir        visas           kūnas  $ kaip ne_       paeiti   nei                   padirbti $ ne     galėti $
 \PoS prn.        cnj.      prn.            sm.     $ cnj. pfx.      vb.      cnj+SNeg.             vb.      $ $ p    vb.     $
 \gD andere(r/s) und,_auch jede(r/s),_alle Körper $ wie  Neg.      gehen    und_nicht,_weder_noch arbeiten $ Neg.   können $
 
@@ -1080,10 +1080,10 @@
 
 \ref BP_I_189.18
 \tx kaip io      kits        ßmogus nepoakimis                         nekencʒ           .
-\std kaip jo      kitas       žmogus ne          po          akimis     ne        kenčia  $
+\std kaip jo      kitas       žmogus ne_         po          akimis     ne        kenčia  $
 \mrph -    g.sg.m. n.sg.m.     n.sg.   -           +i.         i.pl.      -         3.prs.   $
-\lm kaip jis     kitas       žmogus ne          po          akis       ne        kentėti $
-\PoS cnj. prn.    prn.        sm.     part.+SNeg. prp.        sf.        pfx.      vb.      $
+\lm kaip jis     kitas       žmogus ne_         po          akis       ne        kentėti $
+\PoS cnj. prn.    prn.        sm.     pfx.        prp.        sf.        pfx.      vb.      $
 \gD wie  er      andere(r/s) Mensch  Neg.        unter       Auge       Neg.      leiden   $
 
 \ref BP_I_189.19
@@ -1192,9 +1192,9 @@
 
 \ref BP_I_190.07
 \tx nelemto  giwenimo  / kada      ßmogus neſaugoieſſi                  net
-\std nelemto  gyvenimo  $ kada      žmogus ne               saugojasi       net
+\std nelemto  gyvenimo  $ kada      žmogus ne_              saugojasi       net
 \mrph g.sg.m.  g.sg.     $ -         n.sg.   -                3.prs.          -
-\lm nelemtas gyvenimas $ kada      žmogus ne               saugotis        net
+\lm nelemtas gyvenimas $ kada      žmogus ne_              saugotis        net
 \PoS adj.     sm.       $ cnj.      sm.     pfx.             vb.             cnj.
 \gD übel    Leben     $ wenn,_als Mensch  Neg.             sich_hüten     sondern
 
@@ -1344,10 +1344,10 @@
 
 \ref BP_I_190.27
 \tx kittas      liggas    kalbant       / iſch kitto       nieko     ſwietui neran=|daſi               
-\std kitas       ligas     kalbant       $ iš   kito        nieko     svietui  ne             randasi
+\std kitas       ligas     kalbant       $ iš   kito        nieko     svietui  ne_            randasi
 \mrph a.pl.f.     a.pl.     prc.indc.prs. $ +g.   g.sg.m.     g.sg.     d.sg.    -              3.prs.
-\lm kitas       liga      kalbėti      $ iš   kitas       niekas    svietas  ne             rastis
-\PoS prn.        sf.       vb.           $ prp.  prn.        prn.+SNeg sm.      pfx            vb.
+\lm kitas       liga      kalbėti      $ iš   kitas       niekas    svietas  ne_            rastis
+\PoS prn.        sf.       vb.           $ prp.  prn.        prn.+SNeg sm.      pfx.           vb.
 \gD andere(r/s) Krankheit sprechen      $ aus   andere(r/s) nichts    Welt     Neg.
 
 \ref BP_I_190.28
@@ -1487,12 +1487,12 @@
 \gD 
 
 \ref BP_I_191.18
-\tx ira    / Tacʒiau nera          newieno       teipo kitro   Daktaro  /
-\std yra    $ tačiau  nėra         nė_vieno     taipo kytro   daktaro  $
-\mrph 3.prs. $ -        3.prs. 3.prs. g.sg.m.       -     g.sg.m. g.sg.    $
-\lm būti  $ tačiau  ne     būti  nė_vienas    taipo kytras  daktaras $
-\PoS v.aux  $ adv.     pfx.   vb.    prn.+SNeg.    adv.  adj.    sm.      $
-\gD sein   $ jedoch   Neg.   sein   niemand,_kein so    schlau  Doktor   $
+\tx ira    / Tacʒiau nera           newieno       teipo kitro   Daktaro  /
+\std yra    $ tačiau  nėra          nė_vieno     taipo kytro   daktaro  $
+\mrph 3.prs. $ -        3.prs.         g.sg.m.       -     g.sg.m. g.sg.    $
+\lm būti  $ tačiau  būti   būti  nė_vienas    taipo kytras  daktaras $
+\PoS v.aux  $ adv.     pfx.    vb.    prn.+SNeg.    adv.  adj.    sm.      $
+\gD sein   $ jedoch   sein    sein   niemand,_kein so    schlau  Doktor   $
 
 \ref BP_I_191.19
 \tx kurſai iſch ſawens beßoliu galletu / kacʒei maßauſe
@@ -1706,9 +1706,9 @@
 
 \ref BP_I_192.19
 \tx neturrit            / Eiket     ſchen  / pirket    ir        walgiket  . Eiket     ſchen
-\std ne        turite    $ eikite    šen    $ pirkite   ir        valgykite $ eikite    šen
+\std ne_       turite    $ eikite    šen    $ pirkite   ir        valgykite $ eikite    šen
 \mrph -         2.pl.prs. $ 2.pl.imp. -       $ 2.pl.imp. -         2.pl.imp. $ 2.pl.imp. -
-\lm ne        turėti   $ eiti      šen    $ pirkti    ir        valgyti   $ eiti      šen
+\lm ne_       turėti   $ eiti      šen    $ pirkti    ir        valgyti   $ eiti      šen
 \PoS pfx.      vb.       $ vb.       adv.    $ vb.       cnj.      vb.       $ vb.       adv.
 \gD Neg.      haben     $ gehen     hierher $ kaufen    und,_auch essen     $ gehen     hierher
 
@@ -1760,10 +1760,10 @@
 
 \ref BP_I_192.25
 \tx butu   tikeie               / tadda    wienas          nebutu         ſakens                   . Pone  iei
-\std būtų tikėję             $ tada     vienas          ne      būtų sakęs                    $ pone  jei
+\std būtų tikėję             $ tada     vienas          ne_     būtų sakęs                    $ pone  jei
 \mrph 3.cnd. prc.prt.act._n.pl.m. $ -        n.sg.m.         -       3.cnd. prc.prt.act._n.sg.m.+PERF $ v.sg. -
-\lm būti  tikėti              $ tada     vienas          ne      būti  sakyti                    $ ponas jei
-\PoS v.aux  vb.                  $ adv.     adj.            pfx            vb.                       $ sm.   cnj.
+\lm būti  tikėti              $ tada     vienas          ne_     būti  sakyti                    $ ponas jei
+\PoS v.aux  vb.                  $ adv.     adj.            pfx.           vb.                       $ sm.   cnj.
 \gD sein   glauben              $ da,_dann eins_,eine(r/s) Neg.           sagen                     $ Herr  wenn,_falls
 
 \ref BP_I_192.26
@@ -1912,9 +1912,9 @@
 
 \ref BP_I_193.18
 \tx tas        to         negaus           / kaip  girdim    ape   Phariſeuſcha
-\std tas        to         ne      gaus     $ kaip  girdime   apie  farizieją
+\std tas        to         ne_     gaus     $ kaip  girdime   apie  farizieją
 \mrph n.sg.m.    g.sg.m.    -       3.ft.    $ -     1.pl.prs. +a.   a.sg.
-\lm tas        tas        ne      gauti    $ kaip  girdėti  apie  fariziejas
+\lm tas        tas        ne_     gauti    $ kaip  girdėti  apie  fariziejas
 \PoS prn.       prn.       pfx.    vb.      $ $ adv vb.       prp.  sm.npr.
 \gD diese(r/s) diese(r/s) Neg.    erhalten $ wie   hören    über Pharisäer
 
@@ -1952,9 +1952,9 @@
 
 \ref BP_I_193.23
 \tx wel    nenor          / io      teipaieg  walia teſtow  / Schiteipo nes
-\std vėl   ne     nori    $ jo      taipajėg valia testovi  $ šitaip   nes
+\std vėl   ne_    nori    $ jo      taipajėg valia testovi  $ šitaip   nes
 \mrph -      -      3.prs.  $ g.sg.m. -         i.sg. prm.     $ -         -
-\lm vėl   ne     norėti $ jis     taipajėg valia stovėti $ šitaip   nes
+\lm vėl   ne_    norėti $ jis     taipajėg valia stovėti $ šitaip   nes
 \PoS adv.   pfx.   vb.     $ prn.    adv.      sf.   vb.      $ adv.      cnj.
 \gD wieder Neg.   wollen  $ er      auch      Wille stehen   $ so        denn
 
@@ -2032,9 +2032,9 @@
 
 \ref BP_I_194.07
 \tx ßmogus netur          tatai     nieku     nuleiſti / kaip daug
-\std žmogus ne     turi    tatai     niekuo    nuleisti  $ kaip daug
+\std žmogus ne_    turi    tatai     niekuo    nuleisti  $ kaip daug
 \mrph n.sg.   -      3.prs.  -         i.        inf.      $ -    -
-\lm žmogus ne     turėti tatai     niekas    nuleisti  $ kaip daug
+\lm žmogus ne_    turėti tatai     niekas    nuleisti  $ kaip daug
 \PoS sm.     pfx.   vb.     prn.      prn.+SNeg vb.       $ $ c  adv.
 \gD Mensch  Neg.   müssen dies,_das nichts              $ wie  viel
 

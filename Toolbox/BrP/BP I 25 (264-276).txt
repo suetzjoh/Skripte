@@ -170,9 +170,9 @@
 
 \ref BP_I_265.13
 \tx nepaßeiſtumbei                   ant  akmens koia       tawa /
-\std ne                pažeistum       ant  akmens koją      tavo $
+\std ne_               pažeistum       ant  akmens koją      tavo $
 \mrph -                 2.sg.cnd.        +g.  g.sg.  a.sg.      -    $
-\lm ne                pažeisti        ant  akmuo  koja       tavo $
+\lm ne_               pažeisti        ant  akmuo  koja       tavo $
 \PoS pfx.              vb.              prp. sm.    sf.        prn. $
 \gD Neg.              verletzen        auf  Stein  Bein,_Fuß dein $
 
@@ -186,9 +186,9 @@
 
 \ref BP_I_265.15
 \tx Neturi            gundinti  Wieſchpaties Diewo
-\std ne      turi      gundinti  viešpaties   dievo
+\std ne_     turi      gundinti  viešpaties   dievo
 \mrph -       2.sg.prs. inf.      g.sg.         g.sg.
-\lm ne      turėti   gundinti  viešpats     dievas
+\lm ne_     turėti   gundinti  viešpats     dievas
 \PoS pfx.    vb.       vb.       sm.           sm.
 \gD Neg.    müssen   versuchen Herr          Gott
 
@@ -472,10 +472,10 @@
 
 \ref BP_I_267.11
 \tx ſawa              inartines            / negaletu           ßmoniu  gimine     iſchgelbeti
-\std savo               įnartinęs          $ ne        galėtų žmonių giminę    išgelbėti
+\std savo               įnartinęs          $ ne_       galėtų žmonių giminę    išgelbėti
 \mrph -                  prc.prt.act._n.sg.m. $ -         3.cnd.   g.pl.    a.sg.      inf.
-\lm savo               įnartinti           $ ne        galėti  žmogus  giminė    išgelbėti
-\PoS prn.               vb.                  $ $ pfx     vb.      sm.      sf.        vb.
+\lm savo               įnartinti           $ ne_       galėti  žmogus  giminė    išgelbėti
+\PoS prn.               vb.                  $ pfx.      vb.      sm.      sf.        vb.
 \gD [refl._Poss.-prn.] erzürnen            $ Neg.      können  Mensch   Geschlecht erretten
 
 \ref BP_I_267.12
@@ -1002,9 +1002,9 @@
 
 \ref BP_I_270.08
 \tx ſutwertoghi ſawa              / nenoredams                iam     paſſidůti . Kaip
-\std sutvertoją  savo               $ ne          norėdamas    jam     pasiduoti    $ kaip
+\std sutvertoją  savo               $ ne_         norėdamas    jam     pasiduoti    $ kaip
 \mrph a.sg.        -                  $ -           prc.cn._sg.m. d.sg.m. inf.         $ -
-\lm sutvertojas  savo               $ ne          norėti       jis     pasiduoti    $ kaip
+\lm sutvertojas  savo               $ ne_         norėti       jis     pasiduoti    $ kaip
 \PoS sm.          prn.               $ pfx.        vb.           prn.    vb.          $ $ cnj.
 \gD Schöpfer    [refl._Poss.-prn.] $ Neg.        wollen        er      sich_ergeben $ wie
 
@@ -1162,9 +1162,9 @@
 
 \ref BP_I_271.02
 \tx ir        mus  neprigautu              .
-\std ir        mus  ne          prigautų   $
+\std ir        mus  ne_         prigautų   $
 \mrph -         a.   -           3.cnd.      $
-\lm ir        mes  ne          prigauti    $
+\lm ir        mes  ne_         prigauti    $
 \PoS cnj.      prn. pfx.        vb.         $
 \gD und,_auch wir  Neg.        hintergehen $
 
@@ -1338,17 +1338,17 @@
 
 \ref BP_I_271.24
 \tx niekaip         neiweiktu                         .
-\std niekaip         ne         įveiktų              $
+\std niekaip         ne_        įveiktų              $
 \mrph -               -          3.cnd.                 $
-\lm niekaip         ne         įveikti               $
+\lm niekaip         ne_        įveikti               $
 \PoS adv.+SNeg.      pfx.       vb.                    $
 \gD auf_keine_Weise Neg.       beeinflussen,_besiegen $
 
 \ref BP_I_271.25
 \tx Ant  Ketwirto    . Netingekem              nei                   nuboſkem            tirtiſſi  /
-\std ant  ketvirto    $ ne          tingėkime  nei                   nuboskime            tirtis      $
+\std ant  ketvirto    $ ne_         tingėkime  nei                   nuboskime            tirtis      $
 \mrph +g.  g.sg.m.     $ -           1.pl.imp.   -                     1.pl.imp.            inf.        $
-\lm ant  ketvirtas   $ ne          tingėti    nei                   nubosti              tirtis      $
+\lm ant  ketvirtas   $ ne_         tingėti    nei                   nubosti              tirtis      $
 \PoS prp. o.          $ pfx.        vb.         cnj.                  vb.                  vb.         $
 \gD auf  vierte(r/s) $ Neg.        träge_sein und_nicht,_weder_noch Überdruss_empfinden ausforschen $
 
@@ -1490,9 +1490,9 @@
 
 \ref BP_I_272.15
 \tx IEſu   Sunu   io      . Ieib ghis    io      negalletu            ßmoniu  gi=|mine
-\std Jėzų  sūnų jo      $ jeib jis     jo      ne         galėtų  žmonių giminę
+\std Jėzų  sūnų jo      $ jeib jis     jo      ne_        galėtų  žmonių giminę
 \mrph a.sg.   a.sg.  g.sg.m. $ -    n.sg.m. g.sg.m. -          3.cnd.    g.pl.    a.sg.
-\lm Jėzus  sūnus jis     $ jeib jis     jis     ne         galėti   žmogus  giminė
+\lm Jėzus  sūnus jis     $ jeib jis     jis     ne_        galėti   žmogus  giminė
 \PoS sm.npr. sm.    prn.    $ cnj. prn.    prn.    pfx.       vb.       sm.      sf.
 \gD Jesus   Sohn   er      $ dass er      er      Neg.       können   Mensch   Geschlecht
 
@@ -1544,9 +1544,9 @@
 \PoS cnj.      adj.     sm.           sm.     $ cnj. prn. prn.
 \gD und,_auch kräftig Feind         Teufel  $ dass wir  was
 \tx ne=|iweiktu                         .
-\std ne           įveiktų              $
+\std ne_          įveiktų              $
 \mrph -            3.cnd.                 $
-\lm ne           įveikti               $
+\lm ne_          įveikti               $
 \PoS pfx.         vb.                    $
 \gD Neg.         beeinflussen,_besiegen $
 
@@ -1616,11 +1616,11 @@
 
 \ref BP_I_273.05
 \tx Kriſtus Diewui nebetiketu                         daugeſne . Neſa Weli=|nas
-\std Kristus  dievui ne          be-         tikėtų   daugesni  $ nes   velinas
+\std Kristus  dievui ne_         be_         tikėtų   daugesni  $ nes   velinas
 \mrph n.sg.    d.sg.  -           -           3.cnd.     cmp.      $ -     n.sg.
-\lm Kristus  dievas ne          be-         tikėti    daug      $ nes   velinas
-\PoS sm.npr.  sm.    pfx.        Pfx.-       vb.        adv.      $ cnj.  sm.
-\gD Christus Gott   Neg.        []-         glauben    viel      $ denn  Teufel
+\lm Kristus  dievas ne_         be_         tikėti    daug      $ nes   velinas
+\PoS sm.npr.  sm.    pfx.        pfx.        vb.        adv.      $ cnj.  sm.
+\gD Christus Gott   Neg.        []          glauben    viel      $ denn  Teufel
 
 \ref BP_I_273.06
 \tx ßinna  / iog  be   wieros newiens       Diewui negal          in=|tikti /
@@ -1664,9 +1664,9 @@
 
 \ref BP_I_273.11
 \tx nepen          / ir        kacʒei geiſtumbei iog  thie       akmens důna
-\std ne     pena    $ ir        kačei  geistum     jog  tie        akmens duona
+\std ne_    pena    $ ir        kačei  geistum     jog  tie        akmens duona
 \mrph -      3.prs.  $ -         -       2.sg.cnd.   -    n.pl.m.    g.sg.  i.sg.
-\lm ne     penėti $ ir        kačei  geisti      jog  tas        akmuo  duona
+\lm ne_    penėti $ ir        kačei  geisti      jog  tas        akmuo  duona
 \PoS pfx.   vb.     $ $ cnj.    cnj.    vb.         cnj. prn.       sm.    sf.
 \gD Neg.   nähren $ und,_auch obwohl  begehren    dass diese(r/s) Stein  Brot
 \tx pa=|wirſtu /
@@ -1678,9 +1678,9 @@
 
 \ref BP_I_273.12
 \tx tacʒiau to         nebus        . Tůgi               reggi     Diewa  tawe
-\std tačiau  to         ne     bus   $ tuogi               regi      dievą tave
+\std tačiau  to         ne_    bus   $ tuogi               regi      dievą tave
 \mrph -        g.sg.m.    -      3.ft. $ -                   2.sg.prs. a.sg.  a.
-\lm tačiau  tas        ne     būti $ tuogi               regėti   dievas tu
+\lm tačiau  tas        ne_    būti $ tuogi               regėti   dievas tu
 \PoS adv.     prn.       pfx.   vb.   $ $ cnj.              vb.       sm.    prn.
 \gD jedoch   diese(r/s) Neg.   sein  $ eben_deshalb,_daher sehen     Gott   du
 
@@ -1812,11 +1812,11 @@
 
 \ref BP_I_274.03
 \tx tupeti             / nieko       newalgiti            / nieko     negerti          / tiktai noretu
-\std tupėti            $ nieko       ne         valgyti   $ nieko     ne       gerti   $ tiktai norėtų
+\std tupėti            $ nieko       ne_        valgyti   $ nieko     ne_      gerti   $ tiktai norėtų
 \mrph inf.               $ g.sg.       -          inf.      $ g.sg.     -        inf.    $ -      3.cnd.
-\lm tupėti            $ niekas      ne         valgyti   $ niekas    ne       gerti   $ tiktai norėti
-\PoS vb.                $ $ prn.+SNeg            vb.       $ $ prn.+SN          vb.     $ adv.   vb.
-\gD hocken,_schleichen $ nichts                 essen     $ nichts             trinken $ nur    wollen
+\lm tupėti            $ niekas      ne_        valgyti   $ niekas    ne_      gerti   $ tiktai norėti
+\PoS vb.                $ $ prn.+SNeg pfx.       vb.       $ $ prn.+SN pfx.     vb.     $ adv.   vb.
+\gD hocken,_schleichen $ nichts      Neg.       essen     $ nichts    Neg.     trinken $ nur    wollen
 
 \ref BP_I_274.04
 \tx tarti / Diewas be   důnos mane deſchimti metu   pape=|nes /
@@ -2228,9 +2228,9 @@
 
 \ref BP_I_276.06
 \tx Diewo  Wieſchpaties tawa neturri            gun=|dinti .
-\std dievo  viešpaties   tavo ne       turi      gundinti   $
+\std dievo  viešpaties   tavo ne_      turi      gundinti   $
 \mrph g.sg.  g.sg.         -    -        2.sg.prs. inf.       $
-\lm dievas viešpats     tavo ne       turėti   gundinti   $
+\lm dievas viešpats     tavo ne_      turėti   gundinti   $
 \PoS sm.    sm.           prn. pfx.     vb.       vb.        $
 \gD Gott   Herr          dein Neg.     müssen   versuchen  $
 
@@ -2332,10 +2332,10 @@
 
 \ref BP_I_276.19
 \tx Diewo  / Todelei  kolei   giwi     eſme     / neliaukimes              
-\std dievo  $ todėlei kolei   gyvi     esame     $ ne            liaukimės
+\std dievo  $ todėlei kolei   gyvi     esame     $ ne_           liaukimės
 \mrph g.sg.  $ -        -       n.pl.m.  1.pl.prs. $ -             1.pl.imp.
-\lm dievas $ todėlei kolei   gyvas    būti     $ ne            liautis
-\PoS sm.    $ adv.     cnj.    adj.     vb.       $ $ pfx         vb.
+\lm dievas $ todėlei kolei   gyvas    būti     $ ne_           liautis
+\PoS sm.    $ adv.     cnj.    adj.     vb.       $ pfx.          vb.
 \gD Gott   $ deshalb  solange lebendig sein      $ Neg.          aufhören
 \tx mokin=|tiſſi
 \std mokintis

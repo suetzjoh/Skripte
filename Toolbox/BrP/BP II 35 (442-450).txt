@@ -212,17 +212,17 @@
 
 \ref BP_II_444.03
 \tx eſti  io      Sunus  ? Ir   newienas      negaleia           ia=|mui
-\std yra    jo      sūnus $ ir   nė_vienas    ne        galėjo  jam
+\std yra    jo      sūnus $ ir   nė_vienas    ne_       galėjo  jam
 \mrph 3.prs. g.sg.m. n.sg.  $ -    n.sg.m.       -         3.prt.   d.sg.m.
-\lm būti  jis     sūnus $ ir   nė_vienas    ne        galėti  jis
+\lm būti  jis     sūnus $ ir   nė_vienas    ne_       galėti  jis
 \PoS vb.    prn.    sm.    $ cnj. prn.+SNeg.    pfx.      vb.      prn.
 \gD sein   er      Sohn   $ und  niemand,_kein Neg.      können  er
 
 \ref BP_II_444.04
 \tx nei          ßodʒio atſakiti . Ir   nedrinſa            ne=|wienas
-\std nei          žodžio atsakyti  $ ir   ne         drįso    nė_vienas
+\std nei          žodžio atsakyti  $ ir   ne_        drįso    nė_vienas
 \mrph -            g.sg.    inf.      $ -    -          3.prt.    n.sg.m.
-\lm nei          žodis   atsakyti  $ ir   ne         drįsti   nė_vienas
+\lm nei          žodis   atsakyti  $ ir   ne_        drįsti   nė_vienas
 \PoS part.        sm.      vb.       $ cnj. pfx.       vb.       prn.+SNeg.
 \gD nicht_einmal Wort     antworten $ und  Neg.       wagen     niemand,_kein
 
@@ -356,9 +356,9 @@
 
 \ref BP_II_444.21
 \tx Bet           wirſchaus negauna           nei                   io      inweike                / Trecʒia    .
-\std bet           viršaus   ne       gauna    nei                   jo      įveikė               $ trečio     $
+\std bet           viršaus   ne_      gauna    nei                   jo      įveikė               $ trečio     $
 \mrph -             g.sg.      -        3.prs.   -                     g.sg.m. 3.prt.                 $ g.sg.m.     $
-\lm bet           viršus    ne       gauti    nei                   jis     įveikti               $ trečias    $
+\lm bet           viršus    ne_      gauti    nei                   jis     įveikti               $ trečias    $
 \PoS cnj.          sm.        pfx.     vb.      cnj.                  prn.    vb.                    $ o.          $
 \gD aber,_sondern Oberteil   Neg.     erhalten und_nicht,_weder_noch er      beeinflussen,_besiegen $ dritte(r/s) $
 
@@ -380,10 +380,10 @@
 
 \ref BP_II_445.02
 \tx tare         iei         Kriſtus to         neßinnos            / tadda    ghis    ben              gieda   iſch
-\std tarė        jei         Kristus  to         ne         žinos    $ tada     jis     ben              gėdą  iš
+\std tarė        jei         Kristus  to         ne_        žinos    $ tada     jis     ben              gėdą  iš
 \mrph 3.prt.       -           n.sg.    g.sg.m.    -          3.ft.     $ -        n.sg.m. -                a.sg.   +g.
-\lm taryti=tarti jei         Kristus  tas        ne         žinoti   $ tada     jis     ben              gėda   iš
-\PoS vb.          cnj.        sm.npr.  prn.       pfx        vb.       $ adv.     prn.    adv.             sf.     prp.
+\lm taryti=tarti jei         Kristus  tas        ne_        žinoti   $ tada     jis     ben              gėda   iš
+\PoS vb.          cnj.        sm.npr.  prn.       pfx.       vb.       $ adv.     prn.    adv.             sf.     prp.
 \gD sagen        wenn,_falls Christus diese(r/s) Neg.       wissen    $ da,_dann er      wenigstens,_wohl Schande aus
 
 \ref BP_II_445.03
@@ -856,9 +856,9 @@
 
 \ref BP_II_447.13
 \tx nepaßinſtamam                       bei  neprietelui              tawam      . Mileti  tu=|rim
-\std ne               pažįstamam         bei  neprieteliui             tavam      $ mylėti turime
+\std ne_              pažįstamam         bei  neprieteliui             tavam      $ mylėti turime
 \mrph -                prc.prs.pss._d.sg.m. -    d.sg.                    d.sg.m.    $ inf.    1.pl.prs.
-\lm ne               pažinti             bei  neprietelis-neprietelius tavas      $ mylėti turėti
+\lm ne_              pažinti             bei  neprietelis-neprietelius tavas      $ mylėti turėti
 \PoS pfx.             vb.                  cnj. sm.                      adj.       $ vb.     vb.
 \gD Neg.             (er)kennen           und  Feind                    deine(r/s) $ lieben  müssen
 
@@ -1011,12 +1011,12 @@
 \gD 
 
 \ref BP_II_448.06
-\tx Bet           ßala  nera          newieno       ßmogaus / kurſai     taip
-\std bet           žala  nėra         nė_vieno     žmogaus $ kursai      taip
-\mrph -             -      3.prs. 3.prs. g.sg.m.       g.sg.    $ n.sg.m.def. -
-\lm bet           žala  ne     būti  nė_vienas    žmogus  $ kuris       taip
-\PoS cnj.          adv.   pfx.   vb.    prn.+SNeg.    sm.      $ prn.        adv.
-\gD aber,_sondern leider Neg.   sein   niemand,_kein Mensch   $ welche(r/s) so
+\tx Bet           ßala  nera           newieno       ßmogaus / kurſai     taip
+\std bet           žala  nėra          nė_vieno     žmogaus $ kursai      taip
+\mrph -             -      3.prs.         g.sg.m.       g.sg.    $ n.sg.m.def. -
+\lm bet           žala  būti   būti  nė_vienas    žmogus  $ kuris       taip
+\PoS cnj.          adv.   pfx.    vb.    prn.+SNeg.    sm.      $ prn.        adv.
+\gD aber,_sondern leider sein    sein   niemand,_kein Mensch   $ welche(r/s) so
 
 \ref BP_II_448.07
 \tx pilnai   Diewa  bei  Artimaghi   ſawa              miletu   / kaip  par=|eitiſſi /

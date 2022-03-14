@@ -148,9 +148,9 @@
 
 \ref BP_I_229.12
 \tx newiens       neſamde           . Ghis    biloia iump     /
-\std nė_vienas    ne        samdė   $ jis     bylojo jump     $
+\std nė_vienas    ne_       samdė   $ jis     bylojo jump     $
 \mrph n.sg.m.       -         3.prt.   $ n.sg.m. 3.prt. al.pl.m. $
-\lm nė_vienas    ne        samdyti  $ jis     byloti jis      $
+\lm nė_vienas    ne_       samdyti  $ jis     byloti jis      $
 \PoS prn.+SNeg.    pfx.      vb.      $ prn.    vb.    prn.     $
 \gD niemand,_kein Neg.      anheuern $ er      sagen  er       $
 
@@ -284,9 +284,9 @@
 
 \ref BP_I_230.11
 \tx iſch iu      / prieteliau aſch tau  nedarau              abi=|dos /
-\std iš   jų     $ prieteliau aš   tau  ne       darau       abydos   $
+\std iš   jų     $ prieteliau aš   tau  ne_      darau       abydos   $
 \mrph +g.   g.pl.m. $ v.sg.      n.    d.   -        1.sg.prs.   g.sg.    $
-\lm iš   jis     $ prietelius aš   tu   ne       daryti      abyda    $
+\lm iš   jis     $ prietelius aš   tu   ne_      daryti      abyda    $
 \PoS prp.  prn.    $ sm.        prn.  prn. pfx.     vb.         sf.      $
 \gD aus   er      $ Freund     ich   du   Neg.     tun,_machen Unrecht  $
 
@@ -488,10 +488,10 @@
 
 \ref BP_I_231.17
 \tx piktenibe  / neklauſancʒiu         Diewo  / ir        neprijmmancʒiu                  
-\std piktenybę $ neklausančių          dievo  $ ir        ne                priimančių
+\std piktenybę $ neklausančių          dievo  $ ir        ne_               priimančių
 \mrph a.sg.      $ prc.prs.act._g.pl.m./f. g.sg.  $ -         -                 prc.prs.act_g.sg.m./f.
-\lm piktenybė $ neklausyti              dievas $ ir        ne                priimti
-\PoS sf.        $ vb.                     sm.    $ $ cnj.    pfx               vb.
+\lm piktenybė $ neklausyti              dievas $ ir        ne_               priimti
+\PoS sf.        $ vb.                     sm.    $ $ cnj.    pfx.              vb.
 \gD Bosheit    $ ungehorsam_sein         Gott   $ und,_auch Neg.              annehmen
 
 \ref BP_I_231.18
@@ -752,9 +752,9 @@
 
 \ref BP_I_232.25
 \tx tadda    neturri            permaniti tas        hadinas kaip muſu  ha=|dininiks /
-\std tada     ne       turi      permanyti tas        hadynas kaip mūsų adyninkas    $
+\std tada     ne_      turi      permanyti tas        hadynas kaip mūsų adyninkas    $
 \mrph -        -        2.sg.prs. inf.      a.pl.f.    a.pl.   -    g.     n.sg.        $
-\lm tada     ne       turėti   permanyti tas        hadyna  kaip mes    adyninkas    $
+\lm tada     ne_      turėti   permanyti tas        hadyna  kaip mes    adyninkas    $
 \PoS adv.     pfx.     vb.       vb.       prn.       sf.     a    prn.   sm.          $
 \gD da,_dann Neg.     müssen   begreifen diese(r/s) Stunde  wie  wir    Uhr          $
 
@@ -1582,9 +1582,9 @@
 
 \ref BP_I_236.22
 \tx ir        niekada    iſch ſchirdies ſawa              neiſchleiſti                 / kaip  tatai     da=|riuſi
-\std ir        niekada    iš   širdies   savo               ne              išleisti      $ kaip  tatai     dariusį
+\std ir        niekada    iš   širdies   savo               ne_             išleisti      $ kaip  tatai     dariusį
 \mrph -         -          +g.   g.sg.      -                  -               inf.           $ -     -         prc.prt.act._a.sg.m.
-\lm ir        niekada    iš   širdis    savo               ne              išleisti      $ kaip  tatai     daryti
+\lm ir        niekada    iš   širdis    savo               ne_             išleisti      $ kaip  tatai     daryti
 \PoS cnj.      adv.+SNeg. prp.  sf.        prn.               pfx.            vb.            $ $ cnj prn.      vb.
 \gD und,_auch nie        aus   Herz       [refl._Poss.-prn.] Neg.            herauslassen   $ wie   dies,_das tun,_machen
 
@@ -1732,9 +1732,9 @@
 
 \ref BP_I_237.13
 \tx ira    . Tacʒiau ghis    to         nieka        neadboi                             /
-\std yra    $ tačiau  jis     to         nieko-nieką ne       atboja                     $
+\std yra    $ tačiau  jis     to         nieko-nieką ne_      atboja                     $
 \mrph 3.prs. $ -        n.sg.m. g.sg.m.    g.sg./a.sg.  -        3.prs.                     $
-\lm būti  $ tačiau  jis     tas        niekas       ne       atboti                     $
+\lm būti  $ tačiau  jis     tas        niekas       ne_      atboti                     $
 \PoS v.aux  $ adv.     prn.    prn.       prn.+SNeg.   pfx.     vb.                        $
 \gD sein   $ jedoch   er      diese(r/s) nichts       Neg.     beachten,_berücksichtigen $
 \tx net   wis   nieku
@@ -1746,10 +1746,10 @@
 
 \ref BP_I_237.14
 \tx nuleidʒ       / Diewa        iſch ios     nenoredams                paßinti   nei                   iam
-\std nuleidžia     $ dievo-dievą iš   jos     ne          norėdamas    pažinti   nei                   jam
+\std nuleidžia     $ dievo-dievą iš   jos     ne_         norėdamas    pažinti   nei                   jam
 \mrph 3.prs.         $ g.sg./a.sg.  +g.   g.sg.f. -           prc.cn._sg.m. inf.       -                     d.sg.m.
-\lm nuleisti       $ dievas       iš   jis     ne          norėti       pažinti   nei                   jis
-\PoS vb.            $ sm.          prp.  prn.    pfx         vb.           vb.        cnj.                  prn.
+\lm nuleisti       $ dievas       iš   jis     ne_         norėti       pažinti   nei                   jis
+\PoS vb.            $ sm.          prp.  prn.    pfx.        vb.           vb.        cnj.                  prn.
 \gD herunterlassen $ Gott         aus   er      Neg.        wollen        (er)kennen und_nicht,_weder_noch er
 
 \ref BP_I_237.15
@@ -1762,9 +1762,9 @@
 
 \ref BP_I_237.16
 \tx Pono  Diewo  neſſibiancʒeiſeis                        .  Acʒ giwenkem Raſ=|kaſchnai /
-\std pono  dievo  ne                     bijančiaisiais       $
+\std pono  dievo  ne_                    bijančiaisiais       $
 \mrph g.sg. g.sg.  -                      prc.prs.act._i.pl.m.  $
-\lm ponas dievas ne                     bijotis               $
+\lm ponas dievas ne_                    bijotis               $
 \PoS sm.   sm.    pfx.                   vb.                   $
 \gD Herr  Gott   Neg.                   sich_fürchten        $
 
@@ -1786,9 +1786,9 @@
 
 \ref BP_I_237.19
 \tx wanikus  iſch iaunu   roßu   / ikki nepabala               / Didʒů=|kem .
-\std vainikus iš   jaunų  rožių $ iki  ne        pabalo       $ didžiuokime $
+\std vainikus iš   jaunų  rožių $ iki  ne_       pabalo       $ didžiuokime $
 \mrph a.pl.    +g.   g.pl.f. g.pl.   $ -    -         3.prt.       $ 1.pl.imp.    $
-\lm vainikas iš   jaunas  rožė  $ iki  ne        pabalti      $ didžiuoti   $
+\lm vainikas iš   jaunas  rožė  $ iki  ne_       pabalti      $ didžiuoti   $
 \PoS sm.      prp.  adj.    sf.     $ cnj. pfx.      vb.          $ vb.          $
 \gD Kranz    aus   jung    Rose    $ bis  Neg.      weiß_werden $ prahlen      $
 
@@ -1818,9 +1818,9 @@
 
 \ref BP_I_237.23
 \tx Bei  ſchittai nekalbam            tiktai ape   kitas       ſwetimas
-\std bei  šitai    ne        kalbame   tiktai apie  kitas       svetimas
+\std bei  šitai    ne_       kalbame   tiktai apie  kitas       svetimas
 \mrph -    -         -         1.pl.prs. -      +a.   a.pl.f.     a.pl.f.
-\lm bei  šitai    ne        kalbėti  tiktai apie  kitas       svetimas
+\lm bei  šitai    ne_       kalbėti  tiktai apie  kitas       svetimas
 \PoS cnj. part.     pfx.      vb.       adv.   prp.  prn.        adj.
 \gD und  siehe     Neg.      sprechen  nur    über andere(r/s) fremd
 
@@ -1834,9 +1834,9 @@
 
 \ref BP_I_237.25
 \tx kitti       pagonis kurie       Diewo  nepaßiſta              / bet           ir
-\std kiti        pagonys kurie       dievo  ne           pažįsta   $ bet           ir
+\std kiti        pagonys kurie       dievo  ne_          pažįsta   $ bet           ir
 \mrph n.pl.m.     n.pl.   n.pl.m.     g.sg.  -            3.prs.      $ -             -
-\lm kitas       pagonis kuris       dievas ne           pažinti    $ bet           ir
+\lm kitas       pagonis kuris       dievas ne_          pažinti    $ bet           ir
 \PoS prn.        sm.     prn.        sm.    pfx.         vb.         $ cnj.          cnj.
 \gD andere(r/s) Heide   welche(r/s) Gott   Neg.         (er)kennen  $ aber,_sondern und,_auch
 \tx ape   tus
@@ -1960,9 +1960,9 @@
 
 \ref BP_I_238.14
 \tx neſſidaboj                  / ir        nieku  nuleidʒ       / thie       ſawa              Cʒieſu / iſchtirs
-\std ne            dabojasi        $ ir        niekuo nuleidžia     $ tie        savo               čėsu   $ ištirs
+\std ne_           dabojasi        $ ir        niekuo nuleidžia     $ tie        savo               čėsu   $ ištirs
 \mrph -             3.prs.          $ -         i.     3.prs.         $ n.pl.m.    -                  i.sg.    $ 3.ft.
-\lm ne            dabotis         $ ir        niekas nuleisti       $ tas        savo               čėsas  $ ištirti
+\lm ne_           dabotis         $ ir        niekas nuleisti       $ tas        savo               čėsas  $ ištirti
 \PoS pfx.          vb.             $ $ cnj.    prn.   vb.            $ prn.       prn.               sm.      $ vb.
 \gD Neg.          aufmerksam_sein $ und,_auch nichts herunterlassen $ diese(r/s) [refl._Poss.-prn.] Zeit     $ erfahren
 

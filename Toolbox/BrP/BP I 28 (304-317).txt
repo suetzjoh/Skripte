@@ -132,9 +132,9 @@
 
 \ref BP_I_305.10
 \tx pjnigu  donos  nepakank           ghiemus / no=|rint
-\std pinigų duonos ne        pakanka  jiems   $ norint
+\std pinigų duonos ne_       pakanka  jiems   $ norint
 \mrph g.pl.   g.sg.  -         3.prs.   d.pl.m. $ -
-\lm pinigai duona  ne        pakakti  jis     $ norint
+\lm pinigai duona  ne_       pakakti  jis     $ norint
 \PoS sm.pl.  sf.    pfx.      vb.      prn.    $ cnj.
 \gD Geld    Brot   Neg.      genügen er      $ obgleich
 
@@ -274,9 +274,9 @@
 
 \ref BP_I_306.09
 \tx kurie       atlikka        / idant nieks      nenugaiſchtu                .
-\std kurie       atliko         $ idant niekas     ne             nugaištų    $
+\std kurie       atliko         $ idant niekas     ne_            nugaištų    $
 \mrph n.pl.m.     3.prt.         $ -     n.         -              3.cnd.        $
-\lm kuris       atlikti        $ idant niekas     ne             nugaišti     $
+\lm kuris       atlikti        $ idant niekas     ne_            nugaišti     $
 \PoS prn.        vb.            $ cnj.  prn.+SNeg. pfx.           vb.           $
 \gD welche(r/s) übrig_bleiben $ damit nichts     Neg.           untergehen    $
 
@@ -618,9 +618,9 @@
 
 \ref BP_I_308.11
 \tx nedrinſa            ſugauti . A         Ponui Kriſtui ſchiteipo
-\std ne         drįso    sugauti  $ o         ponui Kristui  šitaipo
+\std ne_        drįso    sugauti  $ o         ponui Kristui  šitaipo
 \mrph -          3.prt.    inf.     $ -         d.sg. d.sg.    -
-\lm ne         drįsti   sugauti  $ o         ponas Kristus  šitaipo
+\lm ne_        drįsti   sugauti  $ o         ponas Kristus  šitaipo
 \PoS pfx.       vb.       vb.      $ cnj.      sm.   sm.npr.  adv.
 \gD Neg.       wagen     fangen   $ und,_aber Herr  Christus so
 
@@ -681,12 +681,12 @@
 \gD und,_aber dies,_das Neg.  Stadt    welche(r/s) $ wo   alles erhalten
 
 \ref BP_I_308.19
-\tx ira    / bet           puſchcʒona / kur  nieka      nera          / ſeke                     ira    .
-\std yra    $ bet           pūsčiona   $ kur  nieko      nėra         $ sekę                     yra    $
-\mrph 3.prs. $ -             il.sg.       $ -    g.sg.      3.prs. 3.prs. $ prc.prt.act._n.pl.m.+PERF 3.prs. $
-\lm būti  $ bet           pūsčia     $ kur  niekas     ne     būti  $ sekti                     būti  $
-\PoS v.aux  $ cnj.          sf.          $ adv. prn.+SNeg. pfx.   vb.    $ vb.                       v.     $
-\gD sein   $ aber,_sondern Wüste       $ wo   nichts     Neg.   sein   $ folgen                    sein   $
+\tx ira    / bet           puſchcʒona / kur  nieka      nera           / ſeke                     ira    .
+\std yra    $ bet           pūsčiona   $ kur  nieko      nėra          $ sekę                     yra    $
+\mrph 3.prs. $ -             il.sg.       $ -    g.sg.      3.prs.         $ prc.prt.act._n.pl.m.+PERF 3.prs. $
+\lm būti  $ bet           pūsčia     $ kur  niekas     būti   būti  $ sekti                     būti  $
+\PoS v.aux  $ cnj.          sf.          $ adv. prn.+SNeg. pfx.    vb.    $ vb.                       v.     $
+\gD sein   $ aber,_sondern Wüste       $ wo   nichts     sein    sein   $ folgen                    sein   $
 
 \ref BP_I_308.20
 \tx Schie ßmones Pona Kriſtu mileie ir teip toli
@@ -750,9 +750,9 @@
 \PoS prp.        prn.    vb.     $
 \gD in_-_hinein er      glauben $
 \tx nepraßutu             /
-\std ne          pražūtų $
+\std ne_         pražūtų $
 \mrph -           3.cnd.     $
-\lm ne          pražūti  $
+\lm ne_         pražūti  $
 \PoS pfx.        vb.        $
 \gD Neg.        umkommen   $
 \tx bet           apturetu
@@ -798,10 +798,10 @@
 \PoS prn.        prp.        prn.
 \gD welche(r/s) in_-_hinein er
 \tx tik     / nepraßutu             /
-\std tiki    $ ne          pražūtų $
+\std tiki    $ ne_         pražūtų $
 \mrph 3.prs.  $ -           3.cnd.     $
-\lm tikėti $ ne          pražūti  $
-\PoS vb.     $ $ pfx       vb.        $
+\lm tikėti $ ne_         pražūti  $
+\PoS vb.     $ pfx.        vb.        $
 \gD glauben $ Neg.        umkommen   $
 \tx bet           turetn
 \std bet           turėtų
@@ -942,10 +942,10 @@
 
 \ref BP_I_309.18
 \tx mokiti               ßmones  nemoke         . Bet           ſakidawa  iei         nori      amßi=|nai
-\std mokyti               žmonės ne      mokė  $ bet           sakydavo   jei         nori      amžinai
+\std mokyti               žmonės ne_     mokė  $ bet           sakydavo   jei         nori      amžinai
 \mrph prt.prt.pss._n.pl.m. n.pl.    -       3.prt. $ -             3.prt.frq. -           2.sg.prs. adv.
-\lm mokyti               žmogus  ne      mokyti $ bet           sakyti     jei         norėti   amžinas
-\PoS vb.                  sm.      pfx     vb.    $ cnj.          vb.        cnj.        vb.       adj.
+\lm mokyti               žmogus  ne_     mokyti $ bet           sakyti     jei         norėti   amžinas
+\PoS vb.                  sm.      pfx.    vb.    $ cnj.          vb.        cnj.        vb.       adj.
 \gD lehren               Mensch   Neg.    lehren $ aber,_sondern sagen      wenn,_falls wollen    ewig
 
 \ref BP_I_309.19
@@ -1200,9 +1200,9 @@
 
 \ref BP_I_311.02
 \tx ſwietas / to         neadboj                             nei                   dara        .  Kumetu reik
-\std svietas  $ to         ne       atboja                     nei                   daro        $
+\std svietas  $ to         ne_      atboja                     nei                   daro        $
 \mrph n.sg.    $ g.sg.m.    -        3.prs.                     -                     3.prs.      $
-\lm svietas  $ tas        ne       atboti                     nei                   daryti      $
+\lm svietas  $ tas        ne_      atboti                     nei                   daryti      $
 \PoS sm.      $ prn.       pfx.     vb.                        cnj.                  vb.         $
 \gD Welt     $ diese(r/s) Neg.     beachten,_berücksichtigen und_nicht,_weder_noch tun,_machen $
 
@@ -1408,9 +1408,9 @@
 
 \ref BP_I_312.05
 \tx nepriſtokſt                neiokeme   daikte      .
-\std ne             pristoksta    nejokiame  daikte      $
+\std ne_            pristoksta    nejokiame  daikte      $
 \mrph -              3.prs.        l.sg.m.    l.sg.       $
-\lm ne             pristokti     nejoks     daiktas     $
+\lm ne_            pristokti     nejoks     daiktas     $
 \PoS pfx.           vb.           prn.+SNeg. sm.         $
 \gD Neg.           mangeln       keine(r/s) Sache,_Ding $
 
@@ -1600,9 +1600,9 @@
 
 \ref BP_I_313.04
 \tx toluma     kelio  nieka        ſtrowos neatneſchuſus                       / bet           alk=|ſtancʒius
-\std tolumo     kelio  nieko-nieką strovos  ne               atnešusius          $ bet           alkstančius
+\std tolumo     kelio  nieko-nieką strovos  ne_              atnešusius          $ bet           alkstančius
 \mrph g.sg.      g.sg.  g.sg./a.sg.  g.sg.    -                prc.prt.act._a.sg.m. $ -             prc.prs.act._a.sg.m.
-\lm tolumas    kelias niekas       strova   ne               atnešti             $ bet           alkti
+\lm tolumas    kelias niekas       strova   ne_              atnešti             $ bet           alkti
 \PoS sm.        sm.    prn.+SNeg.   sf.      pfx.             vb.                  $ cnj.          vb.
 \gD Entfernung Weg    nichts       Speise   Neg.             bringen              $ aber,_sondern hungern
 
@@ -1764,17 +1764,17 @@
 
 \ref BP_I_313.21
 \tx ghis    ir        tawes  delei  rupinſis     / idant badu   nemirtumbei              /
-\std jis     ir        tavęs dėlei rūpinsis     $ idant badu   ne           mirtumei    $
+\std jis     ir        tavęs dėlei rūpinsis     $ idant badu   ne_          mirtum      $
 \mrph n.sg.m. -         g.     +g.    3.ft.         $ -     i.sg.  -            2.sg.cnd.   $
-\lm jis     ir        tu     dėlei rūpintis     $ idant badas  ne                       $
-\PoS prn.    cnj.      prn.   prp.   vb.           $ cnj.  sm.    pfx                      $
-\gD er      und,_auch du     wegen  sich_kümmern $ damit Hunger Neg.                     $
+\lm jis     ir        tu     dėlei rūpintis     $ idant badas  ne_          mirti       $
+\PoS prn.    cnj.      prn.   prp.   vb.           $ cnj.  sm.    pfx.         vb.         $
+\gD er      und,_auch du     wegen  sich_kümmern $ damit Hunger Neg.         sterben     $
 
 \ref BP_I_313.22
 \tx alba kitus       kakius      biaurus     wargus neregetumbei               .
-\std alba kitus       kokius      bjaurus     vargus ne            regėtumei   $
+\std alba kitus       kokius      bjaurus     vargus ne_           regėtum     $
 \mrph -    a.pl.m.     a.pl.m.     n.sg.m.     a.pl.  -             2.sg.cnd.    $
-\lm alba kitas       koks        bjaurus     vargas ne            regėti      $
+\lm alba kitas       koks        bjaurus     vargas ne_           regėti      $
 \PoS cnj. prn.        prn.        adj.        sm.    pfx.          vb.          $
 \gD oder andere(r/s) welche(r/s) schrecklich Mühe  Neg.          sehen        $
 
@@ -1826,10 +1826,10 @@
 
 \ref BP_I_314.01
 \tx neapalptu                alba badu   nenumirtu            / Neſa teipo ſchicʒe
-\std ne         apalptų      alba badu   ne         numirtų  $ nes   taipo šičia
+\std ne_        apalptų      alba badu   ne_        numirtų  $ nes   taipo šičia
 \mrph -          3.cnd.        -    i.sg.  -          3.cnd.    $ -     -     -
-\lm ne         apalpti       alba badas  ne         numirti   $ nes   taipo šičia
-\PoS pfx.       vb.           cnj. sm.    pfx        vb.       $ cnj.  adv.  adv.
+\lm ne_        apalpti       alba badas  ne_        numirti   $ nes   taipo šičia
+\PoS pfx.       vb.           cnj. sm.    pfx.       vb.       $ cnj.  adv.  adv.
 \gD Neg.       verschmachten oder Hunger Neg.       sterben   $ denn  so    hier
 
 \ref BP_I_314.02
@@ -2034,9 +2034,9 @@
 \PoS vb.          $ prn.
 \gD fortbestehen $ jene(r/s)
 \tx nebus        gedoie
-\std ne     bus   gėdoje
+\std ne_    bus   gėdoje
 \mrph -      3.ft. l.sg.
-\lm ne     būti gėda
+\lm ne_    būti gėda
 \PoS pfx.   vb.   sf.
 \gD Neg.   sein  Schande
 \tx piktame         cʒieſe /
@@ -2098,9 +2098,9 @@
 
 \ref BP_I_315.06
 \tx iei         nenorim          
-\std jei         ne        norime
+\std jei         ne_       norime
 \mrph -           -         1.pl.prs.
-\lm jei         ne        norėti
+\lm jei         ne_       norėti
 \PoS cnj.        pfx.      vb.
 \gD wenn,_falls Neg.      wollen
 \tx baddu  numirti / alba
@@ -2222,10 +2222,10 @@
 
 \ref BP_I_315.20
 \tx ir        iau   nu     Saule  nuſſileida      / o         anis      netureia           ka
-\std ir        jau   nū    saulė nusileido         $ o         anys      ne        turėjo  ko-ką
+\std ir        jau   nū    saulė nusileido         $ o         anys      ne_       turėjo  ko-ką
 \mrph -         -     -      n.sg.  3.prt.            $ -         n.pl.m.   -         3.prt.   g./a.
-\lm ir        jau   nu=nū saulė nusileisti        $ o         anas      ne        turėti  kas
-\PoS cnj.      adv.  adv.   sf.    vb.               $ cnj.      prn.      pfx       vb.      prn.
+\lm ir        jau   nu=nū saulė nusileisti        $ o         anas      ne_       turėti  kas
+\PoS cnj.      adv.  adv.   sf.    vb.               $ cnj.      prn.      pfx.      vb.      prn.
 \gD und,_auch schon jetzt  Sonne  sich_niederlassen $ und,_aber jene(r/s) Neg.               was
 
 \ref BP_I_315.21
@@ -2264,9 +2264,9 @@
 \PoS sm.pl.  sf.
 \gD Geld    Brot
 \tx nepakanka            iemus   /
-\std ne         pakanka   jiems   $
+\std ne_        pakanka   jiems   $
 \mrph -          3.prs.    d.pl.m. $
-\lm ne         pakakti   jis     $
+\lm ne_        pakakti   jis     $
 \PoS pfx.       vb.       prn.    $
 \gD Neg.       genügen  er      $
 \tx kacʒei koßnas
@@ -2406,9 +2406,9 @@
 
 \ref BP_I_316.19
 \tx man  nepakaks           / Tůgi               ir        tokiu       daug  nuſſimen .
-\std man  ne        pakaks   $ tuogi               ir        tokių      daug
+\std man  ne_       pakaks   $ tuogi               ir        tokių      daug
 \mrph d.   -         3.ft.    $ -                   -         g.pl.m.     -
-\lm aš  ne        pakakti  $ tuogi               ir        toks        daug
+\lm aš  ne_       pakakti  $ tuogi               ir        toks        daug
 \PoS prn. pfx.      vb.      $ $ adv.              cnj.      prn.        adv.
 \gD ich  Neg.      genügen $ eben_deshalb,_daher und,_auch solche(r/s) viel
 
@@ -2440,9 +2440,9 @@
 \PoS sm.
 \gD Nahrung
 \tx ne=|nuſimintu                 /
-\std ne              nusimintų     $
+\std ne_             nusimintų     $
 \mrph -               3.cnd.         $
-\lm ne              nusiminti      $
+\lm ne_             nusiminti      $
 \PoS pfx.            vb.            $
 \gD Neg.            verzweifeln    $
 
@@ -2508,9 +2508,9 @@
 
 \ref BP_I_317.02
 \tx ſpaudʒ  / netarint           
-\std spaudžia $ ne         tariant
+\std spaudžia $ ne_        tariant
 \mrph 3.prs.    $ -          prc.indc.prs.
-\lm spausti   $ ne         tarti
+\lm spausti   $ ne_        tarti
 \PoS vb.       $ pfx.       vb.
 \gD drücken  $ Neg.       sagen
 \tx nuweigdams             /

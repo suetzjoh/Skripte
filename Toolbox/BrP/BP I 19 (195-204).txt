@@ -510,9 +510,9 @@
 
 \ref BP_I_198.14
 \tx iſchpuſtijma           / A             prarakas Diewo  nenoreia           
-\std išpūstijimą           $ o             prarakas dievo  ne         norėjo
+\std išpūstijimą           $ o             prarakas dievo  ne_        norėjo
 \mrph a.sg.                    $ -             n.sg.    g.sg.  -          3.prt.
-\lm išpūstijimas           $ o             prarakas dievas ne         norėti
+\lm išpūstijimas           $ o             prarakas dievas ne_        norėti
 \PoS sm.                      $ cnj.          sm.      sm.    pfx.       vb.
 \gD Verwüstung,_Zerstörung $ aber,_sondern Prophet  Gott   Neg.       wollen
 
@@ -585,8 +585,8 @@
 \tx tatai     koßnas   ßinna  / kolei   tjka   laikoſe / nera   newieno
 \std tatai     kožnas   žino   $ kolei   tyko   laikuose $ nėra  nė_vieno
 \mrph -         n.sg.m.   3.prs.  $ -       g.sg.  l.pl.    $ 3.prs. g.sg.m.
-\lm tatai     kožnas   žinoti $ kolei   tykas  laikas   $ ne     nė_vienas
-\PoS prn.      prn.      vb.     $ cnj.    sm.    sm.      $ $ pfx
+\lm tatai     kožnas   žinoti $ kolei   tykas  laikas   $ ne_    nė_vienas
+\PoS prn.      prn.      vb.     $ cnj.    sm.    sm.      $ pfx.
 \gD dies,_das jede(r/s) wissen  $ solange Friede Zeit     $ Neg.
 
 \ref BP_I_198.24
@@ -925,10 +925,10 @@
 
 \ref BP_I_200.17
 \tx weius  nuſtabda  ſuiudinima wandinio nuramda   . Ne=|reik           
-\std vėjus nustabdo   sujudinimą vandens  nuramdo   $ ne         reikia
+\std vėjus nustabdo   sujudinimą vandens  nuramdo   $ ne_        reikia
 \mrph a.pl.  3.prs.     a.sg.       g.sg.    3.prs.    $ -          3.prs.
-\lm vėjas nustabdyti sujudinimas vanduo   nuramdyti $ ne         reikėti
-\PoS sm.    vb.        sm.         sm.      vb.       $ $ p        vb.
+\lm vėjas nustabdyti sujudinimas vanduo   nuramdyti $ ne_        reikėti
+\PoS sm.    vb.        sm.         sm.      vb.       $ pfx.       vb.
 \gD Wind   aufhalten  Bewegung    Wasser   beruhigen $ Neg.       benötigen
 
 \ref BP_I_200.18
@@ -963,10 +963,10 @@
 
 \ref BP_I_200.21
 \tx ir        nurumda   piktůſius     . Ne           Kriſtui to         nereik             /
-\std ir        nuramdo   piktuosius      $ nė          Kristui  to         ne      reikia     $
+\std ir        nuramdo   piktuosius      $ nė          Kristui  to         ne_     reikia     $
 \mrph -         3.prs.    a.pl.m.def.     $ -            d.sg.    g.sg.m.    -       3.prs.     $
-\lm ir        nuramdyti piktas          $ nė          Kristus  tas        ne      reikėti   $
-\PoS cnj.      vb.       adj.            $ $ part.+SNeg sm.npr.  prn.       pfx     vb.        $
+\lm ir        nuramdyti piktas          $ nė          Kristus  tas        ne_     reikėti   $
+\PoS cnj.      vb.       adj.            $ $ part.+SNeg sm.npr.  prn.       pfx.    vb.        $
 \gD und,_auch beruhigen böse,_schlecht $ Neg.         Christus diese(r/s) Neg.    benötigen $
 \tx Ghis
 \std jis
@@ -1145,17 +1145,17 @@
 
 \ref BP_I_201.17
 \tx ſchturmu neprapultu             alba iſchkados ant  ſawa              riko
-\std šturmų  ne          prapultų  alba iškados   ant  savo               ryko
+\std šturmų  ne_         prapultų  alba iškados   ant  savo               ryko
 \mrph g.pl.     -           3.cnd.     -    g.sg.      +g.  -                  g.sg.
-\lm šturmas  ne          prapulti   alba iškada    ant  savo               rykas
+\lm šturmas  ne_         prapulti   alba iškada    ant  savo               rykas
 \PoS sm.       pfx.        vb.        cnj. sf.        prp. prn.               sm.
 \gD Sturm     Neg.        vergehen   oder Schaden    auf  [refl._Poss.-prn.] Sache
 
 \ref BP_I_201.18
 \tx negautu           . Tatai     graßei  regim     ſchoie    Euangelioie  /
-\std ne       gautų   $ tatai     gražiai regime    šioje     evangelijoje $
+\std ne_      gautų   $ tatai     gražiai regime    šioje     evangelijoje $
 \mrph -        3.cnd.   $ -         adv.     1.pl.prs. l.sg.f.    l.sg.        $
-\lm ne       gauti    $ tatai     gražus  regėti   šis       evangelija   $
+\lm ne_      gauti    $ tatai     gražus  regėti   šis       evangelija   $
 \PoS pfx.     vb.      $ prn.      adj.     vb.       prn.       sf.          $
 \gD Neg.     erhalten $ dies,_das schön   sehen     diese(r/s) Evangelium   $
 
@@ -1185,18 +1185,18 @@
 
 \ref BP_I_201.22
 \tx prieija   Kriſtauſp / kitu        newienu       daiktu      nelinſkminoio=|ſi                      /
-\std priėjo   Kristausp   $ kitu        nė_vienu     daiktu      ne                   linksminojosi       $
+\std priėjo   Kristausp   $ kitu        nė_vienu     daiktu      ne_                  linksminojosi       $
 \mrph 3.prt.    al.sg.      $ i.sg.m.     i.sg.         i.sg.       -                    3.prt.              $
-\lm prieiti   Kristus     $ kitas       nė_vienas    daiktas     ne                   linksminotis        $
-\PoS vb.       sm.npr.     $ prn.        prn.+SNeg.    sm.         pfx                  vb.                 $
+\lm prieiti   Kristus     $ kitas       nė_vienas    daiktas     ne_                  linksminotis        $
+\PoS vb.       sm.npr.     $ prn.        prn.+SNeg.    sm.         pfx.                 vb.                 $
 \gD herkommen Christus    $ andere(r/s) niemand,_kein Sache,_Ding Neg.                 sich_ergötzen      $
 
 \ref BP_I_201.23
 \tx kittam      newienam      daiktu      nenuſſitikeia                  / nenuſſitikeia                  
-\std kitam       nė_vienam    daiktu      ne               nusitikėjo     $ ne                nusitikėjo
+\std kitam       nė_vienam    daiktu      ne_              nusitikėjo     $ ne_               nusitikėjo
 \mrph d.sg.m.     d.sg.m.       i.sg.       -                3.prt.          $ -                 3.prt.
-\lm kitas       nė_vienas    daiktas     ne               nusitikėti     $ ne                nusitikėti
-\PoS prn.        prn.+SNeg.    sm.         pfx.             vb.             $ $ pfx             vb.
+\lm kitas       nė_vienas    daiktas     ne_              nusitikėti     $ ne_               nusitikėti
+\PoS prn.        prn.+SNeg.    sm.         pfx.             vb.             $ pfx.              vb.
 \gD andere(r/s) niemand,_kein Sache,_Ding Neg.             vertrauen       $ Neg.              vertrauen
 
 \ref BP_I_201.24
@@ -1241,9 +1241,9 @@
 
 \ref BP_I_202.05
 \tx neſa ghis    niekadai   nůg ſawuiu            neatſtoi            / kaip      ir        ſchicʒe
-\std nes   jis     niekadai   nuog savųjų           ne         atstoja   $ kaip      ir        šičia
+\std nes   jis     niekadai   nuog savųjų           ne_        atstoja   $ kaip      ir        šičia
 \mrph -     n.sg.m. -          +g.  g.pl.def.          -          3.prs.    $ -         -         -
-\lm nes   jis     niekadai   nuog savas              ne         atstoti   $ kaip      ir        šičia
+\lm nes   jis     niekadai   nuog savas              ne_        atstoti   $ kaip      ir        šičia
 \PoS cnj.  prn.    adv.+SNeg. prp. prn.               pfx.       vb.       $ $ cnj.    cnj.      adv.
 \gD denn  er      nie        von  [refl._Poss.-prn.] Neg.       wegtreten $ wenn,_als und,_auch hier
 
@@ -1297,11 +1297,11 @@
 
 \ref BP_I_202.12
 \tx wede    per   dides   puſchcʒes / kur  nebuwa         newieno       kelio  ?
-\std vedė   per   didės  pūsčios   $ kur  ne      buvo   nė_vieno     kelio  $
+\std vedė   per   didės  pūsčios   $ kur  ne_     buvo   nė_vieno     kelio  $
 \mrph 3.prt.  +a.   g.sg.f. g.sg.       $ -    -       3.prt. g.sg.m.       g.sg.  $
-\lm vesti   per   didis   pūsčia    $ kur  ne      būti  nė_vienas    kelias $
-\PoS vb.     prp.  adj.    sf.         $ adv.                prn.+SNeg.    sm.    $
-\gD führen durch groß   Wüste      $ wo                  niemand,_kein Weg    $
+\lm vesti   per   didis   pūsčia    $ kur  ne_     būti  nė_vienas    kelias $
+\PoS vb.     prp.  adj.    sf.         $ adv. pfx.           prn.+SNeg.    sm.    $
+\gD führen durch groß   Wüste      $ wo   Neg.           niemand,_kein Weg    $
 
 \ref BP_I_202.13
 \tx Kas anus thů cʒieſu apſaugoia puſchcʒoie nůg piktu
@@ -1329,17 +1329,17 @@
 
 \ref BP_I_202.16
 \tx Todel  ir        tu   ſchturma regedams      paſſikelenti       / ne=|ußmirſchk                  
-\std todėl ir        tu   šturmą  regėdamas    pasikeliantį        $ ne                užmiršk
+\std todėl ir        tu   šturmą  regėdamas    pasikeliantį        $ ne_               užmiršk
 \mrph -      -         n.   a.sg.     prc.cn._sg.m. prc.prs.act._a.sg.m. $ -                 2.sg.imp.
-\lm todėl ir        tu   šturmas  regėti       pasikelti            $ ne                užmiršti
-\PoS adv.   cnj.      prn. sm.       vb.           vb.                  $ $ p               vb.
+\lm todėl ir        tu   šturmas  regėti       pasikelti            $ ne_               užmiršti
+\PoS adv.   cnj.      prn. sm.       vb.           vb.                  $ pfx.              vb.
 \gD daher  und,_auch du   Sturm     sehen         sich_erheben         $ Neg.              vergessen
 
 \ref BP_I_202.17
 \tx tů        cʒieſu Diewo  / nenuſſiminkes                  iſchtikiek
-\std tuo        čėsu   dievo  $ ne               nusimink        ištikėk
+\std tuo        čėsu   dievo  $ ne_              nusimink        ištikėk
 \mrph i.sg.m.    i.sg.    g.sg.  $ -                2.sg.imp.       2.sg.imp,
-\lm tas        čėsas  dievas $ ne               nusiminti       ištikėti
+\lm tas        čėsas  dievas $ ne_              nusiminti       ištikėti
 \PoS prn.       sm.      sm.    $ pfx.             vb.             vb.
 \gD diese(r/s) Zeit     Gott   $ Neg.             verzweifeln     glauben
 
@@ -1369,19 +1369,19 @@
 
 \ref BP_I_202.21
 \tx kada      tartu  / ſchitai Pone  laiwas muſu  bewirſta            iau   /
-\std kada      tartų $ šitai   pone  laivas mūsų be-        virsta    jau   $
+\std kada      tartų $ šitai   pone  laivas mūsų be_        virsta    jau   $
 \mrph -         3.cnd. $ -        v.sg. n.sg.  g.     -          3.prs.    -     $
-\lm kada      tarti  $ šitai   ponas laivas mes    be-        virsti    jau   $
-\PoS cnj.      vb.    $ part.    sm.   sm.    prn.   Präf.     vb.       adv.  $
-\gD wenn,_als sagen  $ siehe    Herr  Schiff wir    []-        stürzen  schon $
+\lm kada      tarti  $ šitai   ponas laivas mes    be_        virsti    jau   $
+\PoS cnj.      vb.    $ part.    sm.   sm.    prn.   pfx.       vb.       adv.  $
+\gD wenn,_als sagen  $ siehe    Herr  Schiff wir    []         stürzen  schon $
 
 \ref BP_I_202.22
 \tx ſchitai niekas     mus  negal          gelbeti  / mes  negalim            kraſch=|tan
-\std šitai   niekas     mus  ne     gali    gelbėti $ mes  ne       galime    kraštan
+\std šitai   niekas     mus  ne     gali    gelbėti $ mes  ne_      galime    kraštan
 \mrph -        n.         a.   -      3.prs.  inf.     $ n.   -        1.pl.prs. il.sg.
-\lm šitai   niekas     mes  ne     galėti gelbėti $ mes  ne       galėti   kraštas
-\PoS part.    prn.+SNeg. prn. pfx.   vb.     vb.      $ prn.          vb.       sm.
-\gD siehe    niemand    wir  Neg.   können helfen   $ wir           können   Ufer
+\lm šitai   niekas     mes  ne     galėti gelbėti $ mes  ne_      galėti   kraštas
+\PoS part.    prn.+SNeg. prn. pfx.   vb.     vb.      $ prn. pfx.     vb.       sm.
+\gD siehe    niemand    wir  Neg.   können helfen   $ wir  Neg.     können   Ufer
 
 \ref BP_I_202.23
 \tx iſchkakti / Schitai ſmerti po akim turrim    .
@@ -1401,9 +1401,9 @@
 
 \ref BP_I_202.25
 \tx marios / O    tu   negali          iſchbegti / ſchauk / Diewopi /
-\std marios $ o    tu   ne      gali    išbėgti  $ šaukia $ dievop  $
+\std marios $ o    tu   ne_     gali    išbėgti  $ šaukia $ dievop  $
 \mrph n.pl.  $ -    n.   -       3.prs.  inf.       $ 3.prs.  $ al.sg.  $
-\lm marios $ o    tu   ne      galėti išbėgti  $ šaukti $ dievas  $
+\lm marios $ o    tu   ne_     galėti išbėgti  $ šaukti $ dievas  $
 \PoS sf.pl. $ cnj. prn. pfx.    vb.     vb.        $ vb.     $ sm.     $
 \gD Meer   $ und  du   Neg.    können entfliehen $ rufen   $ Gott    $
 \tx bi=|lodams    /
@@ -1487,9 +1487,9 @@
 
 \ref BP_I_203.10
 \tx ßegli   nedůk            wirſti  / tu   inkara ſtiprink . Bei mus ſchi=|teipo
-\std žėglį ne      duok      virsti   $ tu
+\std žėglį ne_     duok      virsti   $ tu
 \mrph a.sg.    -       2.sg.imp. inf.     $ n.
-\lm žėglis ne      duoti     virsti   $ tu
+\lm žėglis ne_     duoti     virsti   $ tu
 \PoS sm.      pfx.    vb.       vb.      $ prn.
 \gD Segel    Neg.    geben     stürzen $ du
 
@@ -1583,10 +1583,10 @@
 
 \ref BP_I_203.22
 \tx tacʒau ſakau    tokiu       duſche         neprapůl            ir        kuna    iu
-\std tačiau sakau     tokių      dūšė-dūšia ne         prapuola  ir        kūną  jų
+\std tačiau sakau     tokių      dūšė-dūšia ne_        prapuola  ir        kūną  jų
 \mrph -       1.sg.prs. g.pl.m.     n.sg.           -          3.prs.    -         a.sg.   g.pl.m.
-\lm tačiau sakyti    toks        dūšė-dūšia ne         prapulti  ir        kūnas  jis
-\PoS adv.    vb.       prn.        sf.             pfx        vb.       cnj.      sm.     prn.
+\lm tačiau sakyti    toks        dūšė-dūšia ne_        prapulti  ir        kūnas  jis
+\PoS adv.    vb.       prn.        sf.             pfx.       vb.       cnj.      sm.     prn.
 \gD jedoch  sagen     solche(r/s) Seele           Neg.       vergehen  und,_auch Körper er
 \tx Die=|was
 \std dievas

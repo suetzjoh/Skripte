@@ -119,12 +119,12 @@
 \gD er      $ wie  Zweig   $ und  wie  Wurzel    aus   trocken  Erde    $
 
 \ref BP_I_417.15
-\tx Nera          iam     newienos      formos nei                   graßjbes  .
-\std nėra         jam     nė_vienos    formos nei                   gražybės $
-\mrph 3.prs. 3.prs. d.sg.m. g.sg.f.       g.sg.  -                     g.sg.      $
-\lm ne     būti  jis     nė_vienas    forma  nei                   gražybė  $
-\PoS pfx.   vb.    prn.    prn.+SNeg.    sf.    cnj.                  sf.        $
-\gD Neg.   sein   er      niemand,_kein Form   und_nicht,_weder_noch Schönheit $
+\tx Nera           iam     newienos      formos nei                   graßjbes  .
+\std nėra          jam     nė_vienos    formos nei                   gražybės $
+\mrph 3.prs.         d.sg.m. g.sg.f.       g.sg.  -                     g.sg.      $
+\lm būti   būti  jis     nė_vienas    forma  nei                   gražybė  $
+\PoS pfx.    vb.    prn.    prn.+SNeg.    sf.    cnj.                  sf.        $
+\gD sein    sein   er      niemand,_kein Form   und_nicht,_weder_noch Schönheit $
 \tx Mes  re=|geiom
 \std mes  regėjome
 \mrph n.   1.pl.prt.
@@ -134,9 +134,9 @@
 
 \ref BP_I_417.16
 \tx ghi     / alle nebuwa         newienos      formos / kuri        mu=|mus
-\std jį     $ ale  ne      buvo   nė_vienos    formos $ kuri        mums
+\std jį     $ ale  ne_     buvo   nė_vienos    formos $ kuri        mums
 \mrph a.sg.m. $ -    -       3.prt. g.sg.f.       g.sg.  $ n.sg.f.     d.
-\lm jis     $ ale  ne      būti  nė_vienas    forma  $ kuris       mes
+\lm jis     $ ale  ne_     būti  nė_vienas    forma  $ kuris       mes
 \PoS prn.    $ cnj. pfx.    vb.    prn.+SNeg.    sf.    $ prn.        prn.
 \gD er      $ aber Neg.    sein   niemand,_kein Form   $ welche(r/s) wir
 
@@ -172,9 +172,9 @@
 
 \ref BP_I_417.20
 \tx paſliepiams         / thů       io      nieko      neadbaiom                             .
-\std paslepiamas          $ tuo        jo      nieko      ne         atbojome                   $
+\std paslepiamas          $ tuo        jo      nieko      ne_        atbojome                   $
 \mrph prc.prs.pss._n.sg.m. $ i.sg.m.    g.sg.m. g.sg.      -          1.pl.prt.                  $
-\lm paslėpti            $ tas        jis     niekas     ne         atboti                     $
+\lm paslėpti            $ tas        jis     niekas     ne_        atboti                     $
 \PoS vb.                  $ prn.       prn.    prn.+SNeg. pfx.       vb.                        $
 \gD verbergen            $ diese(r/s) er      nichts     Neg.       beachten,_berücksichtigen $
 
@@ -266,9 +266,9 @@
 
 \ref BP_I_418.05
 \tx naſru neatwere           / kaip awis  / wedama               piauti     / ir   kaip
-\std nasrų ne        atvėrė $ kaip avis  $ vedama               pjauti     $ ir   kaip
+\std nasrų ne_       atvėrė $ kaip avis  $ vedama               pjauti     $ ir   kaip
 \mrph g.pl.  -         3.prt.   $ -    n.sg. $ prc.prs.pss._n.sg.f. inf.       $ -    -
-\lm nasrai ne        atverti  $ kaip avis  $ vesti                pjauti     $ ir   kaip
+\lm nasrai ne_       atverti  $ kaip avis  $ vesti                pjauti     $ ir   kaip
 \PoS sm.pl. pfx.      vb.      $ adv. sf.   $ vb.                  vb.        $ cnj. adv.
 \gD Mund   Neg.      öffnen  $ wie  Schaf $ führen              schlachten $ und  wie
 
@@ -334,9 +334,9 @@
 
 \ref BP_I_418.12
 \tx neſſibijancʒuiu                           / ir   numire  kaip bagotas / kacʒei
-\std ne                  besibijančiųjų        $ ir   numirė kaip bagotas $ kačei
+\std ne_                 besibijančiųjų        $ ir   numirė kaip bagotas $ kačei
 \mrph -                   prc.prs.act._g.pl.m.def. $ -    3.prt.  -    n.sg.m. $ -
-\lm ne                  bijotis                  $ ir   numirti kaip bagotas $ kačei
+\lm ne_                 bijotis                  $ ir   numirti kaip bagotas $ kačei
 \PoS pfx.                vb.                      $ cnj. vb.     adv. adj.    $ cnj.
 \gD Neg.                sich_fürchten           $ und  sterben wie  reich   $ obwohl
 \tx ghis
@@ -348,17 +348,17 @@
 
 \ref BP_I_418.13
 \tx netieſos newienam      nedare              nei                   wiliaus naſroſa io
-\std netiesos  nė_vienam    ne      darė       nei                   vyliaus nasruose  jo
+\std netiesos  nė_vienam    ne_     darė       nei                   vyliaus nasruose  jo
 \mrph g.sg.     d.sg.m.       -       3.prt.      -                     g.sg.   l.pl.     g.sg.m.
-\lm netiesa   nė_vienas    ne      daryti      nei                   vylius  nasrai    jis
+\lm netiesa   nė_vienas    ne_     daryti      nei                   vylius  nasrai    jis
 \PoS sf.       prn.+SNeg.    pfx.    vb.         cnj+SNeg.             sm.     sm.pl.    prn.
 \gD Unrecht   niemand,_kein Neg.    tun,_machen und_nicht,_weder_noch Trug    Mund      er
 
 \ref BP_I_418.14
 \tx nebuwa         . Alle Wieſchpats nareia  io      teipo ligomis
-\std ne      buvo   $ ale  viešpats   norėjo jo      taipo ligomis
+\std ne_     buvo   $ ale  viešpats   norėjo jo      taipo ligomis
 \mrph -       3.prt. $ -    n.sg.       3.prt.  g.sg.m. -     i.pl.
-\lm ne      būti  $ ale  viešpats   norėti jis     taipo liga
+\lm ne_     būti  $ ale  viešpats   norėti jis     taipo liga
 \PoS pfx.    vb.    $ cnj. sm.         vb.     prn.    adv.  sf.
 \gD Neg.    sein   $ aber Herr        wollen  er      so    Krankheit
 

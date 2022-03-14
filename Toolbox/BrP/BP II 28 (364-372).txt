@@ -152,9 +152,9 @@
 
 \ref BP_II_366.02
 \tx niekam     neſakitu            . Bet           ko         tai   dau=|giaus
-\std niekam     ne         sakytų   $ bet           kuo        tai   daugiau
+\std niekam     ne_        sakytų   $ bet           kuo        tai   daugiau
 \mrph d.sg.      -          3.cnd.    $ -             -          indc. cmp.
-\lm niekas     ne         sakyti    $ bet           kuo        tai   daug
+\lm niekas     ne_        sakyti    $ bet           kuo        tai   daug
 \PoS prn.+SNeg. pfx.       vb.       $ cnj.          adv.       part. adv.
 \gD niemand    Neg.       sagen     $ aber,_sondern je(-desto) nun   viel
 
@@ -408,10 +408,10 @@
 
 \ref BP_II_367.03
 \tx darba        kittemus    nepaſakitu              / A         anis      to         nedabodami             
-\std darbą-darbo kitiems     ne           pasakytų   $ o         anys      to         ne           dabodami
+\std darbą-darbo kitiems     ne_          pasakytų   $ o         anys      to         ne_          dabodami
 \mrph a./g.sg.     d.pl.m.     -            3.cnd.      $ -         n.pl.m.   g.sg.m.    -            prc.cn._pl.m.
-\lm darbas       kitas       ne           pasakyti    $ o         anas      tas        ne           daboti
-\PoS sm.          prn.        pfx.         vb.         $ cnj.      prn.      prn.       pfx          vb.
+\lm darbas       kitas       ne_          pasakyti    $ o         anas      tas        ne_          daboti
+\PoS sm.          prn.        pfx.         vb.         $ cnj.      prn.      prn.       pfx.         vb.
 \gD Werk         andere(r/s) Neg.         sagen       $ und,_aber jene(r/s) diese(r/s) Neg.         merken,_achtgeben
 
 \ref BP_II_367.04
@@ -520,9 +520,9 @@
 
 \ref BP_II_367.14
 \tx negalincʒem                       kalbeti  nei                   girdeti  . Bet           nu     kaip ſchis
-\std ne            galinčiam           kalbėti nei                   girdėti $ bet           nū    kaip šis
+\std ne_           galinčiam           kalbėti nei                   girdėti $ bet           nū    kaip šis
 \mrph -             prc.prs.act._d.sg.m. inf.     -                     inf.     $ -             -      -    n.sg.m.
-\lm ne            galėti              kalbėti nei                   girdėti $ bet           nu=nū kaip šis
+\lm ne_           galėti              kalbėti nei                   girdėti $ bet           nu=nū kaip šis
 \PoS pfx.          vb.                  vb.      cnj.                  vb.      $ cnj.          adv.        prn.
 \gD Neg.          können              sprechen und_nicht,_weder_noch hören   $ aber,_sondern jetzt       diese(r/s)
 
@@ -710,9 +710,9 @@
 
 \ref BP_II_368.11
 \tx to         nebutu         dare                      / tada     anis      nei                   butu   paſene                   / nei                   liggas
-\std to         ne      būtų darę                     $ tada     anys      nei                   būtų pasenę                   $ nei                   ligas
+\std to         ne_     būtų darę                     $ tada     anys      nei                   būtų pasenę                   $ nei                   ligas
 \mrph g.sg.m.    -       3.cnd. prc.prt.act._n.pl.m.+PERF $ -        n.pl.m.   -                     3.cnd. prc.prt.act._n.pl.m.+PERF $ -                     a.pl.
-\lm tas        ne      būti  daryti                    $ tada     anas      nei                   būti  pasenti                   $ nei                   liga
+\lm tas        ne_     būti  daryti                    $ tada     anas      nei                   būti  pasenti                   $ nei                   liga
 \PoS prn.       pfx.    v.aux  vb.                       $ adv.     prn.      cnj.                  v.aux  vb.                       $ $ cnj.                sf.
 \gD diese(r/s) Neg.    sein   tun,_machen               $ da,_dann jene(r/s) und_nicht,_weder_noch sein   alt_werden                $ und_nicht,_weder_noch Krankheit
 
@@ -1149,12 +1149,12 @@
 \gD Gott   sprechen Satan     $ [Fragepart.] aufmerksam_sein Diener mein
 
 \ref BP_II_369.25
-\tx Iobo    / neſa iam     nera          ligaus  ant  ßemes  / praſtas
-\std Jobo    $ nes   jam     nėra         lygaus  ant  žemės $ prastas
-\mrph g.sg.   $ -     d.sg.m. 3.prs. 3.prs. g.sg.m. +g.  g.sg.   $ n.sg.m.
-\lm Jobas   $ nes   jis     ne     būti  lygus   ant  žemė  $ prastas
-\PoS sm.npr. $ cnj.  prn.    pfx.   vb.    adj.    prp. sf.     $ adj.
-\gD Hiob    $ denn  er      Neg.   sein   gleich  auf          $ einfach
+\tx Iobo    / neſa iam     nera           ligaus  ant  ßemes  / praſtas
+\std Jobo    $ nes   jam     nėra          lygaus  ant  žemės $ prastas
+\mrph g.sg.   $ -     d.sg.m. 3.prs.         g.sg.m. +g.  g.sg.   $ n.sg.m.
+\lm Jobas   $ nes   jis     būti   būti  lygus   ant  žemė  $ prastas
+\PoS sm.npr. $ cnj.  prn.    pfx.    vb.    adj.    prp. sf.     $ adj.
+\gD Hiob    $ denn  er      sein    sein   gleich  auf          $ einfach
 
 \ref BP_II_370.01
 \tx ir        teiſus / Diewo
@@ -1216,10 +1216,10 @@
 
 \ref BP_II_370.06
 \tx tawa / ir        ſiek     kaulu   bei  kuno    io      / bau          nekeiks             tawe /
-\std tavo $ ir        siek      kaulų  bei  kūno   jo      $ bau          ne       keiks      tave $
+\std tavo $ ir        siek      kaulų  bei  kūno   jo      $ bau          ne_      keiks      tave $
 \mrph -    $ -         2.sg.imp. g.pl.   -    g.sg.   g.sg.m. $ -            -        3.ft.      a.   $
-\lm tavo $ ir        siekti    kaulas  bei  kūnas  jis     $ bau          ne       keikti     tu   $
-\PoS prn. $ cnj.      vb.       sm.     cnj. sm.     prn.    $ part.        pfx      vb.        prn. $
+\lm tavo $ ir        siekti    kaulas  bei  kūnas  jis     $ bau          ne_      keikti     tu   $
+\PoS prn. $ cnj.      vb.       sm.     cnj. sm.     prn.    $ part.        pfx.     vb.        prn. $
 \gD dein $ und,_auch erreichen Knochen und  Körper er      $ [Fragepart.] Neg.     verfluchen du   $
 
 \ref BP_II_370.07
@@ -1276,10 +1276,10 @@
 
 \ref BP_II_370.12
 \tx wadinnancʒio        / nenor          klauſiti / tada     Diewas ghi
-\std vadinančio          $ ne     nori    klausyti  $ tada     dievas jį
+\std vadinančio          $ ne_    nori    klausyti  $ tada     dievas jį
 \mrph prc.prs.act._g.sg.m. $ -      3.prs.  inf.      $ -        n.sg.  a.sg.m.
-\lm vadinti              $ ne     norėti klausyti  $ tada     dievas jis
-\PoS vb.                  $ $ pfx  vb.     vb.       $ adv.     sm.    prn.
+\lm vadinti              $ ne_    norėti klausyti  $ tada     dievas jis
+\PoS vb.                  $ pfx.   vb.     vb.       $ adv.     sm.    prn.
 \gD einladen             $ Neg.   wollen  zuhören  $ da,_dann Gott   er
 
 \ref BP_II_370.13
@@ -1322,9 +1322,9 @@
 \PoS vb.         $ part.
 \gD arbeiten    $ [Fragepart.]
 \tx neßinnat            iog  Diewo
-\std ne         žinote   jog  dievo
+\std ne_        žinote   jog  dievo
 \mrph -          2.pl.prs. -    g.sg.
-\lm ne         žinoti   jog  dievas
+\lm ne_        žinoti   jog  dievas
 \PoS pfx.       vb.       cnj. sm.
 \gD Neg.       wissen    dass Gott
 \tx Baßni=|cʒe
@@ -1378,9 +1378,9 @@
 
 \ref BP_II_370.21
 \tx Er           neßinot            / iog
-\std ar           ne        žinote   $ jog
+\std ar           ne_       žinote   $ jog
 \mrph -            -         2.pl.prs. $ -
-\lm ar           ne        žinoti   $ jog
+\lm ar           ne_       žinoti   $ jog
 \PoS part.        pfx.      vb.       $ cnj.
 \gD [Fragepart.] Neg.      wissen    $ dass
 \tx kunas   iuſu  Baßnicʒe
@@ -1676,8 +1676,8 @@
 
 \ref BP_II_371.24
 \tx wieno   KRIſtaus pagalbos tikokem   Netekinekem              
-\std vieno   Kristaus  pagalbos tykokime  ne            tekinėkime
+\std vieno   Kristaus  pagalbos tykokime  ne_           tekinėkime
 \mrph g.sg.m. g.sg.     g.sg.    1.pl.imp. -             1.pl.imp.
-\lm vienas  Kristus   pagalba  tykoti    ne            tekinėti
-\PoS adj.    sm.npr.   sf.      vb.       pfx           vb.
+\lm vienas  Kristus   pagalba  tykoti    ne_           tekinėti
+\PoS adj.    sm.npr.   sf.      vb.       pfx.          vb.
 \gD allein  Christus  Hilfe    begehren  Neg.          umherlaufen

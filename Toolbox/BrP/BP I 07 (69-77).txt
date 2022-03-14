@@ -112,9 +112,9 @@
 
 \ref BP_I_069.22
 \tx Iog  io      ußgimimas neturreia            puikus    / bet           pra=|ſtas
-\std jog  jo      užgimimas ne         turėjo   puikus    $ bet           prastas
+\std jog  jo      užgimimas ne_        turėjo   puikus    $ bet           prastas
 \mrph -    g.sg.m. n.sg.      -          3.prt.    n.sg.m.   $ -             n.sg.m.
-\lm jog  jis     užgimimas ne         turėti   puikus    $ bet           prastas
+\lm jog  jis     užgimimas ne_        turėti   puikus    $ bet           prastas
 \PoS cnj. prn.    sm.        pfx.       vb.       adj.      $ cnj.          adj.
 \gD dass er      Geburt     Neg.       müssen   prächtig $ aber,_sondern einfach
 
@@ -200,9 +200,9 @@
 
 \ref BP_I_070.07
 \tx gereſnes   wietos      padwarioie  netureia           .
-\std geresnės   vietos      padvarijoje ne        turėjo  $
+\std geresnės   vietos      padvarijoje ne_       turėjo  $
 \mrph g.sg.f.cmp. g.sg.       l.sg.       -         3.prt.   $
-\lm geras       vieta       padvarija   ne        turėti  $
+\lm geras       vieta       padvarija   ne_       turėti  $
 \PoS adj.        sf.         sf.         pfx.      vb.      $
 \gD gut         Ort,_Stelle Herberge    Neg.      haben    $
 
@@ -458,9 +458,9 @@
 
 \ref BP_I_071.12
 \tx Kriſtus macnuſis   Ponas iſch Dangaus nelei=|doſi               /
-\std Kristus  macnusis    ponas iš   dangaus ne            leidosi      $
+\std Kristus  macnusis    ponas iš   dangaus ne_           leidosi      $
 \mrph n.sg.    n.sg.m.def. n.sg. +g.   g.sg.   -             3.prt.       $
-\lm Kristus  macnus      ponas iš   dangus  ne            leistis      $
+\lm Kristus  macnus      ponas iš   dangus  ne_           leistis      $
 \PoS sm.npr.  adj.        sm.   prp.  sm.     pfx.          vb.          $
 \gD Christus mächtig    Herr  aus   Himmel  Neg.          sich_lassen  $
 
@@ -606,9 +606,9 @@
 \PoS cnj.  prn.            prn.       prn.        prp.        prn.    vb.     $
 \gD damit jede(r/s),_alle diese(r/s) welche(r/s) in_-_hinein er      glauben $
 \tx nepraßutu             / bet           turetu
-\std ne          pražūtų $ bet           turėtų
+\std ne_         pražūtų $ bet           turėtų
 \mrph -           3.cnd.     $ -             3.cnd.
-\lm ne          pražūti  $ bet           turėti
+\lm ne_         pražūti  $ bet           turėti
 \PoS pfx.        vb.        $ cnj.          vb.
 \gD Neg.        umkommen   $ aber,_sondern haben
 
@@ -1064,9 +1064,9 @@
 
 \ref BP_I_073.25
 \tx Kriſtaus / neſa niewiens      kits        ſutwerims  negaleia           ru=|ſtibe
-\std Kristaus  $ nes   nė_vienas    kitas       sutvėrimas ne        galėjo  rūstybę
+\std Kristaus  $ nes   nė_vienas    kitas       sutvėrimas ne_       galėjo  rūstybę
 \mrph g.sg.     $ -     n.sg.m.       n.sg.m.     n.sg.       -         3.prt.   a.sg.
-\lm Kristus   $ nes   nė_vienas    kitas       sutvėrimas ne        galėti  rūstybė
+\lm Kristus   $ nes   nė_vienas    kitas       sutvėrimas ne_       galėti  rūstybė
 \PoS sm.npr.   $ cnj.  prn.+SNeg.    prn.        sm.         pfx.      vb.      sf.
 \gD Christus  $ denn  niemand,_kein andere(r/s) Schöpfung  Neg.      können  Zorn
 
@@ -1476,9 +1476,9 @@
 
 \ref BP_I_075.10
 \tx netur          ßmogaus        apgaleti    / tiktai kada      iei     tatai     Diewas
-\std ne     turi    žmogaus        apgalėti   $ tiktai kada      jai     tatai     dievas
+\std ne_    turi    žmogaus        apgalėti   $ tiktai kada      jai     tatai     dievas
 \mrph -      3.prs.  g.sg.           inf.        $ -      -         d.sg.f. -         n.sg.
-\lm ne     turėti žmogus         apgalėti   $ tiktai kada      jis     tatai     dievas
+\lm ne_    turėti žmogus         apgalėti   $ tiktai kada      jis     tatai     dievas
 \PoS pfx.   vb.     sm._pl._sm./sf. vb.         $ adv.   cnj.      prn.    prn.      sm.
 \gD Neg.   müssen Mensch          überwinden $ nur    wenn,_als er      dies,_das Gott
 
@@ -1778,9 +1778,9 @@
 
 \ref BP_I_076.14
 \tx koki        ßinoti / kur  eſſanti            / o         neßinnotu             ta              kaipo iſchgauti     .
-\std kokį       žinoti $ kur  esantį              $ o         ne          žinotų   to-tą          kaipo išgauti       $
+\std kokį       žinoti $ kur  esantį              $ o         ne_         žinotų   to-tą          kaipo išgauti       $
 \mrph a.sg.m.     inf.    $ -    prc.prs.act._a.sg.m. $ -         -           3.cnd.     g.sg.m./a.sg.m. -     inf.           $
-\lm koks        žinoti $ kur  būti                $ o         ne          žinoti    tas             kaipo išgauti       $
+\lm koks        žinoti $ kur  būti                $ o         ne_         žinoti    tas             kaipo išgauti       $
 \PoS prn.        vb.     $ adv. vb.                  $ cnj.      pfx.        vb.        prn.            adv.  vb.            $
 \gD welche(r/s) wissen  $ wo   sein                 $ und,_aber Neg.        wissen     diese(r/s)      wie   herausbekommen $
 
@@ -1794,9 +1794,9 @@
 
 \ref BP_I_076.16
 \tx Sunaus  / nepirkamas             
-\std sūnaus $ ne           pirkamos
+\std sūnaus $ ne_          pirkamos
 \mrph g.sg.   $ -            prc.prs.pss._n.pl.f.+PSS
-\lm sūnus  $ ne           pirkti
+\lm sūnus  $ ne_          pirkti
 \PoS sm.     $ pfx.         vb.
 \gD Sohn    $ Neg.         kaufen
 \tx ira    aukſu / ſidabru
@@ -1924,9 +1924,9 @@
 
 \ref BP_I_077.06
 \tx wiſſi         kurie       ing         ghi     tik     / neprapultu             bet           amßina  ßiwata
-\std visi            kurie       ing         jį     tiki    $ ne          prapultų  bet           amžiną žyvatą
+\std visi            kurie       ing         jį     tiki    $ ne_         prapultų  bet           amžiną žyvatą
 \mrph n.pl.m.         n.pl.m.     +a.         a.sg.m. 3.prs.  $ -           3.cnd.     -             a.sg.m.  a.sg.
-\lm visas           kuris       ing         jis     tikėti $ ne          prapulti   bet           amžinas žyvatas
+\lm visas           kuris       ing         jis     tikėti $ ne_         prapulti   bet           amžinas žyvatas
 \PoS prn.            prn.        prp.        prn.    vb.     $ pfx.        vb.        cnj.          adj.     sm.
 \gD jede(r/s),_alle welche(r/s) in_-_hinein er      glauben $ Neg.        vergehen   aber,_sondern ewig     Leben
 

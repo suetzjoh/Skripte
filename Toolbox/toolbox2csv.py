@@ -273,8 +273,6 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 						
 						following_words = decode_words(next_marker, table, prefix, xx_, xx+1) if cond1 else decode_words(next_marker, table, prefix, xx_)
 						
-						#print(following_words)
-						
 						if following_words == None:
 							break
 							#Es wird nur None zurückgegeben, wenn bei der Alinierung ein Leerzeichen nicht über einem anderen Leerzeichen steht. Das deutet auf eine Spannenannotation in der folgenden Zeile, daher wird die for-Schleife gebrochen und die Zählung xx_ = xx+1 nicht ausgelöst, es wird also bis zum nächsten Leerzeichen gesucht
@@ -290,11 +288,18 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 						for word in following_words:
 							zeilen.append(word)
 						
-					else:
-						#das Array muss symmetrisch sein, damit es rotiert werden kann
+					else: #folgendes wird nicht aufgeführt, wenn zuvor None zurückgegeben wurde
+						#das Array muss symmetrisch sein, damit es rotiert werden kann, das wird durch Verdopplung erreicht. Verdopplung heißt aber, dass eine Spannenannotation vorliegt, wodurch '@' vorgeschaltet werden muss
 						for zz in reversed(range(len(zeilen))):
 							if len(zeilen[zz-1]) < len(zeilen[zz]):
-								zeilen[zz-1].append(deepcopy(zeilen[zz-1])[-1]) #Python verweist auf Elemente stets mit Referenzen. Wenn hier keine Kopie eingesetzt wird, werden im Folgenden beim Merging der dictionaries alle Einträge gleich verändert
+								to_append = deepcopy(zeilen[zz-1])[-1]
+								
+								for key in zeilen[zz-1][-1]:
+									zeilen[zz-1][-1][key] = '@' + zeilen[zz-1][-1][key]
+									break #idR muss nur der erste Eintrag markiert werden
+								
+								zeilen[zz-1].append(to_append)
+								#Python verweist auf Elemente stets mit Referenzen. Wenn hier keine Kopie eingesetzt wird, werden im Folgenden beim Merging der dictionaries alle Einträge gleich verändert
 						
 						if zeilen == []:
 							if cond2: #wenn am Ende der Zeile immer noch keine Annotationen gefunden wurden, ist die gnaze Zeile leer und wird ohne Annotation in die Datenbank aufgenommen
@@ -304,11 +309,13 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 							
 						zeilen = [[zeilen[i][y] for i in range(len(zeilen))] for y in range(len(zeilen[0]))]
 						
+						
 						for zz in range(len(zeilen)):
 							zeile = zeilen[zz]
 							
-							if len(zeilen) > 1 and zz < len(zeilen) - 1: #mit einem @ am Anfang werden Spannenannotationen markiert, damit sie später wieder zusammengesetzt werden können, das letzte wird dabei ausgelassen um das Ende zu markieren (wichtig bei Zeilenumbrüchen)
+							if len(zeilen) > 1 and zz < len(zeilen) - 1: 
 								zeile.append({key : "@" + current_word[key] for key in current_word})
+								#mit einem @ am Anfang werden Spannenannotationen markiert, damit sie später wieder zusammengesetzt werden können, das letzte wird dabei ausgelassen um das Ende zu markieren (wichtig bei Zeilenumbrüchen)
 							else:
 								zeile.append(current_word)
 							
@@ -333,6 +340,8 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 		for spalte in spalten:
 			for word in spalte:
 				word.update(prefix)
+		
+		#input(spalten)
 		
 		return spalten if spalten != [] else []
 	
@@ -363,15 +372,20 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 					#wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
 					words.append(check_word_for_consistency(dict, marker))
 
-#gibt bei geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet			
+#gibt bei geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet
+spannenindex = {}		
 def check_word_for_consistency(word, marker):
+	global spannenindex
+	if not marker in spannenindex:
+		spannenindex.update({marker : 0})
+	
 	def strip_plus(string):
 		if string is not None:
 			return string.strip('@').strip() #doppeltes Strip wegen Spannenannotation
 		else:
 			return None
 		
-	#input(marker + " " + str(word))
+	#print(marker + " " + str(word[marker]) + " " + str(word))
 	for jump in markers[marker]["jumps"]:
 		jumpFrom = jump["mkr"]
 		jumpTo = jump["mkrTo"]
@@ -384,35 +398,50 @@ def check_word_for_consistency(word, marker):
 		database_annotations = [db_word[jumpOut].strip() for db_word in db_words_ if db_word[jumpOut] is not None]
 		database_annotations = [ann for gloss in database_annotations for ann in gloss.split(jump['GlossSeparator'])]
 		if "jumps" in markers[jumpTo]:
-			database_annotations = [ann for gloss in database_annotations for ann in gloss.split()]
+			database_annotations = [gloss.split() for gloss in database_annotations]
+		else:
+			database_annotations = [[gloss] for gloss in database_annotations]
+			
+			#database_annotations = [ann for gloss in database_annotations for ann in gloss.split()]
+			
 			#für alle Datenbankeinträge: in allen durch den GS abgetrennten Glossen: alle durch Leerzeichen getrennten Teilwörtern sind eligible für die Interlinearisierung auf der nächsten Zeile
 		
 		#print(database_annotations)
-		#print(jumpTo, jumpTo in word, word[jumpTo].strip('@').strip() in database_annotations)
+		#print(jumpTo, jumpTo in word, any(strip_plus(word[jumpTo]) in dba for dba in database_annotations))
 		
-		if not jumpTo in word:
-			#print("fix by update")
-			if len(database_annotations) == 1:
-				word.update({jumpTo : database_annotations[0]})
-				log.append({**{"fixed" : jumpTo}, **word})
+		if len(database_annotations) == 1:
+			if spannenindex[marker] >= len(database_annotations[0]):
+				from_database = database_annotations[0][-1]
+				log.append({**{"tofix" : "possible duplicate"}, **word})
+				print("possible duplicate: ", database_annotations[0], marker, spannenindex[marker], str(word))
+				
 			else:
+				from_database = database_annotations[0][spannenindex[marker]]
+				
+			if not jumpTo in word:
+				
+				word.update({jumpTo : from_database})
+				log.append({**{"fixed" : jumpTo}, **word})
+			elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
+				
+				word[jumpTo] = from_database
+				log.append({**{"fixed" : jumpTo}, **word})
+		else:
+			if not jumpTo in word:
 				log.append({**{"tofix" : jumpTo + "; " + str(database_annotations)}, **word})
 				return word
-				
-		elif not word[jumpTo].strip('@').strip() in database_annotations: #erstes Strip für Spannenannotation, zweites für Zeilenumbrüche
-			#print("fix by insertion")
-			#print(word[jumpTo], word[jumpTo].strip('@').strip())
-			#print(database_annotations)
-			#input("...")
-			
-			if len(database_annotations) == 1:
-				#print("fixed by insertion")
-				word[jumpTo] = database_annotations[0]
-				log.append({**{"fixed" : jumpTo}, **word})
-			else:
-				#print("to fix by insertion")
+			elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
 				log.append({**{"tofix" : jumpTo}, **word})
-			
+		
+		if len(word[marker]):
+			if word[marker][0] == '@':
+				spannenindex[marker] += 1
+			elif word[marker][0] != '@' and spannenindex[marker] != 0:
+				#print(spannenindex, word)
+				for marker in spannenindex:
+					spannenindex[marker] = 0
+		else:
+			print("what?", word)
 		
 		if "jumps" in markers[jumpTo]:
 			word = check_word_for_consistency(word, jumpTo)	
@@ -437,18 +466,6 @@ for text_file in text_files:
 		filename = os.path.basename(file_path)
 		filename = filename[:-4] if ".txt" in filename else filename
 		decode_toolbox_json(map, root_marker, { "fName" : filename})
-		
-		#for word in words:
-			#marker = list(word.keys())[-1]
-			#word = check_word_for_consistency(word, "tx") #wie finde ich den automatisch?
-			
-			
-		
-			#id = re.search("\\\\{} (.+?)\n".format(root_marker), id_text)
-			#if id:
-			#	id_text = id_text[id_text.find("\n")+1:]
-			#else:
-			#	continue
 			
 def list_to_toolbox(words, root_marker):
 	def repl(m):
@@ -484,7 +501,7 @@ def list_to_toolbox(words, root_marker):
 				new_value += b' ' * (target_length-len(new_value))
 				new_value = new_value.decode("UTF-8")
 				
-			elif len(new_block[key]) > 0 and new_block[key][0:1] == b'@': #Spannenannotation werden etwas umständlich im Text angelegt
+			elif len(new_block[key]) > 0 and new_block[key][0:1] == b'@':
 				new_value = b'@' * target_length
 				new_value = new_value.decode("UTF-8")
 				

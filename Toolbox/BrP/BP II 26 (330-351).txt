@@ -100,17 +100,17 @@
 
 \ref BP_II_331.06
 \tx ir   taweie akmens ant  akmenio ne=|paliks             /
-\std ir   tavyje akmens ant  akmens  ne          paliks     $
+\std ir   tavyje akmens ant  akmens  ne_         paliks     $
 \mrph -    l.     g.sg.  +g.  g.sg.   -           3.ft.      $
-\lm ir   tu     akmuo  ant  akmuo   ne          palikti    $
+\lm ir   tu     akmuo  ant  akmuo   ne_         palikti    $
 \PoS cnj. prn.   sm.    prp. sm.     pfx.        vb.        $
 \gD und  du     Stein  auf  Stein   Neg.        verlassen  $
 
 \ref BP_II_331.07
 \tx Todelei  / iog  tu   nepaßinai             cʒeſa        /
-\std todėlei $ jog  tu   ne          pažinai   čėso-čėsą $
+\std todėlei $ jog  tu   ne_         pažinai   čėso-čėsą $
 \mrph -        $ -    n.   -           2.sg.prs.  g.sg./a.sg.    $
-\lm todėlei $ jog  tu   ne          pažinti   čėsas        $
+\lm todėlei $ jog  tu   ne_         pažinti   čėsas        $
 \PoS adv.     $ cnj. prn. pfx.        vb.        sm.            $
 \gD deshalb  $ dass du   Neg.        (er)kennen Zeit           $
 
@@ -194,9 +194,9 @@
 
 \ref BP_II_331.17
 \tx Ir   nerada         / ka   iem     daritu      / Neſa wiſſas
-\std ir   ne      rado   $ ką  jam     darytų     $ nes   visos
+\std ir   ne_     rado   $ ką  jam     darytų     $ nes   visos
 \mrph -    -       3.prt. $ a.   d.sg.m. 3.cnd.      $ -     n.pl.f.
-\lm ir   ne      rasti  $ kas  jis     daryti      $ nes   visas
+\lm ir   ne_     rasti  $ kas  jis     daryti      $ nes   visas
 \PoS cnj. pfx.    vb.    $ prn. prn.    vb.         $ cnj.  prn.
 \gD und  Neg.    finden $ was  er      tun,_machen $ denn  jede(r/s),_alle
 
@@ -398,9 +398,9 @@
 
 \ref BP_II_332.23
 \tx nepradrinſa                  / neſa didis   ſwietas praſtuiu   ßmoniu        pa=|ſkui
-\std ne            padrįso        $ nes   didis   svietas  prastųjų  žmonių       paskui
+\std ne_           padrįso        $ nes   didis   svietas  prastųjų  žmonių       paskui
 \mrph -             3.prt.          $ -     n.sg.m. n.sg.    g.pl.m.def. g.pl.          +g.
-\lm ne            padrįsti       $ nes   didis   svietas  prastas     žmogus        paskui
+\lm ne_           padrįsti       $ nes   didis   svietas  prastas     žmogus        paskui
 \PoS pfx.          vb.             $ cnj.  adj.    sm.      adj.        sm._pl._sm./sf
 \gD Neg.          sich_erdreisten $ denn  groß   Welt     einfach     Mensch
 
@@ -758,9 +758,9 @@
 
 \ref BP_II_334.21
 \tx nepaliks            akmens ant  akmenio . Schitai
-\std ne        paliks    akmens ant  akmens  $ šitai
+\std ne_       paliks    akmens ant  akmens  $ šitai
 \mrph -         3.ft.     g.sg.  +g.  g.sg.   $ -
-\lm ne        palikti   akmuo  ant  akmuo   $ šitai
+\lm ne_       palikti   akmuo  ant  akmuo   $ šitai
 \PoS pfx.      vb.       sm.    prp. sm.     $ part.
 \gD Neg.      verlassen Stein  auf  Stein   $ siehe
 
@@ -966,10 +966,10 @@
 
 \ref BP_II_335.23
 \tx ir        gerai ſaw        atminkime     Diewa  neſſimek=|ſtanti                      
-\std ir        gerai sau         atminkime     dievą ne                    mėgstantįs
+\std ir        gerai sau         atminkime     dievą ne_                   mėgstantįs
 \mrph -         adv.  d.          1.pl.imp.     a.sg.  -                     prc.prs.act._a.sg.m.
-\lm ir        geras savęs      atminti       dievas ne                    mėgtis
-\PoS cnj.      adj.  prn.        vb.           sm.    pfx                   vb.
+\lm ir        geras savęs      atminti       dievas ne_                   mėgtis
+\PoS cnj.      adj.  prn.        vb.           sm.    pfx.                  vb.
 \gD und,_auch gut   [refl.prn.] sich_erinnern Gott   Neg.                  lieben,_woran_Gefallen_finden
 
 \ref BP_II_335.24
@@ -1212,9 +1212,9 @@
 
 \ref BP_II_337.04
 \tx Item    / Tikrai      dienoſu nerauguſios                       důnos / aſch=|ma
-\std item    $ tikrai      dienose  ne            raugusios            duonos $ ašmą
+\std item    $ tikrai      dienose  ne_           raugusios            duonos $ ašmą
 \mrph -       $ adv.        l.pl.    -             prc.prt.act._g.sg.f. g.sg.  $ a.sg.f.
-\lm lt:item $ tikras      diena    ne            raugti               duona  $ ašmas
+\lm lt:item $ tikras      diena    ne_           raugti               duona  $ ašmas
 \PoS -       $ adj.        sf.      pfx.          vb.                  sf.    $ o.
 \gD item    $ wahr,_recht Tag      Neg.          säuern,_beizen      Brot   $ achte(r/s)
 
@@ -1474,10 +1474,10 @@
 
 \ref BP_II_338.08
 \tx negero   ßenklo  ant  Mieſto / peikdami      / tacʒiau ghis    ne=|lioweſi               .
-\std negero   ženklo  ant  miesto  $ peikdami      $ tačiau  jis     ne            liovėsi     $
+\std negero   ženklo  ant  miesto  $ peikdami      $ tačiau  jis     ne_           liovėsi     $
 \mrph g.sg.m.  g.sg.    +g.  g.sg.   $ prc.cn._pl.m. $ -        n.sg.m. -             3.prt.       $
-\lm negeras  ženklas ant  miestas $ peikti        $ tačiau  jis     ne            liautis      $
-\PoS adj.     sm.      prp. sm.     $ vb.           $ adv.     prn.    pfx           vb.          $
+\lm negeras  ženklas ant  miestas $ peikti        $ tačiau  jis     ne_           liautis      $
+\PoS adj.     sm.      prp. sm.     $ vb.           $ adv.     prn.    pfx.          vb.          $
 \gD schlecht Zeichen  auf  Stadt   $ verfluchen    $ jedoch   er      Neg.          aufhören    $
 
 \ref BP_II_338.09
@@ -1498,9 +1498,9 @@
 
 \ref BP_II_338.11
 \tx ßodʒiu ſuſſimilimo nepraſche             / nei                   aſchara kokie       ne
-\std žodžiu susimilimo     ne          prašė    $ nei                   ašarą  kokie       ne
+\std žodžiu susimilimo     ne_         prašė    $ nei                   ašarą  kokie       ne
 \mrph i.sg.    g.sg.          -           3.prt.     $ -                     a.sg.    n.pl.m.     -
-\lm žodis   susimilimas    ne          prašyti   $ nei                   ašara   koks        ne
+\lm žodis   susimilimas    ne_         prašyti   $ nei                   ašara   koks        ne
 \PoS sm.      sm.            pfx.        vb.        $ $ cnj+SNeg.           sf.      prn.        pfx.
 \gD Wort     Erbarmen       Neg.        bitten     $ und_nicht,_weder_noch Träne   welche(r/s) Neg.
 
@@ -1584,19 +1584,19 @@
 
 \ref BP_II_338.21
 \tx pirm   nekalbedawa              ) prideia     / Beda  ir man  pacʒiam /
-\std pirm   ne           kalbėdavo  $ pridėjo    $ bėda ir man  pačiam  $
+\std pirm   ne_          kalbėdavo  $ pridėjo    $ bėda ir man  pačiam  $
 \mrph -      -            3.prt.frq.  $ 3.prt.      $ n.sg. -  d.   d.sg.m.  $
-\lm pirm   ne           kalbėti    $ pridėti    $ bėda ir aš  pats     $
+\lm pirm   ne_          kalbėti    $ pridėti    $ bėda ir aš  pats     $
 \PoS adv.   pfx.         vb.         $ vb.         $ sf.      prn. prn.     $
 \gD vorher Neg.         sprechen    $ hinzufügen $ Not      ich  selbst   $
 
 \ref BP_II_338.22
 \tx Ir        iam     ſchita    ßodi  bekalbant                / tapa   ghis    neprieteliu
-\std ir        jam     šitą     žodį be-        kalbant       $ tapo   jis     neprietelių
+\std ir        jam     šitą     žodį be_        kalbant       $ tapo   jis     neprietelių
 \mrph -         d.sg.m. a.sg.m.    a.sg.  -          prc.indc.prs. $ 3.prt. n.sg.m. g.pl.
-\lm ir        jis     šitas     žodis be-        kalbėti      $ tapti  jis     neprietelis-neprietelius
-\PoS cnj.      prn.    prn.       sm.    pfx.-      vb.           $ $  vb. prn.    sm.
-\gD und,_auch er      diese(r/s) Wort   []-        sprechen      $ werden er      Feind
+\lm ir        jis     šitas     žodis be_        kalbėti      $ tapti  jis     neprietelis-neprietelius
+\PoS cnj.      prn.    prn.       sm.    pfx.       vb.           $ $  vb. prn.    sm.
+\gD und,_auch er      diese(r/s) Wort   []         sprechen      $ werden er      Feind
 
 \ref BP_II_338.23
 \tx perſchauditas           ir        nußawintas              . Schitie
@@ -2242,9 +2242,9 @@
 \PoS adv. sf.npr.       vb.                  $ adv.  vb.        sm.
 \gD nah  Jerusalem     herbeireiten         $ kaum  entfliehen Jude
 \tx ne=|ſugautas                       .
-\std ne             sugautas             $
+\std ne_            sugautas             $
 \mrph -              prc.prt.pss._n.sg.m. $
-\lm ne             sugauti              $
+\lm ne_            sugauti              $
 \PoS pfx.           vb.                  $
 \gD Neg.           fangen               $
 
@@ -2414,9 +2414,9 @@
 
 \ref BP_II_342.17
 \tx negaleia           .
-\std ne        galėjo  $
+\std ne_       galėjo  $
 \mrph -         3.prt.   $
-\lm ne        galėti  $
+\lm ne_       galėti  $
 \PoS pfx.      vb.      $
 \gD Neg.      können  $
 
@@ -2438,11 +2438,11 @@
 
 \ref BP_II_342.20
 \tx kolei   ßmones  kruwoi   beſilaike                 / Idant anis      badu
-\std kolei   žmonės krūvoje be-         laikėsi       $ idant anys      badu
+\std kolei   žmonės krūvoje be_         laikėsi       $ idant anys      badu
 \mrph -       n.pl.    l.sg.    -           3.prt.         $ -     n.pl.m.   i.sg.
-\lm kolei   žmogus  krūva   be-         laikytis       $ idant anas      badas
-\PoS cnj.    sm.      sf.      Präf.-     vb.            $ cnj.  prn.      sm.
-\gD solange Mensch   Haufen   []-         sich_aufhalten $ damit jene(r/s) Hunger
+\lm kolei   žmogus  krūva   be_         laikytis       $ idant anas      badas
+\PoS cnj.    sm.      sf.      pfx.        vb.            $ cnj.  prn.      sm.
+\gD solange Mensch   Haufen   []          sich_aufhalten $ damit jene(r/s) Hunger
 
 \ref BP_II_342.21
 \tx iů daugiaus ir pikcʒiaus mucʒiti butu / bei ßidai tatai
@@ -2462,25 +2462,25 @@
 
 \ref BP_II_342.23
 \tx Bet           nůdemais  negaleia           / anis      newienos      palai=|mos
-\std bet           nuodėmais ne        galėjo  $ anys      nė_vienos    palaimos
+\std bet           nuodėmais ne_       galėjo  $ anys      nė_vienos    palaimos
 \mrph -             -          -         3.prt.   $ n.pl.m.   g.sg.f.       g.sg.
-\lm bet           nuodėmais ne        galėti  $ anas      nė_vienas    palaima
+\lm bet           nuodėmais ne_       galėti  $ anas      nė_vienas    palaima
 \PoS cnj.          adv.       pfx.      vb.      $ prn.      prn.+SNeg.    sf.
 \gD aber,_sondern gänzlich  Neg.      können  $ jene(r/s) niemand,_kein Glück
 
 \ref BP_II_342.24
 \tx nebetureia                         / Diewas noreia  iůs    nůdemais  iſch=|puſtiti          /
-\std ne          be-         turėjo    $ dievas norėjo juos    nuodėmais išpūstyti              $
+\std ne_         be_         turėjo    $ dievas norėjo juos    nuodėmais išpūstyti              $
 \mrph -           -           3.prt.     $ n.sg.  3.prt.  a.pl.m. -          prc.prt.pss._n.pl.m.+PSS $
-\lm ne          be-         turėti    $ dievas norėti jis     nuodėmais išpūstyti              $
-\PoS pfx.        pfx.-       vb.        $ sm.    vb.     prn.    adv.       vb.                      $
-\gD Neg.        []-         haben      $ Gott   wollen  er      gänzlich  zerstören               $
+\lm ne_         be_         turėti    $ dievas norėti jis     nuodėmais išpūstyti              $
+\PoS pfx.        pfx.        vb.        $ sm.    vb.     prn.    adv.       vb.                      $
+\gD Neg.        []          haben      $ Gott   wollen  er      gänzlich  zerstören               $
 
 \ref BP_II_342.25
 \tx todelei  iemus   newiena              paroda  neſiſeke             / wiſſur
-\std todėlei jiems   nė_vieną-nė_vieno parodą ne          sekėsi    $ visur
+\std todėlei jiems   nė_vieną-nė_vieno parodą ne_         sekėsi    $ visur
 \mrph -        d.pl.m. a.sg./g.sg.          a.sg.   -           3.prt.     $ -
-\lm todėlei jis     nė_vienas           parodas ne          sektis     $ visur
+\lm todėlei jis     nė_vienas           parodas ne_         sektis     $ visur
 \PoS adv.     prn.    prn.+SNeg.           sm.     pfx.        vb.        $ adv.
 \gD deshalb  er      niemand,_kein        Rat     Neg.        gelingen   $ überall
 
@@ -2746,11 +2746,11 @@
 
 \ref BP_II_344.06
 \tx O         ßidai newienos      palaimos iau   nebetureia                         .
-\std o         žydai nė_vienos    palaimos jau   ne          be-         turėjo    $
+\std o         žydai nė_vienos    palaimos jau   ne_         be_         turėjo    $
 \mrph -         n.pl.  g.sg.f.       g.sg.    -     -           -           3.prt.     $
-\lm o         žydas nė_vienas    palaima  jau   ne          be-         turėti    $
-\PoS cnj.      sm.    prn.+SNeg.    sf.      adv.  pfx.        pfx.-       vb.        $
-\gD und,_aber Jude   niemand,_kein Glück   schon Neg.        []-         haben      $
+\lm o         žydas nė_vienas    palaima  jau   ne_         be_         turėti    $
+\PoS cnj.      sm.    prn.+SNeg.    sf.      adv.  pfx.        pfx.        vb.        $
+\gD und,_aber Jude   niemand,_kein Glück   schon Neg.        []          haben      $
 
 \ref BP_II_344.07
 \tx Ir kaip Rimlianis buwa ingi Pilli inſigawe / dawe
@@ -2810,11 +2810,11 @@
 
 \ref BP_II_344.14
 \tx buwa   iem     ateiuſi                  / Diewas teip padare   io      netureia           
-\std buvo   jam     atėjusi                  $ dievas taip padarė  jo      ne         turėjo
+\std buvo   jam     atėjusi                  $ dievas taip padarė  jo      ne_        turėjo
 \mrph 3.prt. d.sg.m. prc.prt.act._n.sg.f.+PERF $ n.sg.  -    3.prt.   g.sg.m. -          3.prt.
-\lm būti  jis     ateiti                    $ dievas taip padaryti jis     ne         turėti
-\PoS v.aux  prn.    vb.                       $ sm.    adv. vb.      prn.               vb.
-\gD sein   er      kommen                    $ Gott   so   tun      er
+\lm būti  jis     ateiti                    $ dievas taip padaryti jis     ne_        turėti
+\PoS v.aux  prn.    vb.                       $ sm.    adv. vb.      prn.    pfx.       vb.
+\gD sein   er      kommen                    $ Gott   so   tun      er      Neg.
 
 \ref BP_II_344.15
 \tx cʒediti / neſa kada Rimlionis iau   ſenei     ir        ſunkiei ka=|riawe
@@ -2834,9 +2834,9 @@
 
 \ref BP_II_344.17
 \tx nenoreia           / ſuprata  Salna ſawe       ta         wieta       kitaip nega=|lincʒe                
-\std ne        norėjo  $ suprato   zalna save        tą        vietą      kitaip ne              galinčią
+\std ne_       norėjo  $ suprato   zalna save        tą        vietą      kitaip ne_             galinčią
 \mrph -         3.prt.   $ 3.prt.    n.sg. a.          a.sg.f.    a.sg.       -      -               prc.prs.act._a.sg.f.
-\lm ne        norėti  $ suprasti  zalna savęs      tas        vieta       kitaip ne              galėti
+\lm ne_       norėti  $ suprasti  zalna savęs      tas        vieta       kitaip ne_             galėti
 \PoS pfx.      vb.      $ vb.       sf.   prn.        prn.       sf.         adv.   pfx.            vb.
 \gD Neg.      wollen   $ verstehen Heer  [refl.prn.] diese(r/s) Ort,_Stelle anders Neg.            können
 
@@ -2932,11 +2932,11 @@
 
 \ref BP_II_344.27
 \tx tad      ne          Plebonu  nebereik                       .
-\std tada     nė         plebonų ne        be-       reikia     $
+\std tada     nė         plebonų ne_       be_       reikia     $
 \mrph -        -           g.pl.    -         -         3.prs.     $
-\lm tada     nė         plebonas ne        be-       reikėti   $
-\PoS adv.     part.+SNeg. sm.      pfx.      pfx.-     vb.        $
-\gD da,_dann Neg.        Priester Neg.      []-       benötigen $
+\lm tada     nė         plebonas ne_       be_       reikėti   $
+\PoS adv.     part.+SNeg. sm.      pfx.      pfx.      vb.        $
+\gD da,_dann Neg.        Priester Neg.      []        benötigen $
 
 \ref BP_II_345.01
 \tx Sʒidai ſchitaipo warginami            / kacʒei / newienos
@@ -2948,17 +2948,17 @@
 
 \ref BP_II_345.02
 \tx pagalbos neßinoia            / ir        daug tukſtantis badu   ſugai=|ſcha /
-\std pagalbos ne         žinojo   $ ir        daug tūkstantys badu   sugaišo      $
+\std pagalbos ne_        žinojo   $ ir        daug tūkstantys badu   sugaišo      $
 \mrph g.sg.    -          3.prt.    $ -         -    n.pl.       i.sg.  3.prt.        $
-\lm pagalba  ne         žinoti   $ ir        daug tūkstantis badas  sugaišti     $
+\lm pagalba  ne_        žinoti   $ ir        daug tūkstantis badas  sugaišti     $
 \PoS sf.      pfx.       vb.       $ $ cnj.    adv.             sm.    vb.           $
 \gD Hilfe    Neg.       wissen    $ und,_auch viel             Hunger vergehen      $
 
 \ref BP_II_345.03
 \tx tacʒiau palaiks   nepaſſidawe                . Tů        cʒeſu kaip      Baß=|nicʒe
-\std tačiau  palaikas  ne             pasidavė     $ tuo        čėsu  kaip      bažnyčia
+\std tačiau  palaikas  ne_            pasidavė     $ tuo        čėsu  kaip      bažnyčia
 \mrph -        n.sg.     -              3.prt.        $ i.sg.m.    i.sg.   -         n.sg.
-\lm tačiau  palaikas  ne             pasiduoti     $ tas        čėsas kaip      bažnyčia
+\lm tačiau  palaikas  ne_            pasiduoti     $ tas        čėsas kaip      bažnyčia
 \PoS adv.     sm.       pfx.           vb.           $ prn.       sm.     cnj.      sf.
 \gD jedoch   Überrest Neg.           sich_ergeben  $ diese(r/s) Zeit    wenn,_als Kirche
 
@@ -3018,11 +3018,11 @@
 
 \ref BP_II_345.10
 \tx puſſe / Sʒalnierems iſtrowos       delei  beſidaußan=|tiemus                       
-\std pusę   $ žalnieriams istrovos        dėlei be-                    besidaužantiems
+\std pusę   $ žalnieriams istrovos        dėlei be_                    besidaužantiems
 \mrph a.sg.   $ d.pl.        Gen.Sg.         +g.    -                      prc.prs.act._d.pl.m.
-\lm pusė   $ žalnierius  istrova         dėlei be-                    daužytis
-\PoS sf.     $ sm.          sf.             prp.   Präf.-                vb.
-\gD Hälfte $ Soldat       Speise,_Nahrung wegen  []-                    umherziehen
+\lm pusė   $ žalnierius  istrova         dėlei be_                    daužytis
+\PoS sf.     $ sm.          sf.             prp.   pfx.                   vb.
+\gD Hälfte $ Soldat       Speise,_Nahrung wegen  []                     umherziehen
 
 \ref BP_II_345.11
 \tx pakiele  . Bet           ßelnierei  iſch to         baiſaus  darbo
@@ -3088,9 +3088,9 @@
 
 \ref BP_II_345.18
 \tx todel  anis      pakaiaus iau   negaleia           iſchpraſchiti / Ir
-\std todėl anys      pakajaus jau   ne        galėjo  išprašyti     $ ir
+\std todėl anys      pakajaus jau   ne_       galėjo  išprašyti     $ ir
 \mrph -      n.pl.m.   g.sg.    -     -         3.prt.   inf.            $ -
-\lm todėl anas      pakajus  jau   ne        galėti  išprašyti     $ ir
+\lm todėl anas      pakajus  jau   ne_       galėti  išprašyti     $ ir
 \PoS adv.   prn.      sm.      adv.  pfx.      vb.      vb.             $ $ cnj.
 \gD daher  jene(r/s) Friede   schon Neg.      können  erbitten        $ und,_auch
 
@@ -3150,11 +3150,11 @@
 
 \ref BP_II_345.25
 \tx prarijens                      / beieſchkanti                       / Tada     tatai     pro   wiſſa
-\std prarijęs                      $ be-            ieškantį           $ tada     tatai     pro   visą
+\std prarijęs                      $ be_            ieškantį           $ tada     tatai     pro   visą
 \mrph Part.Prät.Akt._Nom.Sg.m.+PERF $ -              prc.prs.act._a.sg.m. $ -        -         +a.   Akk.Sg.m.
-\lm praryti                        $ be-            ieškoti             $ tada     tatai     pro   visas
-\PoS vb.                            $ Präf.-        vb.                  $ adv.     prn.      prp.  prn.
-\gD verschlucken                   $ []-            suchen               $ da,_dann dies,_das durch jede(r/s),_alle
+\lm praryti                        $ be_            ieškoti             $ tada     tatai     pro   visas
+\PoS vb.                            $ pfx.           vb.                  $ adv.     prn.      prp.  prn.
+\gD verschlucken                   $ []             suchen               $ da,_dann dies,_das durch jede(r/s),_alle
 
 \ref BP_II_345.26
 \tx Abaſa ſkelbama                       buwa   / Sʒidai kurie       beg     ing         gůli         / tur
@@ -3198,10 +3198,10 @@
 
 \ref BP_II_346.05
 \tx ieib Titas   neuſakens                       ſugautuiu               nenumarinti              .
-\std jeib Titas   ne          užsakęs            sugautųjų              ne           numarinti   $
+\std jeib Titas   ne_         užsakęs            sugautųjų              ne_          numarinti   $
 \mrph -    n.sg.   -           prc.prt.act._n.sg.m. prc.prt.pss._g.pl.m.def. -            inf.        $
-\lm jeib Titas   ne          užsakyti            sugauti                  ne           numarinti   $
-\PoS cnj. sm.npr. pfx.        vb.                  vb.                      p            vb.         $
+\lm jeib Titas   ne_         užsakyti            sugauti                  ne_          numarinti   $
+\PoS cnj. sm.npr. pfx.        vb.                  vb.                      pfx.         vb.         $
 \gD dass Titus   Neg.        befehlen             fangen                   Neg.         töten      $
 
 \ref BP_II_346.06
@@ -3228,17 +3228,17 @@
 
 \ref BP_II_346.08
 \tx priſakita                tapa   / Idant ßmoniu  kurie       negaleia           gintiſ=|ſi /
-\std prisakyta                 tapo   $ idant žmonių kurie       ne        galėjo  gintis       $
+\std prisakyta                 tapo   $ idant žmonių kurie       ne_       galėjo  gintis       $
 \mrph prc.prt.pss._n.sg.nt.+PSS 3.prt. $ -     g.pl.    n.pl.m.     -         3.prt.   inf.         $
-\lm prisakyti                 tapti  $ idant žmogus  kuris       ne        galėti  gintis       $
-\PoS vb.                       v.aux  $ cnj.           prn.        pfx       vb.      vb.          $
+\lm prisakyti                 tapti  $ idant žmogus  kuris       ne_       galėti  gintis       $
+\PoS vb.                       v.aux  $ cnj.           prn.        pfx.      vb.      vb.          $
 \gD befehlen                  werden $ damit          welche(r/s) Neg.      können  sich_wehren  $
 
 \ref BP_II_346.09
 \tx Salna / negadintu            / Bei  ſchitaipo tapa   wiſſas        Ie=|ruſalem
-\std zalna $ ne         gadintų  $ bei  šitaip    tapo   visas           ext:Jerusalem
+\std zalna $ ne_        gadintų  $ bei  šitaip    tapo   visas           ext:Jerusalem
 \mrph n.sg. $ -          3.cnd.    $ -    -          3.prt. n.sg.m.         indc.
-\lm zalna $ ne         gadinti   $ bei  šitaip    tapti  visas           ext:Jerusalem
+\lm zalna $ ne_        gadinti   $ bei  šitaip    tapti  visas           ext:Jerusalem
 \PoS sf.   $ pfx.       vb.       $ cnj. adv.       v.aux  prn.            sm.npr.
 \gD Heer  $ Neg.       richten   $ und  so         werden jede(r/s),_alle Jerusalem
 
@@ -3641,9 +3641,9 @@
 
 \ref BP_II_348.09
 \tx akmeni  ant  akmenio . Todelei  iog  nepa=|ßinai               
-\std akmenį ant  akmens  $ todėlei jog  ne             pažinai
+\std akmenį ant  akmens  $ todėlei jog  ne_            pažinai
 \mrph a.sg.   +g.  g.sg.   $ -        -    -              2.sg.prs.
-\lm akmuo   ant  akmuo   $ todėlei jog  ne             pažinti
+\lm akmuo   ant  akmuo   $ todėlei jog  ne_            pažinti
 \PoS sm.     prp. sm.     $ adv.     cnj. pfx.           vb.
 \gD Stein   auf  Stein   $ deshalb  dass Neg.           (er)kennen
 
@@ -3737,26 +3737,26 @@
 
 \ref BP_II_348.21
 \tx Nepaßinnoti                 Cʒieſa atlankimo   Die=|wo /
-\std ne            pažinoti      čėsą  atlankymo   dievo   $
+\std ne_           pažinoti      čėsą  atlankymo   dievo   $
 \mrph -             inf.           a.sg.    g.sg.       g.sg.   $
-\lm ne            pažinoti      čėsas  atlankymas  dievas  $
+\lm ne_           pažinoti      čėsas  atlankymas  dievas  $
 \PoS pfx.          vb.            sm.      sm.         sm.     $
 \gD Neg.          kennen,_wissen Zeit     Heimsuchung Gott    $
 
 \ref BP_II_348.22
 \tx eſti  Pono  IEſaus Kriſtaus neprijmti            / ing         ghi
-\std yra    pono  Jėzaus Kristaus  ne         priimti   $ ing         jį
+\std yra    pono  Jėzaus Kristaus  ne_        priimti   $ ing         jį
 \mrph 3.prs. g.sg. g.sg.   g.sg.     -          inf.      $ +a.         a.sg.m.
-\lm būti  ponas Jėzus  Kristus   ne         priimti   $ ing         jis
-\PoS vb.    sm.   sm.npr. sm.npr.   pfx        vb.       $ prp.        prn.
+\lm būti  ponas Jėzus  Kristus   ne_        priimti   $ ing         jis
+\PoS vb.    sm.   sm.npr. sm.npr.   pfx.       vb.       $ prp.        prn.
 \gD sein   Herr  Jesus   Christus  Neg.       annehmen  $ in_-_hinein er
 
 \ref BP_II_349.01
 \tx netiketi           / io      ßodʒio neklauſiti              / bet           peikti     ir
-\std ne        tikėti  $ jo      žodžio ne           klausyti    $ bet           peikti     ir
+\std ne_       tikėti  $ jo      žodžio ne_          klausyti    $ bet           peikti     ir
 \mrph -         inf.     $ g.sg.m. g.sg.    -            inf.        $ -             inf.       -
-\lm ne        tikėti  $ jis     žodis   ne           klausyti    $ bet           peikti     ir
-\PoS pfx.      vb.      $ prn.    sm.      pfx          vb.         $ cnj.          vb.        cnj.
+\lm ne_       tikėti  $ jis     žodis   ne_          klausyti    $ bet           peikti     ir
+\PoS pfx.      vb.      $ prn.    sm.      pfx.         vb.         $ cnj.          vb.        cnj.
 \gD Neg.      glauben  $ er      Wort     Neg.         zuhören    $ aber,_sondern verfluchen und,_auch
 \tx paniekinti /
 \std paniekinti $
@@ -3767,10 +3767,10 @@
 
 \ref BP_II_349.02
 \tx kaip tatai     Sʒidai dare                      eſti  / Neſa anis      nenoreia           
-\std kaip tatai     žydai  darę                     yra    $ nes   anys      ne         norėjo
+\std kaip tatai     žydai  darę                     yra    $ nes   anys      ne_        norėjo
 \mrph -    -         n.pl.   prc.prt.act._n.pl.m.+PERF 3.prs. $ -     n.pl.m.   -          3.prt.
-\lm kaip tatai     žydas  daryti                    būti  $ nes   anas      ne         norėti
-\PoS cnj. prn.      sm.     vb.                       v.au   $ cnj.  prn.      pfx        vb.
+\lm kaip tatai     žydas  daryti                    būti  $ nes   anas      ne_        norėti
+\PoS cnj. prn.      sm.     vb.                       v.au   $ cnj.  prn.      pfx.       vb.
 \gD wie  dies,_das Jude    tun,_machen               sein   $ denn  jene(r/s) Neg.       wollen
 \tx tiketi
 \std tikėti
@@ -3789,18 +3789,18 @@
 
 \ref BP_II_349.04
 \tx nenoreia           tiketi  / ghi     iſch cʒiſtos Panos    Marios  be
-\std ne        norėjo  tikėti $ jį     iš   čystos   panos    Marijos be
+\std ne_       norėjo  tikėti $ jį     iš   čystos   panos    Marijos be
 \mrph -         3.prt.   inf.    $ a.sg.m. +g.   g.sg.     g.sg.    g.sg.   +g.
-\lm ne        norėti  tikėti $ jis     iš   čystas   pana     Marija  be
+\lm ne_       norėti  tikėti $ jis     iš   čystas   pana     Marija  be
 \PoS pfx.      vb.      vb.     $ prn.    prp.  adj.      sf.      sf.npr. prp.
 \gD Neg.      wollen   glauben $ er      aus   rein      Jungfrau Maria   ohne
 
 \ref BP_II_349.05
 \tx wiriſchkos ſeklos gimuſi              / Sʒidai nenoreia           tiketi  ſchi=|ta
-\std vyriškos   sėklos gimusį              $ žydai  ne        norėjo  tikėti šitą
+\std vyriškos   sėklos gimusį              $ žydai  ne_       norėjo  tikėti šitą
 \mrph g.sg.f.     g.sg.   prc.prt.act._a.sg.m. $ n.pl.   -         3.prt.   inf.    a.sg.m.
-\lm vyriškas   sėkla  gimti                $ žydas  ne        norėti  tikėti šitas
-\PoS sm.         sf.     vb.                  $ sm.     pfx       vb.      vb.     prn.
+\lm vyriškas   sėkla  gimti                $ žydas  ne_       norėti  tikėti šitas
+\PoS sm.         sf.     vb.                  $ sm.     pfx.      vb.      vb.     prn.
 \gD Mann        Samen   geboren_werden       $ Jude    Neg.      wollen   glauben diese(r/s)
 
 \ref BP_II_349.06
@@ -3827,9 +3827,9 @@
 
 \ref BP_II_349.08
 \tx io      nenoreia           prijmti  / Ir        wis   ka   Kriſtus tiktai dare        /
-\std jo      ne        norėjo  priimti  $ ir        vis   ką  Kristus  tiktai darė       $
+\std jo      ne_       norėjo  priimti  $ ir        vis   ką  Kristus  tiktai darė       $
 \mrph g.sg.m. -         3.prt.   inf.     $ -         indc. a.   n.sg.    -      3.prt.      $
-\lm jis     ne        norėti  priimti  $ ir        vis   kas  Kristus  tiktai daryti      $
+\lm jis     ne_       norėti  priimti  $ ir        vis   kas  Kristus  tiktai daryti      $
 \PoS prn.    pfx.      vb.      vb.      $ $ cnj.    ad    prn. sm.npr.  adv.   vb.         $
 \gD er      Neg.      wollen   annehmen $ und,_auch alles      Christus nur    tun,_machen $
 
@@ -3859,9 +3859,9 @@
 
 \ref BP_II_349.12
 \tx ir        amßino  prapůlimo  wiſſu         netikincʒuiu                           Sʒi=|du /
-\std ir        amžino  prapuolimo  visų           ne             tikinčiųjų            žydų   $
+\std ir        amžino  prapuolimo  visų           ne_            tikinčiųjų            žydų   $
 \mrph -         g.sg.m.  g.sg.       g.pl.m.         -              prc.prs.act._g.pl.m.def. g.pl.    $
-\lm ir        amžinas prapuolimas visas           ne             tikėti                  žydas   $
+\lm ir        amžinas prapuolimas visas           ne_            tikėti                  žydas   $
 \PoS cnj.      adj.     sm.         prn.            pfx.           vb.                      sm.      $
 \gD und,_auch ewig     Niedergang  jede(r/s),_alle Neg.           glauben                  Jude     $
 
@@ -3875,9 +3875,9 @@
 
 \ref BP_II_349.14
 \tx pamokſlo Schwentos Euangelios  neprieme           / Nei
-\std pamokslo  šventos  evangelijos ne        priėmė $ nei
+\std pamokslo  šventos  evangelijos ne_       priėmė $ nei
 \mrph g.sg.     g.sg.f.   g.sg.       -         3.prt.   $ -
-\lm pamokslas šventas  evangelija  ne        priimti  $ nei
+\lm pamokslas šventas  evangelija  ne_       priimti  $ nei
 \PoS sm.       adj.      sf.         pfx.      vb.      $ $ cnj.
 \gD Predigt   heilig    Evangelium  Neg.      annehmen $ und_nicht,_weder_noch
 \tx ti=|keia
@@ -3989,10 +3989,10 @@
 
 \ref BP_II_349.26
 \tx wiſſa         ſwieta tur     daußitiſi / niekur    tikros      wietos      netu=|redami                /
-\std visą           svietą turi    daužytis   $ niekur    tikros      vietos      ne            turėdami     $
+\std visą           svietą turi    daužytis   $ niekur    tikros      vietos      ne_           turėdami     $
 \mrph a.sg.m.         a.sg.   3.prs.  inf.        $ -         g.sg.f      g.sg.       -             prc.cn._pl.m. $
-\lm visas           svietas turėti daužytis   $ niekur    tikras      vieta       ne            turėti       $
-\PoS prn.            sm.     vb.     vb.         $ $ adv.+SN adj.        sf.         p             vb.           $
+\lm visas           svietas turėti daužytis   $ niekur    tikras      vieta       ne_           turėti       $
+\PoS prn.            sm.     vb.     vb.         $ $ adv.+SN adj.        sf.         pfx.          vb.           $
 \gD jede(r/s),_alle Welt    müssen umherziehen $ nirgendwo wahr,_recht Ort,_Stelle Neg.                        $
 
 \ref BP_II_350.01
@@ -4005,9 +4005,9 @@
 
 \ref BP_II_350.02
 \tx Kriſtu  neprijmdami                / thie       ant  galo  tures   ſu  kunu
-\std Kristų  ne           priimdami     $ tie        ant  galo  turės  su   kūnu
+\std Kristų  ne_          priimdami     $ tie        ant  galo  turės  su   kūnu
 \mrph a.sg.    -            prc.cn._pl.m. $ n.pl.m.    +g.  g.sg. 3.ft.   +i.  i.sg.
-\lm Kristus  ne           priimti       $ tas        ant  galas turėti su   kūnas
+\lm Kristus  ne_          priimti       $ tas        ant  galas turėti su   kūnas
 \PoS sm.npr.  pfx.         vb.           $ prn.       prp. sm.   vb.     prp. sm.
 \gD Christus Neg.         annehmen      $ diese(r/s) auf  Ende  müssen mit  Körper
 
@@ -4203,10 +4203,10 @@
 
 \ref BP_II_351.02
 \tx priſakimu ſlußidami   / O         iei         tho        nedariſim              /
-\std prisakymų slūžydami   $ o         jei         to         ne          darysime    $
+\std prisakymų slūžydami   $ o         jei         to         ne_         darysime    $
 \mrph g.pl.      prc.cn._pl.m. $ -         -           g.sg.m.    -           1.pl.ft.    $
-\lm prisakymas slūžyti     $ o         jei         tas        ne          daryti      $
-\PoS sm.        vb.           $ cnj.      cnj.        prn.       pfx         vb.         $
+\lm prisakymas slūžyti     $ o         jei         tas        ne_         daryti      $
+\PoS sm.        vb.           $ cnj.      cnj.        prn.       pfx.        vb.         $
 \gD Gebot      dienen        $ und,_aber wenn,_falls diese(r/s) Neg.        tun,_machen $
 \tx tada     iſch=|tieſos
 \std tada     iš_tiesos
@@ -4217,9 +4217,9 @@
 
 \ref BP_II_351.03
 \tx ne          mes  koroghimo Pono  Diewo  neiſchbegſim                 
-\std nė         mes  korojimo  pono  dievo  ne               išbėgsime
+\std nė         mes  korojimo  pono  dievo  ne_              išbėgsime
 \mrph -           n.   g.sg.     g.sg. g.sg.  -                1.pl.ft.
-\lm nė         mes  korojimas ponas dievas ne               išbėgti
+\lm nė         mes  korojimas ponas dievas ne_              išbėgti
 \PoS part.+SNeg. prn. sm.       sm.   sm.    pfx.             vb.
 \gD Neg.        wir  Strafe    Herr  Gott   Neg.             entfliehen
 
@@ -4257,10 +4257,10 @@
 
 \ref BP_II_351.08
 \tx ſchaku    necʒedija             / idant ir tawens necʒeditu             . Ir        Do=|wids
-\std šakų     ne          čėdijo   $ idant ir tavęs ne          čėdytų  $ ir        Dovydas
+\std šakų     ne_         čėdijo   $ idant ir tavęs ne_         čėdytų  $ ir        Dovydas
 \mrph g.pl.      -           3.prt.     $ -     -  g.     -           3.cnd.     $ -         n.sg.
-\lm šaka      ne          čėdyti   $ idant ir tu     ne          čėdyti   $ ir        Dovydas
-\PoS sf.        pfx.        vb.        $ cnj.     prn.   pfx         vb.        $ $ cnj.    sm.npr.
+\lm šaka      ne_         čėdyti   $ idant ir tu     ne_         čėdyti   $ ir        Dovydas
+\PoS sf.        pfx.        vb.        $ cnj.     prn.   pfx.        vb.        $ $ cnj.    sm.npr.
 \gD Ast,_Zweig Neg.        schonen    $ damit    du     Neg.        schonen    $ und,_auch David
 
 \ref BP_II_351.09
@@ -4273,9 +4273,9 @@
 
 \ref BP_II_351.10
 \tx koßna    diena  grunſdins / iei         ßmones  nenor          priſſiwer=|ſti
-\std kožną   dieną grūz        jei         žmonės ne     nori    prisiversti
+\std kožną   dieną grūz        jei         žmonės ne_    nori    prisiversti
 \mrph a.sg.m.   a.sg.               -           n.pl.    -      3.prs.  inf.
-\lm kožnas   diena               jei         žmogus  ne     norėti prisiversti
+\lm kožnas   diena               jei         žmogus  ne_    norėti prisiversti
 \PoS prn.      sf.                 cnj.        sm.      pfx.   vb.     vb.
 \gD jede(r/s) Tag                 wenn,_falls Mensch   Neg.   wollen  sich_bekehren
 \tx /

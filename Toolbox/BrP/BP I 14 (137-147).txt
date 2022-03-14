@@ -380,9 +380,9 @@
 
 \ref BP_I_140.04
 \tx ISch pradʒio  ſwieto ßmones     nebuwa         Krikſch=|tiamas     .
-\std iš  pradžio  svieto  žmonės    ne      buvo   krikštijamos        $
+\std iš  pradžio  svieto  žmonės    ne_     buvo   krikštijamos        $
 \mrph +g.  g.sg.     g.sg.   n.pl.       -       3.prt. prc.prs.pss._n.pl.f. $
-\lm iš  pradžias svietas žmogus     ne      būti  krikštyti           $
+\lm iš  pradžias svietas žmogus     ne_     būti  krikštyti           $
 \PoS prp. sm.       sm.     sm._pl._sf. pfx.    vb.aux vb.                  $
 \gD aus  Beginn    Welt    Mensch      Neg.    sein   taufen               $
 
@@ -660,11 +660,11 @@
 
 \ref BP_I_141.16
 \tx bila   Iei         kas  neatſigims                       per   wandeni  ir        Dwaſe
-\std bylo   jei         kas  ne           atsigims             per   vandenį ir        dvasę
+\std bylo   jei         kas  ne_          atsigims             per   vandenį ir        dvasę
 \mrph 3.prs. -           n.   -            3.ft.                +a.   a.sg.    -         a.sg.
-\lm byloti jei         kas  ne           atsigimti            per   vanduo   ir        dvasė
-\PoS vb.    cnj.        prn.              vb.                  pr    sm.      cnj.      sf.
-\gD sagen  wenn,_falls wer               wiedergeboren_werden durch Wasser   und,_auch Geist
+\lm byloti jei         kas  ne_          atsigimti            per   vanduo   ir        dvasė
+\PoS vb.    cnj.        prn. pfx.         vb.                  pr    sm.      cnj.      sf.
+\gD sagen  wenn,_falls wer  Neg.         wiedergeboren_werden durch Wasser   und,_auch Geist
 
 \ref BP_I_141.17
 \tx Schwenta / dangaus Karaliſton ne   ieis        Kas  tikes
@@ -764,9 +764,9 @@
 
 \ref BP_I_142.09
 \tx O             ſchitie   bloſnai neßinos                  ne         ka   kalba    .
-\std o             šitie     bloznai  ne        žinosi         ne         ką  kalba    $
+\std o             šitie     bloznai  ne_       žinosi         ne         ką  kalba    $
 \mrph -             n.pl.m.    n.pl.    -         3.prs.          -          a.   3.prs.   $
-\lm o             šitas     bloznas  ne        žinotis        ne         kas  kalbėti $
+\lm o             šitas     bloznas  ne_       žinotis        ne         kas  kalbėti $
 \PoS cnj.          prn.       sm.      pfx.      vb.             part.+SNeg prn. vb.      $
 \gD aber,_sondern diese(r/s) Narr     Neg.      von_sich_wissen Neg.            sprechen $
 \tx Kriſtus
@@ -802,9 +802,9 @@
 
 \ref BP_I_142.13
 \tx ßmones     / neliepdams                / atſkirti ſenůſius nůg Iau=|nuiu   /
-\std žmones     $ ne          liepdamas     $ atskirti  senuosius   nuog jaunųjų   $
+\std žmones     $ ne_         liepdamas     $ atskirti  senuosius   nuog jaunųjų   $
 \mrph a.pl.       $ -           prc.cn._sg.m. $ inf.      a.pl.m.def. +g.  g.pl.m.def. $
-\lm žmogus     $ ne          liepti        $ atskirti  senas       nuog jaunas      $
+\lm žmogus     $ ne_         liepti        $ atskirti  senas       nuog jaunas      $
 \PoS sm._pl._sf. $ pfx.        vb.           $ inf.      adj.        prp. adj.        $
 \gD Mensch      $ Neg.        befehlen      $ trennen   alt         von  jung        $
 
@@ -818,9 +818,9 @@
 
 \ref BP_I_142.15
 \tx ſennoſius . Todelei  neadbokem                             nieko     ka   ſchitokie  klei=|dunai /
-\std senuosius   $ todėlei ne         atbokime                   nieko     ką  šitokie    kleidūnai  $
+\std senuosius   $ todėlei ne_        atbokime                   nieko     ką  šitokie    kleidūnai  $
 \mrph a.pl.m.def. $ -        -          1.pl.imp.                  g.sg.     a.   n.pl.m.     n.sg.       $
-\lm senas       $ todėlei ne         atboti                     niekas    kas  šitoks     kleidūnas  $
+\lm senas       $ todėlei ne_        atboti                     niekas    kas  šitoks     kleidūnas  $
 \PoS adj.        $ adv.     pfx.       vb.                        prn.+SNeg prn. prn.        sm.         $
 \gD alt         $ deshalb  Neg.       beachten,_berücksichtigen nichts         solche(r/s) Irrgeist    $
 
@@ -866,9 +866,9 @@
 
 \ref BP_I_142.21
 \tx ISch tieſos Ponui Kriſtui nebuwa         reike            krikſch=|to /
-\std iš_tiesos   ponui Kristui  ne      buvo   reikė-reikia(?) krikšto     $
+\std iš_tiesos   ponui Kristui  ne_     buvo   reikė-reikia(?) krikšto     $
 \mrph -            d.sg. d.sg.    -       3.prt. n.sg.            g.sg.        $
-\lm iš_tiesos   ponas Kristus  ne      būti  reikė-reikia(?) krikštas    $
+\lm iš_tiesos   ponas Kristus  ne_     būti  reikė-reikia(?) krikštas    $
 \PoS adv.sec.     sm.   sm.npr.  pfx.    vb.    sf.              sm.          $
 \gD fürwahr     Herr  Christus Neg.    sein   Bedürfnis       Taufe        $
 
@@ -890,9 +890,9 @@
 
 \ref BP_I_143.02
 \tx mana teiſuſis  . Item    / Naſrůſu io      wiliaus ne=|buwa           .
-\std mano teisusis    $ item    $ nasruose   jo      vyliaus ne        buvo     $
+\std mano teisusis    $ item    $ nasruose   jo      vyliaus ne_       buvo     $
 \mrph -    n.sg.m.def. $ -       $ l.pl.      g.sg.m. g.sg.   -         3.prt.   $
-\lm mano teisus      $ lt:item $ nasrai     jis     vylius  ne        būti    $
+\lm mano teisus      $ lt:item $ nasrai     jis     vylius  ne_       būti    $
 \PoS prn. adj.        $ -       $ sm.pl.     prn.    sm.     pfx.      vb.      $
 \gD mein gerecht     $ item    $ Mund       er      Trug    Neg.      sein     $
 
@@ -970,17 +970,17 @@
 
 \ref BP_I_143.13
 \tx Diewo  ghi     niekame    negaletu           apſkuſti / kaip
-\std dievo  jį     niekame    ne        galėtų apskųsti  $ kaip
+\std dievo  jį     niekame    ne_       galėtų apskųsti  $ kaip
 \mrph g.sg.  a.sg.m. l.sg.      -         3.cnd.   inf.       $ -
-\lm dievas jis     niekas     ne        galėti  apskųsti  $ kaip
+\lm dievas jis     niekas     ne_       galėti  apskųsti  $ kaip
 \PoS sm.    prn.    prn.+SNeg. pfx.      vb.      vb.        $ $ adv.
 \gD Gott   er      nichts     Neg.      können  verklagen  $ wie
 
 \ref BP_I_143.14
 \tx kada      ko   nebutu         iſchpildens         / tada     Ponas ir        ſchi
-\std kada      ko   ne      būtų išpildęs           $ tada     ponas ir        šį
+\std kada      ko   ne_     būtų išpildęs           $ tada     ponas ir        šį
 \mrph -         g.   -       3.cnd. prc.prt.act._n.sg.m. $ -        n.sg. -         a.sg.m.
-\lm kada      kas  ne      būti  išpildyti           $ tada     ponas ir        šis
+\lm kada      kas  ne_     būti  išpildyti           $ tada     ponas ir        šis
 \PoS cnj.      prn. pfx.    v.aux  vb.                  $ adv.     sm.   cnj.      prn.
 \gD wenn,_als was  Neg.    sein   erfüllen            $ da,_dann Herr  und,_auch diese(r/s)
 \tx priſa=|kima
@@ -1048,10 +1048,10 @@
 
 \ref BP_I_144.02
 \tx Iano     pritares                  ira    / tadda    / ne           mes  to         nepeikim             / nei
-\std Jono     pritaręs                 yra    $ tada     $ nė          mes  to         ne        peikime    $ nei
+\std Jono     pritaręs                 yra    $ tada     $ nė          mes  to         ne_       peikime    $ nei
 \mrph g.sg.    prc.prt.act._n.sg.m.+PERF 3.prs. $ -        $ -            n.   g.sg.m.    -         1.pl.imp.  $ -
-\lm Jonas    pritarti                  būti  $ tada     $ nė          mes  tas        ne        peikti     $ nei
-\PoS sm.npr.  vb.                       v.au   $ adv.     $ $ part.+SNeg prn. prn.       pfx       vb.        $ $ cnj.
+\lm Jonas    pritarti                  būti  $ tada     $ nė          mes  tas        ne_       peikti     $ nei
+\PoS sm.npr.  vb.                       v.au   $ adv.     $ $ part.+SNeg prn. prn.       pfx.      vb.        $ $ cnj.
 \gD Johannes billigen                  sein   $ da,_dann $ Neg.         wir  diese(r/s) Neg.      verfluchen $ und_nicht,_weder_noch
 
 \ref BP_I_144.03
@@ -1256,10 +1256,10 @@
 
 \ref BP_I_145.03
 \tx Schiteipo regim     Pona  muſu  IEſu   Kriſtu  / ne=|ſawens              
-\std šitaip   regime    poną mūsų Jėzų  Kristų  $ ne            savęs
+\std šitaip   regime    poną mūsų Jėzų  Kristų  $ ne_           savęs
 \mrph -         1.pl.prs. a.sg. g.     a.sg.   a.sg.    $ -             g.
-\lm šitaip   regėti   ponas mes    Jėzus  Kristus  $ ne            savęs
-\PoS adv.      vb.       sm.   prn.   sm.npr. sm.npr.  $ $ part        prn.
+\lm šitaip   regėti   ponas mes    Jėzus  Kristus  $ ne_           savęs
+\PoS adv.      vb.       sm.   prn.   sm.npr. sm.npr.  $ pfx.          prn.
 \gD so        sehen     Herr  wir    Jesus   Christus $ Neg.          [refl.prn.]
 
 \ref BP_I_145.04
@@ -1400,10 +1400,10 @@
 
 \ref BP_I_145.21
 \tx draugiſte   pagatawitu               / neturincʒe                       newieno
-\std draugystę   pagatavytų$               ne           turinčią           nė_vieno
-\mrph a.sg.        3.cnd.     $  3.cnd.     $ -            prc.prs.act._a.sg.f. g.sg.m.
-\lm draugystė   pagatavyti    $            ne           turėti              nė_vienas
-\PoS sf.          vb.           $            $ pfx        vb.                  prn.+SNeg.
+\std draugystę   pagatavytų$               ne_          turinčią           nė_vieno
+\mrph a.sg.        3.cnd.                   $ -            prc.prs.act._a.sg.f. g.sg.m.
+\lm draugystė   pagatavyti    $            ne_          turėti              nė_vienas
+\PoS sf.          vb.           $            pfx.         vb.                  prn.+SNeg.
 \gD Gesellschaft bereiten      $            Neg.                              niemand,_kein
 
 \ref BP_I_145.22
@@ -1680,18 +1680,18 @@
 
 \ref BP_I_147.09
 \tx neſuſſimiltu                  Sunaus  ßiwato  ſawa              / Ir        kacʒei ana       io
-\std ne               susimiltų      sūnaus žyvato  savo               $ ir        kačei  ana       jo
+\std ne_              susimiltų      sūnaus žyvato  savo               $ ir        kačei  ana       jo
 \mrph -                3.cnd.          g.sg.   g.sg.    -                  $ -         -       n.sg.f.   g.sg.m.
-\lm ne               susimilti       sūnus  žyvatas savo               $ ir        kačei  anas      jis
+\lm ne_              susimilti       sūnus  žyvatas savo               $ ir        kačei  anas      jis
 \PoS pfx.             vb.             sm.     sm.      prn.               $ $ cnj.    cnj.    prn.      prn.
 \gD Neg.             sich_erbarmen   Sohn    Leib     [refl._Poss.-prn.] $ und,_auch obwohl  jene(r/s) er
 
 \ref BP_I_147.10
 \tx ußmirſchtu / tacʒiau aſch tawens nemirſchiu              .
-\std užmirštų  $ tačiau  aš   tavęs ne           miršiu     $
+\std užmirštų  $ tačiau  aš   tavęs ne_          miršiu     $
 \mrph 3.cnd.       $ -        n.    g.     -            1.sg.ft.    $
-\lm užmiršti   $ tačiau  aš   tu     ne           miršti     $
-\PoS vb.          $ adv.     prn.  prn.   pfx          vb.         $
+\lm užmiršti   $ tačiau  aš   tu     ne_          miršti     $
+\PoS vb.          $ adv.     prn.  prn.   pfx.         vb.         $
 \gD vergessen    $ jedoch   ich   du     Neg.         vergessen   $
 
 \ref BP_I_147.11

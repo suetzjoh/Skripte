@@ -481,11 +481,11 @@
 
 \ref BP_I_358.12
 \tx mana muko   . Neſang ſakau    iumus / kaip  io      nebewal=|giſiu                                   /
-\std mano mūko  $ nesang  sakau     jums  $ kaip  jo      ne               be-              valgysiu        $
+\std mano mūko  $ nesang  sakau     jums  $ kaip  jo      ne_              be_              valgysiu        $
 \mrph -    g.sg.  $ -       1.sg.prs. d.    $ -     g.sg.m. -                -                1.sg.ft.        $
-\lm mano mūkas $ nesang  sakyti    jūs  $ kaip  jis     ne                                valgyti         $
-\PoS prn. sf.    $ cnj.    vb.       prn.  $ $ cnj prn.    pfx                               vb.             $
-\gD mein Qual   $ denn    sagen     ihr   $ wie   er      Neg.                              essen           $
+\lm mano mūkas $ nesang  sakyti    jūs  $ kaip  jis     ne_              be_              valgyti         $
+\PoS prn. sf.    $ cnj.    vb.       prn.  $ $ cnj prn.    pfx.             pfx.             vb.             $
+\gD mein Qual   $ denn    sagen     ihr   $ wie   er      Neg.             []               essen           $
 
 \ref BP_I_358.13
 \tx net   pagineius Karaliſteie Diewo . Ir emes
@@ -740,12 +740,12 @@
 \gD 
 
 \ref BP_I_360.07
-\tx Wieſchpatie Tugu                man  kaias      malgoſi ? IEſus  at=|ſakidams
-\std viešpatie   tu    -gu           man  kojas      mazgosi  $ Jėzus  atsakydamas
-\mrph v.sg.        n.    -             d.   a.pl.      2.sg.ft. $ n.sg.   prc.cn._sg.m.
-\lm viešpats    tu    -gu           aš  koja       mazgoti  $ Jėzus  atsakyti
-\PoS sm.          prn.  -part.        prn. sf.        vb.      $ sm.npr. vb.
-\gD Herr         du    -[Fragepart.] ich  Bein,_Fuß waschen  $ Jesus   antworten
+\tx Wieſchpatie Tugu               man  kaias      malgoſi ? IEſus  at=|ſakidams
+\std viešpatie   tu    gu           man  kojas      mazgosi  $ Jėzus  atsakydamas
+\mrph v.sg.        n.    -            d.   a.pl.      2.sg.ft. $ n.sg.   prc.cn._sg.m.
+\lm viešpats    tu    gu           aš  koja       mazgoti  $ Jėzus  atsakyti
+\PoS sm.          prn.  part.        prn. sf.        vb.      $ sm.npr. vb.
+\gD Herr         du    [Fragepart.] ich  Bein,_Fuß waschen  $ Jesus   antworten
 
 \ref BP_I_360.08
 \tx biloia iam     . Ka     aſch darau       / tatai     tu   nu     ne
@@ -915,8 +915,8 @@
 \tx bilau     iumus / tarnas nera   dideſnis   uß  ſawa
 \std bylau     jums  $ tarnas nėra  didesnis    už  savo
 \mrph 1.sg.prs. d.    $ n.sg.  3.prs. n.sg.m.cmp. +a.  -
-\lm byloti    jūs  $ tarnas ne     didis       už  savo
-\PoS vb.       prn.  $ sm.    pfx    adj.        prp. prn.
+\lm byloti    jūs  $ tarnas ne_    didis       už  savo
+\PoS vb.       prn.  $ sm.    pfx.   adj.        prp. prn.
 \gD sagen     ihr   $ Diener Neg.   groß       als  [refl._Poss.-prn.]
 \tx Wieſch=|pati /
 \std viešpatį    $
@@ -1328,10 +1328,10 @@
 
 \ref BP_I_363.07
 \tx ußu   ſtala ſied    / alba kurſai     tarnauia : Er           neſedanſis                           /
-\std už    stalo  sėdi    $ alba kursai      tarnauja $ ar           ne            sėdąsis                $
+\std už    stalo  sėdi    $ alba kursai      tarnauja $ ar           ne_           sėdąsis                $
 \mrph +g.    g.sg.  3.prs.   $ -    n.sg.m.def. 3.prs.   $ -            -             prc.prs.act._n.sg.m.def. $
-\lm už    stalas sėdėti $ alba kuris       tarnauti $ ar           ne            sėsti                   $
-\PoS prp.   sm.    vb.      $ cnj. prn.        vb.      $ part.        pa            vb.                      $
+\lm už    stalas sėdėti $ alba kuris       tarnauti $ ar           ne_           sėsti                   $
+\PoS prp.   sm.    vb.      $ cnj. prn.        vb.      $ part.        pfx.          vb.                      $
 \gD hinter Tisch  sitzen   $ oder welche(r/s) dienen   $ [Fragepart.] Neg.          sich_setzen              $
 
 \ref BP_I_363.08
@@ -1511,12 +1511,12 @@
 \gD können   folgen $ ich   [refl._Poss.-prn.] Seele            für du   geben    $ Jesus
 
 \ref BP_I_364.03
-\tx ſake  iam     . Tugu                tawa duſche  ußu  mane dotumbei  ?
-\std sakė  jam     $ tu    -gu           tavo dūšią už   mane duotum    $
-\mrph 3.prt. d.sg.m. $ n.    -             -    a.sg.    +Akk. a.   2.sg.cnd. $
-\lm sakyti jis     $ tu    -gu           tavo dūšia  už   aš  duoti     $
-\PoS vb.    prn.    $ prn.  -Ptkl.        prn. sf.      prp.  prn. vb.       $
-\gD sagen  er      $ du    -[Frageptkl.] dein Seele    für  ich  geben     $
+\tx ſake  iam     . Tugu               tawa duſche  ußu  mane dotumbei  ?
+\std sakė  jam     $ tu    gu           tavo dūšią už   mane duotum    $
+\mrph 3.prt. d.sg.m. $ n.    -            -    a.sg.    +Akk. a.   2.sg.cnd. $
+\lm sakyti jis     $ tu    gu           tavo dūšia  už   aš  duoti     $
+\PoS vb.    prn.    $ prn.  part.        prn. sf.      prp.  prn. vb.       $
+\gD sagen  er      $ du    [Fragepart.] dein Seele    für  ich  geben     $
 
 \ref BP_I_364.04
 \tx Simonai / Simonai . Schitai Sathanas iuſu iſi=|geide /
@@ -1964,10 +1964,10 @@
 
 \ref BP_I_366.04
 \tx Petrui  : Simonai ar           miekſi   ? ar           negaleiei            ſumanimi            
-\std Petrui  $ Simonai ar           miegi     $ ar           ne         galėjai  su          manimi
+\std Petrui  $ Simonai ar           miegi     $ ar           ne_        galėjai  su          manimi
 \mrph d.sg.   $ v.sg.   -            2.sg.prs. $ -            -          2.sg.prt. +i.         i.
-\lm Petras  $ Simonas ar           miegoti   $ ar           ne         galėti   su          aš
-\PoS sm.npr. $ sm.npr. part.        vb.       $ part.        pfx        vb.       prp.        prn.
+\lm Petras  $ Simonas ar           miegoti   $ ar           ne_        galėti   su          aš
+\PoS sm.npr. $ sm.npr. part.        vb.       $ part.        pfx.       vb.       prp.        prn.
 \gD Petrus  $ Simon   [Fragepart.] schlafen  $ [Fragepart.] Neg.       können   mit         ich
 
 \ref BP_I_366.05
@@ -2028,10 +2028,10 @@
 
 \ref BP_I_366.12
 \tx miegancʒius         / bei  iu      akis  buwa   pilnas  miego  / ir        neßi[=]|noia                
-\std miegančius          $ bei  jų     akys  buvo   pilnos  miego  $ ir        ne              žinojo
+\std miegančius          $ bei  jų     akys  buvo   pilnos  miego  $ ir        ne_             žinojo
 \mrph prc.prs.act._a.pl.m. $ -    g.pl.m. n.pl. 3.prt. n.pl.f. g.sg.  $ -         -               3.prt.
-\lm miegoti              $ bei  jis     akis  būti  pilnas  miegas $ ir        ne              žinoti
-\PoS vb.                  $ cnj. prn.    sf.   vb.    adj.    sm.    $ $ cnj.    p               vb.
+\lm miegoti              $ bei  jis     akis  būti  pilnas  miegas $ ir        ne_             žinoti
+\PoS vb.                  $ cnj. prn.    sf.   vb.    adj.    sm.    $ $ cnj.    pfx.            vb.
 \gD schlafen             $ und  er      Auge  sein   voll    Schlaf $ und,_auch Neg.            wissen
 
 \ref BP_I_366.13
@@ -2513,9 +2513,9 @@
 
 \ref BP_I_369.15
 \tx manes  negaudet            . Bet           ſchitai ira    iuſu  hadina / ir
-\std manęs ne        gaudėte  $ bet           šitai   yra    jūsų hadyna $ ir
+\std manęs ne_       gaudėte  $ bet           šitai   yra    jūsų hadyna $ ir
 \mrph g.     -         2.pl.prt. $ -             -        3.prs. g.     n.sg.  $ -
-\lm aš    ne        gaudyti   $ bet           šitai   būti  jūs   hadyna $ ir
+\lm aš    ne_       gaudyti   $ bet           šitai   būti  jūs   hadyna $ ir
 \PoS prn.   pfx.      vb.       $ cnj.          part.    vb.    prn.   sf.    $ $ cnj.
 \gD ich    Neg.      fangen    $ aber,_sondern siehe    sein   ihr    Stunde $ und,_auch
 
@@ -3187,9 +3187,9 @@
 
 \ref BP_I_373.19
 \tx netaip     neſudereia               .
-\std netaip     ne           suderėjo    $
+\std netaip     ne_          suderėjo    $
 \mrph -          -            3.prt.       $
-\lm netaip     ne           suderėti    $
+\lm netaip     ne_          suderėti    $
 \PoS adv.+SNeg. pfx.         vb.          $
 \gD nicht_so   Neg.         einig_werden $
 
@@ -3211,10 +3211,10 @@
 
 \ref BP_I_373.22
 \tx liudij   ? Bet           IEſus  tileia    neatſakidams                nieka        .
-\std liudija  $ bet           Jėzus  tylėjo   ne             atsakydamas   nieko-nieką $
+\std liudija  $ bet           Jėzus  tylėjo   ne_            atsakydamas   nieko-nieką $
 \mrph 3.prs.   $ -             n.sg.   3.prt.    -              prc.cn._sg.m. g.sg./a.sg.  $
-\lm liudyti  $ bet           Jėzus  tylėti   ne             atsakyti      niekas       $
-\PoS vb.      $ cnj.          sm.npr. vb.       p              vb.           prn.+SN      $
+\lm liudyti  $ bet           Jėzus  tylėti   ne_            atsakyti      niekas       $
+\PoS vb.      $ cnj.          sm.npr. vb.       pfx.           vb.           prn.+SN      $
 \gD bezeugen $ aber,_sondern Jesus   schweigen Neg.           antworten     nichts       $
 
 \ref BP_I_373.23
@@ -3401,9 +3401,9 @@
 
 \ref BP_I_374.20
 \tx iumus / tacʒiau netikit            / ir        iei         ius  klauſiu  / man
-\std jums  $ tačiau  ne       tikite    $ ir        jei         jus  klausiu   $ man
+\std jums  $ tačiau  ne_      tikite    $ ir        jei         jus  klausiu   $ man
 \mrph d.    $ -        -        2.pl.prs. $ -         -           a.   1.sg.prs. $ d.
-\lm jūs  $ tačiau  ne       tikėti   $ ir        jei         jūs klausti   $ aš
+\lm jūs  $ tačiau  ne_      tikėti   $ ir        jei         jūs klausti   $ aš
 \PoS prn.  $ adv.     pfx.     vb.       $ $ cnj.    cnj.        prn. vb.       $ prn.
 \gD ihr   $ jedoch   Neg.     glauben   $ und,_auch wenn,_falls ihr  fragen    $ ich
 
@@ -3733,9 +3733,9 @@
 
 \ref BP_I_376.14
 \tx Sʒidai iop      . Mes  ne wieno      nedrenſam             gadinti . Idant
-\std žydai  jop      $ mes  nė_vieno     ne          dręsame   gadinti $ idant
+\std žydai  jop      $ mes  nė_vieno     ne_         dręsame   gadinti $ idant
 \mrph n.pl.   al.sg.m. $ n.   g.sg.m.       -           1.pl.prs.  inf.    $ -
-\lm žydas  jis      $ mes  nė_vienas    ne          drįsti    gadinti $ idant
+\lm žydas  jis      $ mes  nė_vienas    ne_         drįsti    gadinti $ idant
 \PoS sm.     prn.     $ prn. prn.+SNeg.    pfx.        vb.        vb.     $ cnj.
 \gD Jude    er       $ wir  niemand,_kein Neg.        wagen      richten $ damit
 
@@ -3945,19 +3945,19 @@
 
 \ref BP_I_378.04
 \tx ir        Wireſniu / nieka        neatſake            . O     Pilatas ghi     wel
-\std ir        vyresnių $ nieko-nieką ne         atsake    $ o     Pilotas jį     vėl
+\std ir        vyresnių $ nieko-nieką ne_        atsake    $ o     Pilotas jį     vėl
 \mrph -         g.pl.m.   $ g.sg./a.sg.  -          3.prt.    $ -     n.sg.   a.sg.m. -
-\lm ir        vyresnis  $ niekas       ne         atsakyti  $ o     Pilotas jis     vėl
+\lm ir        vyresnis  $ niekas       ne_        atsakyti  $ o     Pilotas jis     vėl
 \PoS cnj.      adj.      $ prn.+SNeg.   pfx.       vb.       $ $ cnj sm.npr. prn.    adv.
 \gD und,_auch älter    $ nichts       Neg.       antworten $ und   Pilatus er      wieder
 
 \ref BP_I_378.05
 \tx klauſe / bilodams      : Tadda    nieka        neatſakai             ? Dabokes
-\std klausė $ bylodamas     $ tada     nieko-nieką ne          atsakai    $ dabokis
+\std klausė $ bylodamas     $ tada     nieko-nieką ne_         atsakai    $ dabokis
 \mrph 3.prt.  $ prc.cn._sg.m. $ -        g.sg./a.sg.  -           2.sg.prs.  $ 2.sg.imp.
-\lm klausti $ byloti        $ tada     niekas       ne          atsakyti   $ dabotis
-\PoS vb.     $ vb.           $ adv.     prn.+SNeg                vb.        $ vb.
-\gD fragen  $ sagen         $ da,_dann nichts                   antworten  $ aufmerksam_sein
+\lm klausti $ byloti        $ tada     niekas       ne_         atsakyti   $ dabotis
+\PoS vb.     $ vb.           $ adv.     prn.+SNeg    pfx.        vb.        $ vb.
+\gD fragen  $ sagen         $ da,_dann nichts       Neg.        antworten  $ aufmerksam_sein
 \tx /
 \std $
 \mrph $
@@ -3975,9 +3975,9 @@
 
 \ref BP_I_378.07
 \tx O             IEſus  iam     daugieſne   ne          ßodʒio neatſake            / taip
-\std o             Jėzus  jam     daugesni     ne          žodžio ne         atsake    $ taip
+\std o             Jėzus  jam     daugesni     ne          žodžio ne_        atsake    $ taip
 \mrph -             n.sg.   d.sg.m. cmp.         -           g.sg.    -          3.prt.    $ -
-\lm o             Jėzus  jis     daugesni     ne          žodis   ne         atsakyti  $ taip
+\lm o             Jėzus  jis     daugesni     ne          žodis   ne_        atsakyti  $ taip
 \PoS cnj.          sm.npr. prn.    adv.         part.+SNeg. sm.      pfx.       vb.       $ adv.
 \gD aber,_sondern Jesus   er      (nicht)_mehr Neg.        Wort     Neg.       antworten $ so
 
@@ -4093,9 +4093,9 @@
 
 \ref BP_I_378.21
 \tx neatſake            . Bet           Biſkupai ſu  Raſchtinikais ſtoweia /
-\std ne         atsake    $ bet           byskupai  su   raštininkais  stovėjo $
+\std ne_        atsake    $ bet           byskupai  su   raštininkais  stovėjo $
 \mrph -          3.prt.    $ -             n.pl.     +i.  i.pl.          3.prt.   $
-\lm ne         atsakyti  $ bet           byskupas  su   raštininkas   stovėti $
+\lm ne_        atsakyti  $ bet           byskupas  su   raštininkas   stovėti $
 \PoS pfx.       vb.       $ cnj.          sm.       prp. sm.            vb.      $
 \gD Neg.       antworten $ aber,_sondern Bischoff  mit  Schreiber      stehen   $
 
@@ -4187,9 +4187,9 @@
 
 \ref BP_I_379.09
 \tx nepriwedet             ghi     / kas  ſmerties werta         butu   : Todel  aſch
-\std ne          privedėte jį     $ kas  smerties  verta         būtų $ todėl aš
+\std ne_         privedėte jį     $ kas  smerties  verta         būtų $ todėl aš
 \mrph -           2.pl.prt.  a.sg.m. $ n.   g.sg.     n.sg.nt.      3.cnd. $ -      n.
-\lm ne          privesti   jis     $ kas  smertis   vertas        būti  $ todėl aš
+\lm ne_         privesti   jis     $ kas  smertis   vertas        būti  $ todėl aš
 \PoS pfx.        vb.        prn.    $ prn.           adj.          vb.    $ adv.   prn.
 \gD Neg.        anführen  er      $ was            würdig,_wert sein   $ daher  ich
 
@@ -4307,11 +4307,11 @@
 
 \ref BP_I_380.14
 \tx io      bilodama     . Tu   neturek            newieno       darbo  ſu
-\std jo      bylodama     $ tu   ne       turėk    nė_vieno     darbo  su
+\std jo      bylodama     $ tu   ne_      turėk    nė_vieno     darbo  su
 \mrph g.sg.m. prc.cn._sg.f $ n.   -        2.sg.imp. g.sg.m.       g.sg.  +i.
-\lm jis     byloti       $ tu   ne       turėti   nė_vienas    darbas su
-\PoS prn.    vb.          $ prn.          vb.       prn.+SNeg.    sm.    prp.
-\gD er      sagen        $ du                      niemand,_kein Werk   mit
+\lm jis     byloti       $ tu   ne_      turėti   nė_vienas    darbas su
+\PoS prn.    vb.          $ prn. pfx.     vb.       prn.+SNeg.    sm.    prp.
+\gD er      sagen        $ du   Neg.               niemand,_kein Werk   mit
 
 \ref BP_I_380.15
 \tx ſchů     teiſoiu    nes  aſch ſche      nakti  daug ape   ghi     ſapnija
@@ -4547,9 +4547,9 @@
 
 \ref BP_I_383.03
 \tx mane newienos      kaltibes  ant  io      nerandanti                       . Schi=|teipo
-\std mane nė_vienos    kaltybės ant  jo      ne          randantį            $ šitaip
+\std mane nė_vienos    kaltybės ant  jo      ne_         randantį            $ šitaip
 \mrph a.   g.sg.f.       g.sg.     +g.  g.sg.m. -           prc.prs.act._a.sg.m. $ -
-\lm aš  nė_vienas    kaltybė  ant  jis     ne          rasti                $ šitaip
+\lm aš  nė_vienas    kaltybė  ant  jis     ne_         rasti                $ šitaip
 \PoS prn. prn.+SNeg.    sf.       prp. prn.    pfx.        vb.                  $ adv.
 \gD ich  niemand,_kein Schuld    auf  er      Neg.        finden               $ so
 
@@ -4643,10 +4643,10 @@
 
 \ref BP_I_384.04
 \tx Tadda    biloia iam     Pilotas : Ar           nekalbi            man  ?
-\std tada     bylojo jam     Pilotas $ ar           ne       kalbi     man  $
+\std tada     bylojo jam     Pilotas $ ar           ne_      kalbi     man  $
 \mrph -        3.prt. d.sg.m. n.sg.   $ -            -        2.sg.prs. d.   $
-\lm tada     byloti jis     Pilotas $ ar           ne       kalbėti  aš  $
-\PoS adv.     vb.    prn.    sm.npr. $ part.        pfx      vb.       prn. $
+\lm tada     byloti jis     Pilotas $ ar           ne_      kalbėti  aš  $
+\PoS adv.     vb.    prn.    sm.npr. $ part.        pfx.     vb.       prn. $
 \gD da,_dann sagen  er      Pilatus $ [Fragepart.] Neg.     sprechen  ich  $
 
 \ref BP_I_384.05
@@ -4711,9 +4711,9 @@
 
 \ref BP_I_384.11
 \tx nebuſi           prietelius Ceʒaraus  / nes  kurſai     Kraliu=|mi
-\std ne       būsi    prietelius ciesoriaus $ nes  kursai      karaliumi
+\std ne_      būsi    prietelius ciesoriaus $ nes  kursai      karaliumi
 \mrph -        2.sg.ft. a.pl.      g.sg.      $ -    n.sg.m.def. i.sg.
-\lm ne       būti    prietelius ciesorius  $ nes  kuris       karalius
+\lm ne_      būti    prietelius ciesorius  $ nes  kuris       karalius
 \PoS pfx.     vb.      sm.        sm.        $ cnj. prn.        sm.
 \gD Neg.     sein     Freund     Kaiser     $ denn welche(r/s) König
 
@@ -4995,17 +4995,17 @@
 
 \ref BP_I_386.10
 \tx eſt   ne waiſingos / ir        ßiwats  kuris       negimde           / bei
-\std yra    nevaisingos   $ ir        žyvatas kuris       ne       gimdė   $ bei
+\std yra    nevaisingos   $ ir        žyvatas kuris       ne_      gimdė   $ bei
 \mrph 3.prs. n.pl.f.       $ -         n.sg.    n.sg.m.     -        3.prt.   $ -
-\lm būti  nevaisingas   $ ir        žyvatas kuris       ne       gimdyti  $ bei
-\PoS vb.    adj.          $ $ cnj.    sm.      prn.        pfx      vb.      $ cnj.
+\lm būti  nevaisingas   $ ir        žyvatas kuris       ne_      gimdyti  $ bei
+\PoS vb.    adj.          $ $ cnj.    sm.      prn.        pfx.     vb.      $ cnj.
 \gD sein   unfruchtbar   $ und,_auch Leib     welche(r/s) Neg.     gebären $ und
 
 \ref BP_I_386.11
 \tx krutis  kurios      neßinde           . Tadda    prades   ios     kalbeti
-\std krūtys kurios      ne        žindė  $ tada     pradės  jos     kalbėti
+\std krūtys kurios      ne_       žindė  $ tada     pradės  jos     kalbėti
 \mrph n.pl.   n.pl.f.     -         3.prt.   $ -        3.ft.    n.pl.f. inf.
-\lm krūtis kuris       ne        žįsti  $ tada     pradėti jis     kalbėti
+\lm krūtis kuris       ne_       žįsti  $ tada     pradėti jis     kalbėti
 \PoS sf.     prn.        pfx.      vb.      $ adv.     vb.      prn.    vb.
 \gD Brust   welche(r/s) Neg.      saugen   $ da,_dann beginnen er      sprechen
 
@@ -5131,10 +5131,10 @@
 
 \ref BP_I_388.03
 \tx Tiewe  atleiſk  iemus   / nes  anis      neſſißinna                  ka     dara        .
-\std tėve  atleisk   jiems   $ nes  anys      ne             žinosi         ko-ką daro        $
+\std tėve  atleisk   jiems   $ nes  anys      ne_            žinosi         ko-ką daro        $
 \mrph vc.sg. 2.sg.imp. d.pl.m. $ -    n.pl.m.   -              3.prs.          g./a.  3.prs.      $
-\lm tėvas atleisti  jis     $ nes  anas      ne             žinotis        kas    daryti      $
-\PoS sm.    vb.       prn.    $ cnj. prn.      pfx            vb.             prn.   vb.         $
+\lm tėvas atleisti  jis     $ nes  anas      ne_            žinotis        kas    daryti      $
+\PoS sm.    vb.       prn.    $ cnj. prn.      pfx.           vb.             prn.   vb.         $
 \gD Vater  vergeben  er      $ denn jene(r/s) Neg.           von_sich_wissen was    tun,_machen $
 
 \ref BP_I_388.04
@@ -5508,11 +5508,11 @@
 
 \ref BP_I_390.14
 \tx apbardams     ſchi      / biloia . Ne         tu   neſſibijai                 Diewo  /
-\std apibardamas   šį       $ bylojo $ ne         tu   ne            bijaisi        dievo  $
+\std apibardamas   šį       $ bylojo $ ne         tu   ne_           bijaisi        dievo  $
 \mrph prc.cn._sg.m. a.sg.m.    $ 3.prt. $ -          n.   -             2.sg.prs.      g.sg.  $
-\lm apibarti      šis       $ byloti $ ne         tu   ne            bijotis        dievas $
-\PoS vb.           prn.       $ vb.    $ $ part.+SN prn.               vb.            sm.    $
-\gD schelten      diese(r/s) $ sagen  $ Neg.       du                 sich_fürchten Gott   $
+\lm apibarti      šis       $ byloti $ ne         tu   ne_           bijotis        dievas $
+\PoS vb.           prn.       $ vb.    $ $ part.+SN prn. pfx.          vb.            sm.    $
+\gD schelten      diese(r/s) $ sagen  $ Neg.       du   Neg.          sich_fürchten Gott   $
 
 \ref BP_I_390.15
 \tx budams        ligume  praßiudime : Iſch tieſos mes  ſchitai
@@ -5896,9 +5896,9 @@
 
 \ref BP_I_393.02
 \tx idant kunai   Schwenteie nepaſſiliktu                 ant  krißaus
-\std idant kūnai  šventėje ne              pasiliktų     ant  kryžiaus
+\std idant kūnai  šventėje ne_             pasiliktų     ant  kryžiaus
 \mrph -     n.pl.   l.sg.      -               3.cnd.         +g.  g.sg.
-\lm idant kūnas  šventė   ne              pasilikti      ant  kryžius
+\lm idant kūnas  šventė   ne_             pasilikti      ant  kryžius
 \PoS cnj.  sm.     sf.        pfx.            vb.            prp. sm.
 \gD damit Körper Fest       Neg.            bleiben        auf  Kreuz
 
@@ -5984,10 +5984,10 @@
 
 \ref BP_I_394.04
 \tx iſchpilditunſe . Ius  iam     newieno       kaulo   neſulaußiket                 /
-\std išsipildytų    $ jūs jam     nė_vieno     kaulo   ne              sulaužykite   $
+\std išsipildytų    $ jūs jam     nė_vieno     kaulo   ne_             sulaužykite   $
 \mrph 3.cnd.           $ n.   d.sg.m. g.sg.m.       g.sg.   -               2.pl.imp.      $
-\lm išsipildyti     $ jūs jis     nė_vienas    kaulas  ne              sulaužyti     $
-\PoS vb.              $ prn. prn.    prn.+SNeg.    sm.     pfx             vb.            $
+\lm išsipildyti     $ jūs jis     nė_vienas    kaulas  ne_             sulaužyti     $
+\PoS vb.              $ prn. prn.    prn.+SNeg.    sm.     pfx.            vb.            $
 \gD sich_erfüllen   $ ihr  er      niemand,_kein Knochen Neg.            brechen        $
 
 \ref BP_I_394.05

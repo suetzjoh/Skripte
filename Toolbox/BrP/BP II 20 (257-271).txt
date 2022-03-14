@@ -954,10 +954,10 @@
 
 \ref BP_II_263.05
 \tx teip iſſiſtrowija    / kodelei  neſſjgjne              / nei                   tingeia     Elſbie=|toſpi
-\std taip išsistrovijo      $ kodėlei ne           gynėsi     $ nei                   tingėjo    Elzbietosp
+\std taip išsistrovijo      $ kodėlei ne_          gynėsi     $ nei                   tingėjo    Elzbietosp
 \mrph -    3.prt.             $ -        -            3.prt.      $ -                     3.prt.      al.sg.
-\lm taip išsistrovyti      $ kodėlei ne           gintis      $ nei                   tingėti    Elzbieta
-\PoS adv. vb.                $ adv.     pfx          vb.         $ $ cnj.                vb.         sf.npr.
+\lm taip išsistrovyti      $ kodėlei ne_          gintis      $ nei                   tingėti    Elzbieta
+\PoS adv. vb.                $ adv.     pfx.         vb.         $ $ cnj.                vb.         sf.npr.
 \gD so   (Geld)_verbrauchen $ warum    Neg.                     $ und_nicht,_weder_noch träge_sein Elisabeth
 
 \ref BP_II_263.06
@@ -1026,9 +1026,9 @@
 
 \ref BP_II_263.14
 \tx waiko  nepaweſti             / Toke        moteriſchke Sʒidai tare
-\std vaiko  ne          pavesti    $ tokią      moteriškę  žydai  tarė
+\std vaiko  ne_         pavesti    $ tokią      moteriškę  žydai  tarė
 \mrph g.sg.  -           inf.       $ a.sg.f.     a.sg.        n.pl.   3.prt.
-\lm vaikas ne          pavesti    $ toks        moteriškė  žydas  taryti=tarti
+\lm vaikas ne_         pavesti    $ toks        moteriškė  žydas  taryti=tarti
 \PoS sm.    pfx.        vb.        $ prn.        sf.          sm.     vb.
 \gD Kind   Neg.        bekommen   $ solche(r/s) Frau         Jude    sagen
 
@@ -1202,9 +1202,9 @@
 
 \ref BP_II_264.11
 \tx amßinai / bei  io      karaliſtes nebus        ne
-\std amžinai $ bei  jo      karalystės ne     bus   nė
+\std amžinai $ bei  jo      karalystės ne_    bus   nė
 \mrph adv.     $ -    g.sg.m. g.sg.       -      3.ft. -
-\lm amžinas $ bei  jis     karalystė  ne     būti nė
+\lm amžinas $ bei  jis     karalystė  ne_    būti nė
 \PoS adj.     $ cnj. prn.    sf.         pfx.   vb.   part.+SNeg.
 \gD ewig     $ und  er      Königreich Neg.   sein  Neg.
 
@@ -1486,9 +1486,9 @@
 
 \ref BP_II_265.23
 \tx Elſbetos / kacʒei dabar ant  ſwieto negimens                       / ßiwate
-\std Elzbietos $ kačei  dabar ant  svieto  ne        gimęs               $ žyvate
+\std Elzbietos $ kačei  dabar ant  svieto  ne_       gimęs               $ žyvate
 \mrph g.sg.     $ -       -     +g.  g.sg.   -         prc.prt.act._n.sg.m. $ l.sg.
-\lm Elzbieta  $ kačei  dabar ant  svietas ne        gimti                $ žyvatas
+\lm Elzbieta  $ kačei  dabar ant  svietas ne_       gimti                $ žyvatas
 \PoS sf.npr.   $ cnj.    adv.  prp. sm.     pfx.      vb.                  $ sm.
 \gD Elisabeth $ obwohl  noch  auf  Welt    Neg.      geboren_werden       $ Leib
 
@@ -1820,9 +1820,9 @@
 
 \ref BP_II_267.14
 \tx daiktus     nebutu         numanuſi                 nei                   tikeiuſi                 / bet           wis   tatai
-\std daiktus     ne      būtų numanusi                  nei                   tikėjusi                 $ bet           vis   tatai
+\std daiktus     ne_     būtų numanusi                  nei                   tikėjusi                 $ bet           vis   tatai
 \mrph a.pl.       -       3.cnd. prc.prt.act._n.sg.f.+PERF -                     prc.prt.act._n.sg.f.+PERF $ -             indc. -
-\lm daiktas     ne      būti  numanyti                  nei                   tikėti                   $ bet           vis   tatai
+\lm daiktas     ne_     būti  numanyti                  nei                   tikėti                   $ bet           vis   tatai
 \PoS sm.         pfx.    v.aux  vb.                       cnj.                  vb.                       $ cnj.          ad    prn.
 \gD Sache,_Ding Neg.    sein   verstehen                 und_nicht,_weder_noch glauben                   $ aber,_sondern alles dies,_das
 
@@ -1898,9 +1898,9 @@
 \PoS prp.  sf.npr. $ adv. cnj.      prp.  prn.    sm.      $ cnj.    adv.
 \gD über Maria   $ wie  und,_auch über er      Kind     $ obwohl  noch
 \tx ne=|gimuſi                       .
-\std ne           gimusį              $
+\std ne_          gimusį              $
 \mrph -            prc.prt.act._a.sg.m. $
-\lm ne           gimti                $
+\lm ne_          gimti                $
 \PoS pfx.         vb.                  $
 \gD Neg.         geboren_werden       $
 
@@ -1976,9 +1976,9 @@
 
 \ref BP_II_268.09
 \tx moters teip didei nenumileia             / kaip  tawe mana gentai=|ne
-\std moters taip didei ne          numylėjo  $ kaip  tave mano gentainė
+\std moters taip didei ne_         numylėjo  $ kaip  tave mano gentainė
 \mrph g.sg.  -    -     -           3.prt.     $ -     a.   -    n.sg.
-\lm motė  taip didei ne          numylėti  $ kaip  tu   mano gentainė
+\lm motė  taip didei ne_         numylėti  $ kaip  tu   mano gentainė
 \PoS sf.    adv. adv.  pfx.        vb.        $ $ adv prn. prn. sf.
 \gD Frau   so   sehr  Neg.        lieben     $ wie   du   mein Verwandte
 
@@ -2366,9 +2366,9 @@
 
 \ref BP_II_270.09
 \tx newienas      ßmogus negaletu           dangun iſchkakti . Iampi
-\std nė_vienas    žmogus ne        galėtų dangun iškakti   $ jamip
+\std nė_vienas    žmogus ne_       galėtų dangun iškakti   $ jamip
 \mrph n.sg.m.       n.sg.   -         3.cnd.   il.sg. inf.       $ ad.sg.m.
-\lm nė_vienas    žmogus ne        galėti  dangus iškakti   $ jis
+\lm nė_vienas    žmogus ne_       galėti  dangus iškakti   $ jis
 \PoS prn.+SNeg.    sm.     pfx.      vb.      sm.    vb.        $ prn.
 \gD niemand,_kein Mensch  Neg.      können  Himmel erreichen  $ er
 

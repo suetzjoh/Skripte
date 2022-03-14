@@ -116,9 +116,9 @@
 
 \ref BP_I_331.04
 \tx ioſpi   / Neſibjok                 Maria   / tu   radai  ma=|lone
-\std josp     $ ne         bijokis        Marija  $ tu   radai  malonę
+\std josp     $ ne_        bijokis        Marija  $ tu   radai  malonę
 \mrph al.sg.f. $ -          2.sg.imp.      v.sg.   $ n.   2.prt. a.sg.
-\lm jis      $ ne         bijotis        Marija  $ tu   rasti  malonė
+\lm jis      $ ne_        bijotis        Marija  $ tu   rasti  malonė
 \PoS prn.     $ pfx.       vb.            sf.npr. $ prn. vb.    sf.
 \gD er       $ Neg.       sich_fürchten Maria   $ du   finden Gnade
 
@@ -180,9 +180,9 @@
 
 \ref BP_I_331.12
 \tx nebus        newieno       galo  Biloia tada     Ma=|ria
-\std ne     bus   nė_vieno     galo  bylojo tada     Marija
+\std ne_    bus   nė_vieno     galo  bylojo tada     Marija
 \mrph -      3.ft. g.sg.m.       g.sg. 3.prt. -        n.sg.
-\lm ne     būti nė_vienas    galas byloti tada     Marija
+\lm ne_    būti nė_vienas    galas byloti tada     Marija
 \PoS pfx.   vb.   prn.+SNeg.    sm.   vb.    adv.     sf.npr.
 \gD Neg.   sein  niemand,_kein Ende  sagen  da,_dann Maria
 
@@ -196,9 +196,9 @@
 
 \ref BP_I_331.14
 \tx wiro  neßinau            ? Angelas atſake   ir   bi=|loia
-\std vyro  ne        žinau    $ angelas atsakė   ir   bylojo
+\std vyro  ne_       žinau    $ angelas atsakė   ir   bylojo
 \mrph g.sg. -         1.sg.prs. $ n.sg.   3.prt.    -    3.prt.
-\lm vyras ne        žinoti   $ angelas atsakyti  ir   byloti
+\lm vyras ne_       žinoti   $ angelas atsakyti  ir   byloti
 \PoS sm.   pfx.      vb.       $ sm.     vb.       cnj. vb.
 \gD Mann  Neg.      wissen    $ Engel   antworten und  sagen
 
@@ -276,9 +276,9 @@
 
 \ref BP_I_332.06
 \tx neeſti          negalims   . Biloia Maria   / Schi=|tai /
-\std ne       esti    negalimas  $ bylojo Marija  $ šitai    $
+\std ne_      esti    negalimas  $ bylojo Marija  $ šitai    $
 \mrph -        3.prs.  n.sg.m.    $ 3.prt. n.sg.   $ -         $
-\lm ne       būti   negalimas  $ byloti Marija  $ šitai    $
+\lm ne_      būti   negalimas  $ byloti Marija  $ šitai    $
 \PoS pfx.     vb.     adj.       $ vb.    sf.npr. $ part.     $
 \gD Neg.     sein    unmöglich $ sagen  Maria   $ siehe     $
 
@@ -824,9 +824,9 @@
 
 \ref BP_I_335.09
 \tx netiketi           / Tůgi               Diewas tatai     iei     dawe   apſakiti
-\std ne        tikėti  $ tuogi               dievas tatai     jai     davė  apsakyti
+\std ne_       tikėti  $ tuogi               dievas tatai     jai     davė  apsakyti
 \mrph -         inf.     $ -                   n.sg.  -         d.sg.f. 3.prt. inf.
-\lm ne        tikėti  $ tuogi               dievas tatai     jis     duoti  apsakyti
+\lm ne_       tikėti  $ tuogi               dievas tatai     jis     duoti  apsakyti
 \PoS pfx.      vb.      $ $ cnj.              sm.    prn.      prn.    vb.    vb.
 \gD Neg.      glauben  $ eben_deshalb,_daher Gott   dies,_das er      geben  mitteilen,_ankündigen
 
@@ -1016,10 +1016,10 @@
 
 \ref BP_I_336.09
 \tx numileta             . Schicʒe regim     / Angela  neiſikellenti                       / ne
-\std numylėta            $ šičia  regime    $ angelą ne              išsikeliantį       $ ne
+\std numylėta            $ šičia  regime    $ angelą ne_             išsikeliantį       $ ne
 \mrph prc.prt.pss._v.sg.f. $ -        1.pl.prs. $ a.sg.   -               prc.prs.act._a.sg.m. $ -
-\lm numylėti            $ šičia  regėti   $ angelas ne              išsikelti           $ ne
-\PoS vb.                  $ adv.     vb.       $ sm.     p               vb.                  $ $ pfx.
+\lm numylėti            $ šičia  regėti   $ angelas ne_             išsikelti           $ ne
+\PoS vb.                  $ adv.     vb.       $ sm.     pfx.            vb.                  $ $ pfx.
 \gD lieben               $ hier     sehen     $ Engel   Neg.            sich_erheben         $ Neg.
 
 \ref BP_I_336.10
@@ -1046,17 +1046,17 @@
 
 \ref BP_I_336.12
 \tx Teipo iaukinkimes                  ir        mes  nedidʒůti              / kitu        kacʒei
-\std taipo jaukinkimės                 ir        mes  ne           didžiuoti  $ kitų       kačei
+\std taipo jaukinkimės                 ir        mes  ne_          didžiuoti  $ kitų       kačei
 \mrph -     1.pl.imp.                    -         n.   -            inf.        $ g.pl.m.     -
-\lm taipo jaukintis                    ir        mes  ne           didžiuoti  $ kitas       kačei
-\PoS adv.  vb.                          cnj.      prn.              vb.         $ prn.        cnj.
-\gD so    sich gewöhnen,_sich_zähmen und,_auch wir               prahlen     $ andere(r/s) obwohl
+\lm taipo jaukintis                    ir        mes  ne_          didžiuoti  $ kitas       kačei
+\PoS adv.  vb.                          cnj.      prn. pfx.         vb.         $ prn.        cnj.
+\gD so    sich gewöhnen,_sich_zähmen und,_auch wir  Neg.         prahlen     $ andere(r/s) obwohl
 
 \ref BP_I_336.13
 \tx praſtu nepaniekinti               / bet           prieteliſchkai  ſu  ieis    giwenti /
-\std prastu  ne            paniekinti   $ bet           prieteliškai    su   jais    gyventi $
+\std prastu  ne_           paniekinti   $ bet           prieteliškai    su   jais    gyventi $
 \mrph i.sg.m. -             inf.         $ -             adv.             +i.  i.pl.m. inf.    $
-\lm prastas ne            paniekinti   $ bet           prieteliškas    su   jis     gyventi $
+\lm prastas ne_           paniekinti   $ bet           prieteliškas    su   jis     gyventi $
 \PoS adj.    pfx.          vb.          $ cnj.          adj.             prp. prn.    vb.     $
 \gD einfach Neg.          verachten    $ aber,_sondern freundschaftlich mit  er      leben   $
 
@@ -1078,10 +1078,10 @@
 
 \ref BP_I_336.16
 \tx paſweikinimo / ghis    ie      linkſmin  / bilodams      / Neſſibjok                 /
-\std pasveikinimo  $ jis     ją     linksmina  $ bylodamas     $ ne           bijokis        $
+\std pasveikinimo  $ jis     ją     linksmina  $ bylodamas     $ ne_          bijokis        $
 \mrph g.sg.         $ n.sg.m. a.sg.f. 3.prs.     $ prc.cn._sg.m. $ -            2.sg.imp.      $
-\lm pasveikinimas $ jis     jis     linksminti $ byloti        $ ne           bijotis        $
-\PoS sm.           $ prn.    prn.    vb.        $ vb.           $ $ p          vb.            $
+\lm pasveikinimas $ jis     jis     linksminti $ byloti        $ ne_          bijotis        $
+\PoS sm.           $ prn.    prn.    vb.        $ vb.           $ pfx.         vb.            $
 \gD Gruß         $ er      er      erfreuen   $ sagen         $ Neg.         sich_fürchten $
 
 \ref BP_I_336.17
@@ -1122,18 +1122,18 @@
 \PoS cnj.      vb.       $ vb.            cnj. prn. prp.  prn.   prn. adj.
 \gD und,_auch zittern   $ sich_fürchten dass du   aus   ich         böse,_schlecht
 \tx ne=|butu           .
-\std ne        būtų   $
+\std ne_       būtų   $
 \mrph -         3.cnd.   $
-\lm ne        būti    $
+\lm ne_       būti    $
 \PoS pfx.      vb.      $
 \gD Neg.      sein     $
 
 \ref BP_I_336.21
 \tx Bet           neſſibjok                 / aſch tau  pikto           nedariſiu              nei                   iſch=|gaſtinga
-\std bet           ne           bijokis        $ aš   tau  pikto           ne          darysiu     nei                   išgąstingą
+\std bet           ne_          bijokis        $ aš   tau  pikto           ne_         darysiu     nei                   išgąstingą
 \mrph -             -            2.sg.imp.      $ n.    d.   g.sg.m.         -           1.sg.ft.    -                     a.sg.m.
-\lm bet           ne           bijotis        $ aš   tu   piktas          ne          daryti      nei                   išgąstingas
-\PoS cnj.          pfx.         vb.            $ prn.  prn. adj.            pfx         vb.         cnj.                  adj.
+\lm bet           ne_          bijotis        $ aš   tu   piktas          ne_         daryti      nei                   išgąstingas
+\PoS cnj.          pfx.         vb.            $ prn.  prn. adj.            pfx.        vb.         cnj.                  adj.
 \gD aber,_sondern Neg.         sich_fürchten $ ich   du   böse,_schlecht Neg.        tun,_machen und_nicht,_weder_noch schrecklich
 
 \ref BP_I_336.22
@@ -1146,17 +1146,17 @@
 
 \ref BP_I_336.23
 \tx turrinti             malone  / Diewas tawes  nepeik             / bet           mjl     / Die=|was
-\std turintį             malonę $ dievas tavęs ne      peikia     $ bet           myli    $ dievas
+\std turintį             malonę $ dievas tavęs ne_     peikia     $ bet           myli    $ dievas
 \mrph prc.prs.act._a.sg.m. a.sg.   $ n.sg.  g.     -       3.prs.     $ -             3.prs.  $ n.sg.
-\lm turėti              malonė $ dievas tu     ne      peikti     $ bet           mylėti $ dievas
-\PoS vb.                  sf.     $ sm.    prn.   pfx     vb.        $ cnj.          vb.     $ sm.
+\lm turėti              malonė $ dievas tu     ne_     peikti     $ bet           mylėti $ dievas
+\PoS vb.                  sf.     $ sm.    prn.   pfx.    vb.        $ cnj.          vb.     $ sm.
 \gD haben                Gnade   $ Gott   du     Neg.    verfluchen $ aber,_sondern lieben  $ Gott
 
 \ref BP_I_337.01
 \tx taw  nekerſchj             / bet           wis   gero    welij     / tůgi
-\std tau  ne          keršija   $ bet           vis   gero    velija    $ tuogi
+\std tau  ne_         keršija   $ bet           vis   gero    velija    $ tuogi
 \mrph d.   -           3.prs.     $ -             indc. g.sg.m. 3.prs.    $ -
-\lm tu   ne          keršyti   $ bet           vis   geras   velyti    $ tuogi
+\lm tu   ne_         keršyti   $ bet           vis   geras   velyti    $ tuogi
 \PoS prn. pfx.        vb.        $ cnj.          adv.  adj.    vb.       $ $ cnj.
 \gD du   Neg.        drohen     $ aber,_sondern alles gut     wünschen $ eben_deshalb,_daher
 \tx buk       linkſ=|ma /
@@ -1168,9 +1168,9 @@
 
 \ref BP_I_337.02
 \tx nenuſimink              .
-\std ne           nusimink    $
+\std ne_          nusimink    $
 \mrph -            2.sg.imp.   $
-\lm ne           nusiminti   $
+\lm ne_          nusiminti   $
 \PoS pfx.         vb.         $
 \gD Neg.         verzweifeln $
 
@@ -1360,9 +1360,9 @@
 
 \ref BP_I_338.01
 \tx butent   IEſus  . Idant Mariai  alba Ioſephui / nebu=|tu           
-\std būtent  Jėzus  $ idant Marijai alba Juozapui  $ ne         būtų
+\std būtent  Jėzus  $ idant Marijai alba Juozapui  $ ne_        būtų
 \mrph -        n.sg.   $ -     d.sg.   -    d.sg.     $ -          3.cnd.
-\lm būtent  Jėzus  $ idant Marija  alba Juozapas  $ ne         būti
+\lm būtent  Jėzus  $ idant Marija  alba Juozapas  $ ne_        būti
 \PoS adv.     sm.npr. $ cnj.  sf.npr. cnj. sm.npr.   $ pfx.       v.
 \gD nämlich Jesus   $ damit Maria   oder Josef     $ Neg.       sein
 
@@ -1408,9 +1408,9 @@
 
 \ref BP_I_338.07
 \tx kadda     aſch wiro  neßinnau            . Pamoka   ir        paſaka  iei
-\std kada      aš   vyro  ne         žinau    $ pamoko   ir        pasako   jai
+\std kada      aš   vyro  ne_        žinau    $ pamoko   ir        pasako   jai
 \mrph -         n.    g.sg. -          1.sg.prs. $ 3.prs.   -         3.prs.   d.sg.f.
-\lm kada      aš   vyras ne         žinoti   $ pamokyti ir        pasakyti jis
+\lm kada      aš   vyras ne_        žinoti   $ pamokyti ir        pasakyti jis
 \PoS cnj.      prn.  sm.   pfx.       vb.       $ vb.      cnj.      vb.      prn.
 \gD wenn,_als ich   Mann  Neg.       wissen    $ lehren   und,_auch sagen    er
 \tx An=|gelas /
@@ -1518,10 +1518,10 @@
 
 \ref BP_I_338.20
 \tx kalbancʒiu          / neklauſikem               .
-\std kalbančiu           $ ne            klausykime   $
+\std kalbančiu           $ ne_           klausykime   $
 \mrph prc.prs.act._g.pl.m. $ -             1.pl.imp.    $
-\lm kalbėti             $ ne            klausyti     $
-\PoS vb.                  $ $ pfx         vb.          $
+\lm kalbėti             $ ne_           klausyti     $
+\PoS vb.                  $ pfx.          vb.          $
 \gD sprechen             $ Neg.          zuhören     $
 
 \ref BP_I_338.21
@@ -1670,9 +1670,9 @@
 
 \ref BP_I_339.13
 \tx io      nebus        newieno       galo  . Tatai     eſti  /
-\std jo      ne     bus   nė_vieno     galo  $ tatai     yra    $
+\std jo      ne_    bus   nė_vieno     galo  $ tatai     yra    $
 \mrph g.sg.m. -      3.ft. g.sg.m.       g.sg. $ -         3.prs. $
-\lm jis     ne     būti nė_vienas    galas $ tatai     būti  $
+\lm jis     ne_    būti nė_vienas    galas $ tatai     būti  $
 \PoS prn.    pfx.   vb.   prn.          sm.   $ prn.      vb.    $
 \gD er      Neg.   sein  niemand,_kein Ende  $ dies,_das sein   $
 
@@ -1694,9 +1694,9 @@
 
 \ref BP_I_339.16
 \tx protu    ßmogiſchku neatſiekems                       ira    / O         panna
-\std protu    žmogišku   ne            atsiekiamas          yra    $ o         pana
+\std protu    žmogišku   ne_           atsiekiamas          yra    $ o         pana
 \mrph i.sg.    i.sg.m.      -             prc.prs.pss._n.sg.m. 3.prs. $ -         n.sg.
-\lm protas   žmogiškas  ne            atsiekti             būti  $ o         pana
+\lm protas   žmogiškas  ne_           atsiekti             būti  $ o         pana
 \PoS sm.      adj.         pfx.          vb.                  v.au   $ cnj.      sf.
 \gD Verstand menschlich   Neg.          erreichen            sein   $ und,_aber Jungfrau
 
@@ -1822,9 +1822,9 @@
 
 \ref BP_I_340.08
 \tx protu    nenor          toliaus ſuſſirakůti / Bet           iſch dugno  ſchir=|dies
-\std protu    ne     nori    toliaus susirokuoti     $ bet           iš   dugno  širdies
+\std protu    ne_    nori    toliaus susirokuoti     $ bet           iš   dugno  širdies
 \mrph i.sg.    -      3.prs.  cmp.    inf.            $ -             +g.   g.sg.  g.sg.
-\lm protas   ne     norėti toli    susirokuoti     $ bet           iš   dugnas širdis
+\lm protas   ne_    norėti toli    susirokuoti     $ bet           iš   dugnas širdis
 \PoS sm.      pfx.   vb.     adv.    vb.             $ cnj.          prp.  sm.    sf.
 \gD Verstand Neg.   wollen  weit    abrechnen       $ aber,_sondern aus   Grund  Herz
 

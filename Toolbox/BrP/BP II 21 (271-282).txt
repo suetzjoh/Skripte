@@ -132,9 +132,9 @@
 
 \ref BP_II_272.03
 \tx a         nieka        negawome            / Bet           ant  tawo
-\std o         nieko-nieką ne        gavome    $ bet           ant  tavo
+\std o         nieko-nieką ne_       gavome    $ bet           ant  tavo
 \mrph -         g.sg./a.sg.  -         1.pl.prt. $ -             +g.  -
-\lm o         niekas       ne        gauti     $ bet           ant  tavo
+\lm o         niekas       ne_       gauti     $ bet           ant  tavo
 \PoS cnj.      prn.+SNeg.   pfx.      vb.       $ cnj.          prp. prn.
 \gD und,_aber nichts       Neg.      erhalten  $ aber,_sondern auf  dein
 
@@ -268,9 +268,9 @@
 
 \ref BP_II_273.14
 \tx Simanui / neſibjok                 / neſa nog  to         cʒeſo tu
-\std Simonui $ ne         bijokis        $ nes   nuog to         čėso  tu
+\std Simonui $ ne_        bijokis        $ nes   nuog to         čėso  tu
 \mrph d.sg.   $ -          2.sg.imp.      $ -     +g.  g.sg.m.    g.sg.   n.
-\lm Simonas $ ne         bijotis        $ nes   nuog tas        čėsas tu
+\lm Simonas $ ne_        bijotis        $ nes   nuog tas        čėsas tu
 \PoS sm.npr. $ pfx.       vb.            $ cnj.  prp. prn.       sm.     prn.
 \gD Simon   $ Neg.       sich_fürchten $ denn  von  diese(r/s) Zeit    du
 
@@ -364,9 +364,9 @@
 
 \ref BP_II_274.09
 \tx ir        iei         nebutu         Moteriſchkes kakios      ieſchkotas              ir        iſch=|detas              /
-\std ir        jei         ne      būtų moteriškės  kokios      ieškotas                ir        išdėtas                 $
+\std ir        jei         ne_     būtų moteriškės  kokios      ieškotas                ir        išdėtas                 $
 \mrph -         -           -       3.cnd. g.sg.         g.sg.f.     prc.prt.pss._n.sg.m.+PSS -         prc.prt.pss._n.sg.m.+PSS  $
-\lm ir        jei         ne      būti  moteriškė   koks        ieškoti                 ir        išdėti                  $
+\lm ir        jei         ne_     būti  moteriškė   koks        ieškoti                 ir        išdėti                  $
 \PoS cnj.      cnj.        pfx.    v.aux  sf.           prn.        vb.                      cnj.      vb.                       $
 \gD und,_auch wenn,_falls Neg.    sein   Frau          welche(r/s) suchen                   und,_auch herauslegen,_herausnehmen $
 
@@ -396,11 +396,11 @@
 
 \ref BP_II_274.13
 \tx turetumbim   prapulti . A         Ponas Diewas nenore=|dams               
-\std turėtumėme prapulti $ o         ponas dievas ne             norėdamas
+\std turėtumėme prapulti $ o         ponas dievas ne_            norėdamas
 \mrph 1.pl.cnd.    inf.     $ -         n.sg. n.sg.  -              prc.cn._sg.m.
-\lm turėti      prapulti $ o         ponas dievas ne             norėti
-\PoS vb.          vb.      $ cnj.      sm.   sm.                   vb.
-\gD müssen      vergehen $ und,_aber Herr  Gott                  wollen
+\lm turėti      prapulti $ o         ponas dievas ne_            norėti
+\PoS vb.          vb.      $ cnj.      sm.   sm.    pfx.           vb.
+\gD müssen      vergehen $ und,_aber Herr  Gott   Neg.           wollen
 
 \ref BP_II_274.14
 \tx prapůlimo  grieſchnoio ßmogaus / patſai     mus
@@ -452,10 +452,10 @@
 
 \ref BP_II_274.20
 \tx Io      neſuditi            / io      nepraßuditi               / bet           iam     atleiſti
-\std jo      ne         sūdyti   $ jo      ne            pražudyti   $ bet           jam     atleisti
+\std jo      ne_        sūdyti   $ jo      ne_           pražudyti   $ bet           jam     atleisti
 \mrph g.sg.m. -          inf.      $ g.sg.m. -             inf.         $ -             d.sg.m. inf.
-\lm jis     ne         sūdyti   $ jis     ne            pražudyti   $ bet           jis     atleisti
-\PoS prn.    pfx.       vb.       $ prn.    pfx           vb.          $ cnj.          prn.    vb.
+\lm jis     ne_        sūdyti   $ jis     ne_           pražudyti   $ bet           jis     atleisti
+\PoS prn.    pfx.       vb.       $ prn.    pfx.          vb.          $ cnj.          prn.    vb.
 \gD er      Neg.       richten   $ er      Neg.          verdammen    $ aber,_sondern er
 \tx ir        iam
 \std ir        jam
@@ -498,10 +498,10 @@
 
 \ref BP_II_275.01
 \tx giwendams     nepateiktumbim                 / bet           ſtropei dirp=|tumbim .
-\std gyvendamas    ne              pateiktumėme  $ bet           stropiai dirbtumėme  $
+\std gyvendamas    ne_             pateiktumėme  $ bet           stropiai dirbtumėme  $
 \mrph prc.cn._sg.m. -               1.pl.cnd.      $ -             adv.     1.pl.cnd.    $
-\lm gyventi       ne              pateikti       $ bet           stropus  dirbti       $
-\PoS vb.           pfx             vb.            $ cnj.          adj.     vb.          $
+\lm gyventi       ne_             pateikti       $ bet           stropus  dirbti       $
+\PoS vb.           pfx.            vb.            $ cnj.          adj.     vb.          $
 \gD leben         Neg.                           $ aber,_sondern wirksam  arbeiten     $
 
 \ref BP_II_275.02
@@ -578,10 +578,10 @@
 
 \ref BP_II_275.11
 \tx nenoproſnai               dirptu   .
-\std ne            noprosnai    dirbtų  $
+\std ne_           noprosnai    dirbtų  $
 \mrph -             adv.         3.cnd.   $
-\lm ne            noprosnas    dirbti   $
-\PoS part.         adj.         vb.      $
+\lm ne_           noprosnas    dirbti   $
+\PoS pfx.          adj.         vb.      $
 \gD Neg.          vergeblich   arbeiten $
 
 \ref BP_II_275.12
@@ -656,11 +656,11 @@
 
 \ref BP_II_275.20
 \tx waikas / man  nereik             / man  nepriwalu            ira    dirpti   /
-\std vaikas $ man  ne      reikia     $ man  ne         privalu   yra    dirbti   $
+\std vaikas $ man  ne_     reikia     $ man  ne_        privalu   yra    dirbti   $
 \mrph n.sg.  $ d.   -       3.prs.     $ d.   -          n.sg.nt.  3.prs. inf.     $
-\lm vaikas $ aš  ne      reikėti   $ aš  ne         privalus  būti  dirbti   $
-\PoS sm.    $ prn. pfx.    vb.        $ prn.            adj.      vb.    vb.      $
-\gD Kind   $ ich  Neg.    benötigen $ ich             notwendig sein   arbeiten $
+\lm vaikas $ aš  ne_     reikėti   $ aš  ne_        privalus  būti  dirbti   $
+\PoS sm.    $ prn. pfx.    vb.        $ prn. pfx.       adj.      vb.    vb.      $
+\gD Kind   $ ich  Neg.    benötigen $ ich  Neg.       notwendig sein   arbeiten $
 \tx tůgi
 \std tuogi
 \mrph -
@@ -686,9 +686,9 @@
 
 \ref BP_II_275.23
 \tx kacʒei nedirbanti                       / Ir        kacʒei gimditoiei mana numirs  /
-\std kačei  ne          dirbantį            $ ir        kačei  gimdytojai mano numirs  $
+\std kačei  ne_         dirbantį            $ ir        kačei  gimdytojai mano numirs  $
 \mrph -       -           prc.prs.act._a.sg.m. $ -         -       n.pl.      -    3.ft.   $
-\lm kačei  ne          dirbti               $ ir        kačei  gimdytojas mano numirti $
+\lm kačei  ne_         dirbti               $ ir        kačei  gimdytojas mano numirti $
 \PoS cnj.    pfx.        vb.                  $ $ cnj.    cnj.    sm.        prn. vb.     $
 \gD obwohl  Neg.        arbeiten             $ und,_auch obwohl  Pl._Eltern mein sterben $
 
@@ -702,9 +702,9 @@
 
 \ref BP_II_276.02
 \tx ir        nedirbens                       . Kita        wel    raſi    iſch praſtos ir
-\std ir        ne         dirbęs              $ kitą       vėl   rasi     iš   prastos  ir
+\std ir        ne_        dirbęs              $ kitą       vėl   rasi     iš   prastos  ir
 \mrph -         -          prc.prt.act._n.sg.m. $ a.sg.m.     -      2.sg.ft. +g.   g.sg.f.  -
-\lm ir        ne         dirbti               $ kitas       vėl   rasti    iš            ir
+\lm ir        ne_        dirbti               $ kitas       vėl   rasti    iš            ir
 \PoS cnj.      pfx.       vb.                  $ prn.        adv.   vb.      prp.           cnj.
 \gD und,_auch Neg.       arbeiten             $ andere(r/s) wieder finden   aus            und,_auch
 
@@ -718,9 +718,9 @@
 
 \ref BP_II_276.04
 \tx tiktai tingeghimo  nenorinti                       dirpti   . Bet           ſchitie
-\std tiktai tingėjimo  ne         norintį             dirbti   $ bet           šitie
+\std tiktai tingėjimo  ne_        norintį             dirbti   $ bet           šitie
 \mrph -      g.sg.       -          prc.prs.act._a.sg.m. inf.     $ -             n.pl.m.
-\lm tiktai tingėjimas ne         norėti              dirbti   $ bet           šitas
+\lm tiktai tingėjimas ne_        norėti              dirbti   $ bet           šitas
 \PoS adv.   sm.         pfx.       vb.                  vb.      $ cnj.          prn.
 \gD nur    Trägheit   Neg.       wollen               arbeiten $ aber,_sondern diese(r/s)
 \tx wiſſi
@@ -948,9 +948,9 @@
 
 \ref BP_II_277.08
 \tx bei  niekadai   nedirbanſis                           tur     apſirgti / ir        kartais
-\std bei  niekadai   ne            dirbąsis                turi    apsirgti  $ ir        kartais
+\std bei  niekadai   ne_           dirbąsis                turi    apsirgti  $ ir        kartais
 \mrph -    -          -             prc.prs.act._n.sg.m.def. 3.prs.  inf.      $ -         -
-\lm bei  niekadai   ne            dirbti                   turėti apsirgti  $ ir        kartais
+\lm bei  niekadai   ne_           dirbti                   turėti apsirgti  $ ir        kartais
 \PoS cnj. adv.+SNeg. pfx.          vb.                      vb.     vb.       $ $ cnj.    adv.
 \gD und  nie        Neg.          arbeiten                 müssen erkranken $ und,_auch manchmal
 
@@ -970,9 +970,9 @@
 \PoS sm.    vb.            sm.    prn.        $ adv.     prn. adj.
 \gD Sohn   sich_ausdenken Werk   welche(r/s) $ da,_dann du   böse,_schlecht
 \tx ne=|nuſidůs                .
-\std ne             nusiduos      $
+\std ne_            nusiduos      $
 \mrph -              3.ft.         $
-\lm ne             nusiduoti     $
+\lm ne_            nusiduoti     $
 \PoS pfx.           vb.           $
 \gD Neg.           geschehen     $
 
@@ -1018,15 +1018,15 @@
 
 \ref BP_II_277.16
 \tx Schwentas Powilas bila   / Iei         kas  nedirb           / tas
-\std šventas  Paulius bylo   $ jei         kas  ne      dirba    $ tas
+\std šventas  Paulius bylo   $ jei         kas  ne_     dirba    $ tas
 \mrph n.sg.m.   n.sg.   3.prs. $ -           n.   -       3.prs.   $ n.sg.m.
-\lm šventas  Paulius byloti $ jei         kas  ne      dirbti   $ tas
-\PoS adj.      sm.npr. vb.    $ cnj.        prn.         vb.      $ prn.
-\gD heilig    Paul    sagen  $ wenn,_falls wer          arbeiten $ diese(r/s)
+\lm šventas  Paulius byloti $ jei         kas  ne_     dirbti   $ tas
+\PoS adj.      sm.npr. vb.    $ cnj.        prn. pfx.    vb.      $ prn.
+\gD heilig    Paul    sagen  $ wenn,_falls wer  Neg.    arbeiten $ diese(r/s)
 \tx tene=|walga              /
-\std ne           tevalgo     $
+\std ne_          tevalgo     $
 \mrph -            prm.        $
-\lm ne           valgyti     $
+\lm ne_          valgyti     $
 \PoS pfx.         vb.         $
 \gD Neg.         essen       $
 
@@ -1056,10 +1056,10 @@
 
 \ref BP_II_277.20
 \tx tur     dirpti   nepateikti             / idant laimetu   ir Diewo  perßeg=|noghima
-\std turi    dirbti   ne          pateikti   $ idant laimėtų ir dievo  peržegnojimą
+\std turi    dirbti   ne_         pateikti   $ idant laimėtų ir dievo  peržegnojimą
 \mrph 3.prs.  inf.     -           inf.       $ -     3.cnd.    -  g.sg.  a.sg.
-\lm turėti dirbti   ne          pateikti   $ idant laimėti  ir dievas peržegnojimas
-\PoS vb.     vb.      p           vb.        $ cnj.  vb.          sm.    sm.
+\lm turėti dirbti   ne_         pateikti   $ idant laimėti  ir dievas peržegnojimas
+\PoS vb.     vb.      pfx.        vb.        $ cnj.  vb.          sm.    sm.
 \gD müssen arbeiten Neg.                   $ damit gewinnen     Gott   Segnen
 
 \ref BP_II_277.21
@@ -1144,27 +1144,27 @@
 
 \ref BP_II_278.05
 \tx nenoretumbei               dirbti   / net     wiſſadai pateikti  ?
-\std ne            norėtum     dirbti   $ net     visadai    pateikti  $
+\std ne_           norėtum     dirbti   $ net     visadai    pateikti  $
 \mrph -             2.sg.cnd.    inf.     $ -       -          inf.      $
-\lm ne            norėti      dirbti   $ net     visadai    pateikti  $
+\lm ne_           norėti      dirbti   $ net     visadai    pateikti  $
 \PoS pfx.          vb.          vb.      $ $ cnj.  adv.       vb.       $
 \gD Neg.          wollen       arbeiten $ sondern immer      faulenzen $
 
 \ref BP_II_278.06
 \tx Todelei  iaukinkes                    ßmogau netingeti              / bet           dirpti   /
-\std todėlei jaukinkis                    žmogau ne         tingėti    $ bet           dirbti   $
+\std todėlei jaukinkis                    žmogau ne_        tingėti    $ bet           dirbti   $
 \mrph -        2.sg.imp.                    v.sg.   -          inf.        $ -             inf.     $
-\lm todėlei jaukintis                    žmogus ne         tingėti    $ bet           dirbti   $
-\PoS adv.     vb.                          sm.     pfx        vb.         $ cnj.          vb.      $
+\lm todėlei jaukintis                    žmogus ne_        tingėti    $ bet           dirbti   $
+\PoS adv.     vb.                          sm.     pfx.       vb.         $ cnj.          vb.      $
 \gD deshalb  sich gewöhnen,_sich_zähmen Mensch  Neg.       träge_sein $ aber,_sondern arbeiten $
 
 \ref BP_II_278.07
 \tx kolei   giwas    eſſi    / kolei   begalli            .
-\std kolei   gyvas    esi       $ kolei   be-      gali      $
+\std kolei   gyvas    esi       $ kolei   be_      gali      $
 \mrph -       n.sg.m.  2.sg.prs. $ -       -        2.sg.prs. $
-\lm kolei   gyvas    būti     $ kolei   be-      galėti   $
+\lm kolei   gyvas    būti     $ kolei   be_      galėti   $
 \PoS cnj.    adj.     vb.       $ cnj.    pfx.     vb.       $
-\gD solange lebendig sein      $ solange []-      können   $
+\gD solange lebendig sein      $ solange []       können   $
 
 \ref BP_II_278.08
 \tx Antra pamokſla kha tur ßmogus
@@ -1184,10 +1184,10 @@
 
 \ref BP_II_278.10
 \tx Newiſſi                  ßmones  wieno           ira    Stono      / newiſſi            
-\std ne         visi            žmonės vieno           yra    stono      $ ne          visi
+\std ne         visi            žmonės vieno           yra    stono      $ ne_         visi
 \mrph -          n.pl.m.         n.pl.    g.sg.m.         3.prs. g.sg.      $ -           n.pl.m.
-\lm ne         visas           žmogus  vienas          būti  stonas     $ ne          visas
-\PoS part.      prn.            sm.      adj.            vb.    s.         $ $ part      prn.
+\lm ne         visas           žmogus  vienas          būti  stonas     $ ne_         visas
+\PoS part.      prn.            sm.      adj.            vb.    s.         $ pfx.        prn.
 \gD Neg.       jede(r/s),_alle Mensch   eins_,eine(r/s) sein   Stand,_Amt $ Neg.        jede(r/s),_alle
 \tx wie=|no
 \std vieno
@@ -1528,11 +1528,11 @@
 
 \ref BP_II_280.03
 \tx gana  ira    procewoie                 / gana  ira    dirbe                     / ir        wiſſa         nakti  ne=|miegoie                            /
-\std gana  yra    procevoję                $ gana  yra    dirbę                    $ ir        visą           naktį ne           miegoję                  $
+\std gana  yra    procevoję                $ gana  yra    dirbę                    $ ir        visą           naktį ne_          miegoję                  $
 \mrph -     3.prs. prc.prt.act._n.pl.n.+PERF $ -     3.prs. prc.prt.act._n.pl.m.+PERF $ -         a.sg.m.         a.sg.  -            prc.prt.act._n.pl.m.+PERF $
-\lm gana  būti  procevoti                 $ gana  būti  dirbti                    $ ir        visas           naktis ne           miegoti                   $
-\PoS adv.  v.aux  vb.                       $ adv.         vb.                       $ $ cnj.    prn.            sf.                 vb.                       $
-\gD genug sein   sich_bemühen             $ genug        arbeiten                  $ und,_auch jede(r/s),_alle Nacht               schlafen                  $
+\lm gana  būti  procevoti                 $ gana  būti  dirbti                    $ ir        visas           naktis ne_          miegoti                   $
+\PoS adv.  v.aux  vb.                       $ adv.         vb.                       $ $ cnj.    prn.            sf.    pfx.         vb.                       $
+\gD genug sein   sich_bemühen             $ genug        arbeiten                  $ und,_auch jede(r/s),_alle Nacht  Neg.         schlafen                  $
 
 \ref BP_II_280.04
 \tx Bet           wienok  ſchitai ſakoſi          nelaimeie  . Potam
@@ -1552,9 +1552,9 @@
 
 \ref BP_II_280.06
 \tx negawome            / Teip ir mumus wiſſiemus     tankiei gal
-\std ne        gavome    $ taip ir mums  visiems         tankiai gali
+\std ne_       gavome    $ taip ir mums  visiems         tankiai gali
 \mrph -         1.pl.prt. $ -    -  d.    d.pl.m.         adv.    3.prs.
-\lm ne        gauti     $ taip ir mes   visas           tankus  galėti
+\lm ne_       gauti     $ taip ir mes   visas           tankus  galėti
 \PoS pfx.      vb.       $ adv.    prn.  prn.            adj.    vb.
 \gD Neg.      erhalten  $ so      wir   jede(r/s),_alle häufig können
 
@@ -1568,17 +1568,17 @@
 
 \ref BP_II_280.08
 \tx leidʒem   / tacʒiau tankei  nieka        negalim            nupelniti           / nieka
-\std leidžiame $ tačiau  tankiai nieko-nieką ne       galime    nupelnyti           $ nieko-nieką
+\std leidžiame $ tačiau  tankiai nieko-nieką ne_      galime    nupelnyti           $ nieko-nieką
 \mrph 1.pl.prs.  $ -        adv.    g.sg./a.sg.  -        1.pl.prs. inf.                $ g.sg./a.sg.
-\lm leisti     $ tačiau  tankus  niekas       ne       galėti   nupelnyti           $ niekas
-\PoS vb.        $ adv.     adj.    prn.+SNeg.   pfx      vb.       vb.                 $ $ prn.+SNeg.
+\lm leisti     $ tačiau  tankus  niekas       ne_      galėti   nupelnyti           $ niekas
+\PoS vb.        $ adv.     adj.    prn.+SNeg.   pfx.     vb.       vb.                 $ $ prn.+SNeg.
 \gD lassen     $ jedoch   häufig nichts       Neg.     können   verdienen,_erwerben $ nichts
 
 \ref BP_II_280.09
 \tx negaunam            / Bet           wiſſa         muſu  proce         noproſna  ira    / Kaip
-\std ne        gauname   $ bet           visą           mūsų procę        noprosna   yra    $ kaip
+\std ne_       gauname   $ bet           visą           mūsų procę        noprosna   yra    $ kaip
 \mrph -         1.pl.prs. $ -             a.sg.f.         g.     a.sg.         n.sg.f.    3.prs. $ -
-\lm ne        gauti     $ bet           visas           mes    procė        noprosnas  būti  $ kaip
+\lm ne_       gauti     $ bet           visas           mes    procė        noprosnas  būti  $ kaip
 \PoS pfx.      vb.       $ cnj.          prn.            prn.   sf.           adj.       vb.    $ $ cnj.
 \gD Neg.      erhalten  $ aber,_sondern jede(r/s),_alle wir    Arbeit,_Mühe vergeblich sein   $ wie
 
@@ -1656,10 +1656,10 @@
 
 \ref BP_II_280.19
 \tx Ieigi                   nu     kas  nor     nenoproſnai               dirpti   / bet           laimeti
-\std jei         gi          nū    kas  nori    ne            noprosnai    dirbti   $ bet           laimėti
+\std jei         gi          nū    kas  nori    ne_           noprosnai    dirbti   $ bet           laimėti
 \mrph -           -           -      n.   3.prs.  -             adv.         inf.     $ -             inf.
-\lm jei         gi          nu=nū kas  norėti ne            noprosnas    dirbti   $ bet           laimėti
-\PoS cnj.        part.       adv.   prn. vb.     pfx           adj.         vb.      $ cnj.          vb.
+\lm jei         gi          nu=nū kas  norėti ne_           noprosnas    dirbti   $ bet           laimėti
+\PoS cnj.        part.       adv.   prn. vb.     pfx.          adj.         vb.      $ cnj.          vb.
 \gD wenn,_falls [aff.part.] jetzt  wer  wollen  Neg.          vergeblich   arbeiten $ aber,_sondern gewinnen
 
 \ref BP_II_280.20
@@ -1728,11 +1728,11 @@
 
 \ref BP_II_281.04
 \tx ßweioiens           / a         nieko     negawens                       / Miſtre /
-\std žvejojęs           $ o         nieko     ne        gavęs               $ mistre  $
+\std žvejojęs           $ o         nieko     ne_       gavęs               $ mistre  $
 \mrph prc.prt.act._n.sg.m. $ -         g.sg.     -         prc.prt.act._n.sg.m. $ v.sg.   $
-\lm žvejoti             $ o         niekas    ne        gauti                $ mistras $
-\PoS vb.                  $ cnj.      prn.+SNeg           vb.                  $ sm.     $
-\gD fischen              $ und,_aber nichts              erhalten             $ Meister $
+\lm žvejoti             $ o         niekas    ne_       gauti                $ mistras $
+\PoS vb.                  $ cnj.      prn.+SNeg pfx.      vb.                  $ sm.     $
+\gD fischen              $ und,_aber nichts    Neg.      erhalten             $ Meister $
 \tx bila   Mes  wiſ=|ſa
 \std bylo   mes  visą
 \mrph 3.prs. n.   a.sg.f.
@@ -1742,10 +1742,10 @@
 
 \ref BP_II_281.05
 \tx nakti  ßweioiom  / a         nieka        negawom            / tatai     eſti
-\std naktį žvejojome $ o         nieko-nieką ne       gavome    $ tatai     yra
+\std naktį žvejojome $ o         nieko-nieką ne_      gavome    $ tatai     yra
 \mrph a.sg.  1.pl.prt.  $ -         g.sg./a.sg.  -        1.pl.prt. $ -         3.prs.
-\lm naktis žvejoti   $ o         niekas       ne       gauti     $ tatai     būti
-\PoS sf.    vb.        $ cnj.      prn.+SNeg.   pfx      vb.       $ prn.      v.
+\lm naktis žvejoti   $ o         niekas       ne_      gauti     $ tatai     būti
+\PoS sf.    vb.        $ cnj.      prn.+SNeg.   pfx.     vb.       $ prn.      v.
 \gD Nacht  fischen    $ und,_aber nichts       Neg.     erhalten  $ dies,_das sein
 \tx / ghis
 \std $ jis
@@ -1804,9 +1804,9 @@
 
 \ref BP_II_281.12
 \tx ßuwu  / iog  ghis    ſu  ſawa              draugu  wienu   du ne=|galeia             
-\std žuvų $ jog  jis     su   savo               draugu  vienudu    ne           galėjo
+\std žuvų $ jog  jis     su   savo               draugu  vienudu    ne_          galėjo
 \mrph g.pl.  $ -    n.sg.m. +i.  -                  i.sg.   n.         -            3.prt.
-\lm žuvis $ jog  jis     su   savo               draugas vienudu    ne           galėti
+\lm žuvis $ jog  jis     su   savo               draugas vienudu    ne_          galėti
 \PoS sf.    $ cnj. prn.    prp. prn.               sm.     c.         pfx.         vb.
 \gD Fisch  $ dass er      mit  [refl._Poss.-prn.] Freund  nur_zwei   Neg.         können
 
@@ -1940,9 +1940,9 @@
 
 \ref BP_II_282.04
 \tx koßnas   darba  / necʒedik            kuna         alba prakaita           ſawa              /
-\std kožnas   darbą $ ne         čėdyk   kūną-kūno alba prakaitą-prakaito savo               $
+\std kožnas   darbą $ ne_        čėdyk   kūną-kūno alba prakaitą-prakaito savo               $
 \mrph n.sg.m.   a.sg.  $ -          2.sg.imp. a.sg./g.sg.  -    a.sg./g.sg.        -                  $
-\lm kožnas   darbas $ ne         čėdyti  kūnas       alba prakaitas          savo               $
+\lm kožnas   darbas $ ne_        čėdyti  kūnas       alba prakaitas          savo               $
 \PoS prn.      sm.    $ pfx.       vb.       sm.          cnj. sm.                prn.               $
 \gD jede(r/s) Werk   $ Neg.       schonen   Körper      oder Schweiß           [refl._Poss.-prn.] $
 

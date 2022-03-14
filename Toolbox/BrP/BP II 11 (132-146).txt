@@ -156,10 +156,10 @@
 
 \ref BP_II_133.13
 \tx Schitai / er           newiſſi                  tie        kurie       kalb     /
-\std šitai  $ ar           ne         visi            tie        kurie       kalba    $
+\std šitai  $ ar           ne_        visi            tie        kurie       kalba    $
 \mrph -       $ -            -          n.pl.m.         n.pl.m.    n.pl.m.     3.prs.   $
-\lm šitai  $ ar           ne         visas           tas        kuris       kalbėti $
-\PoS part.   $ part.        part.      prn.            prn.       prn.        vb.      $
+\lm šitai  $ ar           ne_        visas           tas        kuris       kalbėti $
+\PoS part.   $ part.        pfx.       prn.            prn.       prn.        vb.      $
 \gD siehe   $ [Fragepart.] Neg.       jede(r/s),_alle diese(r/s) welche(r/s) sprechen $
 
 \ref BP_II_133.14
@@ -1132,9 +1132,9 @@
 
 \ref BP_II_138.21
 \tx Iei         kas  neatgims                       iſch wandens ir        Dwaſes
-\std jei         kas  ne        atgims               iš   vandens ir        dvasės-dvasios
+\std jei         kas  ne_       atgims               iš   vandens ir        dvasės-dvasios
 \mrph -           n.   -         3.ft.                +g.   g.sg.   -         g.sg.
-\lm jei         kas  ne        atgimti              iš   vanduo  ir        dvasė-dvasia
+\lm jei         kas  ne_       atgimti              iš   vanduo  ir        dvasė-dvasia
 \PoS cnj.        prn. pfx.      vb.                  prp.  sm.     cnj.      sf.
 \gD wenn,_falls wer  Neg.      wiedergeboren_werden aus   Wasser  und,_auch Geist
 \tx Schwen=|tos /
@@ -1146,9 +1146,9 @@
 
 \ref BP_II_138.22
 \tx negales          ieiti       ingi        Karaliſta  Diewo  . Per   mie=|laſchirdingiſte
-\std ne       galės  įeiti      ing         karalystą  dievo  $ per   mielaširdingystę
+\std ne_      galės  įeiti      ing         karalystą  dievo  $ per   mielaširdingystę
 \mrph -        3.ft.   inf.        +a.         a.sg.       g.sg.  $ +a.   a.sg.
-\lm ne       galėti įeiti      ing         karalysta   dievas $ per   mielaširdingystė
+\lm ne_      galėti įeiti      ing         karalysta   dievas $ per   mielaširdingystė
 \PoS pfx.     vb.     vb.         prp.        sf.         sm.    $ $ pr  sf.
 \gD Neg.     können hineingehen in_-_hinein Königreich Gott   $ durch Barmherzigkeit
 
@@ -1218,9 +1218,9 @@
 
 \ref BP_II_139.06
 \tx nepalinkſmintu                  / turetumbim   nuſſiminti / kaip
-\std ne               palinksmintų   $ turėtumėme nusiminti    $ kaip
+\std ne_              palinksmintų   $ turėtumėme nusiminti    $ kaip
 \mrph -                3.cnd.          $ 1.pl.cnd.    inf.         $ -
-\lm ne               palinksminti    $ turėti      nusiminti    $ kaip
+\lm ne_              palinksminti    $ turėti      nusiminti    $ kaip
 \PoS pfx.             vb.             $ vb.          vb.          $ $ adv.
 \gD Neg.             trösten        $ müssen      verzweifeln  $ wie
 
@@ -1298,11 +1298,11 @@
 
 \ref BP_II_139.17
 \tx wis   / ka   aſch eſmi     ſakes                    . Niekas      neßinna           kas
-\std vis   $ ką  aš   esu       sakęs                    $ niekas      ne        žino    kas
+\std vis   $ ką  aš   esu       sakęs                    $ niekas      ne_       žino    kas
 \mrph indc. $ a.   n.    1.sg.prs. prc.prt.act._n.sg.m.+PERF $ n.          -         3.prs.   n.
-\lm vis   $ kas  aš   būti     sakyti                    $ niekas      ne        žinoti  kas
-\PoS adv.  $ prn. prn.  v.aux     vb.                       $ $ prn.+SNeg           vb.      prn.
-\gD alles $ was  ich   sein      sagen                     $ niemand               wissen   was
+\lm vis   $ kas  aš   būti     sakyti                    $ niekas      ne_       žinoti  kas
+\PoS adv.  $ prn. prn.  v.aux     vb.                       $ $ prn.+SNeg pfx.      vb.      prn.
+\gD alles $ was  ich   sein      sagen                     $ niemand     Neg.      wissen   was
 
 \ref BP_II_139.18
 \tx Dieweie ira    / be   Dwaſes         Diewo  . Bet           mumus
@@ -1734,9 +1734,9 @@
 
 \ref BP_II_141.21
 \tx Schwenta Dwaſe        kitam       newienam      neteka           /
-\std šventa  dvasė-dvasia kitam       nė_vienam    ne      teko     $
+\std šventa  dvasė-dvasia kitam       nė_vienam    ne_     teko     $
 \mrph n.sg.f.  n.sg.         d.sg.m.     d.sg.m.       -       3.prt.   $
-\lm šventas dvasė-dvasia kitas       nė_vienas    ne      tekti    $
+\lm šventas dvasė-dvasia kitas       nė_vienas    ne_     tekti    $
 \PoS adj.     sf.           prn.        prn.+SNeg.    pfx.    vb.      $
 \gD heilig   Geist         andere(r/s) niemand,_kein Neg.    gelangen $
 
@@ -1974,9 +1974,9 @@
 
 \ref BP_II_142.25
 \tx A         Schwenta Dwaſe        / netokiu              iſchganſtingu alba
-\std o         šventa  dvasė-dvasia $ ne       tokiu       išgąstingu    alba
+\std o         šventa  dvasė-dvasia $ ne_      tokiu       išgąstingu    alba
 \mrph -         n.sg.f.  n.sg.         $ -        i.sg.m.     i.sg.m.         -
-\lm o         šventas dvasė-dvasia $ ne       toks        išgąstingas   alba
+\lm o         šventas dvasė-dvasia $ ne_      toks        išgąstingas   alba
 \PoS cnj.      adj.     sf.           $ pfx.     prn.        adj.            cnj.
 \gD und,_aber heilig   Geist         $ Neg.     solche(r/s) schrecklich     oder
 
@@ -2030,9 +2030,9 @@
 
 \ref BP_II_143.05
 \tx Ant  Trecʒio    . Apaſchtalu neiſchgandin                .
-\std ant  trečio     $ apaštalų  ne             išgandina    $
+\std ant  trečio     $ apaštalų  ne_            išgandina    $
 \mrph +g.  g.sg.m.     $ g.pl.       -              3.prs.        $
-\lm ant  trečias    $ apaštalas  ne             išgandinti   $
+\lm ant  trečias    $ apaštalas  ne_            išgandinti   $
 \PoS prp. o.          $ sm.         pfx.           vb.           $
 \gD auf  dritte(r/s) $ Apostel     Neg.           erschrecken   $
 
@@ -2150,10 +2150,10 @@
 
 \ref BP_II_143.20
 \tx didei buwa   nuſigande               / bijoios        ßidu  / drebeia  nedriſa           
-\std didei buvo   nusigandę               $ bijojosi       žydų $ drebėjo ne         drįso
+\std didei buvo   nusigandę               $ bijojosi       žydų $ drebėjo ne_        drįso
 \mrph -     3.prt. prc.prt.act._n.pl.m.+PSS $ 3.prt.         g.pl.  $ 3.prt.   -          3.prt.
-\lm didei būti  nusigąsti               $ bijotis        žydas $ drebėti ne         drįsti
-\PoS adv.  v.aux  vb.                      $ vb.            sm.    $ vb.                 vb.
+\lm didei būti  nusigąsti               $ bijotis        žydas $ drebėti ne_        drįsti
+\PoS adv.  v.aux  vb.                      $ vb.            sm.    $ vb.      pfx.       vb.
 \gD sehr  sein   sich_erschrecken         $ sich_fürchten Jude   $ zittern  Neg.       wagen
 \tx re=|gimai
 \std regimai
@@ -2212,10 +2212,10 @@
 
 \ref BP_II_143.27
 \tx ir        palinkſmin  / iog  nieko  daugeſni nebijos                 / nei
-\std ir        palinksmina  $ jog  nieko  daugesni  ne       bijosi         $ nei
+\std ir        palinksmina  $ jog  nieko  daugesni  ne_      bijosi         $ nei
 \mrph -         3.prs.       $ -    g.sg.  cmp.      -        3.prs.         $ -
-\lm ir        palinksminti $ jog  niekas           ne       bijotis        $ nei
-\PoS cnj.      vb.          $ cnj.                  pfx      vb.            $ $ cnj.
+\lm ir        palinksminti $ jog  niekas           ne_      bijotis        $ nei
+\PoS cnj.      vb.          $ cnj.                  pfx.     vb.            $ $ cnj.
 \gD und,_auch trösten     $ dass                  Neg.     sich_fürchten $ und_nicht,_weder_noch
 
 \ref BP_II_143.28
@@ -2274,9 +2274,9 @@
 
 \ref BP_II_144.06
 \tx raſchto neſſimokine                       . Onu              Schwenta Dwaſe
-\std rašto   ne             mokinęsi            $ o         nū    šventa  dvasė-dvasia
+\std rašto   ne_            mokinęsi            $ o         nū    šventa  dvasė-dvasia
 \mrph g.sg.    -              prc.prt.act._n.pl.m. $ -         -      n.sg.f.  n.sg.
-\lm raštas  ne             mokintis             $ o         nu=nū šventas dvasė-dvasia
+\lm raštas  ne_            mokintis             $ o         nu=nū šventas dvasė-dvasia
 \PoS sm.      pfx.           vb.                  $ cnj.      adv.   adj.     sf.
 \gD Schrift  Neg.           lernen               $ und,_aber jetzt  heilig   Geist
 
@@ -2408,10 +2408,10 @@
 \PoS vb.                  $ $ cnj.    prp.  prn.       prn.      adv.  vb.    $ part.
 \gD sprechen             $ und,_auch aus   diese(r/s) jene(r/s) so    sagen  $ [Fragepart.]
 \tx newiſ=|ſi              
-\std ne            visi
+\std ne_           visi
 \mrph -             n.pl.m.
-\lm ne            visas
-\PoS part.         prn.
+\lm ne_           visas
+\PoS pfx.          prn.
 \gD Neg.          jede(r/s),_alle
 
 \ref BP_II_144.23
@@ -2536,18 +2536,18 @@
 
 \ref BP_II_145.15
 \tx Iei         Apaſchtalai Schwenta Dwaſe         nebutu         
-\std jei         apaštalai   šventą dvasę-dvasią ne       būtų
+\std jei         apaštalai   šventą dvasę-dvasią ne_      būtų
 \mrph -           n.pl.        a.sg.f.  a.sg.          -        3.cnd.
-\lm jei         apaštalas   šventas dvasė-dvasia  ne       būti
+\lm jei         apaštalas   šventas dvasė-dvasia  ne_      būti
 \PoS cnj.        sm.          adj.     sf.            pfx.     v.aux
 \gD wenn,_falls Apostel      heilig   Geist          Neg.     sein
 
 \ref BP_II_145.16
 \tx gawe                      iſch dangaus / anis      iſchtieſos ſchitai nebutu         ga=|leie                  /
-\std gavę                     iš   dangaus $ anys      iš_tiesos   šitai   ne      būtų galėję                  $
+\std gavę                     iš   dangaus $ anys      iš_tiesos   šitai   ne_     būtų galėję                  $
 \mrph prc.prt.act._n.pl.m.+PERF +g.   g.sg.   $ n.pl.m.   -            -        -       3.cnd. prc.prt.act._n.pl.m.+PERF $
-\lm gauti                     iš   dangus  $ anas      iš_tiesos   šitai   ne      būti  galėti                   $
-\PoS vb.                       prp.  sm.     $ prn.      adv.sec.     part.    pfx            vb.                       $
+\lm gauti                     iš   dangus  $ anas      iš_tiesos   šitai   ne_     būti  galėti                   $
+\PoS vb.                       prp.  sm.     $ prn.      adv.sec.     part.    pfx.           vb.                       $
 \gD erhalten                  aus   Himmel  $ jene(r/s) fürwahr     siehe    Neg.           können                   $
 
 \ref BP_II_145.17
@@ -2592,10 +2592,10 @@
 
 \ref BP_II_145.22
 \tx pagonu  ir        Smerti  / kantrei  iſchkenteti / neſigjne            .
-\std pagonų ir        smertį $ kantriai iškentėti  $ ne         gynėsi   $
+\std pagonų ir        smertį $ kantriai iškentėti  $ ne_        gynėsi   $
 \mrph g.pl.   -         a.sg.   $ adv.     inf.         $ -          3.prt.    $
-\lm pagonas ir        smertis $ kantrus  iškentėti  $ ne         gintis    $
-\PoS sm.     cnj.      sf.     $ adj.     vb.          $ $ pfx      vb.       $
+\lm pagonas ir        smertis $ kantrus  iškentėti  $ ne_        gintis    $
+\PoS sm.     cnj.      sf.     $ adj.     vb.          $ pfx.       vb.       $
 \gD Heide   und,_auch Tod     $ geduldig erleiden     $ Neg.                 $
 
 \ref BP_II_145.23

@@ -100,9 +100,9 @@
 
 \ref BP_I_002.06
 \tx iums negins            . A         tatai     wis   ſtoioſe / idant
-\std jums ne      gins      $ o         tatai     vis   stojosi   $ idant
+\std jums ne_     gins      $ o         tatai     vis   stojosi   $ idant
 \mrph d.   -       3.ft.     $ -         -         indc. 3.prt.    $ -
-\lm jūs ne      ginti     $ o         tatai     vis   stotis    $ idant
+\lm jūs ne_     ginti     $ o         tatai     vis   stotis    $ idant
 \PoS prn. pfx.    vb.       $ cnj.      prn.      prn.  vb.       $ cnj.
 \gD ihr  Neg.    verwehren $ und,_aber dies,_das alles geschehen $ damit
 
@@ -195,12 +195,12 @@
 \gD abschneiden Ast,_Zweig von  Baum    $ und  ausbreiten er      auf
 
 \ref BP_I_002.18
-\tx kælio . A         ßmones         kurie       pirm   ir   paſkui
-\std kelio  $ o         žmonės        kurie       pirm   ir   paskui
-\mrph g.sg.  $ -         n.pl.           n.pl.m.     -      -    -
-\lm kelias $ o         žmogus         kuris       pirm   ir   paskui
-\PoS sm.    $ cnj.      sm._pl._sm./sf. prn.        adv.   cnj. adv.
-\gD Weg    $ und,_aber Mensch          welche(r/s) vorher und  nachher
+\tx kælio . A         ßmones                                                                                                                                                                              kurie       pirm   ir   paſkui
+\std kelio  $ o         žmonės                                   kurie                                      pirm                                       ir                                         paskui
+\mrph g.sg.  $ -         n.pl.                                      n.pl.m.                                    -                                          -                                          -
+\lm kelias $ o         žmogus                                    kuris                                      pirm                                       ir                                         paskui
+\PoS sm.    $ cnj.      sm._pl._sm.                                prn.                                       adv.                                       cnj.                                       adv.
+\gD Weg    $ und,_aber Mensch                                     welche(r/s)                                vorher                                     und                                        nachher
 
 \ref BP_I_003.01
 \tx eia    / ſchuke[ſchauke] bilodami      . Hoſianna Sunui
@@ -704,9 +704,9 @@
 \PoS sm._pl._sm. prn.
 \gD Mensch      diese(r/s)
 \tx netik          /
-\std ne     tiki    $
+\std ne_    tiki    $
 \mrph -      3.prs.  $
-\lm ne     tikėti $
+\lm ne_    tikėti $
 \PoS pfx.   vb.     $
 \gD Neg.   glauben $
 
@@ -1063,12 +1063,12 @@
 \lm ir   bluznyjimas $ būti     žydas būti     kitas       pagonas
 \PoS cnj. sm.         $ vb.       sm.    vb.       prn.        sm.
 \gD und  Lästerung  $ sein      Jude   sein      andere(r/s) Heide
-\tx netikin=|cʒ̇iu                  
-\std ne                tikinčių
-\mrph -                 prc.prs.act._g.pl.m.
-\lm ne                tikėti
-\PoS pfx.              vb.
-\gD Neg.              glauben
+\tx netikin=|cʒ̇iu                   
+\std ne_                tikinčių
+\mrph -                  prc.prs.act._g.pl.m.
+\lm ne_                tikėti
+\PoS pfx.               vb.
+\gD Neg.               glauben
 
 \ref BP_I_006.26
 \tx Diewui .
@@ -1120,11 +1120,11 @@
 
 \ref BP_I_007.06
 \tx ſugrieſchijmo Adamo   / anam      dabar beeſſant                Raiuie   /
-\std sugriešijimo   Adomo   $ anam      dabar be-         esant         rojuje   $
+\std sugriešijimo   Adomo   $ anam      dabar be_         esant         rojuje   $
 \mrph g.sg.           g.sg.   $ d.sg.m.   -     -           prc.indc.prs. l.sg.    $
-\lm sugriešijimas  Adomas  $ anas      dabar be-         būti         rojus    $
-\PoS sm.             sm.npr. $ prn.      adv.  pfx.-       vb.           sm.      $
-\gD Versündigung   Adam    $ jene(r/s) noch  []-         sein          Paradies $
+\lm sugriešijimas  Adomas  $ anas      dabar be_         būti         rojus    $
+\PoS sm.             sm.npr. $ prn.      adv.  pfx.        vb.           sm.      $
+\gD Versündigung   Adam    $ jene(r/s) noch  []          sein          Paradies $
 
 \ref BP_I_007.07
 \tx nei                   wel    ateia  toiaus  / po   anu       patwanu  / kada      Diewas
@@ -1464,9 +1464,9 @@
 
 \ref BP_I_008.21
 \tx neateit          ing         Ieruſalem    puiku     / kittu       ſwietiſchku
-\std ne       ateina  ing         ext:Jerusalem puiku     $ kitų       svietiškų
+\std ne_      ateina  ing         ext:Jerusalem puiku     $ kitų       svietiškų
 \mrph -        3.prs.  +a.         indc.         i.sg.m.   $ g.pl.m.     g.pl.m.
-\lm ne       ateiti  ing         ext:Jerusalem puikus    $ kitas       svietiškas
+\lm ne_      ateiti  ing         ext:Jerusalem puikus    $ kitas       svietiškas
 \PoS pfx.     vb.     prp.        sm.npr.       adj.      $ prn.        adj.
 \gD Neg.     kommen  in_-_hinein Jerusalem     prächtig $ andere(r/s) weltlich
 \tx Kara=|liu
@@ -1477,12 +1477,12 @@
 \gD König
 
 \ref BP_I_008.22
-\tx alba Panu  didʒu  budu       / ghis    ne   atwed      / ſuſawimi            
-\std alba ponų didžiu būdu      $ jis     ne   atveda     $ su          savimi
-\mrph -    g.pl. i.sg.m. i.sg.      $ n.sg.m. -    3.prs.     $ +i.         i.
-\lm alba ponas didis   būdas     $ jis     ne   atvesti    $ su          savęs
-\PoS cnj. sm.   adj.    sm.        $ prn.    pfx. vb.        $ prp.        prn.
-\gD oder Herr  groß   Art,_Weise $ er      Neg. herführen $ mit         [refl.prn.]
+\tx alba Panu  didʒu  budu       / ghis    ne   atwed      / ſuſawimi             
+\std alba ponų didžiu būdu      $ jis     ne   atveda     $ su           savimi
+\mrph -    g.pl. i.sg.m. i.sg.      $ n.sg.m. -    3.prs.     $ +i.          i.
+\lm alba ponas didis   būdas     $ jis     ne   atvesti    $ su           savęs
+\PoS cnj. sm.   adj.    sm.        $ prn.    pfx. vb.        $ prp.         prn.
+\gD oder Herr  groß   Art,_Weise $ er      Neg. herführen $ mit          [refl.prn.]
 
 \ref BP_I_008.23
 \tx kiek         tukſtancʒiu Scharwiniku  / didʒiu  arkliu  / daug
@@ -1494,9 +1494,9 @@
 
 \ref BP_I_008.24
 \tx Weßimu  aukſu ir   ſidabru prikrautu            / ghis    netur          tarnu
-\std vežimų auksu  ir   sidabru  prikrautų           $ jis     ne     turi    tarnų
+\std vežimų auksu  ir   sidabru  prikrautų           $ jis     ne_    turi    tarnų
 \mrph g.pl.    i.sg.  -    i.sg.    prc.prt.pss._g.pl.m. $ n.sg.m. -      3.prs.  g.pl.
-\lm vežimas auksas ir   sidabras prikrauti            $ jis     ne     turėti tarnas
+\lm vežimas auksas ir   sidabras prikrauti            $ jis     ne_    turėti tarnas
 \PoS sm.      sm.    cnj. sm.      vb.                  $ prn.    pfx.   vb.     sm.
 \gD Wagen    Gold   und  Silber   beladen              $ er      Neg.   haben   Diener
 
@@ -1680,16 +1680,16 @@
 
 \ref BP_I_009.20
 \tx 1 . Idant ßmones         ßinnotu / ghi     nebuſenti                      ſwie=|tiſchku
-\std 1 $ idant žmonės        žinotų $ jį     ne          būsiantį          svietišku
+\std 1 $ idant žmonės        žinotų $ jį     ne_         būsiantį          svietišku
 \mrph 1 $ -     n.pl.           3.cnd.   $ a.sg.m. -           prc.ft.act._a.sg.m. i.sg.m.
-\lm 1 $ idant žmogus         žinoti  $ jis     ne          būti               svietiškas
+\lm 1 $ idant žmogus         žinoti  $ jis     ne_         būti               svietiškas
 \PoS 1 $ cnj.  sm._pl._sm./sf. vb.      $ prn.    pfx.        vb.                 adj.
 \gD 1 $ damit Mensch          wissen   $ er      Neg.        sein                weltlich
 
 \ref BP_I_009.21
 \tx ir   pragaiſchtancʒiu     / bet           amßinu  kara=|liumi /
 \std ir   pragaištančiu        $ bet           amžinu  karaliumi   $
-\mrph -    prc.prs.act.._i.sg.m.  $ -             i.sg.m.  i.sg.       $
+\mrph -    prc.prs.act._i.sg.m.   $ -             i.sg.m.  i.sg.       $
 \lm ir   pragaišti             $ bet           amžinas karalius    $
 \PoS cnj. vb.                    $ cnj.          adj.     sm.         $
 \gD und  verschwinden,_vergehen $ aber,_sondern ewig     König      $
@@ -1924,9 +1924,9 @@
 
 \ref BP_I_010.24
 \tx io      netur          ſugaiſchti / prapulti / iſchnikti/     bet
-\std jo      ne     turi    sugaišti    $ prapulti $ išnykti        bet
+\std jo      ne_    turi    sugaišti    $ prapulti $ išnykti        bet
 \mrph g.sg.m. -      3.prs.  inf.         $ inf.     $ inf.            -
-\lm jis     ne     turėti sugaišti    $ prapulti $ išnykti        bet
+\lm jis     ne_    turėti sugaišti    $ prapulti $ išnykti        bet
 \PoS prn.    pfx.   vb.     vb.          $ vb.      $ vb.             cnj.
 \gD er      Neg.   müssen vergehen     $ vergehen $ zunichte_werden aber,_sondern
 \tx amßi=|nai
@@ -1946,9 +1946,9 @@
 
 \ref BP_I_011.01
 \tx bus   amßinai / ir   karaliſtes io      / nebus        galo  . Io
-\std bus   amžinai $ ir   karalystės jo      $ ne     bus   galo  $ jo
+\std bus   amžinai $ ir   karalystės jo      $ ne_    bus   galo  $ jo
 \mrph 3.ft. adv.     $ -    g.sg.       g.sg.m. $ -      3.ft. g.sg. $ g.sg.m.
-\lm būti amžinas $ ir   karalystė  jis     $ ne     būti galas $ jis
+\lm būti amžinas $ ir   karalystė  jis     $ ne_    būti galas $ jis
 \PoS vb.   adj.     $ cnj. sf.         prn.    $ pfx.   vb.   sm.   $ prn.
 \gD sein  ewig     $ und  Königreich er      $ Neg.   sein  Ende  $ er
 \tx Po=|niſte
@@ -2075,12 +2075,12 @@
 \gD item    ihr   diese(r/s) Tag    geboren_werden Erretter          $
 
 \ref BP_I_011.15
-\tx Item    Kitame      newiename     nera          Iſchganimo /
-\std item    kitame      nė_viename   nėra         išganymo   $
-\mrph -       l.sg.m.     l.sg.m.       3.prs. 3.prs. g.sg.       $
-\lm lt:item kitas       nė_vienas    ne     būti  išganymas  $
-\PoS -       prn.        prn.+SNeg.    pfx.   vb.    sm.         $
-\gD item    andere(r/s) niemand,_kein Neg.   sein   Erlösung   $
+\tx Item    Kitame      newiename     nera           Iſchganimo /
+\std item    kitame      nė_viename   nėra          išganymo   $
+\mrph -       l.sg.m.     l.sg.m.       3.prs.         g.sg.       $
+\lm lt:item kitas       nė_vienas    būti   būti  išganymas  $
+\PoS -       prn.        prn.+SNeg.    pfx.    vb.    sm.         $
+\gD item    andere(r/s) niemand,_kein sein    sein   Erlösung   $
 
 \ref BP_I_011.16
 \tx Neigi                 wel    wardas kokſai     Sʒmonems
@@ -2193,12 +2193,12 @@
 \gD er      sein   wir    König    ewig     $ welche(r/s)
 
 \ref BP_I_012.06
-\tx mus  po
-\std mus  po
-\mrph a.   +g.
-\lm mes  po
-\PoS prn. prp.
-\gD wir  vor
+\tx mus  po               akimſawa       dangaus Tiewo  apteiſin  ir   amßi=|nai
+\std mus  po_akim       savo               dangaus tėvo  apteisina  ir   amžinai
+\mrph a.   +g.           -                  g.sg.   g.sg.  3.prs.     -    adv.
+\lm mes  po_akim       savo               dangus  tėvas apteisinti ir   amžinas
+\PoS prn. prp.sec.      prn.               sm.     sm.    vb.        cnj. adj.
+\gD wir  vor           [refl._Poss.-prn.] Himmel  Vater  richten    und  ewig
 
 \ref BP_I_012.07
 \tx ichſgana / Tada     iſchtieſos pareitis  mumus idant
@@ -2313,12 +2313,12 @@
 \gD Herr  lieben  $ und  er      vertrauen   $ lieben    Gott   aus
 
 \ref BP_I_012.21
-\tx wiſſos        ſchirdies . Kas  tikes   ing         Sunu   Diewo  nebus       
-\std visos           širdies   $ kas  tikės  ing         sūnų dievo  ne     bus
-\mrph g.sg.f.         g.sg.      $ n.   3.ft.   +a.         a.sg.  g.sg.  -      3.ft.
-\lm visas           širdis    $ kas  tikėti ing         sūnus dievas ne     būti
-\PoS prn.            sf.        $ prn. vb.     prp.        sm.    sm.    pfx.   vb.aux
-\gD jede(r/s),_alle Herz       $ wer  glauben in_-_hinein Sohn   Gott   Neg.   sein
+\tx wiſſos        ſchirdies . Kas  tikes   ing         Sunu   Diewo  nebus        
+\std visos           širdies   $ kas  tikės  ing         sūnų dievo  ne_     bus
+\mrph g.sg.f.         g.sg.      $ n.   3.ft.   +a.         a.sg.  g.sg.  -       3.ft.
+\lm visas           širdis    $ kas  tikėti ing         sūnus dievas ne_     būti
+\PoS prn.            sf.        $ prn. vb.     prp.        sm.    sm.    pfx.    vb.aux
+\gD jede(r/s),_alle Herz       $ wer  glauben in_-_hinein Sohn   Gott   Neg.    sein
 
 \ref BP_I_012.22
 \tx ſudits                  .

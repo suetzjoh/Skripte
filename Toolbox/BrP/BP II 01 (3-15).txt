@@ -132,9 +132,9 @@
 
 \ref BP_II_004.09
 \tx O         ghis    biloia ioms    / nenuſiganſket                   . Ie=|ſaus
-\std o         jis     bylojo joms    $ ne               nusigąskite     $ Jėzaus
+\std o         jis     bylojo joms    $ ne_              nusigąskite     $ Jėzaus
 \mrph -         n.sg.m. 3.prt. d.pl.f. $ -                2.pl.imp.        $ g.sg.
-\lm o         jis     byloti jis     $ ne               nusigąsti       $ Jėzus
+\lm o         jis     byloti jis     $ ne_              nusigąsti       $ Jėzus
 \PoS cnj.      prn.    vb.    prn.    $ pfx.             vb.              $ sm.npr.
 \gD und,_aber er      sagen  er      $ Neg.             sich_erschrecken $ Jesus
 
@@ -147,12 +147,12 @@
 \gD suchen    Nazarenisch    kreuzigen                $
 
 \ref BP_II_004.11
-\tx keleſi   nera          io      cʒonai / Schitai wieta       /
-\std kėlėsi  nėra         jo      čionai $ šitai  vieta       $
-\mrph 3.prt.    3.prs. 3.prs. g.sg.m. -       $ -       n.sg.       $
-\lm keltis    ne     būti  jis     čionai $ šitai  vieta       $
-\PoS vb.       pfx.   vb.    prn.    adv.    $ part.   sf.         $
-\gD aufstehen Neg.   sein   er      hier    $ siehe   Ort,_Stelle $
+\tx keleſi   nera           io      cʒonai / Schitai wieta       /
+\std kėlėsi  nėra          jo      čionai $ šitai  vieta       $
+\mrph 3.prt.    3.prs.         g.sg.m. -       $ -       n.sg.       $
+\lm keltis    būti   būti  jis     čionai $ šitai  vieta       $
+\PoS vb.       pfx.    vb.    prn.    adv.    $ part.   sf.         $
+\gD aufstehen sein    sein   er      hier    $ siehe   Ort,_Stelle $
 
 \ref BP_II_004.12
 \tx kuron       ghi     padeghi                   buwa   . Bet           eiket     /
@@ -210,9 +210,9 @@
 
 \ref BP_II_005.01
 \tx ir   neſake          niewienam     nieka        / ne=|ſa
-\std ir   ne       sakė   nė_vienam    nieko-nieką $ nes
+\std ir   ne_      sakė   nė_vienam    nieko-nieką $ nes
 \mrph -    -        3.prt.  d.sg.m.       g.sg./a.sg.  $ -
-\lm ir   ne       sakyti  nė_vienas    niekas       $ nes
+\lm ir   ne_      sakyti  nė_vienas    niekas       $ nes
 \PoS cnj. pfx.     vb.     prn.+SNeg.    prn.+SNeg.   $ cnj.
 \gD und  Neg.     sagen   niemand,_kein nichts       $ denn
 
@@ -306,9 +306,9 @@
 
 \ref BP_II_005.13
 \tx teipaieg  daug iſch Sʒidu / netikeiuſius                       ſchi      Kri=|ſtu
-\std taipajėg daug iš   žydų $ ne             tikėjusius          šį       Kristų
+\std taipajėg daug iš   žydų $ ne_            tikėjusius          šį       Kristų
 \mrph -         -    +g.   g.pl.  $ -              prc.prt.act._a.pl.m. a.sg.m.    a.sg.
-\lm taipajėg daug iš   žydas $ ne             tikėti              šis       Kristus
+\lm taipajėg daug iš   žydas $ ne_            tikėti              šis       Kristus
 \PoS adv.      adv. prp.  sm.    $ pfx.           vb.                  prn.       sm.npr.
 \gD auch      viel aus   Jude   $ Neg.           glauben              diese(r/s) Christus
 
@@ -528,9 +528,9 @@
 \PoS vb.       $ prp.         prn.        v.aux  vb.                  $ cnj.
 \gD werden    $ aus          welche(r/s) sein   nehmen               $ und,_aber
 \tx neßinom            ne=|wiena
-\std ne        žinome   nė_vieną-nė_vieno
+\std ne_       žinome   nė_vieną-nė_vieno
 \mrph -         1.pl.prs. a.sg./g.sg.
-\lm ne        žinoti   nė_vienas
+\lm ne_       žinoti   nė_vienas
 \PoS pfx.      vb.       prn.+SNeg.
 \gD Neg.      wissen    niemand,_kein
 
@@ -614,9 +614,9 @@
 
 \ref BP_II_007.03
 \tx nepaßiſta              / eſme     apiůkiami           . Ir        kadangi ant  ſchos
-\std ne           pažįsta   $ esame     apjuokiami           $ ir        kadangi ant  šios
+\std ne_          pažįsta   $ esame     apjuokiami           $ ir        kadangi ant  šios
 \mrph -            3.prs.      $ 1.pl.prs. prc.prs.pss._n.pl.m. $ -         -       +g.  g.sg.f.
-\lm ne           pažinti    $ būti     apjuokti             $ ir        kadangi ant  šis
+\lm ne_          pažinti    $ būti     apjuokti             $ ir        kadangi ant  šis
 \PoS pfx.         vb.         $ $ v.aux   vb.                  $ $ cnj.    cnj.    prp. prn.
 \gD Neg.         (er)kennen  $ sein      verlachen            $ und,_auch weil    auf  diese(r/s)
 
@@ -654,9 +654,9 @@
 
 \ref BP_II_007.08
 \tx ir        pakaſimu / nepaſſilikuſſi                       ßemeie  / nei                   patreſchimo
-\std ir        pakasimu  $ ne                  pasilikusį          žemėje $ nei                   patręšimo
+\std ir        pakasimu  $ ne_                 pasilikusį          žemėje $ nei                   patręšimo
 \mrph -         i.sg.     $ -                   prc.prt.act._a.sg.m. l.sg.    $ -                     g.sg.
-\lm ir        pakasimas $ ne                  pasilikti            žemė   $ nei                   patręšimas
+\lm ir        pakasimas $ ne_                 pasilikti            žemė   $ nei                   patręšimas
 \PoS cnj.      sm.       $ pfx.                vb.                  sf.      $ $ cnj.                sm.
 \gD und,_auch Vergraben $ Neg.                bleiben              Erde     $ und_nicht,_weder_noch Verfaulen
 
@@ -790,9 +790,9 @@
 
 \ref BP_II_008.01
 \tx duſches          mana nepalikſi             pekloie / nei                   důſi   Schenta=|tamuiem
-\std dūšės-dūšios mano ne          paliksi    pekloje $ nei                   duosiu   šventajam
+\std dūšės-dūšios mano ne_         paliksi    pekloje $ nei                   duosiu   šventajam
 \mrph g.sg.             -    -           2.sg.ft.   l.sg.   $ -                     1.sg.ft. d.sg.m.def.
-\lm dūšė-dūšia   mano ne          palikti    pekla   $ nei                   duoti    šventas
+\lm dūšė-dūšia   mano ne_         palikti    pekla   $ nei                   duoti    šventas
 \PoS sf.               prn. pfx.        vb.        sf.     $ $ cnj.                vb.      adj.
 \gD Seele             mein Neg.        verlassen  Hölle  $ und_nicht,_weder_noch geben    heilig
 
@@ -836,9 +836,9 @@
 
 \ref BP_II_008.06
 \tx neſupuwa            .
-\std ne         supuvo    $
+\std ne_        supuvo    $
 \mrph -          3.prt.    $
-\lm ne         supūti   $
+\lm ne_        supūti   $
 \PoS pfx.       vb.       $
 \gD Neg.       verfaulen $
 
@@ -1059,12 +1059,12 @@
 \gD Nazarenisch    kreuzigen                $ er      hier
 
 \ref BP_II_009.09
-\tx nera          / ghis    kieleſi  .
-\std nėra         $ jis     kėlėsi  $
-\mrph 3.prs. 3.prs. $ n.sg.m. 3.prt.    $
-\lm ne     būti  $ jis     keltis    $
-\PoS pfx.   vb.    $ prn.    vb.       $
-\gD Neg.   sein   $ er      aufstehen $
+\tx nera           / ghis    kieleſi  .
+\std nėra          $ jis     kėlėsi  $
+\mrph 3.prs.         $ n.sg.m. 3.prt.    $
+\lm būti   būti  $ jis     keltis    $
+\PoS pfx.    vb.    $ prn.    vb.       $
+\gD sein    sein   $ er      aufstehen $
 
 \ref BP_II_009.10
 \tx Bet wis ka ſchwenti Angelai ira kalbeie / tatai
@@ -1084,15 +1084,15 @@
 
 \ref BP_II_009.12
 \tx Ir        anis      niekadai   nemelawa           / Togidel  ir        nu
-\std ir        anys      niekadai   ne        melavo   $ togidėl ir        nū
+\std ir        anys      niekadai   ne_       melavo   $ togidėl ir        nū
 \mrph -         n.pl.m.   -          -         3.prt.   $ -        -         -
-\lm ir        anas      niekadai   ne        meluoti  $ togidėl ir        nu=nū
+\lm ir        anas      niekadai   ne_       meluoti  $ togidėl ir        nu=nū
 \PoS cnj.      prn.      adv.+SNeg. pfx.      vb.      $ adv.     cnj.      adv.
 \gD und,_auch jene(r/s) nie        Neg.      lügen   $ deshalb  und,_auch jetzt
 \tx newilioj           
-\std ne         vilioja
+\std ne_        vilioja
 \mrph -          3.prs.
-\lm ne         vilioti
+\lm ne_        vilioti
 \PoS pfx.       vb.
 \gD Neg.       irreführen,_zu_verlocken_suchen
 
@@ -1122,11 +1122,11 @@
 
 \ref BP_II_009.16
 \tx Kriſtu  buwa   pagulde              / Onu              io      thinai nebeſanti                                   . Tůgi
-\std Kristų  buvo   paguldę             $ o         nū    jo      tinai  ne          be-         esantį              $ tuogi
+\std Kristų  buvo   paguldę             $ o         nū    jo      tinai  ne_         be_         esantį              $ tuogi
 \mrph a.sg.    3.prt. prc.prt.act._g.pl.m. $ -         -      g.sg.m. -      -           -           prc.prs.act._a.sg.m. $ -
-\lm Kristus  būti  paguldyti            $ o         nu=nū jis     tinai  ne                      būti                $ tuogi
-\PoS sm.npr.  v.aux  vb.                  $ cnj.      adv.   prn.    adv.   pfx                                          $ $ cnj.
-\gD Christus sein   hinlegen             $ und,_aber jetzt  er      dort   Neg.                                         $ eben_deshalb,_daher
+\lm Kristus  būti  paguldyti            $ o         nu=nū jis     tinai  ne_         be_         būti                $ tuogi
+\PoS sm.npr.  v.aux  vb.                  $ cnj.      adv.   prn.    adv.   pfx.        pfx.                             $ $ cnj.
+\gD Christus sein   hinlegen             $ und,_aber jetzt  er      dort   Neg.        []                               $ eben_deshalb,_daher
 
 \ref BP_II_009.17
 \tx Angelas ſaka . Dabokites wietos kur ghi pagulde .
@@ -1274,9 +1274,9 @@
 
 \ref BP_II_010.12
 \tx Ant  Penkto       . Deſchimti Apaſchtalu kada      ne=|pribuwa              
-\std ant  penkto       $ dešimtį  apaštalų  kada      ne            pribuvo
+\std ant  penkto       $ dešimtį  apaštalų  kada      ne_           pribuvo
 \mrph +g.  g.sg.m.      $ a.sg.      g.pl.       -         -             3.prt.
-\lm ant  penktas      $ dešimtis  apaštalas  kada      ne            pribūti
+\lm ant  penktas      $ dešimtis  apaštalas  kada      ne_           pribūti
 \PoS prp. o.           $ sf.        sm.         cnj.      pfx.          vb.
 \gD auf  fünfte(r/s) $ Zehner     Apostel     wenn,_als Neg.          dabei_sein
 
@@ -1408,9 +1408,9 @@
 \PoS sm.      prn.               vb.    $ sm.npr.  sm.    cnj.
 \gD Schrift  [refl._Poss.-prn.] geben  $ Christus        oder
 \tx nepaſ=|ſilikuſſi                       /
-\std ne                    pasilikusį          $
+\std ne_                   pasilikusį          $
 \mrph -                     prc.prt.act._a.sg.m. $
-\lm ne                    pasilikti            $
+\lm ne_                   pasilikti            $
 \PoS pfx.                  vb.                  $
 \gD Neg.                  bleiben              $
 
@@ -1458,9 +1458,9 @@
 
 \ref BP_II_011.07
 \tx kad  to         negaleia           buti  / kaip ghis    / tatai     eſt   / Kriſtus / nůg
-\std kad  to         ne        galėjo  būti $ kaip jis     $ tatai     yra    $ Kristus  $ nuog
+\std kad  to         ne_       galėjo  būti $ kaip jis     $ tatai     yra    $ Kristus  $ nuog
 \mrph -    g.sg.m.    -         3.prt.   inf.  $ -    n.sg.m. $ -         3.prs. $ n.sg.    $ +g.
-\lm kad  tas        ne        galėti  būti $ kaip jis     $ tatai     būti  $ Kristus  $ nuog
+\lm kad  tas        ne_       galėti  būti $ kaip jis     $ tatai     būti  $ Kristus  $ nuog
 \PoS cnj. prn.       pfx.      vb.      vb.   $ $ c  prn.    $ prn.      v      $ sm.npr.  $ prp.
 \gD als  diese(r/s) Neg.      können  sein  $ wie  er      $ dies,_das sein   $ Christus $ von
 
@@ -1518,9 +1518,9 @@
 \PoS vb.                  $
 \gD sterben              $
 \tx neklauſikem               nei
-\std ne            klausykime   nei
+\std ne_           klausykime   nei
 \mrph -             1.pl.imp.    -
-\lm ne            klausyti     nei
+\lm ne_           klausyti     nei
 \PoS pfx.          vb.          cnj+SNeg.
 \gD Neg.          zuhören     und_nicht,_weder_noch
 
@@ -1538,9 +1538,9 @@
 \PoS prn.        sm.              $
 \gD andere(r/s) Bummler,_Strolch $
 \tx kurie       netik        
-\std kurie       ne      tiki
+\std kurie       ne_     tiki
 \mrph n.pl.m.     -       3.prs.
-\lm kuris       ne      tikėti
+\lm kuris       ne_     tikėti
 \PoS prn.        pfx.    vb.
 \gD welche(r/s) Neg.    glauben
 \tx Kriſtu  kieluſi
@@ -1658,10 +1658,10 @@
 \PoS prn.   sm.npr. sm.npr.
 \gD wir    Jesus   Christus
 \tx nenoproſ=|nai                 /
-\std ne              noprosnai      $
+\std ne_             noprosnai      $
 \mrph -               adv.           $
-\lm ne              noprosnas      $
-\PoS part.           adj.           $
+\lm ne_             noprosnas      $
+\PoS pfx.            adj.           $
 \gD Neg.            vergeblich     $
 
 \ref BP_II_011.24
@@ -1984,10 +1984,10 @@
 
 \ref BP_II_013.07
 \tx ant  nepragaiſchtancʒios                         ir        cʒiſtos nepawiſtancʒios                    
-\std ant  ne                     pragaištančios       ir        čystos   ne                  pavystančios
+\std ant  ne_                    pragaištančios       ir        čystos   ne_                 pavystančios
 \mrph +g.  -                      prc.prs.act._g.sg.f.   -         g.sg.     -                   prc.prs.act._g.sg.f.
-\lm ant  ne                     pragaišti             ir        čystas   ne                  pavysti
-\PoS prp. pfx.                   vb.                    cnj.      adj.      pfx                 vb.
+\lm ant  ne_                    pragaišti             ir        čystas   ne_                 pavysti
+\PoS prp. pfx.                   vb.                    cnj.      adj.      pfx.                vb.
 \gD auf  Neg.                   verschwinden,_vergehen und,_auch rein      Neg.                verwelken
 
 \ref BP_II_013.08
@@ -2196,9 +2196,9 @@
 \PoS prn.       adv.+SNeg.
 \gD diese(r/s) nie
 \tx nemirs          .
-\std ne      mirs    $
+\std ne_     mirs    $
 \mrph -       3.ft.   $
-\lm ne      mirti   $
+\lm ne_     mirti   $
 \PoS pfx.    vb.     $
 \gD Neg.    sterben $
 
@@ -2432,10 +2432,10 @@
 \PoS adv.   sf.npr.
 \gD jetzt  Ostern
 \tx ſchwenſkim / neſename            
-\std švęskime   $ ne          sename
+\std švęskime   $ ne_         sename
 \mrph 1.pl.imp.    $ -           l.sg.m.
-\lm švęsti     $ ne          senas
-\PoS vb.          $ $ part      adj.
+\lm švęsti     $ ne_         senas
+\PoS vb.          $ pfx.        adj.
 \gD feiern       $ Neg.        alt
 
 \ref BP_II_015.12

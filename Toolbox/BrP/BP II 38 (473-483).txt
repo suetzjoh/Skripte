@@ -84,9 +84,9 @@
 
 \ref BP_II_473.20
 \tx regit     / tada     netikit            . Biloia iopi     Kara=|liſchkis
-\std regite    $ tada     ne       tikite    $ bylojo jop      karališkis
+\std regite    $ tada     ne_      tikite    $ bylojo jop      karališkis
 \mrph 2.pl.prs. $ -        -        2.pl.prs. $ 3.prt. al.sg.m. n.sg.
-\lm regėti   $ tada     ne       tikėti   $ byloti jis      karališkis
+\lm regėti   $ tada     ne_      tikėti   $ byloti jis      karališkis
 \PoS vb.       $ adv.     pfx.     vb.       $ vb.    prn.     sm.
 \gD sehen     $ da,_dann Neg.     glauben   $ sagen  er       königlicher_Beamter
 
@@ -418,11 +418,11 @@
 
 \ref BP_II_476.14
 \tx kakio       / drugiu apſirguſi          / ir        niekur    negaleiuſi              
-\std kokio       $ drugiu apsirgusį           $ ir        niekur    ne            galėjusį
+\std kokio       $ drugiu apsirgusį           $ ir        niekur    ne_           galėjusį
 \mrph g.sg.m.     $ i.sg.  prc.prt.act._a.sg.m. $ -         -         -             prc.prt.act._a.sg.m.
-\lm koks        $ drugys apsirgti             $ ir        niekur    ne            galėti
-\PoS prn.        $ sm.    vb.                  $ $ cnj.    adv.+SNeg               vb.
-\gD welche(r/s) $ Fieber erkranken            $ und,_auch nirgendwo               können
+\lm koks        $ drugys apsirgti             $ ir        niekur    ne_           galėti
+\PoS prn.        $ sm.    vb.                  $ $ cnj.    adv.+SNeg pfx.          vb.
+\gD welche(r/s) $ Fieber erkranken            $ und,_auch nirgendwo Neg.          können
 
 \ref BP_II_476.15
 \tx pagalbos alba iſchgidima gauti    . Bet           iſch tos
@@ -498,9 +498,9 @@
 
 \ref BP_II_476.24
 \tx namus / kurioſu    nebutu         ßmogaus       kokio       negalincʒio         .
-\std namus $ kuriuose    ne      būtų žmogaus       kokio       negalinčio          $
+\std namus $ kuriuose    ne_     būtų žmogaus       kokio       negalinčio          $
 \mrph a.pl. $ l.pl.m.     -       3.cnd. g.sg.          g.sg.m.     prc.prs.act._g.sg.m. $
-\lm namas $ kuris       ne      būti  žmogus        koks        negalėti            $
+\lm namas $ kuris       ne_     būti  žmogus        koks        negalėti            $
 \PoS sm.   $ prn.        pfx.    vb.    sm._pl._sm./sf prn.        vb.                  $
 \gD Haus  $ welche(r/s) Neg.    sein   Mensch         welche(r/s) krank_sein           $
 
@@ -617,12 +617,12 @@
 \gD oberste(r/s) welche(r/s) Kopf  erkranken $ da,_dann beginnen jede(r/s),_alle
 
 \ref BP_II_477.15
-\tx ukis    gaiſchti           / nera          kas  pennetu  waikus alba
-\std ūkis   gaišti             $ nėra         kas  penėtų vaikus alba
-\mrph n.sg.   inf.                $ 3.prs. 3.prs. n.   3.cnd.   a.pl.  -
-\lm ūkis   gaišti             $ ne     būti  kas  penėti  vaikas alba
-\PoS sm.     inf.                $ pfx.   vb.    prn. vb.      sm.    cnj.
-\gD Gehöft vergehen,_schwinden $ Neg.   sein   wer           Kind   oder
+\tx ukis    gaiſchti           / nera           kas  pennetu  waikus alba
+\std ūkis   gaišti             $ nėra          kas  penėtų vaikus alba
+\mrph n.sg.   inf.                $ 3.prs.         n.   3.cnd.   a.pl.  -
+\lm ūkis   gaišti             $ būti   būti  kas  penėti  vaikas alba
+\PoS sm.     inf.                $ pfx.    vb.    prn. vb.      sm.    cnj.
+\gD Gehöft vergehen,_schwinden $ sein    sein   wer           Kind   oder
 \tx ſcheimi=|na /
 \std šeimyną    $
 \mrph a.sg.        $
@@ -631,12 +631,12 @@
 \gD Haushalt     $
 
 \ref BP_II_477.16
-\tx nera          kas  tikrai      ußweiſdetu   Vki     . Schicʒe wel    ga=|linſis
-\std nėra         kas  tikrai      užveizdėtų  ūkį   $ šičia  vėl   galintysis
-\mrph 3.prs. 3.prs. n.   adv.        3.cnd.         a.sg.   $ -        -      prc.prs.act.def.
-\lm ne     būti  kas  tikras      užveizdėti   ūkis   $ šičia  vėl   galėti
-\PoS pfx.   vb.    prn. adj.        vb.            sm.     $ adv.     adv.   vb.
-\gD Neg.   sein   wer  wahr,_recht beaufsichtigen Gehöft $ hier     wieder können
+\tx nera           kas  tikrai      ußweiſdetu   Vki     . Schicʒe wel    ga=|linſis
+\std nėra          kas  tikrai      užveizdėtų  ūkį   $ šičia  vėl   galintysis
+\mrph 3.prs.         n.   adv.        3.cnd.         a.sg.   $ -        -      prc.prs.act.def.
+\lm būti   būti  kas  tikras      užveizdėti   ūkis   $ šičia  vėl   galėti
+\PoS pfx.    vb.    prn. adj.        vb.            sm.     $ adv.     adv.   vb.
+\gD sein    sein   wer  wahr,_recht beaufsichtigen Gehöft $ hier     wieder können
 
 \ref BP_II_477.17
 \tx buk       mote  buk       wiras / delei  negalincʒoio        labai
@@ -702,10 +702,10 @@
 
 \ref BP_II_477.24
 \tx ira    / tas        neßinnos            ikki wakaro  tokſai     paſſilikſens      /
-\std yra    $ tas        ne         žinos    iki  vakaro  toksai      pasilikęs           $
+\std yra    $ tas        ne_        žinos    iki  vakaro  toksai      pasilikęs           $
 \mrph 3.prs. $ n.sg.m.    -          3.ft.     +g.  g.sg.   n.sg.m.     prc.prt.act._n.sg.m. $
-\lm būti  $ tas        ne         žinoti   iki  vakaras toksai      pasilikti            $
-\PoS vb.    $ prn.       pfx        vb.       p    sm.     prn.        vb.                  $
+\lm būti  $ tas        ne_        žinoti   iki  vakaras toksai      pasilikti            $
+\PoS vb.    $ prn.       pfx.       vb.       p    sm.     prn.        vb.                  $
 \gD sein   $ diese(r/s) Neg.       wissen    bis  Abend   solche(r,s) bleiben              $
 
 \ref BP_II_477.25
@@ -836,10 +836,10 @@
 
 \ref BP_II_478.14
 \tx praneſch ßmoniemus / nepildantiemus                       io      Sokana  .
-\std praneša  žmonėms  $ ne              pildantiems          jo      zokaną $
+\std praneša  žmonėms  $ ne_             pildantiems          jo      zokaną $
 \mrph 3.prs.    d.pl.      $ -               prc.prs.act._d.pl.m. g.sg.m. a.sg.   $
-\lm pranešti žmogus    $ ne              pildyti              jis     zokanas $
-\PoS vb.       sm.        $ $ pfx           vb.                  prn.    sm.     $
+\lm pranešti žmogus    $ ne_             pildyti              jis     zokanas $
+\PoS vb.       sm.        $ pfx.            vb.                  prn.    sm.     $
 \gD berichten Mensch     $ Neg.            füllen              er      Gesetz  $
 
 \ref BP_II_478.15
@@ -1348,9 +1348,9 @@
 
 \ref BP_II_481.04
 \tx neußmirſchtu                 / bet           ir        iam     ſlußitu  / ing         ghi
-\std ne              užmirštų    $ bet           ir        jam     slūžytų $ ing         jį
+\std ne_             užmirštų    $ bet           ir        jam     slūžytų $ ing         jį
 \mrph -               3.cnd.         $ -             -         d.sg.m. 3.cnd.     $ +a.         a.sg.m.
-\lm ne              užmiršti     $ bet           ir        jis     slūžyti  $ ing         jis
+\lm ne_             užmiršti     $ bet           ir        jis     slūžyti  $ ing         jis
 \PoS pfx.            vb.            $ cnj.          cnj.      prn.    vb.        $ prp.        prn.
 \gD Neg.            vergessen      $ aber,_sondern und,_auch er      dienen     $ in_-_hinein er
 \tx tike=|dami    /
@@ -1483,9 +1483,9 @@
 
 \ref BP_II_481.20
 \tx krauio  nepaſſigaileti                   . Bet           tankei  tatai     nuſidůſt
-\std kraujo  ne                pasigailėti     $ bet           tankiai tatai     nusiduoda
+\std kraujo  ne_               pasigailėti     $ bet           tankiai tatai     nusiduoda
 \mrph g.sg.   -                 inf.             $ -             adv.    -         3.prs.
-\lm kraujas ne                pasigailėti     $ bet           tankus  tatai     nusiduoti
+\lm kraujas ne_               pasigailėti     $ bet           tankus  tatai     nusiduoti
 \PoS sm.     pfx.              vb.              $ cnj.          adj.    prn.      vb.
 \gD Blut    Neg.              bedauern         $ aber,_sondern häufig dies,_das geschehen
 
@@ -1711,9 +1711,9 @@
 
 \ref BP_II_482.22
 \tx Atpent  iei         kurſai     Vkeniks    patſai     Diewo  nebijoſi                 /
-\std atpent  jei         kursai      ūkininkas patsai      dievo  ne         bijosi         $
+\std atpent  jei         kursai      ūkininkas patsai      dievo  ne_        bijosi         $
 \mrph -       -           n.sg.m.def. n.sg.      n.sg.m.def. g.sg.  -          3.prs.         $
-\lm atpent  jei         kuris       ūkininkas pats        dievas ne         bijotis        $
+\lm atpent  jei         kuris       ūkininkas pats        dievas ne_        bijotis        $
 \PoS adv.    cnj.        prn.        sm.        prn.        sm.    pfx.       vb.            $
 \gD dagegen wenn,_falls welche(r/s) Bauer      selbst      Gott   Neg.       sich_fürchten $
 \tx nei

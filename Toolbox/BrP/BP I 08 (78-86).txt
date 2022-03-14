@@ -60,9 +60,9 @@
 
 \ref BP_I_078.08
 \tx A         idant nu     taſſai    Vßgimimas / neußuſleptas                           /
-\std o         idant nū    tasai       užgimimas $ ne              užslėptas              $
+\std o         idant nū    tasai       užgimimas $ ne_             užslėptas              $
 \mrph -         -     -      n.sg.m.def. n.sg.      $ -               prc.prt.pss._n.sg.m.+PSS $
-\lm o         idant nu=nū tas         užgimimas $ ne              užslėpti               $
+\lm o         idant nu=nū tas         užgimimas $ ne_             užslėpti               $
 \PoS cnj.      cnj.  adv.   prn.        sm.        $ pfx.            vb.                      $
 \gD und,_aber damit jetzt  diese(r/s)  Geburt     $ Neg.            verbergen                $
 
@@ -92,9 +92,9 @@
 
 \ref BP_I_078.12
 \tx nepaſſipiktintu                    [.] Bet           koßnas   ta         Berneli  Kriſtu  wieroie
-\std ne                 pasipiktintų     $   bet           kožnas   tą        bernelį Kristų  vieroje
+\std ne_                pasipiktintų     $   bet           kožnas   tą        bernelį Kristų  vieroje
 \mrph -                  3.cnd.            $   -             n.sg.m.   a.sg.m.    a.sg.    a.sg.    l.sg.
-\lm ne                 pasipiktinti      $   bet           kožnas   tas        bernelis Kristus  viera
+\lm ne_                pasipiktinti      $   bet           kožnas   tas        bernelis Kristus  viera
 \PoS pfx.               vb.               $   cnj.          prn.      prn.       sm.      sm.npr.  sf.
 \gD Neg.               zürnen           $   aber,_sondern jede(r/s) diese(r/s) Kind     Christus Glaube
 
@@ -222,9 +222,9 @@
 
 \ref BP_I_079.03
 \tx Neſſibiokite                 / Schitai / eſch iumus apſa=|kau
-\std ne              bijokitės     $ šitai  $ aš   jums  apsakau
+\std ne_             bijokitės     $ šitai  $ aš   jums  apsakau
 \mrph -               2.pl.imp.      $ -       $ n.    d.    1.sg.prs.
-\lm ne              bijotis        $ šitai  $ aš   jūs  apsakyti
+\lm ne_             bijotis        $ šitai  $ aš   jūs  apsakyti
 \PoS pfx.            vb.            $ part.   $ prn.  prn.  vb.
 \gD Neg.            sich_fürchten $ siehe   $ ich   ihr   mitteilen,_ankündigen
 
@@ -422,9 +422,9 @@
 
 \ref BP_I_080.06
 \tx nieku               nuleiſti      / kits        butu   tatai     galeiens                  nieko      neadboti                             .
-\std niekuo              nuleisti       $ kitas       būtų tatai     galėjęs                 nieko      ne        atboti                     $
+\std niekuo              nuleisti       $ kitas       būtų tatai     galėjęs                 nieko      ne_       atboti                     $
 \mrph i.                  inf.           $ n.sg.m.     3.cnd. -         prc.prt.act._n.sg.m.+PERF g.sg.      -         inf.                       $
-\lm niekas              nuleisti       $ kitas       būti  tatai     galėti                   niekas     ne        atboti                     $
+\lm niekas              nuleisti       $ kitas       būti  tatai     galėti                   niekas     ne_       atboti                     $
 \PoS prn.                vb.            $ prn.        vb.aux prn.      vb.                       prn.+SNeg. pfx.      vb.                        $
 \gD nichts,_Nichtigkeit herunterlassen $ andere(r/s) sein   dies,_das können                   nichts     Neg.      beachten,_berücksichtigen $
 
@@ -444,9 +444,9 @@
 \PoS sm.        prn.    vb.aux vb.                      $ cnj.  cnj.
 \gD Geburt     er      sein   mitteilen,_ankündigen   $ denn  wenn,_falls
 \tx neapreikſch=|tas                           /
-\std ne                 apreikštas              $
+\std ne_                apreikštas              $
 \mrph -                  prc.prt.pss._n.sg.m.+PSS $
-\lm ne                 apreikšti               $
+\lm ne_                apreikšti               $
 \PoS pfx.               vb.                      $
 \gD Neg.               offenbaren               $
 
@@ -490,9 +490,9 @@
 
 \ref BP_I_080.13
 \tx to         nepaniekintu               . Tada     ir   mes  girdedami     Angela
-\std to         ne            paniekintų  $ tada     ir   mes  girdėdami    angelą
+\std to         ne_           paniekintų  $ tada     ir   mes  girdėdami    angelą
 \mrph g.sg.m.    -             3.cnd.       $ -        -    n.   prc.cn._pl.m. a.sg.
-\lm tas        ne            paniekinti   $ tada     ir   mes  girdėti      angelas
+\lm tas        ne_           paniekinti   $ tada     ir   mes  girdėti      angelas
 \PoS prn.       pfx.          vb.          $ adv.     adv. prn. vb.           sm.
 \gD diese(r/s) Neg.          verachten    $ da,_dann auch wir  hören        Engel
 
@@ -638,9 +638,9 @@
 
 \ref BP_I_081.07
 \tx tokio       didʒo  Ponaicʒio  Vßgimimas tůiaus neapſaki=|tas                 
-\std tokio       didžio ponaičio   užgimimas tuojaus ne               apsakytas
+\std tokio       didžio ponaičio   užgimimas tuojaus ne_              apsakytas
 \mrph g.sg.m.     g.sg.m. g.sg.       n.sg.      -       -                prc.prt.pss._n.sg.m.+PSS
-\lm toks        didis   ponaitis    užgimimas tuojaus ne               apsakyti
+\lm toks        didis   ponaitis    užgimimas tuojaus ne_              apsakyti
 \PoS prn.        adj.    sm.         sm.        adv.    pfx.             vb.
 \gD solche(r/s) groß   junger_Herr Geburt     sofort  Neg.             mitteilen,_ankündigen
 
@@ -678,9 +678,9 @@
 
 \ref BP_I_081.12
 \tx Pirmiauſei . Sawe        neadboienti                             perſonos / gimio
-\std pirmiausiai $ save        ne           atbojantį                 personos  $ gymio
+\std pirmiausiai $ save        ne_          atbojantį                 personos  $ gymio
 \mrph adv.spr.    $ a.          -            prc.prs.act._a.sg.m.       g.sg.     $ g.sg.
-\lm pirmas      $ savęs      ne           atboti                     persona   $ gymis
+\lm pirmas      $ savęs      ne_          atboti                     persona   $ gymis
 \PoS o.          $ prn.        pfx.         vb.                        sf.       $ sm.
 \gD erste(r/s)  $ [refl.prn.] Neg.         beachten,_berücksichtigen Person    $ Gestalt, _Geburt
 
@@ -731,9 +731,9 @@
 
 \ref BP_I_081.17
 \tx Diewas perſonos neweiſd            / bet           iſch wiſſokiu ßmoniu         /
-\std dievas personos  ne        veizdi    $ bet           iš   visokių   žmonių        $
+\std dievas personos  ne_       veizdi    $ bet           iš   visokių   žmonių        $
 \mrph n.sg.  g.sg.     -         3.prs.    $ -             +g.   g.sg.m.    g.pl.           $
-\lm dievas persona   ne        veizdėti $ bet           iš   visoks     žmogus         $
+\lm dievas persona   ne_       veizdėti $ bet           iš   visoks     žmogus         $
 \PoS sm.    sf.       pfx.      vb.       $ cnj.          prp.  prn.       sm._pl._sm./sf. $
 \gD Gott   Person    Neg.      schauen   $ aber,_sondern aus   jeglich    Mensch          $
 
@@ -761,17 +761,17 @@
 
 \ref BP_I_081.20
 \tx ſawa              kudo              giwenimo  delei  / nenuſiminkes                / netarik          
-\std savo               kūdo             gyvenimo  dėlei $ ne             nusimink      $ ne        taryk
+\std savo               kūdo             gyvenimo  dėlei $ ne_            nusimink      $ ne_       taryk
 \mrph -                  g.sg.m.           g.sg.     +g.    $ -              2.sg.imp.     $ -         2.sg.imp.
-\lm savo               kūdas            gyvenimas dėlei $ ne             nusiminti     $ ne        taryti
+\lm savo               kūdas            gyvenimas dėlei $ ne_            nusiminti     $ ne_       taryti
 \PoS prn.               adj.              sm.       prp.   $ pfx.           vb.           $ pfx.      vb.
 \gD [refl._Poss.-prn.] bescheiden,_mager Leben     wegen  $ Neg.           verzweifeln   $ Neg.      sagen,_sprechen
 
 \ref BP_I_081.21
 \tx Diewas manes  nereg          / Tu   tiktai Diewo  bijokes        bei
-\std dievas manęs ne     regi    $ tu   tiktai dievo  bijokis        bei
+\std dievas manęs ne_    regi    $ tu   tiktai dievo  bijokis        bei
 \mrph n.sg.  g.     -      3.prs.  $ n.   -      g.sg.  2.sg.imp.      -
-\lm dievas aš    ne     regėti $ tu   tiktai dievas bijotis        bei
+\lm dievas aš    ne_    regėti $ tu   tiktai dievas bijotis        bei
 \PoS sm.    prn.   pfx.   vb.     $ prn. adv.   sm.    vb.            cnj.
 \gD Gott   ich    Neg.   sehen   $ du   nur    Gott   sich_fürchten und
 
@@ -825,9 +825,9 @@
 
 \ref BP_I_082.02
 \tx nepakalbetu                          / neſa bei  bagotaſis  bei  pawargulis
-\std ne           pakalbėtų             $ nes   bei  bagotasis   bei  pavargulis
+\std ne_          pakalbėtų             $ nes   bei  bagotasis   bei  pavargulis
 \mrph -            3.cnd.                  $ -     -    n.sg.m.def. -    n.sg.
-\lm ne           pakalbėti              $ nes   bei  bagotas     bei  pavargulis
+\lm ne_          pakalbėti              $ nes   bei  bagotas     bei  pavargulis
 \PoS pfx.         vb.                     $ cnj.  cnj. adj.        cnj. sm.
 \gD Neg.         verleumden,_beschimpfen $ denn  und  reich       und  Armer
 
@@ -857,17 +857,17 @@
 
 \ref BP_I_082.06
 \tx netur          nuſſiminti / teip atpent  newienas      ſawa              didʒios
-\std ne     turi    nusiminti    $ taip atpent  nė_vienas    savo               didžios
+\std ne_    turi    nusiminti    $ taip atpent  nė_vienas    savo               didžios
 \mrph -      3.prs.  inf.         $ -    -       n.sg.m.       -                  g.sg.f.
-\lm ne     turėti nusiminti    $ taip atpent  nė_vienas    savo               didis
+\lm ne_    turėti nusiminti    $ taip atpent  nė_vienas    savo               didis
 \PoS pfx.   vb.     vb.          $ adv. adv.    prn.+SNeg.    prn.               adj.
 \gD Neg.   müssen verzweifeln  $ so   dagegen niemand,_kein [refl._Poss.-prn.] groß
 
 \ref BP_I_082.07
 \tx gimines    delei  netur          iſſikelti  . Nes  Diewas abudu   lei=|da    /
-\std giminės   dėlei ne     turi    išsikelti   $ nes  dievas abudu   leido      $
+\std giminės   dėlei ne_    turi    išsikelti   $ nes  dievas abudu   leido      $
 \mrph g.sg.      +g.    -      3.prs.  inf.         $ -    n.sg.  n.du.m. 3.prt.     $
-\lm giminė    dėlei ne     turėti išsikelti   $ nes  dievas abudu   leisti     $
+\lm giminė    dėlei ne_    turėti išsikelti   $ nes  dievas abudu   leisti     $
 \PoS sf.        prp.   pfx.   vb.     vb.          $ cnj. sm.    prn.    vb.        $
 \gD Geschlecht wegen  Neg.   müssen sich_erheben $ denn Gott   beide   erschaffen $
 
@@ -993,9 +993,9 @@
 
 \ref BP_I_082.23
 \tx Antra       wel    / Angelai neklauſa            ßmoniu     / kacʒei
-\std antro       vėl   $ angelai ne         klauso    žmonių    $ kačei
+\std antro       vėl   $ angelai ne_        klauso    žmonių    $ kačei
 \mrph g.sg.m.     -      $ n.pl.   -          3.prs.    g.pl.       $ -
-\lm antras      vėl   $ angelas ne         klausyti  žmogus     $ kačei
+\lm antras      vėl   $ angelas ne_        klausyti  žmogus     $ kačei
 \PoS o.          adv.   $ sm.     pfx.       vb.       sm._pl._sm. $ cnj.
 \gD zweite(r/s) wieder $ Engel   Neg.       zuhören  Mensch      $ obwohl
 
@@ -1111,9 +1111,9 @@
 
 \ref BP_I_083.11
 \tx Neſſibijoket                 ſaka  / kaip kada      tartu  iemus   / Ne   bus
-\std ne              bijokitės     sako   $ kaip kada      tartų jiems   $ ne   bus
+\std ne_             bijokitės     sako   $ kaip kada      tartų jiems   $ ne   bus
 \mrph -               2.pl.imp.      3.prs. $ -    -         3.cnd. d.pl.m. $ -    3.ft.
-\lm ne              bijotis        sakyti $ kaip kada      tarti  jis     $ ne   būti
+\lm ne_             bijotis        sakyti $ kaip kada      tarti  jis     $ ne   būti
 \PoS pfx.            vb.            vb.    $ adv. cnj.      vb.    prn.    $ pfx. vb.
 \gD Neg.            sich_fürchten sagen  $ wie  wenn,_als sagen  er      $ Neg. sein
 
@@ -1141,9 +1141,9 @@
 
 \ref BP_I_083.14
 \tx Antro       . Sakens               iemus   neſſibijoti                 / liepe    ios     linkſ=|mais
-\std antro       $ sakęs               jiems   ne             bijotis        $ liepė   juos    linksmais
+\std antro       $ sakęs               jiems   ne_            bijotis        $ liepė   juos    linksmais
 \mrph g.sg.m.     $ prc.prt.act._n.sg.m. d.pl.m. -              inf.           $ 3.prt.   a.pl.m. i.pl.m.
-\lm antras      $ sakyti               jis     ne             bijotis        $ liepti   jis     linksmas
+\lm antras      $ sakyti               jis     ne_            bijotis        $ liepti   jis     linksmas
 \PoS o.          $ vb.                  prn.    pfx.           vb.            $ vb.      prn.    adj.
 \gD zweite(r/s) $ sagen                er      Neg.           sich_fürchten $ befehlen er      froh
 
@@ -1339,9 +1339,9 @@
 
 \ref BP_I_084.15
 \tx ſpaudʒ  griekai muſu  / tadda    nenuſiminkime                 neſa iau
-\std spaudžia griekai mūsų $ tada     ne              nusiminkime    nes   jau
+\std spaudžia griekai mūsų $ tada     ne_             nusiminkime    nes   jau
 \mrph 3.prs.    n.pl.   g.     $ -        -               1.pl.imp.      -     -
-\lm spausti   griekas mes    $ tada     ne              nusiminti      nes   jau
+\lm spausti   griekas mes    $ tada     ne_             nusiminti      nes   jau
 \PoS vb.       sm.     prn.   $ adv.     pfx.            vb.            cnj.  adv.
 \gD drücken  Sünde  wir    $ da,_dann Neg.            verzweifeln    denn  schon
 
@@ -1371,9 +1371,9 @@
 
 \ref BP_I_084.19
 \tx alba ſanßine piktoia         / tadda    nenuſſiminkes                  / neſa turri
-\std alba sąžinia piktoji         $ tada     ne               nusimink        $ nes   turi
+\std alba sąžinia piktoji         $ tada     ne_              nusimink        $ nes   turi
 \mrph -    n.sg.     n.sg.f.def.     $ -        -                2.sg.imp.       $ -     3.prs.
-\lm alba sąžinia piktas          $ tada     ne               nusiminti       $ nes   turėti
+\lm alba sąžinia piktas          $ tada     ne_              nusiminti       $ nes   turėti
 \PoS cnj. sf.       adj.            $ adv.     pfx.             vb.             $ cnj.  vb.
 \gD oder Gewissen  böse,_schlecht $ da,_dann Neg.             verzweifeln     $ denn  haben
 
@@ -1427,9 +1427,9 @@
 
 \ref BP_I_085.02
 \tx ußgimmuſi          / neatſtoij             toiaus  nůgpiemenu              / bet
-\std užgimusį           $ ne          atstoja    tuojaus nuog         piemenų    $ bet
+\std užgimusį           $ ne_         atstoja    tuojaus nuog         piemenų    $ bet
 \mrph prc.prt.act._a.sg.m. $ -           3.prs.     -       +g.          g.pl.       $ -
-\lm užgimti             $ ne          atstoti    tuojaus nuog         piemuo      $ bet
+\lm užgimti             $ ne_         atstoti    tuojaus nuog         piemuo      $ bet
 \PoS vb.                  $ pfx.        vb.        adv.    prp.         sm.         $ cnj.
 \gD geboren_werden       $ Neg.        wegtreten  sofort  von          Hirte       $ aber,_sondern
 

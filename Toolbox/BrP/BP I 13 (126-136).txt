@@ -572,9 +572,9 @@
 
 \ref BP_I_129.14
 \tx turreia . Kitiemus    ßmonems    tatai     nebuwa         
-\std turėjo $ kitiems     žmonėms   tatai     ne       buvo
+\std turėjo $ kitiems     žmonėms   tatai     ne_      buvo
 \mrph 3.prt.  $ d.pl.m.     d.pl.       -         -        3.prt.
-\lm turėti $ kitas       žmogus     tatai     ne       būti
+\lm turėti $ kitas       žmogus     tatai     ne_      būti
 \PoS vb.     $ prn.        sm._pl._sm. prn.      pfx.     vb.aux
 \gD müssen $ andere(r/s) Mensch      dies,_das Neg.     sein
 
@@ -596,9 +596,9 @@
 
 \ref BP_I_129.17
 \tx nereikia             ſchiteipo ſawa              Berneliu  appiauſtiti .
-\std ne        reikia     šitaipo   savo               bernelių apipjaustyti $
+\std ne_       reikia     šitaipo   savo               bernelių apipjaustyti $
 \mrph -         3.prs.     -          -                  g.pl.     inf.         $
-\lm ne        reikėti   šitaipo   savo               bernelis  apipjaustyti $
+\lm ne_       reikėti   šitaipo   savo               bernelis  apipjaustyti $
 \PoS pfx.      vb.        adv.       prn.               sm.       vb.          $
 \gD Neg.      benötigen so         [refl._Poss.-prn.] Kind      beschneiden  $
 
@@ -620,9 +620,9 @@
 
 \ref BP_I_129.20
 \tx Ant  Trecʒio    / Bet           tha        buda       nepramane            ſaw
-\std ant  trečio     $ bet           tą        būdą     ne         pramanė  sau
+\std ant  trečio     $ bet           tą        būdą     ne_        pramanė  sau
 \mrph +g.  g.sg.m.     $ -             a.sg.m.    a.sg.      -          3.prt.    d.
-\lm ant  trečias    $ bet           tas        būdas     ne         pramanyti savęs
+\lm ant  trečias    $ bet           tas        būdas     ne_        pramanyti savęs
 \PoS prp. o.          $ cnj.          prn.       sm.        pfx.       vb.       prn.
 \gD auf  dritte(r/s) $ aber,_sondern diese(r/s) Art,_Weise Neg.       erdenken  [refl.prn.]
 
@@ -692,9 +692,9 @@
 
 \ref BP_I_130.03
 \tx idant tu   neiůktumbeis                ſcho      budo       / neſa wis   ka   Ponas
-\std idant tu   ne             juoktumeis    šio       būdo      $ nes   vis   ką  ponas
+\std idant tu   ne_            juoktumeis    šio       būdo      $ nes   vis   ką  ponas
 \mrph -     n.   -              2.sg.cnd.     g.sg.m.    g.sg.      $ -     indc. a.   n.sg.
-\lm idant tu   ne             juoktis       šis       būdas     $ nes   vis   kas  ponas
+\lm idant tu   ne_            juoktis       šis       būdas     $ nes   vis   kas  ponas
 \PoS cnj.  prn. pfx.           vb.           prn.       sm.        $ cnj.        prn. sm.
 \gD damit du   Neg.           verlachen     diese(r/s) Art,_Weise $ denn             Herr
 
@@ -1115,10 +1115,10 @@
 
 \ref BP_I_132.05
 \tx negalima   appiauſtiti / kuna    neturinſis                           / negal          kraughi
-\std negalima   apipjaustyti $ kūną  ne           turysis                  $ ne     gali    kraujį
+\std negalima   apipjaustyti $ kūną  ne_          turysis                  $ ne     gali    kraujį
 \mrph n.sg.nt.   inf.         $ a.sg.   -            prc.prs.act._n.sg.m.def. $ -      3.prs.  a.sg.
-\lm negalimas  apipjaustyti $ kūnas  ne           turėti                  $ ne     galėti kraujis
-\PoS adj.       vb.          $ sm.     pfx          vb.                      $ $ p    vb.     sm.
+\lm negalimas  apipjaustyti $ kūnas  ne_          turėti                  $ ne     galėti kraujis
+\PoS adj.       vb.          $ sm.     pfx.         vb.                      $ $ p    vb.     sm.
 \gD unmöglich beschneiden  $ Körper Neg.                                  $ Neg.   können Blut
 
 \ref BP_I_132.06
@@ -1806,12 +1806,12 @@
 \gD 
 
 \ref BP_I_135.21
-\tx Kittame     newiename     nera          Iſchganimo / Nei
-\std kitame      nė_viename   nėra         išganymo   $ nei
-\mrph l.sg.m.     l.sg.m.       3.prs. 3.prs. g.sg.       $ -
-\lm kitas       nė_vienas    ne     būti  išganymas  $ nei
-\PoS prn.        prn.+SNeg.    pfx.   vb.    sm.         $ $ cnj.
-\gD andere(r/s) niemand,_kein Neg.   sein   Erlösung   $ und_nicht,_weder_noch
+\tx Kittame     newiename     nera           Iſchganimo / Nei
+\std kitame      nė_viename   nėra          išganymo   $ nei
+\mrph l.sg.m.     l.sg.m.       3.prs.         g.sg.       $ -
+\lm kitas       nė_vienas    būti   būti  išganymas  $ nei
+\PoS prn.        prn.+SNeg.    pfx.    vb.    sm.         $ $ cnj.
+\gD andere(r/s) niemand,_kein sein    sein   Erlösung   $ und_nicht,_weder_noch
 \tx kits        war=|das
 \std kitas       vardas
 \mrph n.sg.m.     n.sg.

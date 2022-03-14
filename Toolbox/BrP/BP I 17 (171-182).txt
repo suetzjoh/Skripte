@@ -68,11 +68,11 @@
 
 \ref BP_I_172.02
 \tx motina IEſaus iopi     / ie      nebetur                   wino  .
-\std motina Jėzaus jop      $ jie     ne       be-      turi    vyno  $
+\std motina Jėzaus jop      $ jie     ne_      be_      turi    vyno  $
 \mrph n.sg.  g.sg.   al.sg.m. $ n.pl.m. -        -        3.prs.  g.sg. $
-\lm motina Jėzus  jis      $ jis     ne       be-      turėti vynas $
-\PoS sf.    sm.npr. prn.     $ prn.    pfx.     pfx.-    vb.     sm.   $
-\gD Mutter Jesus   er       $ er      Neg.     []-      haben   Wein  $
+\lm motina Jėzus  jis      $ jis     ne_      be_      turėti vynas $
+\PoS sf.    sm.npr. prn.     $ prn.    pfx.     pfx.     vb.     sm.   $
+\gD Mutter Jesus   er       $ er      Neg.     []       haben   Wein  $
 
 \ref BP_I_172.03
 \tx Ieſus  biloia ioſpi   . Moteriſchke ka   turiu
@@ -92,9 +92,9 @@
 
 \ref BP_I_172.05
 \tx neateia          . Biloia motina iotarna[=]|mus                 /
-\std ne       atėjo  $ bylojo motina jo              tarnams        $
+\std ne_      atėjo  $ bylojo motina jo              tarnams        $
 \mrph -        3.prt.  $ 3.prt. n.sg.  g.sg.m.         d.pl.          $
-\lm ne       ateiti  $ byloti motina jis             tarnas         $
+\lm ne_      ateiti  $ byloti motina jis             tarnas         $
 \PoS pfx.     vb.     $ vb.    sf.    prn.            sm.            $
 \gD Neg.     kommen  $ sagen  Mutter er              Diener         $
 
@@ -186,9 +186,9 @@
 
 \ref BP_I_172.16
 \tx neßinoia            / iſchkur           buwa   / bet           tarnai ßi=|noia /
-\std ne         žinojo   $ iš       kur      buvo   $ bet           tarnai žinojo   $
+\std ne_        žinojo   $ iš       kur      buvo   $ bet           tarnai žinojo   $
 \mrph -          3.prt.    $ +g.       -        3.prt. $ -             n.pl.  3.prt.    $
-\lm ne         žinoti   $ iš       kur      būti  $ bet           tarnas žinoti   $
+\lm ne_        žinoti   $ iš       kur      būti  $ bet           tarnas žinoti   $
 \PoS pfx.       vb.       $ prp.      adv.     vb.    $ cnj.          sm.    vb.       $
 \gD Neg.       wissen    $ aus       wo       sein   $ aber,_sondern Diener wissen    $
 
@@ -452,11 +452,11 @@
 
 \ref BP_I_174.08
 \tx buwa   ſugere              / ir        Iaunikis   nebetureia                         ſwecʒius ſawa
-\std buvo   sugėrę             $ ir        jaunikis   ne          be-         turėjo    svečius   savo
+\std buvo   sugėrę             $ ir        jaunikis   ne_         be_         turėjo    svečius   savo
 \mrph 3.prt. prc.prt.act._n.pl.m. $ -         n.sg.      -           -           3.prt.     a.pl.      -
-\lm būti  sugerti              $ ir        jaunikis   ne                      turėti    svečias   savo
-\PoS v.aux  vb.                  $ $ cnj.    sm.        pfx                     vb.        sm.        prn.
-\gD sein   austrinken           $ und,_auch Bräutigam Neg.                               Gast       [refl._Poss.-prn.]
+\lm būti  sugerti              $ ir        jaunikis   ne_         be_         turėti    svečias   savo
+\PoS v.aux  vb.                  $ $ cnj.    sm.        pfx.        pfx.        vb.        sm.        prn.
+\gD sein   austrinken           $ und,_auch Bräutigam Neg.        []                     Gast       [refl._Poss.-prn.]
 
 \ref BP_I_174.09
 \tx ko   ſwætjnti      / tadda    Ponas Kriſtus augiwes  ſawa
@@ -1020,9 +1020,9 @@
 
 \ref BP_I_177.10
 \tx nieku      budu       netur          imtiſſi      / alba Wencʒawoniſteie
-\std niekuo     būdu      ne     turi    imtis          $ alba venčiavonystėje
+\std niekuo     būdu      ne_    turi    imtis          $ alba venčiavonystėje
 \mrph i.         i.sg.      -      3.prs.  inf.           $ -    l.sg.
-\lm niekas     būdas     ne     turėti imtis          $ alba venčiavonystė
+\lm niekas     būdas     ne_    turėti imtis          $ alba venčiavonystė
 \PoS prn.+SNeg. sm.        pfx.   vb.     vb.            $ cnj. sf.
 \gD keine(r)   Art,_Weise Neg.   müssen nehmen_(refl.) $ oder Ehe
 \tx ſuſ=|ſieiti  .
@@ -1091,18 +1091,18 @@
 
 \ref BP_I_177.18
 \tx tadda    mes  ſchicʒe giliaus  ape   tatai     neſakiſim              / koßnas
-\std tada     mes  šičia   giliau   apie  tatai     ne           sakysime    $ kožnas
+\std tada     mes  šičia   giliau   apie  tatai     ne_          sakysime    $ kožnas
 \mrph -        n.   -         adv.cmp. +a.   -         -            1.pl.ft.    $ n.sg.m.
-\lm tada     mes  šičia   gilus    apie  tatai     ne           sakyti      $ kožnas
+\lm tada     mes  šičia   gilus    apie  tatai     ne_          sakyti      $ kožnas
 \PoS adv.     prn. adv.      adj.     prp.  prn.      pfx.         vb.         $ prn.
 \gD da,_dann wir  hier      tief     über dies,_das Neg.         sagen       $ jede(r/s)
 
 \ref BP_I_177.19
 \tx tiktai teſidaboj      / Idant Gentaine  ſawa              artima  ne=|weſtu             
-\std tiktai tesidaboja      $ idant gentainė savo               artimą ne           vestų
+\std tiktai tesidaboja      $ idant gentainė savo               artimą ne_          vestų
 \mrph -      prm.            $ -     n.sg.     -                  a.sg.m. -            3.cnd.
-\lm tiktai dabotis         $ idant gentainė savo               artimas ne           vesti
-\PoS adv.   vb.             $ cnj.  sf.       prn.               adj.    pfx          vb.
+\lm tiktai dabotis         $ idant gentainė savo               artimas ne_          vesti
+\PoS adv.   vb.             $ cnj.  sf.       prn.               adj.    pfx.         vb.
 \gD nur    aufmerksam_sein $ damit Verwandte [refl._Poss.-prn.] nah     Neg.
 
 \ref BP_I_177.20
@@ -1123,11 +1123,11 @@
 
 \ref BP_I_177.22
 \tx Diews  nekarota                       niekadai  nenuleidʒ             .
-\std dievas ne        karota               niekadai  ne          nuleidžia $
+\std dievas ne_       karota               niekadai  ne_         nuleidžia $
 \mrph n.sg.  -         prc.prt.pss._a.sg.m. -         -           3.prs.     $
-\lm dievas ne        karoti               niekadai  ne          nuleisti   $
-\PoS sm.    pfx.      vb.                  adv.+SNeg             vb.        $
-\gD Gott   Neg.      bestrafen            nie                              $
+\lm dievas ne_       karoti               niekadai  ne_         nuleisti   $
+\PoS sm.    pfx.      vb.                  adv.+SNeg pfx.        vb.        $
+\gD Gott   Neg.      bestrafen            nie       Neg.                   $
 
 \ref BP_I_177.23
 \tx Ape Antra .
@@ -1211,10 +1211,10 @@
 
 \ref BP_I_178.08
 \tx butu   puſſilikens        nebutu         galeiens                  ſwieta iwaiſiti .
-\std būtų pasilikęs           ne      būtų galėjęs                 svietą įvaisyti $
+\std būtų pasilikęs           ne_     būtų galėjęs                 svietą įvaisyti $
 \mrph 3.cnd. prc.prt.act._n.sg.m. -       3.cnd. prc.prt.act._n.sg.m.+PERF a.sg.   inf.      $
-\lm būti  pasilikti            ne      būti  galėti                   svietas įvaisyti $
-\PoS v.aux  vb.                  pfx            vb.                       sm.     vb.       $
+\lm būti  pasilikti            ne_     būti  galėti                   svietas įvaisyti $
+\PoS v.aux  vb.                  pfx.           vb.                       sm.     vb.       $
 \gD sein   bleiben              Neg.           können                   Welt    züchten  $
 
 \ref BP_I_178.09
@@ -1505,9 +1505,9 @@
 
 \ref BP_I_179.17
 \tx karaliſta  neaptures            .
-\std karalystą  ne         apturės  $
+\std karalystą  ne_        apturės  $
 \mrph a.sg.       -          3.ft.     $
-\lm karalysta   ne         apturėti $
+\lm karalysta   ne_        apturėti $
 \PoS sf.         pfx.       vb.       $
 \gD Königreich Neg.       besitzen  $
 
@@ -1705,9 +1705,9 @@
 
 \ref BP_I_180.14
 \tx neapikantoie neturreia            . Bet           pæna   ir        prikůp   ana       /
-\std neapykantoje ne         turėjo   $ bet           pena    ir        prikuopia aną      $
+\std neapykantoje ne_        turėjo   $ bet           pena    ir        prikuopia aną      $
 \mrph l.sg.        -          3.prt.    $ -             3.prs.  -         3.sg.     a.sg.m.   $
-\lm neapykanta   ne         turėti   $ bet           penėti ir        prikuopti anas      $
+\lm neapykanta   ne_        turėti   $ bet           penėti ir        prikuopti anas      $
 \PoS sf.          pfx.       vb.       $ cnj.          vb.     cnj.      vb.       prn.      $
 \gD Hass         Neg.       haben     $ aber,_sondern nähren und,_auch anhäufen jene(r/s) $
 
@@ -1815,17 +1815,17 @@
 
 \ref BP_I_181.01
 \tx Trecʒio    . Pareitis  wirui ſu  ſwetima nekekſchau=|ti                  /
-\std trečio     $ parsieina vyrui su   svetimą ne               kekšauti       $
+\std trečio     $ parsieina vyrui su   svetimą ne_              kekšauti       $
 \mrph g.sg.m.     $ 3.prs.    d.sg. +i.  a.sg.f.  -                inf.            $
-\lm trečias    $ parsieiti vyras su   svetimas ne               kekšauti       $
-\PoS o.          $ vb.       sm.   prp. adj.     pfx              vb.             $
+\lm trečias    $ parsieiti vyras su   svetimas ne_              kekšauti       $
+\PoS o.          $ vb.       sm.   prp. adj.     pfx.             vb.             $
 \gD dritte(r/s) $ zustehen  Mann  mit  fremd    Neg.             huren           $
 
 \ref BP_I_181.02
 \tx alba Wencʒawoniſte neperßenkti               . Wencʒawo=|niſte
-\std alba venčiavonystę ne            peržengti   $ venčiavonystę
+\std alba venčiavonystę ne_           peržengti   $ venčiavonystę
 \mrph -    a.sg.           -             inf.         $ a.sg.
-\lm alba venčiavonystė ne            peržengti   $ venčiavonystė
+\lm alba venčiavonystė ne_           peržengti   $ venčiavonystė
 \PoS cnj. sf.             pfx.          vb.          $ sf.
 \gD oder Ehe             Neg.          übertreten  $ Ehe
 
@@ -1845,9 +1845,9 @@
 
 \ref BP_I_181.04
 \tx patalas     neapbiaurints                            / O     kekſchinikus
-\std patalas     ne             apibjaurintas             $ o     kekšininkus
+\std patalas     ne_            apibjaurintas             $ o     kekšininkus
 \mrph n.sg.       -              prc.prt.pss._n.sg.m.+PASS $ -     a.pl.
-\lm patalas     ne             apibjaurinti              $ o     kekšininkas
+\lm patalas     ne_            apibjaurinti              $ o     kekšininkas
 \PoS sm.         pfx.           vb.                       $ $ cnj sm.
 \gD Bett,_Liege Neg.           besudeln                  $ und   Hurer
 
@@ -1877,9 +1877,9 @@
 
 \ref BP_I_181.08
 \tx Moters negeiſki            artima  .
-\std moters ne         geisk     artimo  $
+\std moters ne_        geisk     artimo  $
 \mrph g.sg.  -          2.sg.imp. g.sg.m. $
-\lm motė  ne         geisti    artimas $
+\lm motė  ne_        geisti    artimas $
 \PoS sf.    pfx.       vb.       adj.    $
 \gD Frau   Neg.       begehren  nah     $
 
@@ -2061,10 +2061,10 @@
 
 \ref BP_I_182.07
 \tx moterei  ſaka  / kaip  wirui . Nekekſchauk               .
-\std moteriai sako   $ kaip  vyrui $ ne            kekšauk     $
+\std moteriai sako   $ kaip  vyrui $ ne_           kekšauk     $
 \mrph d.sg.    3.prs. $ -     d.sg. $ -             2.sg.imp.    $
-\lm motė    sakyti $ kaip  vyras $ ne            kekšauti    $
-\PoS sf.      vb.    $ $ adv sm.   $ $ pfx         vb.          $
+\lm motė    sakyti $ kaip  vyras $ ne_           kekšauti    $
+\PoS sf.      vb.    $ $ adv sm.   $ pfx.          vb.          $
 \gD Frau     sagen  $ wie   Mann  $ Neg.          huren        $
 
 \ref BP_I_182.08

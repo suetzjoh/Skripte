@@ -226,19 +226,19 @@
 
 \ref BP_I_103.17
 \tx Rachel     apwerke  waikus ſawa              ir   nedawe         
-\std ext:Rachel apverkė vaikus savo               ir   ne       davė
+\std ext:Rachel apverkė vaikus savo               ir   ne_      davė
 \mrph indc.      3.prt.   a.pl.  -                  -    -        3.prt.
-\lm ext:Rachel apverkti vaikas savo               ir   ne       duoti
+\lm ext:Rachel apverkti vaikas savo               ir   ne_      duoti
 \PoS sf.npr.    vb.      sm.    prn.               cnj. pfx.     vb.
 \gD Rachel     beweinen Kind   [refl._Poss.-prn.] und  Neg.     geben
 
 \ref BP_I_103.18
 \tx ſawes      palinkſminti / neſa iu      nebebuwa                     .
-\std savęs      palinksminti  $ nes   jų     ne        be-       buvo     $
+\std savęs      palinksminti  $ nes   jų     ne_       be_       buvo     $
 \mrph g.          inf.          $ -     g.pl.m. -         -         3.prt.   $
-\lm savęs      palinksminti  $ nes   jis     ne        be-       būti    $
-\PoS prn.        vb.           $ cnj.  prn.    pfx.      pfx.-     vb.      $
-\gD [refl.prn.] trösten      $ denn  er      Neg.      []-       sein     $
+\lm savęs      palinksminti  $ nes   jis     ne_       be_       būti    $
+\PoS prn.        vb.           $ cnj.  prn.    pfx.      pfx.      vb.      $
+\gD [refl.prn.] trösten      $ denn  er      Neg.      []        sein     $
 
 \ref BP_I_104.01
 \tx Bet           numirus       Herodui / Schitai /
@@ -556,9 +556,9 @@
 
 \ref BP_I_105.22
 \tx negaleia           ußgauti  .
-\std ne        galėjo  užgauti  $
+\std ne_       galėjo  užgauti  $
 \mrph -         3.prt.   inf.      $
-\lm ne        galėti  užgauti  $
+\lm ne_       galėti  užgauti  $
 \PoS pfx.      vb.      vb.       $
 \gD Neg.      können  antreffen $
 
@@ -612,9 +612,9 @@
 
 \ref BP_I_106.03
 \tx alle niekadai   neſkaitom             / ben              wiena           ſmar=|kinika
-\std ale  niekadai   ne          skaitome   $ ben              vieną          smarkininką
+\std ale  niekadai   ne_         skaitome   $ ben              vieną          smarkininką
 \mrph -    -          -           1.pl.prs.  $ -                a.sg.m.         a.sg.
-\lm ale  niekadai   ne          skaityti   $ ben              vienas          smarkininkas
+\lm ale  niekadai   ne_         skaityti   $ ben              vienas          smarkininkas
 \PoS cnj. adv.+SNeg. pfx.        vb.        $ adv.             c.              sm.
 \gD aber nie        Neg.        lesen      $ wenigstens,_wohl eins_,eine(r/s) Despot
 
@@ -718,17 +718,17 @@
 
 \ref BP_I_106.14
 \tx miela   / graßu  / bei  nieko      pikto           nepadaruſi                       / berneli  ir   ne=|ßinnanti                
-\std mielą  $ gražų $ bei  nieko      pikto           ne           padarusį            $ bernelį ir   ne              žinantį
+\std mielą  $ gražų $ bei  nieko      pikto           ne_          padarusį            $ bernelį ir   ne_             žinantį
 \mrph a.sg.m. $ a.sg.   $ -    g.sg.      g.sg.m.         -            prc.prt.act._a.sg.m. $ a.sg.    -    -               prc.prs.act._a.sg.m.
-\lm mielas  $ gražus $ bei  niekas     piktas          ne           padaryti             $ bernelis ir   ne              žinoti
+\lm mielas  $ gražus $ bei  niekas     piktas          ne_          padaryti             $ bernelis ir   ne_             žinoti
 \PoS adj.    $ adj.    $ cnj. prn.+SNeg. adj.            pfx.         vb.                  $ sm.      cnj. pfx.            vb.
 \gD lieb    $ schön  $ und  nichts     böse,_schlecht Neg.         tun                  $ Kind     und  Neg.            wissen
 
 \ref BP_I_106.15
 \tx dabar kas  pikt            ira    / nußawinama          / O         nebuwa         
-\std dabar kas  pikt            yra    $ nužavinamą         $ o         ne       buvo
+\std dabar kas  pikt            yra    $ nužavinamą         $ o         ne_      buvo
 \mrph -     n.   n.sg.nt.        3.prs. $ prc.prs.pss._a.sg.m. $ -         -        3.prt.
-\lm dabar kas  piktas          būti  $ nužavinti           $ o         ne       būti
+\lm dabar kas  piktas          būti  $ nužavinti           $ o         ne_      būti
 \PoS adv.  prn. adj.            vb.    $ vb.                  $ cnj.      pfx.     vb.
 \gD noch  was  böse,_schlecht sein   $ töten               $ und,_aber Neg.     sein
 
@@ -918,9 +918,9 @@
 
 \ref BP_I_107.13
 \tx dumaij  / eſch ta         Berneli  nepalikſiu              giwa     / bet
-\std dūmoja $ aš   tą        bernelį ne           paliksiu    gyvą    $ bet
+\std dūmoja $ aš   tą        bernelį ne_          paliksiu    gyvą    $ bet
 \mrph 3.prs.  $ n.    a.sg.m.    a.sg.    -            1.sg.ft.    a.sg.m.  $ -
-\lm dūmoti $ aš   tas        bernelis ne           palikti     gyvas    $ bet
+\lm dūmoti $ aš   tas        bernelis ne_          palikti     gyvas    $ bet
 \PoS vb.     $ prn.  prn.       sm.      pfx.         vb.         adj.     $ cnj.
 \gD denken  $ ich   diese(r/s) Kind     Neg.         verlassen   lebendig $ aber,_sondern
 
@@ -1068,9 +1068,9 @@
 
 \ref BP_I_108.06
 \tx Chriſtu . Kitriaus iſchtioſos niekas     nebutu         
-\std Kristų  $ kytriau  iš_tiesos   niekas     ne       būtų
+\std Kristų  $ kytriau  iš_tiesos   niekas     ne_      būtų
 \mrph a.sg.    $ adv.cmp. -            n.         -        3.cnd.
-\lm Kristus  $ kytras   iš_tiesos   niekas     ne       būti
+\lm Kristus  $ kytras   iš_tiesos   niekas     ne_      būti
 \PoS sm.npr.  $ adj.     adv.sec.     prn.+SNeg. pfx.     vb.aux
 \gD Christus $ schlau   fürwahr     niemand    Neg.     sein
 
@@ -1208,9 +1208,9 @@
 
 \ref BP_I_108.22
 \tx iſchto             pikto           budo       didʒu   Ponu  nepaſſipiktinkime                      /
-\std iš      to         pikto           būdo      didžių ponų ne                   pasipiktinkime      $
+\std iš      to         pikto           būdo      didžių ponų ne_                  pasipiktinkime      $
 \mrph +g.      g.sg.m.    g.sg.m.         g.sg.      g.pl.m.  g.pl. -                    1.pl.imp.           $
-\lm iš      tas        piktas          būdas     didis    ponas ne                   pasipiktinti        $
+\lm iš      tas        piktas          būdas     didis    ponas ne_                  pasipiktinti        $
 \PoS prp.     prn.       adj.            sm.        adj.     sm.   pfx.                 vb.                 $
 \gD aus      diese(r/s) böse,_schlecht Art,_Weise groß    Herr  Neg.                 zürnen             $
 
@@ -1222,9 +1222,9 @@
 \PoS cnj.                  adv.     sf.    prp.        sm.   prn.   sm.npr.
 \gD und_nicht,_weder_noch deshalb  Glaube in_-_hinein Herr  wir    Christus
 \tx nepameſkem              .
-\std ne           pameskime   $
+\std ne_          pameskime   $
 \mrph -            1.pl.imp.   $
-\lm ne           pamesti     $
+\lm ne_          pamesti     $
 \PoS pfx.         vb.         $
 \gD Neg.         verlieren   $
 
@@ -1292,9 +1292,9 @@
 
 \ref BP_I_109.06
 \tx nůg piktuiu         nebutumbim             prigauti                 . Buket     kitrus   /
-\std nuog piktųjų       ne          būtumėme prigauti                 $ būkite   kytrūs  $
+\std nuog piktųjų       ne_         būtumėme prigauti                 $ būkite   kytrūs  $
 \mrph +g.  g.pl.m.def.     -           1.pl.cnd.  prc.prt.pss._n.pl.m.+PSS $ 2.pl.imp. n.pl.m.  $
-\lm nuog piktas          ne          būti      prigauti                 $ būti     kytrus   $
+\lm nuog piktas          ne_         būti      prigauti                 $ būti     kytrus   $
 \PoS prp. adj.            pfx.        vb.aux     vb.                      $ vb.       adj.     $
 \gD von  böse,_schlecht Neg.        sein       hintergehen              $ sein      gerissen $
 
@@ -1332,9 +1332,9 @@
 
 \ref BP_I_109.11
 \tx ISchtieſos ſchitie   Bernelei  nieka        nebuwa         nuſſi=|deie             /
-\std iš_tiesos  šitie     berneliai nieko-nieką ne      buvo   nusidėję                $
+\std iš_tiesos  šitie     berneliai nieko-nieką ne_     buvo   nusidėję                $
 \mrph -           n.pl.m.    n.pl.     g.sg./a.sg.  -       3.prt. prc.prt.act._n.pl.m.+PERF $
-\lm iš_tiesos  šitas     bernelis  niekas       ne      būti  nusidėti                 $
+\lm iš_tiesos  šitas     bernelis  niekas       ne_     būti  nusidėti                 $
 \PoS adv.sec.    prn.       sm.       prn.+SNeg.   pfx.    vb.aux vb.                       $
 \gD fürwahr    diese(r/s) Kind      nichts       Neg.    sein   sich_vergehen             $
 
@@ -1376,9 +1376,9 @@
 
 \ref BP_I_109.15
 \tx iu      nenußawina              anu       pacʒiu delei  . Nei                   wel    prieſch
-\std jų     ne           nužavino   anų      pačių dėlei $ nei                   vėl   prieš
+\std jų     ne_          nužavino   anų      pačių dėlei $ nei                   vėl   prieš
 \mrph g.pl.m. -            3.prt.      g.pl.m.   g.pl.   +g.    $ -                     -      +a.
-\lm jis     ne           nužavinti  anas      pats    dėlei $ nei                   vėl   prieš
+\lm jis     ne_          nužavinti  anas      pats    dėlei $ nei                   vėl   prieš
 \PoS prn.    pfx.         vb.         prn.      prn.    prp.   $ cnj.                  adv.   prp.
 \gD er      Neg.         töten      jene(r/s) selbst  wegen  $ und_nicht,_weder_noch wieder gegen
 
@@ -1462,9 +1462,9 @@
 
 \ref BP_I_110.01
 \tx ußaugens            iſch karaliſtos neprawaritu              / ſu  kara=|liene
-\std užaugęs            iš   karalystos  ne           pravarytų  $ su   karaliene
+\std užaugęs            iš   karalystos  ne_          pravarytų  $ su   karaliene
 \mrph prc.prt.act._n.sg.m. +g.   g.sg.       -            3.cnd.      $ +i.  i.sg.
-\lm užaugti             iš   karalysta   ne           pravaryti   $ su   karalienė
+\lm užaugti             iš   karalysta   ne_          pravaryti   $ su   karalienė
 \PoS inf.                 prp.  sf.         pfx.         vb.         $ prp. sf.
 \gD aufwachsen           aus   Königreich Neg.         austreiben  $ mit  Königin
 
@@ -1556,9 +1556,9 @@
 
 \ref BP_I_110.12
 \tx nu     man  teip nebutu         ( dumoij  Herodas ) tadda    eſch
-\std nū    man  taip ne      būtų $ dūmoja Herodas $ tada     aš
+\std nū    man  taip ne_     būtų $ dūmoja Herodas $ tada     aš
 \mrph -      d.   -    -       3.cnd. $ 3.prs.  n.sg.   $ -        n.
-\lm nu=nū aš  taip ne      būti  $ dūmoti Herodas $ tada     aš
+\lm nu=nū aš  taip ne_     būti  $ dūmoti Herodas $ tada     aš
 \PoS adv.   prn. adv. pfx.    vb.    $ vb.     sm.npr. $ adv.     prn.
 \gD jetzt  ich  so   Neg.    sein   $ denken  Herodes $ da,_dann ich
 
@@ -1706,9 +1706,9 @@
 
 \ref BP_I_111.03
 \tx Ieib nu     to         Kriſtus negaletu           iſchtaiſiti / tadda
-\std jeib nū    to         Kristus  ne        galėtų ištaisyti    $ tada
+\std jeib nū    to         Kristus  ne_       galėtų ištaisyti    $ tada
 \mrph -    -      g.sg.m.    n.sg.    -         3.cnd.   inf.          $ -
-\lm jeib nu=nū tas        Kristus  ne        galėti  ištaisyti    $ tada
+\lm jeib nu=nū tas        Kristus  ne_       galėti  ištaisyti    $ tada
 \PoS cnj. adv.   prn.       sm.npr.  pfx.      vb.      vb.           $ adv.
 \gD dass jetzt  diese(r/s) Christus Neg.      können  ausrichten    $ da,_dann
 
@@ -1762,9 +1762,9 @@
 
 \ref BP_I_111.10
 \tx kartu  ſchi      Berneli  uſſtoia / kaip io      Hoiodas negaleia           
-\std kartu  šį       bernelį užstojo  $ kaip jo      Herodas ne         galėjo
+\std kartu  šį       bernelį užstojo  $ kaip jo      Herodas ne_        galėjo
 \mrph i.sg.  a.sg.m.    a.sg.    3.prt.    $ -    g.sg.m. n.sg.   -          3.prt.
-\lm kartas šis       bernelis užstoti  $ kaip jis     Herodas ne         galėti
+\lm kartas šis       bernelis užstoti  $ kaip jis     Herodas ne_        galėti
 \PoS sm.    prn.       sm.      vb.       $ cnj. prn.    sm.npr. pfx.       vb.
 \gD Mal    diese(r/s) Kind     schützen $ dass er      Herodes Neg.       können
 
@@ -1778,9 +1778,9 @@
 
 \ref BP_I_111.12
 \tx Diewas priſake  iſchmintingiems Sapnije / idant ne=|griſchtu                
-\std dievas prisakė  išmintingiems   sapnyje $ idant ne              grįžtų
+\std dievas prisakė  išmintingiems   sapnyje $ idant ne_             grįžtų
 \mrph n.sg.  3.prt.    d.pl.m.          l.sg.   $ -     -               3.cnd.
-\lm dievas prisakyti išmintingas     sapnys  $ idant ne              grįžti
+\lm dievas prisakyti išmintingas     sapnys  $ idant ne_             grįžti
 \PoS sm.    vb.       adj.             sm.     $ cnj.  pfx.            vb.
 \gD Gott   befehlen  weise            Traum   $ damit Neg.            zurückkommen
 
@@ -1882,9 +1882,9 @@
 
 \ref BP_I_112.02
 \tx ant  ſawa              Sunaus  nedawe         . Ir   kacʒei nekalti
-\std ant  savo               sūnaus ne      davė  $ ir   kačei  nekalti
+\std ant  savo               sūnaus ne_     davė  $ ir   kačei  nekalti
 \mrph +g.  -                  g.sg.   -       3.prt. $ -    -       n.pl.m.
-\lm ant  savo               sūnus  ne      duoti  $ ir   kačei  nekaltas
+\lm ant  savo               sūnus  ne_     duoti  $ ir   kačei  nekaltas
 \PoS prp. prn.               sm.     pfx.    vb.    $ cnj. cnj.    adj.
 \gD auf  [refl._Poss.-prn.] Sohn    Neg.    geben  $ und  obwohl  unschuldig
 \tx Ber=|nelei
@@ -2048,9 +2048,9 @@
 
 \ref BP_I_112.22
 \tx negaleia           pakrutinti  .
-\std ne        galėjo  pakrutinti  $
+\std ne_       galėjo  pakrutinti  $
 \mrph -         3.prt.   inf.        $
-\lm ne        galėti  pakrutinti  $
+\lm ne_       galėti  pakrutinti  $
 \PoS pfx.      vb.      vb.         $
 \gD Neg.      können  anberühren $
 
@@ -2064,9 +2064,9 @@
 
 \ref BP_I_112.24
 \tx Ant  8. Dwaſes         ſawa              negelia          atgauti        .
-\std ant  8. dvasės-dvasios savo               ne       galėjo atgauti        $
+\std ant  8. dvasės-dvasios savo               ne_      galėjo atgauti        $
 \mrph +g.  8  g.sg.           -                  -        3.prt.  inf.           $
-\lm ant  8  dvasė-dvasia   savo               ne       galėti atgauti        $
+\lm ant  8  dvasė-dvasia   savo               ne_      galėti atgauti        $
 \PoS prp. 8  sf.             prn.               pfx.     vb.     vb.            $
 \gD auf  8  Geist           [refl._Poss.-prn.] Neg.     können wiederbekommen $
 

@@ -532,9 +532,9 @@
 
 \ref BP_I_064.22
 \tx priſakima           nepilnawoij              / tas        iſch tieſos Diewo  karoghi=|ma
-\std prisakymą-prisakymo ne           pilnavoja   $ tas        iš_tiesos    dievo  karojimą-karojimo
+\std prisakymą-prisakymo ne_          pilnavoja   $ tas        iš_tiesos    dievo  karojimą-karojimo
 \mrph a.sg./g.sg.          -            3.prs.      $ n.sg.m.    -             g.sg.  a.sg./g.sg.
-\lm prisakymas           ne           pilnavoti   $ tas        iš_tiesos    dievas karojimas
+\lm prisakymas           ne_          pilnavoti   $ tas        iš_tiesos    dievas karojimas
 \PoS sm.                  pfx.         vb.         $ prn.       adv.sec.      sm.    sm.
 \gD Gebot                Neg.         erfüllen   $ diese(r/s) fürwahr      Gott   Strafe
 
@@ -682,10 +682,10 @@
 
 \ref BP_I_065.14
 \tx ira    kunas   / kurſai     iuſu  grieku  delei  nepoilgam                       bus
-\std yra    kūnas  $ kursai      jūsų griekų dėlei ne         po         ilgam     bus
+\std yra    kūnas  $ kursai      jūsų griekų dėlei ne_        po         ilgam     bus
 \mrph 3.prs. n.sg.   $ n.sg.m.def. g.     g.pl.   +g.    -          +d.        d.sg.m.   3.ft.
-\lm būti  kūnas  $ kuris       jūs   griekas dėlei ne         po         ilgas     būti
-\PoS vb.    sm.     $ prn.        prn.   sm.     prp.   part.      prp.       adj.      vb.aux
+\lm būti  kūnas  $ kuris       jūs   griekas dėlei ne_        po         ilgas     būti
+\PoS vb.    sm.     $ prn.        prn.   sm.     prp.   pfx.       prp.       adj.      vb.aux
 \gD sein   Körper $ welche(r/s) ihr    Sünde  wegen  Neg.       nach       lang      sein
 
 \ref BP_I_065.15
@@ -835,10 +835,10 @@
 \ref BP_I_066.07
 \tx ing         kraughi Kriſtaus ? Atſakau  . Ne    / Nera        
 \std ing         kraujį Kristaus  $ atsakau   $ ne    $ nėra        
-\mrph +a.         a.sg.   g.sg.     $ 1.sg.prs. $ -     $ 3.prs.  3.prs.
-\lm ing         kraujis Kristus   $ atsakyti  $ ne    $ ne      būti
+\mrph +a.         a.sg.   g.sg.     $ 1.sg.prs. $ -     $ 3.prs.        
+\lm ing         kraujis Kristus   $ atsakyti  $ ne    $ būti   būti
 \PoS prp.        sm.     sm.npr.   $ vb.       $ part. $ pfx.    vb.
-\gD in_-_hinein Blut    Christus  $ antworten $ Neg.  $ Neg.    sein
+\gD in_-_hinein Blut    Christus  $ antworten $ Neg.  $ sein    sein
 
 \ref BP_I_066.08
 \tx ſchicʒe tokio       perſimainima důnos ir   wino  / Bet
@@ -888,9 +888,9 @@
 
 \ref BP_I_066.13
 \tx bei  krauias ? Atſakau  . Tu   neweiſdek             tiktai to         kas
-\std bei  kraujas $ atsakau   $ tu   ne          veizdėk   tiktai to         kas
+\std bei  kraujas $ atsakau   $ tu   ne_         veizdėk   tiktai to         kas
 \mrph -    n.sg.   $ 1.sg.prs. $ n.   -           2.sg.imp.  -      g.sg.m.    n.
-\lm bei  kraujas $ atsakyti  $ tu   ne          veizdėti  tiktai tas        kas
+\lm bei  kraujas $ atsakyti  $ tu   ne_         veizdėti  tiktai tas        kas
 \PoS cnj. sm.     $ vb.       $ prn. pfx.        vb.        adv.   prn.       prn.
 \gD und  Blut    $ antworten $ du   Neg.        schauen    nur    diese(r/s) was
 

@@ -44,9 +44,9 @@
 
 \ref BP_I_039.1
 \tx eſſi    ? A         anas      paſißina         / ir   neuſſigine               / ir
-\std esi       $ o         anas      pasižino          $ ir   ne            užsigynė   $ ir
+\std esi       $ o         anas      pasižino          $ ir   ne_           užsigynė   $ ir
 \mrph 2.sg.prs. $ -         n.sg.m.   3.prs.             $ -    -             3.prt.       $ -
-\lm būti     $ o         anas      pasižinti         $ ir   ne            užsiginti   $ ir
+\lm būti     $ o         anas      pasižinti         $ ir   ne_           užsiginti   $ ir
 \PoS vb.       $ cnj.      prn.      vb.                $ cnj. pfx.          vb.          $ cnj.
 \gD sein      $ und,_aber jene(r/s) bekennen,_gestehen $ und  Neg.          abstreiten   $ und
 \tx pa=|ſißina
@@ -58,9 +58,9 @@
 
 \ref BP_I_039.2
 \tx eſch neeſmi            Kriſtus . Ir   anis      klau=|ſe
-\std aš   ne       esu       Kristus  $ ir   anys      klausė
+\std aš   ne_      esu       Kristus  $ ir   anys      klausė
 \mrph n.    -        1.sg.prs. n.sg.    $ -    n.pl.m.   3.prt.
-\lm aš   ne       būti     Kristus  $ ir   anas      klausti
+\lm aš   ne_      būti     Kristus  $ ir   anas      klausti
 \PoS prn.  pfx.     vb.       sm.npr.  $ cnj. prn.      vb.
 \gD ich   Neg.     sein      Christus $ und  jene(r/s) fragen
 
@@ -178,9 +178,9 @@
 
 \ref BP_I_039.17
 \tx ſtow    / kurio       ius  nepaßiſtat               . Taſſai    ira    /
-\std stovi    $ kurio       jūs ne            pažįstate  $ tasai       yra    $
+\std stovi    $ kurio       jūs ne_           pažįstate  $ tasai       yra    $
 \mrph 3.prs.   $ g.sg.m.     n.   -             2.pl.prs.    $ n.sg.m.def. 3.prs. $
-\lm stovėti $ kuris       jūs ne            pažinti     $ tas         būti  $
+\lm stovėti $ kuris       jūs ne_           pažinti     $ tas         būti  $
 \PoS vb.      $ prn.        prn. pfx.          vb.          $ prn.        vb.    $
 \gD stehen   $ welche(r/s) ihr  Neg.          (er)kennen   $ diese(r/s)  sein   $
 
@@ -645,12 +645,12 @@
 \lm iš_tiesos   anas
 \PoS adv.sec.     prn.
 \gD fürwahr     jene(r/s)
-\tx nera          buwe
-\std nėra         buvę
-\mrph 3.prs. 3.prs. prc.prt.act._n.pl.m.+PERF
-\lm ne     būti  būti
-\PoS pfx.   vb.aux vb.
-\gD Neg.   sein   sein
+\tx nera           buwe
+\std nėra          buvę
+\mrph 3.prs.         prc.prt.act._n.pl.m.+PERF
+\lm būti   būti  būti
+\PoS pfx.    vb.aux vb.
+\gD sein    sein   sein
 \tx praſti kakie       tarnai /
 \std prasti  kokie       tarnai $
 \mrph n.pl.m. n.pl.m.     n.pl.  $
@@ -1580,9 +1580,9 @@
 \PoS part. $ adj.     sf.
 \gD Neg.  $ fremd    Ruhm
 \tx ſaw        nenoredams                .
-\std sau         ne          norėdamas    $
+\std sau         ne_         norėdamas    $
 \mrph d.          -           prc.cn._sg.m. $
-\lm savęs      ne          norėti       $
+\lm savęs      ne_         norėti       $
 \PoS prn.        pfx.        vb.           $
 \gD [refl.prn.] Neg.        wollen        $
 
@@ -1651,10 +1651,10 @@
 \gD sagen        $ wer  wissen
 \tx bau          nera        
 \std bau          nėra        
-\mrph -            3.prs.  3.prs.
-\lm bau          ne      būti
+\mrph -            3.prs.        
+\lm bau          būti   būti
 \PoS part.        pfx.    vb.
-\gD [Fragepart.] Neg.    sein
+\gD [Fragepart.] sein    sein
 \tx tas        Ianas    tokſai
 \std tas        Jonas    toksai
 \mrph n.sg.m.    n.sg.    n.sg.m.
@@ -1978,9 +1978,9 @@
 
 \ref BP_I_045.4
 \tx drauſti  idant nieko      ape   Kriſtu  ſwietui neſakitu            .
-\std drausti   idant nieko      apie  Kristų  svietui  ne         sakytų   $
+\std drausti   idant nieko      apie  Kristų  svietui  ne_        sakytų   $
 \mrph inf.      -     g.sg.      +a.   a.sg.    d.sg.    -          3.cnd.    $
-\lm drausti   idant niekas     apie  Kristus  svietas  ne         sakyti    $
+\lm drausti   idant niekas     apie  Kristus  svietas  ne_        sakyti    $
 \PoS vb.       cnj.  prn.+SNeg. prp.  sm.npr.  sm.      pfx.       vb.       $
 \gD verbieten damit nichts     über Christus Welt     Neg.       sagen     $
 
@@ -2102,9 +2102,9 @@
 
 \ref BP_I_045.15
 \tx eſch neeſmi          
-\std aš   ne        esu
+\std aš   ne_       esu
 \mrph n.    -         1.sg.prs.
-\lm aš   ne        būti
+\lm aš   ne_       būti
 \PoS prn.  pfx.      vb.
 \gD ich   Neg.      sein
 \tx wertas        / idant
@@ -2292,9 +2292,9 @@
 
 \ref BP_I_046.6
 \tx te   krikſchtiju / a         maces  krikſchtui negaliu            pridů=|ti /
-\std tę  krikštiju   $ o         macės krikštui   ne       galiu     priduoti   $
+\std tę  krikštiju   $ o         macės krikštui   ne_      galiu     priduoti   $
 \mrph -    1.sg.prs.    $ -         g.sg.  d.sg.       -        1.sg.prs. inf.       $
-\lm tę  krikštyti   $ o         macė  krikštas   ne       galėti   priduoti   $
+\lm tę  krikštyti   $ o         macė  krikštas   ne_      galėti   priduoti   $
 \PoS adv. vb.          $ cnj.      sf.    sm.         pfx.     vb.       vb.        $
 \gD dort taufen       $ und,_aber Macht  Taufe       Neg.     können   beilegen   $
 
@@ -2428,9 +2428,9 @@
 
 \ref BP_I_046.14
 \tx teipo eſte     Welino  apiekinti                / kaip io      nepaßiſtat               : O
-\std taipo esate     velino  apjekinti                $ kaip jo      ne            pažįstate  $ o
+\std taipo esate     velino  apjekinti                $ kaip jo      ne_           pažįstate  $ o
 \mrph -     2.pl.prs. g.sg.   prc.prt.pss._n.pl.m.+PSS $ -    g.sg.m. -             2.pl.prs.    $ -
-\lm taipo būti     velinas apjekinti                $ kaip jis     ne            pažinti     $ o
+\lm taipo būti     velinas apjekinti                $ kaip jis     ne_           pažinti     $ o
 \PoS adv.  vb.aux    sm.     vb.                      $ cnj. prn.    pfx.          vb.          $ cnj.
 \gD so    sein      Teufel  verblenden               $ dass er      Neg.          (er)kennen   $ und,_aber
 
@@ -2496,9 +2496,9 @@
 
 \ref BP_I_046.18
 \tx Bey  eſch negaliu            iam     priſſiliginti  praſtas tiktai ßmo=|gus
-\std bei  aš   ne       galiu     jam     prisilyginti     prastas  tiktai žmogus
+\std bei  aš   ne_      galiu     jam     prisilyginti     prastas  tiktai žmogus
 \mrph -    n.    -        1.sg.prs. d.sg.m. inf.             n.sg.m.  -      n.sg.
-\lm bei  aš   ne       galėti   jis     prisilyginti     prastas  tiktai žmogus
+\lm bei  aš   ne_      galėti   jis     prisilyginti     prastas  tiktai žmogus
 \PoS cnj. prn.  pfx.     vb.       prn.    vb.              adj.     adv.   sm._pl._sm./sf.
 \gD und  ich   Neg.     können   er      sich_vergleichen einfach  nur    Mensch
 
@@ -2814,9 +2814,9 @@
 
 \ref BP_I_047.19
 \tx Ant  Antro       nenuſiminkes                grieku  delei  / bet           tikek
-\std ant  antro       ne             nusimink      griekų dėlei $ bet           tikėk
+\std ant  antro       ne_            nusimink      griekų dėlei $ bet           tikėk
 \mrph +g.  g.sg.m.     -              2.sg.imp.     g.pl.   +g.    $ -             2.sg.imp.
-\lm ant  antras      ne             nusiminti     griekas dėlei $ bet           tikėti
+\lm ant  antras      ne_            nusiminti     griekas dėlei $ bet           tikėti
 \PoS prp. o.          pfx.           vb.           sm.     prp.   $ cnj.          vb.
 \gD auf  zweite(r/s) Neg.           verzweifeln   Sünde  wegen  $ aber,_sondern glauben
 
@@ -2912,11 +2912,11 @@
 \PoS vb.      sm.      prn.       $ cnj. vb.      sm.     adv.
 \gD gelingen Frucht   diese(r/s) $ dass beginnen Sünde  weit
 \tx nebe=|kenſti                               /
-\std ne             be-            kęsti        $
+\std ne_            be_            kęsti        $
 \mrph -              -              inf.          $
-\lm ne             be-            kęsti        $
-\PoS pfx.           pfx.-          vb.           $
-\gD Neg.           []-            ertragen      $
+\lm ne_            be_            kęsti        $
+\PoS pfx.           pfx.           vb.           $
+\gD Neg.           []             ertragen      $
 
 \ref BP_I_048.4
 \tx ir   wießlibai giwenti /

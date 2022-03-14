@@ -113,12 +113,12 @@
 \gD sein   Johannes $ und  jene(r/s) sagen  er       $
 
 \ref BP_II_231.08
-\tx Iuk  newieno       nera          gimineie  tawa kuri
-\std juk  nė_vieno     nėra         giminėje tavo kurį
-\mrph -    g.sg.m.       3.prs. 3.prs. l.sg.     -    a.sg.m.
-\lm juk  nė_vienas    ne     būti  giminė   tavo kuris
-\PoS adv. prn.+SNeg.    pfx.   vb.    sf.       prn. prn.
-\gD doch niemand,_kein Neg.   sein   Sippe     dein welche(r/s)
+\tx Iuk  newieno       nera           gimineie  tawa kuri
+\std juk  nė_vieno     nėra          giminėje tavo kurį
+\mrph -    g.sg.m.       3.prs.         l.sg.     -    a.sg.m.
+\lm juk  nė_vienas    būti   būti  giminė   tavo kuris
+\PoS adv. prn.+SNeg.    pfx.    vb.    sf.       prn. prn.
+\gD doch niemand,_kein sein    sein   Sippe     dein welche(r/s)
 
 \ref BP_II_231.09
 \tx wadintu  to         wardu  .
@@ -538,8 +538,8 @@
 \tx moteriſchke pagimde   / nera   dideſnio   / ußu Iana     krikſch=|titoghi .
 \std moteriškė  pagimdė  $ nėra  didesnio    $ už  Joną    krikštytojį     $
 \mrph n.sg.        3.prt.    $ 3.prs. g.sg.m.cmp. $ +a.  a.sg.    a.sg.             $
-\lm moteriškė  pagimdyti $ ne     didis       $ už  Jonas    krikštytojas     $
-\PoS sf.          vb.       $ $ pfx  adj.        $ prp. sm.npr.  sm.               $
+\lm moteriškė  pagimdyti $ ne_    didis       $ už  Jonas    krikštytojas     $
+\PoS sf.          vb.       $ pfx.   adj.        $ prp. sm.npr.  sm.               $
 \gD Frau         gebären  $ Neg.   groß       $ als  Johannes Täufer           $
 
 \ref BP_II_234.07
@@ -816,9 +816,9 @@
 
 \ref BP_II_235.13
 \tx ſchitta   Euangelia  nekalb           . Potam  ira    kits
-\std šita      evangelija ne      kalba    $ po_tam yra    kitas
+\std šita      evangelija ne_     kalba    $ po_tam yra    kitas
 \mrph n.sg.f.    n.sg.      -       3.prs.   $ -      3.prs. n.sg.m.
-\lm šitas     evangelija ne      kalbėti $ po_tam būti  kitas
+\lm šitas     evangelija ne_     kalbėti $ po_tam būti  kitas
 \PoS prn.       sf.        pfx.    vb.      $ adv.   v.au   prn.
 \gD diese(r/s) Evangelium Neg.    sprechen $ danach sein   andere(r/s)
 \tx buwens
@@ -900,10 +900,10 @@
 
 \ref BP_II_235.22
 \tx eſt   / ſu  wiru  ſawa              newieno       waiko  netureia           / ikki abudu
-\std yra    $ su   vyrų savo               nė_vieno     vaiko  ne        turėjo  $ iki  abudu
+\std yra    $ su   vyrų savo               nė_vieno     vaiko  ne_       turėjo  $ iki  abudu
 \mrph 3.prs. $ +i.  g.pl. -                  g.sg.m.       g.sg.  -         3.prt.   $ -    n.du.m.
-\lm būti  $ su   vyras savo               nė_vienas    vaikas ne        turėti  $ iki  abudu
-\PoS vb.    $ prp. sm.   prn.               prn.+SNeg.    sm.    pfx       vb.      $ $ c  prn.
+\lm būti  $ su   vyras savo               nė_vienas    vaikas ne_       turėti  $ iki  abudu
+\PoS vb.    $ prp. sm.   prn.               prn.+SNeg.    sm.    pfx.      vb.      $ $ c  prn.
 \gD sein   $ mit  Mann  [refl._Poss.-prn.] niemand,_kein Kind   Neg.               $ bis  beide
 
 \ref BP_II_235.23
@@ -964,11 +964,11 @@
 
 \ref BP_II_236.06
 \tx tadda    Ʒacharioſus toiaus  / neapbilla  / iog  negaleia           ne
-\std tada     Zacharijas    tuojaus $ neapibilo  $ jog  ne        galėjo  nė
+\std tada     Zacharijas    tuojaus $ neapibilo  $ jog  ne_       galėjo  nė
 \mrph -        n.sg.         -       $ 3.prt.     $ -    -         3.prt.   -
-\lm tada     Zacharijas    tuojaus $ neapibilti $ jog  ne        galėti  nė
-\PoS adv.     sm.npr.       adv.    $ vb.        $ cnj.           vb.      part.
-\gD da,_dann Zacharias     sofort  $ verstummen $ dass           können  Neg.
+\lm tada     Zacharijas    tuojaus $ neapibilti $ jog  ne_       galėti  nė
+\PoS adv.     sm.npr.       adv.    $ vb.        $ cnj. pfx.      vb.      part.
+\gD da,_dann Zacharias     sofort  $ verstummen $ dass Neg.      können  Neg.
 
 \ref BP_II_236.07
 \tx wieno           ßodʒio iſchkalbeti / ikki  ußgimmuſiam        ſcham
@@ -1108,9 +1108,9 @@
 
 \ref BP_II_236.24
 \tx mieſte Ieruſalem    . A         ant  tho        Vredo   / ghi     nepa=|wadina               
-\std mieste  ext:Jerusalem $ o         ant  to         urėdo  $ jį     ne             pavadino
+\std mieste  ext:Jerusalem $ o         ant  to         urėdo  $ jį     ne_            pavadino
 \mrph l.sg.   indc.         $ -         +g.  g.sg.m.    g.sg.   $ a.sg.m. -              3.prt.
-\lm miestas ext:Jerusalem $ o         ant  tas        urėdas $ jis     ne             pavadinti
+\lm miestas ext:Jerusalem $ o         ant  tas        urėdas $ jis     ne_            pavadinti
 \PoS sm.     sm.npr.       $ cnj.      prp. prn.       sm.     $ prn.    pfx.           vb.
 \gD Stadt   Jerusalem     $ und,_aber auf  diese(r/s) Amt     $ er      Neg.           einladen
 
@@ -1140,11 +1140,11 @@
 
 \ref BP_II_237.04
 \tx dawe   praſſideti / ir        ghi     dabar negimuſi                       Schwenta
-\std davė  prasidėti   $ ir        jį     dabar ne         gimusį              šventa
+\std davė  prasidėti   $ ir        jį     dabar ne_        gimusį              šventa
 \mrph 3.prt. inf.         $ -         a.sg.m. -     -          prc.prt.act._a.sg.m. i.sg.f.
-\lm duoti  prasidėti   $ ir        jis     dabar ne         gimti                šventas
-\PoS vb.    vb.          $ $ cnj.    prn.    adv.             vb.                  adj.
-\gD geben  beginnen     $ und,_auch er                       geboren_werden       heilig
+\lm duoti  prasidėti   $ ir        jis     dabar ne_        gimti                šventas
+\PoS vb.    vb.          $ $ cnj.    prn.    adv.  pfx.       vb.                  adj.
+\gD geben  beginnen     $ und,_auch er            Neg.       geboren_werden       heilig
 
 \ref BP_II_237.05
 \tx Dwaſe        ßiwate  Motinos io      apdowanoia . Ir        paſkui /
@@ -1587,12 +1587,12 @@
 \gD Gott   welche(r/s) Welt    Sünde  bringen $ wie        sagen
 
 \ref BP_II_239.07
-\tx nera          newieno       kurſai     galetu   ſwieta nůg Grieku  aptei=|ſinti /
-\std nėra         nė_vieno     kursai      galėtų svietą nuog griekų apteisinti    $
-\mrph 3.prs. 3.prs. g.sg.m.       n.sg.m.def. 3.cnd.   a.sg.   +g.  g.pl.   inf.          $
-\lm ne     būti  nė_vienas    kuris       galėti  svietas nuog griekas apteisinti    $
-\PoS pfx.   vb.    prn.+SNeg.    prn.        vb.      sm.     prp. sm.     vb.           $
-\gD Neg.   sein   niemand,_kein welche(r/s) können  Welt    von  Sünde  richten       $
+\tx nera           newieno       kurſai     galetu   ſwieta nůg Grieku  aptei=|ſinti /
+\std nėra          nė_vieno     kursai      galėtų svietą nuog griekų apteisinti    $
+\mrph 3.prs.         g.sg.m.       n.sg.m.def. 3.cnd.   a.sg.   +g.  g.pl.   inf.          $
+\lm būti   būti  nė_vienas    kuris       galėti  svietas nuog griekas apteisinti    $
+\PoS pfx.    vb.    prn.+SNeg.    prn.        vb.      sm.     prp. sm.     vb.           $
+\gD sein    sein   niemand,_kein welche(r/s) können  Welt    von  Sünde  richten       $
 
 \ref BP_II_239.08
 \tx tiktai ſchiſſai nieku      nekaltas   Kriſtus / tas        nieko
@@ -1604,9 +1604,9 @@
 
 \ref BP_II_239.09
 \tx pikta           nedarens                       / tacʒiau důſis     ußmuſchti / ir        ſawa
-\std pikto           ne        daręs               $ tačiau  duosis      užmušti   $ ir        savo
+\std pikto           ne_       daręs               $ tačiau  duosis      užmušti   $ ir        savo
 \mrph g.sg.m.         -         prc.prt.act._n.sg.m. $ -        3.ft.       inf.        $ -         -
-\lm piktas          ne        daryti               $ tačiau  duotis      užmušti   $ ir        savo
+\lm piktas          ne_       daryti               $ tačiau  duotis      užmušti   $ ir        savo
 \PoS adj.            pfx.      vb.                  $ adv.     vb.         vb.         $ $ cnj.    prn.
 \gD böse,_schlecht Neg.      tun,_machen          $ jedoch   geben(rfl.) erschlagen  $ und,_auch [refl._Poss.-prn.]
 
@@ -1762,9 +1762,9 @@
 
 \ref BP_II_240.02
 \tx tam        iſchtieſos nereiktu             kitto       kokio       gelbetoio   /
-\std tam        iš_tiesos   ne        reiktų    kito        kokio       gelbėtojo  $
+\std tam        iš_tiesos   ne_       reiktų    kito        kokio       gelbėtojo  $
 \mrph d.sg.m.    -            -         3.cnd.     g.sg.m.     g.sg.m.     g.sg.       $
-\lm tas        iš_tiesos   ne        reikti     kitas       koks        gelbėtojas $
+\lm tas        iš_tiesos   ne_       reikti     kitas       koks        gelbėtojas $
 \PoS prn.       adv.sec.     pfx.      vb.        prn.        prn.        sm.         $
 \gD diese(r/s) fürwahr     Neg.      benötigen andere(r/s) welche(r/s) Retter      $
 
@@ -1816,9 +1816,9 @@
 
 \ref BP_II_240.08
 \tx nekenteia            / ir        todelei  ßmones griekoſu giwenancʒias        /
-\std ne         kentėjo  $ ir        todėlei žmones griekuose gyvenančias         $
+\std ne_        kentėjo  $ ir        todėlei žmones griekuose gyvenančias         $
 \mrph -          3.prt.    $ -         -        a.pl.   l.pl.     prc.prs.act._a.pl.f. $
-\lm ne         kentėti  $ ir        todėlei žmogus griekas   gyventi              $
+\lm ne_        kentėti  $ ir        todėlei žmogus griekas   gyventi              $
 \PoS pfx.       vb.       $ $ cnj.    adv.     sm.     sm.       vb.                  $
 \gD Neg.       leiden    $ und,_auch deshalb  Mensch  Sünde    leben                $
 
@@ -1904,9 +1904,9 @@
 
 \ref BP_II_240.19
 \tx Todel  kuris       medis neneſch           waiſiaus / tas        bus   pakir=|ſtas
-\std todėl kuris       medis ne        neša    vaisiaus  $ tas        bus   pakirstas
+\std todėl kuris       medis ne_       neša    vaisiaus  $ tas        bus   pakirstas
 \mrph -      n.sg.m.     n.sg. -         3.prs.   g.sg.     $ n.sg.m.    3.ft. prc.prt.pss.+PSS
-\lm todėl kuris       medis ne        nešti   vaisius   $ tas        būti pakirsti
+\lm todėl kuris       medis ne_       nešti   vaisius   $ tas        būti pakirsti
 \PoS adv.   prn.        sm.   pfx.      vb.      sm.       $ prn.       v.au  vb.
 \gD daher  welche(r/s) Baum  Neg.      bringen  Frucht    $ diese(r/s) sein  fällen
 
@@ -1942,9 +1942,9 @@
 \PoS sm.                                  prn.+SNeg.
 \gD Evangelist                           nichts
 \tx neadbo=|dams               
-\std ne             atbodamas
+\std ne_            atbodamas
 \mrph -              prc.cn._sg.m.
-\lm ne             atboti
+\lm ne_            atboti
 \PoS pfx.           v.
 \gD Neg.           beachten,_berücksichtigen
 
@@ -1966,9 +1966,9 @@
 
 \ref BP_II_240.26
 \tx muſu  Wieſchpaties IEſaus Kriſtaus / netiktai  ne=|kenteia              
-\std mūsų viešpaties   Jėzaus Kristaus  $ netiktai  ne            kentėjo
+\std mūsų viešpaties   Jėzaus Kristaus  $ netiktai  ne_           kentėjo
 \mrph g.     g.sg.         g.sg.   g.sg.     $ -         -             3.prt.
-\lm mes    viešpats     Jėzus  Kristus   $ netiktai  ne            kentėti
+\lm mes    viešpats     Jėzus  Kristus   $ netiktai  ne_           kentėti
 \PoS prn.   sm.           sm.npr. sm.npr.   $ adv.      pfx.          vb.
 \gD wir    Herr          Jesus   Christus  $ nicht_nur Neg.          leiden
 
@@ -2060,9 +2060,9 @@
 
 \ref BP_II_241.11
 \tx Daugeſne nepraſchiket                / nei   priſakita                ira    / Tiktai da=|riket
-\std daugesni  ne             prašykite    $ nei   prisakyta                 yra    $ tiktai darykite
+\std daugesni  ne_            prašykite    $ nei   prisakyta                 yra    $ tiktai darykite
 \mrph cmp.      -              2.pl.imp.     $ -     prc.prt.pss._n.sg.nt.+PSS 3.prs. $ -      2.pl.imp.
-\lm daug      ne             prašyti      $ nei   prisakyti                 būti  $ tiktai daryti
+\lm daug      ne_            prašyti      $ nei   prisakyti                 būti  $ tiktai daryti
 \PoS adv.      pfx.           vb.           $ $ cnj vb.                       v.     $ adv.   vb.
 \gD viel      Neg.           bitten        $ als   befehlen                  sein   $ nur    tun,_machen
 
@@ -2220,9 +2220,9 @@
 
 \ref BP_II_242.05
 \tx Iana     nepramanuſi                       naughi  koki        pamokſla / bet           tatai
-\std Joną    ne            pramanusį           naują  kokį       pamokslą $ bet           tatai
+\std Joną    ne_           pramanusį           naują  kokį       pamokslą $ bet           tatai
 \mrph a.sg.    -             prc.prt.act._a.sg.m. a.sg.m. a.sg.m.     a.sg.     $ -             -
-\lm Jonas    ne            pramanyti            naujas  koks        pamokslas $ bet           tatai
+\lm Jonas    ne_           pramanyti            naujas  koks        pamokslas $ bet           tatai
 \PoS sm.npr.  pfx.          vb.                  adj.    prn.        sm.       $ cnj.          prn.
 \gD Johannes Neg.          erdenken             neu     welche(r/s) Predigt   $ aber,_sondern dies,_das
 

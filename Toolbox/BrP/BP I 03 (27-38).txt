@@ -106,9 +106,9 @@
 
 \ref BP_I_028.5
 \tx Ir   iſchganitas             ira    kuris       nepaſipiktin                
-\std ir   išganytas               yra    kuris       ne              pasipiktina
+\std ir   išganytas               yra    kuris       ne_             pasipiktina
 \mrph -    prc.prt.pss._n.sg.m.+PSS 3.prs. n.sg.m.     -               3.prs.
-\lm ir   išganyti                būti  kuris       ne              pasipiktinti
+\lm ir   išganyti                būti  kuris       ne_             pasipiktinti
 \PoS cnj. vb.                      vb.aux prn.        pfx.            vb.
 \gD und  erlösen                 sein   welche(r/s) Neg.            zürnen
 
@@ -670,15 +670,15 @@
 
 \ref BP_I_031.2
 \tx kaip kada      ghis    Kriſtaus nepaßintu             / kaip kada
-\std kaip kada      jis     Kristaus  ne          pažintų  $ kaip kada
+\std kaip kada      jis     Kristaus  ne_         pažintų  $ kaip kada
 \mrph -    -         n.sg.m. g.sg.     -           3.cnd.     $ -    -
-\lm kaip kada      jis     Kristus   ne          pažinti   $ kaip kada
+\lm kaip kada      jis     Kristus   ne_         pažinti   $ kaip kada
 \PoS adv. cnj.      prn.    sm.npr.   pfx.        vb.        $ adv. cnj.
 \gD wie  wenn,_als er      Christus  Neg.        (er)kennen $ wie  wenn,_als
 \tx neßino=|tu              
-\std ne            žinotų
+\std ne_           žinotų
 \mrph -             3.cnd.
-\lm ne            žinoti
+\lm ne_           žinoti
 \PoS pfx.          vb.
 \gD Neg.          wissen
 
@@ -690,9 +690,9 @@
 \PoS prn.    vb.                  n.sg.           $ cnj. sm.npr.  adv.
 \gD er      sein                 Messias         $ denn Johannes noch
 \tx negi=|mes            
-\std ne          gimęs
+\std ne_         gimęs
 \mrph -           prc.prt.act._n.sg.m.
-\lm ne          gimti
+\lm ne_         gimti
 \PoS pfx.        vb.
 \gD Neg.        geboren_werden
 
@@ -816,9 +816,9 @@
 
 \ref BP_I_031.18
 \tx neſa thie       ik   ſcholei     dabar neßinnoia             nei                   tikeia  /
-\std nes   tie        ik_šiolei        dabar ne          žinojo    nei                   tikėjo $
+\std nes   tie        ik_šiolei        dabar ne_         žinojo    nei                   tikėjo $
 \mrph -     n.pl.m.    -                 -     -           3.prt.     -                     3.prt.  $
-\lm nes   tas        ik_šiolei        dabar ne          žinoti    nei                   tikėti $
+\lm nes   tas        ik_šiolei        dabar ne_         žinoti    nei                   tikėti $
 \PoS cnj.  prn.       adv.              adv.  pfx.        vb.        cnj.                  vb.     $
 \gD denn  diese(r/s) bisher,_bis_jetzt noch  Neg.        wissen     und_nicht,_weder_noch glauben $
 \tx iog  taſ=|ſai
@@ -1022,9 +1022,9 @@
 
 \ref BP_I_032.16
 \tx Kurſai     to         tirſis     ir   iſchmoks / tas        negaileſis              
-\std kursai      to         tirsis      ir   išmoks   $ tas        ne            gailėsis
+\std kursai      to         tirsis      ir   išmoks   $ tas        ne_           gailėsis
 \mrph n.sg.m.def. g.sg.m.    3.ft.       -    3.ft.     $ n.sg.m.    -             3.ft.
-\lm kuris       tas        tirtis      ir   išmokti  $ tas        ne            gailėtis
+\lm kuris       tas        tirtis      ir   išmokti  $ tas        ne_           gailėtis
 \PoS prn.        prn.       vb.         cnj. vb.       $ prn.       pfx.          vb.
 \gD welche(r/s) diese(r/s) ausforschen und  erlernen  $ diese(r/s) Neg.          bereuen
 \tx gim=|mens
@@ -1424,11 +1424,11 @@
 
 \ref BP_I_034.13
 \tx buwa   begidas                       daug negalincʒiu         ßmoniu         . Bet
-\std buvo   be-      gydąs               daug negalinčių         žmonių        $ bet
+\std buvo   be_      gydąs               daug negalinčių         žmonių        $ bet
 \mrph 3.prt. -        prc.prs.act._n.sg.m. -    prc.prs.act._g.pl.m. g.pl.           $ -
-\lm būti  be-      gydyti               daug negalėti            žmogus         $ bet
-\PoS vb.aux pfx.-    vb.                  adv. vb.                  sm._pl._sm./sf. $ cnj.
-\gD sein   []-      heilen               viel krank_sein           Mensch          $ aber,_sondern
+\lm būti  be_      gydyti               daug negalėti            žmogus         $ bet
+\PoS vb.aux pfx.     vb.                  adv. vb.                  sm._pl._sm./sf. $ cnj.
+\gD sein   []       heilen               viel krank_sein           Mensch          $ aber,_sondern
 \tx ka=|dangi
 \std kadangi
 \mrph -
@@ -1604,9 +1604,9 @@
 
 \ref BP_I_035.10
 \tx A         ghis    to         nedara              / Bet           kencʒe  iu      ſilpnibe / ir   ios
-\std o         jis     to         ne      daro        $ bet           kenčia  jų     silpnybę $ ir   juos
+\std o         jis     to         ne_     daro        $ bet           kenčia  jų     silpnybę $ ir   juos
 \mrph -         n.sg.m. g.sg.m.    -       3.prs.      $ -             3.prs.   g.pl.m. a.sg.     $ -    a.pl.m.
-\lm o         jis     tas        ne      daryti      $ bet           kentėti jis     silpnybė $ ir   jis
+\lm o         jis     tas        ne_     daryti      $ bet           kentėti jis     silpnybė $ ir   jis
 \PoS cnj.      prn.    prn.       pfx.    vb.         $ cnj.          vb.      prn.    sf.       $ cnj. prn.
 \gD und,_aber er      diese(r/s) Neg.    tun,_machen $ aber,_sondern leiden   er      Schwäche $ und  er
 
@@ -1634,9 +1634,9 @@
 
 \ref BP_I_035.13
 \tx neuſchgeſis                .
-\std ne             užgesys      $
+\std ne_            užgesys      $
 \mrph -              3.ft.         $
-\lm ne             užgesyti     $
+\lm ne_            užgesyti     $
 \PoS pfx.           vb.           $
 \gD Neg.           auslöschen   $
 
@@ -1658,9 +1658,9 @@
 
 \ref BP_I_035.16
 \tx galeia  . Iei         nedarau              darbus mana Tiewo  / tadda
-\std galėjo $ jei         ne       darau       darbus mano tėvo  $ tada
+\std galėjo $ jei         ne_      darau       darbus mano tėvo  $ tada
 \mrph 3.prt.  $ -           -        1.sg.prs.   a.pl.  -    g.sg.  $ -
-\lm galėti $ jei         ne       daryti      darbas mano tėvas $ tada
+\lm galėti $ jei         ne_      daryti      darbas mano tėvas $ tada
 \PoS vb.     $ cnj.        pfx.     vb.         sm.    prn. sm.    $ adv.
 \gD können $ wenn,_falls Neg.     tun,_machen Werk   mein Vater  $ da,_dann
 
@@ -1688,9 +1688,9 @@
 
 \ref BP_I_035.19
 \tx 3 . Mokinkimes  ir   iaukinkimes                  neßinnancʒius                  
-\std 3 $ mokinkimės ir   jaukinkimės                 ne                žinančius
+\std 3 $ mokinkimės ir   jaukinkimės                 ne_               žinančius
 \mrph 3 $ 1.pl.imp.   -    1.pl.imp.                    -                 prc.prs.act._a.pl.m.
-\lm 3 $ mokintis    ir   jaukintis                    ne                žinoti
+\lm 3 $ mokintis    ir   jaukintis                    ne_               žinoti
 \PoS 3 $ vb.         cnj. vb.                          pfx.              vb.
 \gD 3 $ lernen      und  sich gewöhnen,_sich_zähmen Neg.              wissen
 
@@ -1840,9 +1840,9 @@
 
 \ref BP_I_036.13
 \tx Iano     / nenoreia           Ianui    ſawa              garbe  pawelti  alba důti /
-\std Jono     $ ne        norėjo  Jonui    savo               garbę pavelti  alba duoti $
+\std Jono     $ ne_       norėjo  Jonui    savo               garbę pavelti  alba duoti $
 \mrph g.sg.    $ -         3.prt.   d.sg.    -                  a.sg.  inf.     -    inf.  $
-\lm Jonas    $ ne        norėti  Jonas    savo               garbė pavelti  alba duoti $
+\lm Jonas    $ ne_       norėti  Jonas    savo               garbė pavelti  alba duoti $
 \PoS sm.npr.  $ pfx.      vb.      sm.npr.  prn.               sf.    vb.      cnj. vb.   $
 \gD Johannes $ Neg.      wollen   Johannes [refl._Poss.-prn.] Ruhm   zulassen oder geben $
 
@@ -1864,9 +1864,9 @@
 
 \ref BP_I_036.16
 \tx Diewas ghi     buwa   apdowanojens              / nenor          nutraukti .
-\std dievas jį     buvo   apdovanojęs              $ ne     nori    nutraukti $
+\std dievas jį     buvo   apdovanojęs              $ ne_    nori    nutraukti $
 \mrph n.sg.  a.sg.m. 3.prt. prc.prt.act._n.sg.m.+PERF $ -      3.prs.  inf.      $
-\lm dievas jis     būti  apdovanoti                $ ne     norėti nutraukti $
+\lm dievas jis     būti  apdovanoti                $ ne_    norėti nutraukti $
 \PoS sm.    prn.    vb.aux vb.                       $ pfx.   vb.     vb.       $
 \gD Gott   er      sein   beschenken                $ Neg.   wollen  abnehmen  $
 
@@ -1950,9 +1950,9 @@
 
 \ref BP_I_037.5
 \tx makitaias ira    / ghis    neſſibaida               ir   pacʒiam Karaliu
-\std mokytojas yra    $ jis     ne            baidosi      ir   pačiam  karaliui
+\std mokytojas yra    $ jis     ne_           baidosi      ir   pačiam  karaliui
 \mrph n.sg.     3.prs. $ n.sg.m. -             3.prs.       -    d.sg.m.  d.sg.
-\lm mokytojas būti  $ jis     ne            baidytis     ir   pats     karalius
+\lm mokytojas būti  $ jis     ne_           baidytis     ir   pats     karalius
 \PoS sm.       vb.    $ prn.    pfx.          vb.          cnj. prn.     sm.
 \gD Lehrer    sein   $ er      Neg.          fürchten    und  selbst   König
 
@@ -2024,9 +2024,9 @@
 \PoS sm._pl._sm. adj.    vb.      $ cnj.          vb.      prn. sf.      vb.    $
 \gD Mensch      gern    zuhören $ aber,_sondern sprechen was  Wahrheit sein   $
 \tx neſſibai=|didams                     
-\std ne                   baidydamasi
-\mrph -                    prc.cn.._sg.m.
-\lm ne                   baidytis
+\std ne_                  baidydamasi
+\mrph -                    prc.cn._sg.m.
+\lm ne_                  baidytis
 \PoS pfx.                 vb.
 \gD Neg.                 fürchten
 

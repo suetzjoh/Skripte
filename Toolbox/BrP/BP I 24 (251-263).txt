@@ -92,9 +92,9 @@
 
 \ref BP_I_252.05
 \tx Apaſchtalai to         nieka        neiſchmane              / ir   bu=|wa
-\std apaštalai   to         nieko-nieką ne           išmanė    $ ir   buvo
+\std apaštalai   to         nieko-nieką ne_          išmanė    $ ir   buvo
 \mrph n.pl.        g.sg.m.    g.sg./a.sg.  -            3.prt.      $ -    3.prt.
-\lm apaštalas   tas        niekas       ne           išmanyti   $ ir   būti
+\lm apaštalas   tas        niekas       ne_          išmanyti   $ ir   būti
 \PoS sm.          prn.       prn.+SNeg.   pfx.         vb.         $ cnj. vb.aux
 \gD Apostel      diese(r/s) nichts       Neg.         verstehen   $ und  sein
 
@@ -754,11 +754,11 @@
 
 \ref BP_I_256.02
 \tx Apaſchtalams / kaip iau   nu     iſch Ieruſales nebe=|griſch                               /
-\std apaštalams   $ kaip jau   nū    iš   Jeruzalės ne             be-            grįš        $
+\std apaštalams   $ kaip jau   nū    iš   Jeruzalės ne_            be_            grįš        $
 \mrph d.pl.         $ -    -     -      +g.   g.sg.      -              -              3.ft.         $
-\lm apaštalas    $ kaip jau   nu=nū iš   Jeruzalė  ne             be-            grįžti      $
-\PoS sm.           $ cnj. adv.  adv.   prp.  sf.npr.    pfx.           Pfx.-          vb.           $
-\gD Apostel       $ wie  schon jetzt  aus   Jerusalem  Neg.           []-            zurückkommen $
+\lm apaštalas    $ kaip jau   nu=nū iš   Jeruzalė  ne_            be_            grįžti      $
+\PoS sm.           $ cnj. adv.  adv.   prp.  sf.npr.    pfx.           pfx.           vb.           $
+\gD Apostel       $ wie  schon jetzt  aus   Jerusalem  Neg.           []             zurückkommen $
 
 \ref BP_I_256.03
 \tx bet dide muka kenteiens mirs . Bei tatai iam
@@ -810,11 +810,11 @@
 
 \ref BP_I_256.09
 \tx in          Ieruſalem    / a             neſugriſchtinai / net     liktinai .
-\std ing         ext:Jerusalem $ o             ne sugrįžtinai  $ net     liktinai $
-\mrph +a.         indc.         $ -             adv.              $ -       adv.     $
-\lm ing         ext:Jerusalem $ o             sugrįžti        $ net     likti    $
-\PoS prp.        sm.npr.       $ cnj.          vb.               $ $ adv.  vb.      $
-\gD in_-_hinein Jerusalem     $ aber,_sondern zurückkehren     $ sondern bleiben  $
+\std ing         ext:Jerusalem $ o             ne_               $ net     liktinai $
+\mrph +a.         indc.         $ -             -                 $ -       adv.     $
+\lm ing         ext:Jerusalem $ o             ne_               $ net     likti    $
+\PoS prp.        sm.npr.       $ cnj.          pfx.              $ $ adv.  vb.      $
+\gD in_-_hinein Jerusalem     $ aber,_sondern Neg.              $ sondern bleiben  $
 
 \ref BP_I_256.10
 \tx A             galetu   kas  klauſti bilodams      / Kodelei  Kriſtus
@@ -834,23 +834,23 @@
 
 \ref BP_I_256.12
 \tx eia    / kodelei  newenge            thinai eiti  / kodelei
-\std ėjo   $ kodėlei ne       vengė    tinai  eiti  $ kodėlei
+\std ėjo   $ kodėlei ne_      vengė    tinai  eiti  $ kodėlei
 \mrph 3.prt. $ -        -        3.prt.    -      inf.  $ -
-\lm eiti   $ kodėlei ne       vengti    tinai  eiti  $ kodėlei
-\PoS vb.    $ adv.     pfx      vb.       adv.   vb.   $ adv.
+\lm eiti   $ kodėlei ne_      vengti    tinai  eiti  $ kodėlei
+\PoS vb.    $ adv.     pfx.     vb.       adv.   vb.   $ adv.
 \gD gehen  $ warum    Neg.     vermeiden dort   gehen $ warum
 \tx neſiſlape                           / kode=|lei
-\std ne           slapėsi                 $ kodėlei
+\std ne_          slapėsi                 $ kodėlei
 \mrph -            3.prt.                   $ -
-\lm ne           slapytis                 $ kodėlei
+\lm ne_          slapytis                 $ kodėlei
 \PoS pfx.         vb.                      $ adv.
 \gD Neg.         sich_zu_verbergen_suchen $ warum
 
 \ref BP_I_256.13
 \tx toli kur  nenubega            / ieib anoke         muka   ir        ſmerti
-\std toli kur  ne        nubėgo   $ jeib anokią       mūką ir        smertį
+\std toli kur  ne_       nubėgo   $ jeib anokią       mūką ir        smertį
 \mrph -    -    -         3.prt.    $ -    a.sg.f.       a.sg.  -         a.sg.
-\lm toli kur  ne        nubėgti  $ jeib anoks         mūka  ir        smertis
+\lm toli kur  ne_       nubėgti  $ jeib anoks         mūka  ir        smertis
 \PoS adv. adv. pfx.      vb.       $ cnj. prn.          sf.    cnj.      sf.
 \gD weit wo   Neg.      hinlaufen $ dass solcher(r, s) Qual   und,_auch Tod
 \tx iſch=|wengtu ?
@@ -878,10 +878,10 @@
 
 \ref BP_I_256.16
 \tx walios / ir        neſila          werſtas             / net     titſchomis ir        rodas   ant
-\std valios $ ir        ne       syla    verstas              $ net     tyčiomis   ir        rodas   ant
+\std valios $ ir        ne_      syla    verstas              $ net     tyčiomis   ir        rodas   ant
 \mrph g.sg.  $ -         -        i.sg.   prc.prt.pss._n.sg.m. $ -       -           -         n.sg.m. +g.
-\lm valia  $ ir        ne       syla    versti               $ net     tyčiomis   ir        rodas   ant
-\PoS sf.    $ cnj.      part.    sf.     vb.                  $ $ cnj.  adv.        cnj.      adj.    prp.
+\lm valia  $ ir        ne_      syla    versti               $ net     tyčiomis   ir        rodas   ant
+\PoS sf.    $ cnj.      pfx.     sf.     vb.                  $ $ cnj.  adv.        cnj.      adj.    prp.
 \gD Wille  $ und,_auch Neg.     Kraft   zwingen              $ sondern absichtlich und,_auch gern    auf
 
 \ref BP_I_256.17
@@ -934,11 +934,11 @@
 
 \ref BP_I_256.23
 \tx iumis welikauti     . Niekas      neim         giwata  mana / nůg
-\std jumis velykauti     $ niekas      ne    ima    gyvatą mano $ nuog
+\std jumis velykauti     $ niekas      ne_   ima    gyvatą mano $ nuog
 \mrph i.    inf.          $ n.          -     3.prs. a.sg.   -    $ +g.
-\lm jūs  velykauti     $ niekas      ne    imti   gyvata  mano $ nuog
-\PoS prn.  vb.           $ $ prn.+SNeg       vb.    sf.     prn. $ prp.
-\gD ihr   Ostern_feiern $ niemand           nehmen Leben   mein $ von
+\lm jūs  velykauti     $ niekas      ne_   imti   gyvata  mano $ nuog
+\PoS prn.  vb.           $ $ prn.+SNeg pfx.  vb.    sf.     prn. $ prp.
+\gD ihr   Ostern_feiern $ niemand     Neg.  nehmen Leben   mein $ von
 
 \ref BP_I_256.24
 \tx manes  / net     aſch ana       pats    iſch ſawes      důmi     / man  walia
@@ -1006,9 +1006,9 @@
 
 \ref BP_I_257.07
 \tx iog  ne          ſmerties neſibaida             / ußu muſu  apſijmti   .
-\std jog  ne          smerties  ne          baidosi    $ už  mūsų apsiimti    $
+\std jog  ne          smerties  ne_         baidosi    $ už  mūsų apsiimti    $
 \mrph -    -           g.sg.     -           3.prs.     $ +g.  g.     inf.        $
-\lm jog  ne          smertis   ne          baidytis   $ už  mes    apsiimti    $
+\lm jog  ne          smertis   ne_         baidytis   $ už  mes    apsiimti    $
 \PoS cnj. part.+SNeg. sf.       pfx.        vb.        $ prp. prn.   vb.         $
 \gD dass Neg.        Tod       Neg.        fürchten  $ für wir    übernehmen $
 
@@ -1150,11 +1150,11 @@
 
 \ref BP_I_258.05
 \tx Pona  ſawa              Kriſtaus galletu  numaniti  / ghi     nebu=|ſencʒiu                  
-\std pono  savo               Kristaus  galėtų numanyti  $ jį     ne                būsiančiu
+\std pono  savo               Kristaus  galėtų numanyti  $ jį     ne_               būsiančiu
 \mrph g.sg. -                  g.sg.     3.cnd.   inf.      $ a.sg.m. -                 prc.ft.act._i.sg.m.
-\lm ponas savo               Kristus   galėti  numanyti  $ jis     ne                būti
-\PoS sm.   prn.               sm.npr.   vb.      vb.       $ prn.
-\gD Herr  [refl._Poss.-prn.] Christus  können  verstehen $ er
+\lm ponas savo               Kristus   galėti  numanyti  $ jis     ne_               būti
+\PoS sm.   prn.               sm.npr.   vb.      vb.       $ prn.    pfx.
+\gD Herr  [refl._Poss.-prn.] Christus  können  verstehen $ er      Neg.
 
 \ref BP_I_258.06
 \tx karalumi  kakiu       ſwietiſchku / kurſai     kaip kiti        ka=|ralei
@@ -1266,9 +1266,9 @@
 
 \ref BP_I_258.18
 \tx ſwietiſchkos ponjſtes  netikotu           . Mana kara=|liſte
-\std svietiškos    ponystės  ne        tykotų  $ mano karalystė
+\std svietiškos    ponystės  ne_       tykotų  $ mano karalystė
 \mrph g.sg.f.        g.sg.      -         3.cnd.   $ -    n.sg.
-\lm svietiškas    ponystė   ne        tykoti   $ mano karalystė
+\lm svietiškas    ponystė   ne_       tykoti   $ mano karalystė
 \PoS adj.           sf.        pfx.      vb.      $ prn. sf.
 \gD weltlich       Herrschaft Neg.      lauern   $ mein Königreich
 
@@ -1298,9 +1298,9 @@
 
 \ref BP_I_258.22
 \tx Togidel  ir        mes  krikſchcʒonis neſſitikekem                 wiſſad
-\std togidėl ir        mes  krikščionys   ne              tikėkimės    visada
+\std togidėl ir        mes  krikščionys   ne_             tikėkimės    visada
 \mrph -        -         n.   n.pl.           -               1.pl.imp.      -
-\lm togidėl ir        mes  krikščionis   ne              tikėti        visada
+\lm togidėl ir        mes  krikščionis   ne_             tikėti        visada
 \PoS adv.     cnj.      prn. sm.             pfx.            vb.            adv.
 \gD deshalb  und,_auch wir  Christ          Neg.            glauben        immer
 
@@ -1394,9 +1394,9 @@
 
 \ref BP_I_259.09
 \tx ſmerti : Iſch to         nepaſſipiktintu                    / delei  to         wieros ing         ghi
-\std smertį $ iš   to         ne                 pasipiktintų     $ dėlei to         vieros ing         jį
+\std smertį $ iš   to         ne_                pasipiktintų     $ dėlei to         vieros ing         jį
 \mrph a.sg.   $ +g.   g.sg.m.    -                  3.cnd.            $ +g.    g.sg.m.    g.sg.  +a.         a.sg.m.
-\lm smertis $ iš   tas        ne                 pasipiktinti      $ dėlei tas        viera  ing         jis
+\lm smertis $ iš   tas        ne_                pasipiktinti      $ dėlei tas        viera  ing         jis
 \PoS sm.     $ prp.  prn.       pfx.               vb.               $ prp.   prn.       sf.    prp.        prn.
 \gD Tod     $ aus   diese(r/s) Neg.               zürnen           $ wegen  diese(r/s) Glaube in_-_hinein er
 
@@ -1416,11 +1416,11 @@
 
 \ref BP_I_259.11
 \tx tieſa   ira    / Iei         kas  ing         IEſu   Kriſtu  netik          /
-\std tiesą   yra    $ jei         kas  ing         Jėzų  Kristų  ne     tiki    $
+\std tiesą   yra    $ jei         kas  ing         Jėzų  Kristų  ne_    tiki    $
 \mrph a.sg.    3.prs. $ -           n.   +a.         a.sg.   a.sg.    -      3.prs.  $
-\lm tiesa    būti  $ jei         kas  ing         Jėzus  Kristus  ne     tikėti $
-\PoS sf.      vb.    $ cnj.        prn. prp.        sm.npr. sm.npr.         vb.     $
-\gD Wahrheit sein   $ wenn,_falls wer  in_-_hinein Jesus   Christus        glauben $
+\lm tiesa    būti  $ jei         kas  ing         Jėzus  Kristus  ne_    tikėti $
+\PoS sf.      vb.    $ cnj.        prn. prp.        sm.npr. sm.npr.  pfx.   vb.     $
+\gD Wahrheit sein   $ wenn,_falls wer  in_-_hinein Jesus   Christus Neg.   glauben $
 \tx tas        tur
 \std tas        turi
 \mrph n.sg.m.    3.prs.
@@ -1444,17 +1444,17 @@
 
 \ref BP_I_259.14
 \tx Todelei  ir        mes  wieros ing         Kriſtu  nepameſkem              /
-\std todėlei ir        mes  vieros ing         Kristų  ne           pameskime   $
+\std todėlei ir        mes  vieros ing         Kristų  ne_          pameskime   $
 \mrph -        -         n.   g.sg.  +a.         a.sg.    -            1.pl.imp.   $
-\lm todėlei ir        mes  viera  ing         Kristus  ne           pamesti     $
+\lm todėlei ir        mes  viera  ing         Kristus  ne_          pamesti     $
 \PoS adv.     cnj.      prn. sf.    prp.        sm.npr.  pfx.         vb.         $
 \gD deshalb  und,_auch wir  Glaube in_-_hinein Christus Neg.         verlieren   $
 
 \ref BP_I_259.15
 \tx Kriſtaus nieku      budu       neapleiſkem               / kacʒei ßinnom   ghi
-\std Kristaus  niekuo     būdu      ne            apleiskime   $ kačei  žinome   jį
+\std Kristaus  niekuo     būdu      ne_           apleiskime   $ kačei  žinome   jį
 \mrph g.sg.     i.         i.sg.      -             1.pl.imp.    $ -       1.pl.prs. a.sg.m.
-\lm Kristus   niekas     būdas     ne            apleisti     $ kačei  žinoti   jis
+\lm Kristus   niekas     būdas     ne_           apleisti     $ kačei  žinoti   jis
 \PoS sm.npr.   prn.+SNeg. sm.        pfx.          vb.          $ cnj.    vb.       prn.
 \gD Christus  keine(r)   Art,_Weise Neg.          verlassen    $ obwohl  wissen    er
 
@@ -1508,9 +1508,9 @@
 
 \ref BP_I_259.22
 \tx ſmerties pono  ſawa              Kriſtaus nenuſimintu               / tadda
-\std smerties  pono  savo               Kristaus  ne            nusimintų   $ tada
+\std smerties  pono  savo               Kristaus  ne_           nusimintų   $ tada
 \mrph g.sg.     g.sg. -                  g.sg.     -             3.cnd.       $ -
-\lm smertis   ponas savo               Kristus   ne            nusiminti    $ tada
+\lm smertis   ponas savo               Kristus   ne_           nusiminti    $ tada
 \PoS sf.       sm.   prn.               sm.npr.   pfx.          vb.          $ adv.
 \gD Tod       Herr  [refl._Poss.-prn.] Christus  Neg.          verzweifeln  $ da,_dann
 
@@ -1540,17 +1540,17 @@
 
 \ref BP_I_260.03
 \tx mirti   / tacʒiau aſch todelei  amßinai neprapulſiu               /
-\std mirti   $ tačiau  aš   todėlei amžinai ne            prapulsiu    $
+\std mirti   $ tačiau  aš   todėlei amžinai ne_           prapulsiu    $
 \mrph inf.    $ -        n.    -        adv.     -             1.sg.ft.     $
-\lm mirti   $ tačiau  aš   todėlei amžinas ne            prapulti     $
-\PoS vb.     $ adv.     prn.  adv.     adj.     pfx           vb.          $
+\lm mirti   $ tačiau  aš   todėlei amžinas ne_           prapulti     $
+\PoS vb.     $ adv.     prn.  adv.     adj.     pfx.          vb.          $
 \gD sterben $ jedoch   ich   deshalb  ewig     Neg.          vergehen     $
 
 \ref BP_I_260.04
 \tx ſmertis / pekla  / ir        welinas mane neiſchgales               / Net     aſch
-\std smertis  $ pekla  $ ir        velinas mane ne            išgalės    $ net     aš
+\std smertis  $ pekla  $ ir        velinas mane ne_           išgalės    $ net     aš
 \mrph n.sg.    $ n.sg.  $ -         n.sg.   a.   -             3.ft.        $ -       n.
-\lm smertis  $ pekla  $ ir        velinas aš  ne            išgalėti   $ net     aš
+\lm smertis  $ pekla  $ ir        velinas aš  ne_           išgalėti   $ net     aš
 \PoS sf.      $ sf.    $ cnj.      sm.     prn. pfx.          vb.          $ $ cnj.  prn.
 \gD Tod      $ Hölle $ und,_auch Teufel  ich  Neg.          besiegen     $ sondern ich
 
@@ -1668,9 +1668,9 @@
 
 \ref BP_I_260.19
 \tx ANis      to         nieko      neiſchmane              ir        buwa   ie=|mus
-\std anys      to         nieko      ne           išmanė    ir        buvo   jiems
+\std anys      to         nieko      ne_          išmanė    ir        buvo   jiems
 \mrph n.pl.m.   g.sg.m.    g.sg.      -            3.prt.      -         3.prt. d.pl.m.
-\lm anas      tas        niekas     ne           išmanyti   ir        būti  jis
+\lm anas      tas        niekas     ne_          išmanyti   ir        būti  jis
 \PoS prn.      prn.       prn.+SNeg. pfx.         vb.         cnj.      v.aux  prn.
 \gD jene(r/s) diese(r/s) nichts     Neg.         verstehen   und,_auch sein   er
 
@@ -1700,10 +1700,10 @@
 
 \ref BP_I_261.02
 \tx iſchkei      kalbanti             . Apaſchtalai neßinoia            / nei
-\std yškiai       kalbantį            $ apaštalai   ne         žinojo   $ nei
+\std yškiai       kalbantį            $ apaštalai   ne_        žinojo   $ nei
 \mrph adv.          prc.prs.act._a.sg.m. $ n.pl.        -          3.prt.    $ -
-\lm yškus        kalbėti             $ apaštalas   ne         žinoti   $ nei
-\PoS adj.          vb.                  $ sm.          pfx        vb.       $ $ cnj.
+\lm yškus        kalbėti             $ apaštalas   ne_        žinoti   $ nei
+\PoS adj.          vb.                  $ sm.          pfx.       vb.       $ $ cnj.
 \gD klar,deutlich sprechen             $ Apostel      Neg.       wissen    $ und_nicht,_weder_noch
 \tx iſch=|mane
 \std išmanė
@@ -1744,9 +1744,9 @@
 
 \ref BP_I_261.06
 \tx Kriſtaus / negaleia           permaniti / ir        ka   iſch iu      neiſch=|manimo /
-\std Kristaus  $ ne        galėjo  permanyti $ ir        ką  iš   jų     neišmanymo     $
+\std Kristaus  $ ne_       galėjo  permanyti $ ir        ką  iš   jų     neišmanymo     $
 \mrph g.sg.     $ -         3.prt.   inf.      $ -         a.   +g.   g.pl.m. g.sg.           $
-\lm Kristus   $ ne        galėti  permanyti $ ir        kas  iš   jis     neišmanymas    $
+\lm Kristus   $ ne_       galėti  permanyti $ ir        kas  iš   jis     neišmanymas    $
 \PoS sm.npr.   $ pfx.      vb.      vb.       $ $ cnj.    prn. prp.  prn.    sm.             $
 \gD Christus  $ Neg.      können  begreifen $ und,_auch was  aus   er      Unverstand      $
 
@@ -1774,10 +1774,10 @@
 
 \ref BP_I_261.09
 \tx apaſchtalai / Kriſtus ſemlionims ſawa              kalba    neſwe=|timu               
-\std apaštalai   $ Kristus  zemlionims  savo               kalba    ne             svetimu
+\std apaštalai   $ Kristus  zemlionims  savo               kalba    ne_            svetimu
 \mrph n.pl.        $ n.sg.    d.pl.       -                  3.prs.   -              i.sg.m.
-\lm apaštalas   $ Kristus  zemlionis   savo               kalbėti ne             svetimas
-\PoS sm.          $ sm.npr.  sm.         prn.               vb.      part           adj.
+\lm apaštalas   $ Kristus  zemlionis   savo               kalbėti ne_            svetimas
+\PoS sm.          $ sm.npr.  sm.         prn.               vb.      pfx.           adj.
 \gD Apostel      $ Christus Landsmann   [refl._Poss.-prn.] sprechen Neg.           fremd
 
 \ref BP_I_261.10
@@ -2020,10 +2020,10 @@
 
 \ref BP_I_262.13
 \tx ſekdami      negaleia           permaniti / ſawa              Wieſchpaties
-\std sekdami       ne        galėjo  permanyti $ savo               viešpaties
+\std sekdami       ne_       galėjo  permanyti $ savo               viešpaties
 \mrph prc.cn._pl.m. -         3.prt.   inf.      $ -                  g.sg.
-\lm sekti         ne        galėti  permanyti $ savo               viešpats
-\PoS vb.           pfx       vb.      vb.       $ prn.               sm.
+\lm sekti         ne_       galėti  permanyti $ savo               viešpats
+\PoS vb.           pfx.      vb.      vb.       $ prn.               sm.
 \gD folgen        Neg.      können  begreifen $ [refl._Poss.-prn.] Herr
 \tx ßo=|dʒiu .
 \std žodžių  $
@@ -2042,10 +2042,10 @@
 
 \ref BP_I_262.15
 \tx ſækam nieko     Duchaunoſu daiktoſu   negalim            iſch Die=|wo
-\std sekame  nieko     duchaunuose daiktuose   ne       galime    iš   dievo
+\std sekame  nieko     duchaunuose daiktuose   ne_      galime    iš   dievo
 \mrph 1.pl.   g.sg.     l.pl.m.     l.pl.       -        1.pl.prs. +g.   g.sg.
-\lm sekti   niekas    duchaunas   daiktas     ne       galėti   iš   dievas
-\PoS vb.     prn.+SNeg adj.        sm.         pfx      vb.       prp.  sm.
+\lm sekti   niekas    duchaunas   daiktas     ne_      galėti   iš   dievas
+\PoS vb.     prn.+SNeg adj.        sm.         pfx.     vb.       prp.  sm.
 \gD folgen  nichts    geistlich   Sache,_Ding Neg.     können   aus   Gott
 
 \ref BP_I_262.16
@@ -2098,10 +2098,10 @@
 
 \ref BP_I_262.22
 \tx Schwento raſchto / neſektumbim               ſawa              nieka        neiſch=|mananti                   
-\std švento  rašto   $ ne            sektumėme   savo               nieko-nieką ne                 išmanantį
+\std švento  rašto   $ ne_           sektumėme   savo               nieko-nieką ne_                išmanantį
 \mrph g.sg.m.  g.sg.    $ -             1.pl.cnd.    -                  g.sg./a.sg.  -                  prc.prs.act._a.sg.m.
-\lm šventas raštas  $ ne            sekti        savo               niekas       ne                 išmanyti
-\PoS adj.     sm.      $ pfx.          vb.          prn.               prn.+SNeg.   pfx                vb.
+\lm šventas raštas  $ ne_           sekti        savo               niekas       ne_                išmanyti
+\PoS adj.     sm.      $ pfx.          vb.          prn.               prn.+SNeg.   pfx.               vb.
 \gD heilig   Schrift  $ Neg.          folgen       [refl._Poss.-prn.] nichts       Neg.               verstehen
 
 \ref BP_I_262.23
@@ -2250,9 +2250,9 @@
 
 \ref BP_I_263.15
 \tx Item    / Aſch ſchi      neappiauſtita                       Pagoni  apgaleſiu  / kaip
-\std item    $ aš   šį       ne              apipjaustytą        pagonį apgalėsiu  $ kaip
+\std item    $ aš   šį       ne_             apipjaustytą        pagonį apgalėsiu  $ kaip
 \mrph -       $ n.    a.sg.m.    -               prc.prt.pss._a.sg.m. a.sg.   3.ft.       $ -
-\lm lt:item $ aš   šis       ne              apipjaustyti         pagonis apgalėti   $ kaip
+\lm lt:item $ aš   šis       ne_             apipjaustyti         pagonis apgalėti   $ kaip
 \PoS -       $ prn.  prn.       pfx.            vb.                  sm.     vb.         $ $ cnj.
 \gD item    $ ich   diese(r/s) Neg.            beschneiden          Heide   überwinden $ wie
 

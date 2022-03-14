@@ -28,9 +28,9 @@
 
 \ref BP_II_515.04
 \tx ape   tus        kurie       miegt    / idant neſitu=|ßitumbit                     /
-\std apie  tuos       kurie       miega    $ idant ne                  tūžytumėtės    $
+\std apie  tuos       kurie       miega    $ idant ne_                 tūžytumėtės    $
 \mrph +a.   a.pl.m.    n.pl.m.     3.prs.   $ -     -                   2.pl.cnd.          $
-\lm apie  tas        kuris       miegoti  $ idant ne                  tūžytis          $
+\lm apie  tas        kuris       miegoti  $ idant ne_                 tūžytis          $
 \PoS prp.  prn.       prn.        vb.      $ cnj.  pfx.                vb.                $
 \gD über diese(r/s) welche(r/s) schlafen $ damit Neg.                sich_beunruhigen   $
 
@@ -44,9 +44,9 @@
 
 \ref BP_II_515.06
 \tx netur          . Neſa iei         tikim     IEſu
-\std ne     turi    $ nes   jei         tikime    Jėzų
+\std ne_    turi    $ nes   jei         tikime    Jėzų
 \mrph -      3.prs.  $ -     -           1.pl.prs. a.sg.
-\lm ne     turėti $ nes   jei         tikėti   Jėzus
+\lm ne_    turėti $ nes   jei         tikėti   Jėzus
 \PoS pfx.   vb.     $ cnj.  cnj.        vb.       sm.npr.
 \gD Neg.   haben   $ denn  wenn,_falls glauben   Jesus
 
@@ -422,9 +422,9 @@
 
 \ref BP_II_517.05
 \tx aſch neßinnau            .
-\std aš   ne         žinau    $
+\std aš   ne_        žinau    $
 \mrph n.    -          1.sg.prs. $
-\lm aš   ne         žinoti   $
+\lm aš   ne_        žinoti   $
 \PoS prn.  pfx.       vb.       $
 \gD ich   Neg.       wissen    $
 
@@ -516,9 +516,9 @@
 \PoS prp.    sm.
 \gD gegen   Gott
 \tx nenuſſidetů                 / Ir
-\std ne              nusidėtų     $ ir
+\std ne_             nusidėtų     $ ir
 \mrph -               3.cnd.         $ -
-\lm ne              nusidėti      $ ir
+\lm ne_             nusidėti      $ ir
 \PoS pfx.            vb.            $ $ cnj.
 \gD Neg.            sich_vergehen  $ und,_auch
 \tx moka   anus      teipa=|ieg
@@ -686,9 +686,9 @@
 
 \ref BP_II_518.08
 \tx ſawa              neraudotu            
-\std savo               ne          raudotų
+\std savo               ne_         raudotų
 \mrph -                  -           3.cnd.
-\lm savo               ne          raudoti
+\lm savo               ne_         raudoti
 \PoS prn.               pfx.        vb.
 \gD [refl._Poss.-prn.] Neg.        weinen
 \tx ? Teipo kalbant       ir
@@ -888,9 +888,9 @@
 \PoS adj.    sm.     pfx. vb.
 \gD lieb    Bruder  Neg. wollen
 \tx ius  neßino=|ti              
-\std jus  ne            žinoti
+\std jus  ne_           žinoti
 \mrph a.   -             inf.
-\lm jūs ne            žinoti
+\lm jūs ne_           žinoti
 \PoS prn. pfx.          vb.
 \gD ihr  Neg.          wissen
 
@@ -984,11 +984,11 @@
 
 \ref BP_II_519.13
 \tx nebereikia                         iam
-\std ne          be-         reikia     jam
+\std ne_         be_         reikia     jam
 \mrph -           -           3.prs.     d.sg.m.
-\lm ne          be-         reikėti   jis
-\PoS pfx.        pfx.-       vb.        prn.
-\gD Neg.        []-         benötigen er
+\lm ne_         be_         reikėti   jis
+\PoS pfx.        pfx.        vb.        prn.
+\gD Neg.        []          benötigen er
 \tx daugeſni    rupinties    /
 \std daugesni     rūpintis    $
 \mrph cmp.         inf.         $
@@ -1060,18 +1060,18 @@
 
 \ref BP_II_519.18
 \tx gul     kaip kada butu   iſchdweſens             / nieka        neßinna           ir nie=|ka
-\std guli    kaip kada būtų išdvėsęs               $ nieko-nieką ne        žino    ir nieko-nieką
+\std guli    kaip kada būtų išdvėsęs               $ nieko-nieką ne_       žino    ir nieko-nieką
 \mrph 3.prs.  -    -    3.cnd. prc.prt.act._n.sg.m.+PERF $ g.sg./a.sg.  -         3.prs.   -  g.sg./a.sg.
-\lm gulėti kaip kada būti  išdvėsti                $ niekas       ne        žinoti  ir niekas
-\PoS vb.     adv       v.aux  vb.                       $ $ prn.+SNeg            vb.
-\gD liegen  wie       sein   wegsterben,_eingehen      $ nichts                 wissen
+\lm gulėti kaip kada būti  išdvėsti                $ niekas       ne_       žinoti  ir niekas
+\PoS vb.     adv       v.aux  vb.                       $ $ prn.+SNeg  pfx.      vb.
+\gD liegen  wie       sein   wegsterben,_eingehen      $ nichts       Neg.      wissen
 
 \ref BP_II_519.19
 \tx neiſchmana              / kacʒei io      wiſſas        kunas   nekrut             / ta=|cʒiau
-\std ne           išmano     $ kačei  jo      visas           kūnas  ne      kruta      $ tačiau
+\std ne           išmano     $ kačei  jo      visas           kūnas  ne_     kruta      $ tačiau
 \mrph -            3.prs.      $ -       g.sg.m. n.sg.m.         n.sg.   -       3.prs.     $ -
-\lm ne           išmanyti   $ kačei  jis     visas           kūnas  ne      krutėti   $ tačiau
-\PoS pfx.         vb.         $ cnj.    prn.    prn.            sm.     pfx     vb.        $ adv.
+\lm ne           išmanyti   $ kačei  jis     visas           kūnas  ne_     krutėti   $ tačiau
+\PoS pfx.         vb.         $ cnj.    prn.    prn.            sm.     pfx.    vb.        $ adv.
 \gD Neg.         verstehen   $ obwohl  er      jede(r/s),_alle Körper Neg.    sich_regen $ jedoch
 
 \ref BP_II_519.20
@@ -1180,9 +1180,9 @@
 
 \ref BP_II_520.04
 \tx nenuſtokſtanti                       kuna
-\std ne                nustokstantį        kūną
+\std ne_               nustokstantį        kūną
 \mrph -                 prc.prs.act._a.sg.m. a.sg.
-\lm ne                nustokti             kūnas
+\lm ne_               nustokti             kūnas
 \PoS pfx.              vb.                  sm.
 \gD Neg.              mangeln              Körper
 \tx / kokſai     buwa   Adamo
@@ -1242,9 +1242,9 @@
 
 \ref BP_II_520.08
 \tx io      nepraſtoij              . Teip
-\std jo      ne           prastoja    $ taip
+\std jo      ne_          prastoja    $ taip
 \mrph g.sg.m. -            3.prs.      $ -
-\lm jis     ne           prastoti    $ taip
+\lm jis     ne_          prastoti    $ taip
 \PoS prn.    pfx.         vb.         $ adv.
 \gD er      Neg.         verlassen   $ so
 \tx ir        duſche         /
@@ -1306,9 +1306,9 @@
 
 \ref BP_II_520.13
 \tx neſirupinam               / nes  ßinnam   iam     Miega  ant  gera    iſch=|eiſenti     .
-\std ne            rūpinamės  $ nes  žinome   jam     miegą ant  gero    išeisiantį        $
+\std ne_           rūpinamės  $ nes  žinome   jam     miegą ant  gero    išeisiantį        $
 \mrph -             1.pl.prs.    $ -    1.pl.prs. d.sg.m. a.sg.  +g.  g.sg.m. prc.ft.act._a.sg.m. $
-\lm ne            rūpintis    $ nes  žinoti   jis     miegas ant  geras   išeiti             $
+\lm ne_           rūpintis    $ nes  žinoti   jis     miegas ant  geras   išeiti             $
 \PoS pfx.          vb.          $ cnj. vb.       prn.    sm.    prp. adj.    vb.                 $
 \gD Neg.          besorgt_sein $ denn wissen    er      Schlaf auf  gut     herausgehen         $
 
@@ -1800,9 +1800,9 @@
 
 \ref BP_II_522.04
 \tx niekad     nemelawa           / nei                   ikki amßu           amßo           ne   melos   .
-\std niekad     ne        melavo   $ nei                   iki  amžių         amžio          ne   meluos  $
+\std niekad     ne_       melavo   $ nei                   iki  amžių         amžio          ne   meluos  $
 \mrph -          -         3.prt.   $ -                     +g.  g.pl.           g.sg.           -    3.ft.   $
-\lm niekad     ne        meluoti  $ nei                   iki  amžias         amžias         ne   meluoti $
+\lm niekad     ne_       meluoti  $ nei                   iki  amžias         amžias         ne   meluoti $
 \PoS adv.+SNeg. pfx.      vb.      $ cnj+SNeg.             prp. sm.             sm.             pfx. vb.     $
 \gD nie        Neg.      lügen   $ und_nicht,_weder_noch bis  Zeit,_Zeitalter Zeit,_Zeitalter Neg. lügen  $
 
@@ -2172,9 +2172,9 @@
 \PoS vb.       $ cnj.
 \gD glauben   $ aber,_sondern
 \tx neßinnodami                buda       /
-\std ne            žinodami     būdą     $
+\std ne_           žinodami     būdą     $
 \mrph -             prc.cn._pl.m. a.sg.      $
-\lm ne            žinoti       būdas     $
+\lm ne_           žinoti       būdas     $
 \PoS pfx.          vb.           sm.        $
 \gD Neg.          wissen        Art,_Weise $
 \tx priſſikelimo / kitti
@@ -2526,9 +2526,9 @@
 \PoS vb.     prn.
 \gD leben   diese(r/s)
 \tx neiſch=|kaks                
-\std ne              iškaks
+\std ne_             iškaks
 \mrph -               3.ft.
-\lm ne              iškakti
+\lm ne_             iškakti
 \PoS pfx.            vb.
 \gD Neg.            erreichen
 

@@ -146,9 +146,9 @@
 
 \ref BP_II_418.07
 \tx negaleia           iamui   atſakiti .
-\std ne        galėjo  jam     atsakyti  $
+\std ne_       galėjo  jam     atsakyti  $
 \mrph -         3.prt.   d.sg.m. inf.      $
-\lm ne        galėti  jis     atsakyti  $
+\lm ne_       galėti  jis     atsakyti  $
 \PoS pfx.      vb.      prn.    vb.       $
 \gD Neg.      können  er      antworten $
 
@@ -186,17 +186,17 @@
 
 \ref BP_II_419.05
 \tx ſwodbos / tada     neſeſkeſi               wiriauſioie wie=|toie   .
-\std svodbos  $ tada     ne            sėskis      vyriausioje  vietoje     $
+\std svodbos  $ tada     ne_           sėskis      vyriausioje  vietoje     $
 \mrph g.sg.    $ -        -             2.sg.imp.    l.sg.f.      l.sg.       $
-\lm svodba   $ tada     ne            sėsti       vyriausias   vieta       $
+\lm svodba   $ tada     ne_           sėsti       vyriausias   vieta       $
 \PoS sf.      $ adv.     pfx.          vb.          adj.         sf.         $
 \gD Hochzeit $ da,_dann Neg.          sich_setzen  oberste(r/s) Ort,_Stelle $
 
 \ref BP_II_419.06
 \tx ieib nebutu         pakwieſtas             nog  io      cʒeſ=|tingeſnis
-\std jeib ne      būtų pakviestas              nuog jo      čėstingesnis
+\std jeib ne_     būtų pakviestas              nuog jo      čėstingesnis
 \mrph -    -       3.cnd. prc.prt.pss_n.sg.m.+PSS +g.  g.sg.m. n.sg.m.cmp.
-\lm jeib ne      būti  pakviesti               nuog jis     čėstingas
+\lm jeib ne_     būti  pakviesti               nuog jis     čėstingas
 \PoS cnj. pfx.    vb.aux vb.                     prp. prn.    adj.
 \gD dass Neg.    sein   einladen                von  er      ehrwürdig
 
@@ -210,9 +210,9 @@
 
 \ref BP_II_419.08
 \tx tawe ir   ana       pakwiete  / nebilotu           taw  / dok
-\std tave ir   aną      pakvietė $ ne        bylotų  tau  $ duok
+\std tave ir   aną      pakvietė $ ne_       bylotų  tau  $ duok
 \mrph a.   -    a.sg.m.   3.prt.    $ -         3.cnd.   d.   $ 2.sg.imp.
-\lm tu   ir   anas      pakviesti $ ne        byloti   tu   $ duoti
+\lm tu   ir   anas      pakviesti $ ne_       byloti   tu   $ duoti
 \PoS prn. cnj. prn.      vb.       $ pfx.      vb.      prn. $ vb.
 \gD du   und  jene(r/s) einladen  $ Neg.      sagen    du   $ geben
 
@@ -362,9 +362,9 @@
 
 \ref BP_II_420.10
 \tx ſchwenta diena  Kriſtauſpi neatgabentu              / delei
-\std šventą  dieną Kristausp    ne           atgabentų  $ dėlei
+\std šventą  dieną Kristausp    ne_          atgabentų  $ dėlei
 \mrph a.sg.f.   a.sg.  al.sg.       -            3.cnd.      $ +g.
-\lm šventas  diena  Kristus      ne           atgabenti   $ dėlei
+\lm šventas  diena  Kristus      ne_          atgabenti   $ dėlei
 \PoS adj.      sf.    sm.npr.      pfx.         vb.         $ prp.
 \gD heilig    Tag    Christus     Neg.         bringen     $ wegen
 
@@ -392,9 +392,9 @@
 \PoS part.        sm.       vb.            $ cnj.      sm.npr.  prn.
 \gD [Fragepart.] Werk      betrügen      $ und,_aber Christus diese(r/s)
 \tx nead=|bodams                             /
-\std ne            atbodamas                  $
+\std ne_           atbodamas                  $
 \mrph -             prc.cn._sg.m.              $
-\lm ne            atboti                     $
+\lm ne_           atboti                     $
 \PoS pfx.          vb.                        $
 \gD Neg.          beachten,_berücksichtigen $
 
@@ -632,9 +632,9 @@
 
 \ref BP_II_421.18
 \tx netieſos nedare              / nei                   wjlius naſrůſa io
-\std netiesos  ne      darė       $ nei                   vylius nasruose   jo
+\std netiesos  ne_     darė       $ nei                   vylius nasruose   jo
 \mrph g.sg.     -       3.prt.      $ -                     n.sg.  l.pl.      g.sg.m.
-\lm netiesa   ne      daryti      $ nei                   vylius nasrai     jis
+\lm netiesa   ne_     daryti      $ nei                   vylius nasrai     jis
 \PoS sf.       pfx.    vb.         $ $ cnj.                sm.    sm.pl.     prn.
 \gD Unrecht   Neg.    tun,_machen $ und_nicht,_weder_noch Trug   Mund       er
 \tx buwa   .
@@ -662,10 +662,10 @@
 
 \ref BP_II_421.21
 \tx ir        ßemes  daritoias ira    / tacʒiau ghis    neſigjne            ſu  Pha=|riſeuſchais
-\std ir        žemės darytojas yra    $ tačiau  jis     ne         gynėsi   su   fariziejais
+\std ir        žemės darytojas yra    $ tačiau  jis     ne_        gynėsi   su   fariziejais
 \mrph -         g.sg.   n.sg.     3.prs. $ -        n.sg.m. -          3.prt.    +i.  i.pl.
-\lm ir        žemė  darytojas būti  $ tačiau  jis     ne         gintis    su   fariziejas
-\PoS cnj.      sf.     sm.       vb.    $ adv.     prn.    pfx        vb.       prp. sm.npr.
+\lm ir        žemė  darytojas būti  $ tačiau  jis     ne_        gintis    su   fariziejas
+\PoS cnj.      sf.     sm.       vb.    $ adv.     prn.    pfx.       vb.       prp. sm.npr.
 \gD und,_auch Erde    Täter    sein   $ jedoch   er      Neg.                 mit  Pharisäer
 
 \ref BP_II_421.22
@@ -702,9 +702,9 @@
 
 \ref BP_II_422.04
 \tx Piktaſſis     neiſſilaika                po    tawa
-\std piktasis        ne             išsilaiko    po_akim
+\std piktasis        ne_            išsilaiko    po_akim
 \mrph n.sg.m.def.     -              3.prs.        +g.
-\lm piktas          ne             išsilaikyti  po_akim
+\lm piktas          ne_            išsilaikyti  po_akim
 \PoS adj.            pfx.           vb.           prp.sec.disj.
 \gD böse,_schlecht Neg.           fortbestehen  vor
 
@@ -835,11 +835,11 @@
 
 \ref BP_II_422.19
 \tx budami        gerai ſaugokimes / idant nůg iu      nebutumbim             
-\std būdami       gerai saugokimės $ idant nuog jų     ne           būtumėme
+\std būdami       gerai saugokimės $ idant nuog jų     ne_          būtumėme
 \mrph prc.cn._pl.m. adv.  1.pl.imp.   $ -     +g.  g.pl.m. -            1.pl.cnd.
-\lm būti         geras saugoti     $ idant nuog jis     ne           būti
-\PoS vb.           adj.  vb.         $ cnj.  prp. prn.
-\gD sein          gut   behüten    $ damit von  er
+\lm būti         geras saugoti     $ idant nuog jis     ne_          būti
+\PoS vb.           adj.  vb.         $ cnj.  prp. prn.    pfx.
+\gD sein          gut   behüten    $ damit von  er      Neg.
 
 \ref BP_II_422.20
 \tx prigauti                 / alba ing         beda   koke        inklampinti              /
@@ -929,10 +929,10 @@
 
 \ref BP_II_423.04
 \tx ant  gurkles  tawa / iei         nari      giwas    iſſilaikiti / negeiſkiſi               
-\std ant  gurklės tavo $ jei         nori      gyvas    išsilaikyti  $ ne             geiskis
+\std ant  gurklės tavo $ jei         nori      gyvas    išsilaikyti  $ ne_            geiskis
 \mrph +g.  g.sg.    -    $ -           2.sg.prs. n.sg.m.  inf.          $ -              2.sg.imp.
-\lm ant  gurklė  tavo $ jei         norėti   gyvas    išsilaikyti  $ ne             geisti
-\PoS prp. sf.      prn. $ cnj.        vb.       adj.     vb.           $ $ p            vb.
+\lm ant  gurklė  tavo $ jei         norėti   gyvas    išsilaikyti  $ ne_            geisti
+\PoS prp. sf.      prn. $ cnj.        vb.       adj.     vb.           $ pfx.           vb.
 \gD auf  Kehle    dein $ wenn,_falls wollen    lebendig fortbestehen  $ Neg.           begehren
 
 \ref BP_II_423.05
@@ -1009,10 +1009,10 @@
 
 \ref BP_II_423.14
 \tx ſchwenſti ? Atſakau  . Tatai     nepriſake             prowa
-\std švęsti    $ atsakau   $ tatai     ne          prisakė   prova
+\std švęsti    $ atsakau   $ tatai     ne_         prisakė   prova
 \mrph inf.        $ 1.sg.prs. $ -         -           3.prt.     n.sg.
-\lm švęsti    $ atsakyti  $ tatai     ne          prisakyti  prova
-\PoS vb.         $ vb.       $ prn.      p           vb.        sf.
+\lm švęsti    $ atsakyti  $ tatai     ne_         prisakyti  prova
+\PoS vb.         $ vb.       $ prn.      pfx.        vb.        sf.
 \gD feiern      $ antworten $ dies,_das Neg.        befehlen   Gericht
 \tx ſwie=|tiſchka /
 \std svietiška      $
@@ -1261,9 +1261,9 @@
 
 \ref BP_II_424.19
 \tx Diewo  ßodʒio / be   kurio       newienas      Diewa        ne=|paßinſta                 /
-\std dievo  žodžio $ be   kurio       nė_vienas    dievą-dievo ne              pažįsta      $
+\std dievo  žodžio $ be   kurio       nė_vienas    dievą-dievo ne_             pažįsta      $
 \mrph g.sg.  g.sg.    $ +g.  g.sg.m.     n.sg.m.       a.sg./g.sg.  -               3.prs.         $
-\lm dievas žodis   $ be   kuris       nė_vienas    dievas       ne              pažinti       $
+\lm dievas žodis   $ be   kuris       nė_vienas    dievas       ne_             pažinti       $
 \PoS sm.    sm.      $ prp. prn.        prn.+SNeg.    sm.          pfx.            vb.            $
 \gD Gott   Wort     $ ohne welche(r/s) niemand,_kein Gott         Neg.            (er)kennen     $
 
@@ -1303,9 +1303,9 @@
 \tx atſigauti     . Neſa iei         kur  nera   newieno    atilſio / ſchicʒe
 \std atsigauti      $ nes   jei         kur  nėra  nė_vieno  atilsio  $ šičia
 \mrph inf.           $ -     -           -    3.prs. g.sg.m.    g.sg.    $ -
-\lm atsigauti      $ nes   jei         kur         nė_vienas atilsis  $ šičia
-\PoS vb.            $ cnj.  cnj.        adv.                   sm.      $ adv.
-\gD wiederbekommen $ denn  wenn,_falls wo                     Ruhe     $ hier
+\lm atsigauti      $ nes   jei         kur  ne_    nė_vienas atilsis  $ šičia
+\PoS vb.            $ cnj.  cnj.        adv. pfx.              sm.      $ adv.
+\gD wiederbekommen $ denn  wenn,_falls wo   Neg.              Ruhe     $ hier
 
 \ref BP_II_425.02
 \tx ßmogus ir        galwias     tur     pageſti                  ir        ſmerti gauti    . Sche=|ſches
@@ -1349,9 +1349,9 @@
 
 \ref BP_II_425.07
 \tx naſchta koke        neneſchket              / nei                   darba  koki        dirpket   / tada
-\std naštą  kokią      ne           neškite    $ nei                   darbą kokį       dirbkite  $ tada
+\std naštą  kokią      ne_          neškite    $ nei                   darbą kokį       dirbkite  $ tada
 \mrph a.sg.    a.sg.f.     -            2.pl.imp.   $ -                     a.sg.  a.sg.m.     2.pl.imp. $ -
-\lm našta   koks        ne           nešti      $ nei                   darbas koks        dirbti    $ tada
+\lm našta   koks        ne_          nešti      $ nei                   darbas koks        dirbti    $ tada
 \PoS sf.      prn.        pfx.         vb.         $ $ cnj.                sm.    prn.        vb.       $ adv.
 \gD Bürde   welche(r/s) Neg.         bringen     $ und_nicht,_weder_noch Werk   welche(r/s) arbeiten  $ da,_dann
 
@@ -1365,9 +1365,9 @@
 
 \ref BP_II_425.09
 \tx nedariſite              / tada     aſch ugni  wartůſu iuſu  ußdegſiu /
-\std ne           darysite    $ tada     aš   ugnį vartuose  jūsų uždegsiu  $
+\std ne_          darysite    $ tada     aš   ugnį vartuose  jūsų uždegsiu  $
 \mrph -            2.pl.ft.    $ -        n.    a.sg. l.pl.     g.     1.sg.ft.   $
-\lm ne           daryti      $ tada     aš   ugnis vartai    jūs   uždegti   $
+\lm ne_          daryti      $ tada     aš   ugnis vartai    jūs   uždegti   $
 \PoS pfx.         vb.         $ adv.     prn.  sf.   sm.pl.    prn.   vb.        $
 \gD Neg.         tun,_machen $ da,_dann ich   Feuer Tor       ihr    anzünden  $
 
@@ -1493,11 +1493,11 @@
 
 \ref BP_II_426.02
 \tx ſchauks / aſch atſakiſiu / iemus   dabar bekalbant                / eſch=|klauſiſiu                     .
-\std šauks   $ aš   atsakysiu   $ jiems   dabar be-        kalbant       $ aš                 klausysiu          $
+\std šauks   $ aš   atsakysiu   $ jiems   dabar be_        kalbant       $ aš                 klausysiu          $
 \mrph 3.ft.    $ n.    1.sg.ft.    $ d.pl.m. -     -          prc.indc.prs. $ n.                  1.sg.ft.           $
-\lm šaukti  $ aš   atsakyti    $ jis     dabar            kalbėti      $ aš                 klausyti           $
-\PoS vb.      $ prn.  vb.         $ prn.    adv.             vb.           $ prn.                vb.                $
-\gD rufen    $ ich   antworten   $ er                       sprechen      $ ich                 zuhören           $
+\lm šaukti  $ aš   atsakyti    $ jis     dabar be_        kalbėti      $ aš                 klausyti           $
+\PoS vb.      $ prn.  vb.         $ prn.    adv.  pfx.       vb.           $ prn.                vb.                $
+\gD rufen    $ ich   antworten   $ er            []         sprechen      $ ich                 zuhören           $
 
 \ref BP_II_426.04
 \tx Schitos pagalbos muſu Wieſchpaties Ieſaus
@@ -1643,9 +1643,9 @@
 
 \ref BP_II_426.21
 \tx gera    nedara              / Togidel  Diewas puikiſtes nei                   danguie /
-\std gero    ne      daro        $ togidėl dievas puikystės nei                   danguje $
+\std gero    ne_     daro        $ togidėl dievas puikystės nei                   danguje $
 \mrph g.sg.m. -       3.prs.      $ -        n.sg.  g.sg.      -                     l.sg.   $
-\lm geras   ne      daryti      $ togidėl dievas puikystė  nei                   dangus  $
+\lm geras   ne_     daryti      $ togidėl dievas puikystė  nei                   dangus  $
 \PoS adj.    pfx.    vb.         $ adv.     sm.    sf.        cnj.                  sm.     $
 \gD gut     Neg.    tun,_machen $ deshalb  Gott   Hochmut    und_nicht,_weder_noch Himmel  $
 
@@ -1753,10 +1753,10 @@
 
 \ref BP_II_427.12
 \tx Todel  mokinkimes  nedidʒůti              / bet           pakarnais buti  /
-\std todėl mokinkimės ne           didžiuoti  $ bet           pakarnais būti $
+\std todėl mokinkimės ne_          didžiuoti  $ bet           pakarnais būti $
 \mrph -      1.pl.imp.   -            inf.        $ -             i.pl.m.   inf.  $
-\lm todėl mokintis    ne           didžiuoti  $ bet           pakarnas  būti $
-\PoS adv.   vb.         pfx          vb.         $ cnj.          adj.      v     $
+\lm todėl mokintis    ne_          didžiuoti  $ bet           pakarnas  būti $
+\PoS adv.   vb.         pfx.         vb.         $ cnj.          adj.      v     $
 \gD daher  lernen      Neg.         prahlen     $ aber,_sondern demütig  sein  $
 
 \ref BP_II_427.13
