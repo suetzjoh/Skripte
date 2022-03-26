@@ -34,19 +34,21 @@ def return_line_nr(nr):
 def extract_lines(read_path, save_path, first, last):
 	raw = open_xml(read_path)
 	soup = BeautifulSoup(raw, "html.parser")
-	print("have read the file")
+	print("extracting lines")
 	
 	page_a = intify(first.split(",")[0])
 	line_a = intify(first.split(",")[1])
 	page_z = intify(last.split(",")[0])
 	line_z = intify(last.split(",")[1])
 	
-	print(soup.document)
+	#print(soup.document)
 	doc_title = soup.document["title"]
 	output = "\\_sh v3.0  621  Text\n\n\\id {id}\n\n".format(id=doc_title)
 	
 	store = []
-	print(soup.document.find_all("lpp"))
+	#print(soup.document.find_all("lpp"))
+	
+	reference, text = "", ""
 	for page in soup.document.find_all("lpp"):
 		
 		page_nr = intify(page["nr"]) # "56a"
@@ -58,10 +60,17 @@ def extract_lines(read_path, save_path, first, last):
 					
 				line_nr = intify(line["nr"])
 				if not ((page_nr == page_a and line_nr < line_a) or (page_nr == page_z and line_nr > line_z)):
+					if reference and text:
+						if text[-1] == "⸗":
+							text += "|" + line.text.split(" ", 1)[0]
+							line.string.replace_with(line.text.split(" ", 1)[1])
+					
+						store.append([reference, text])
+					
 					text = line.text
 					reference = "{title}_{page}.{line}".format(title=doc_title, page=page["nr"], line=return_line_nr(line_nr))
 					
-					store.append([reference, text])
+					
 		elif page_nr > page_z:
 			break
 
@@ -93,7 +102,7 @@ def extract_lines(read_path, save_path, first, last):
 def extract_sentences(read_path, save_path, first, last):
 	raw = open_xml(read_path)
 	soup = BeautifulSoup(raw, "html.parser")
-	print("have read the file")
+	print("extracting sentences")
 	
 	page_a = intify(first.split(",")[0])
 	line_a = intify(first.split(",")[1])
@@ -157,13 +166,15 @@ def extract_sentences(read_path, save_path, first, last):
 git_dir_korr = "" #"D:\\git\\korrektur"
 git_dir_tool = "" #"D:\\git\\mancelius-postille\\McP1"
 
-input_path = os.path.join(git_dir_korr, sys.argv[1])
-output_path = os.path.join(git_dir_tool, sys.argv[2])
-
+#input_path = os.path.join(git_dir_korr, sys.argv[1])
+#output_path = os.path.join(git_dir_tool, sys.argv[2])
+input_path = sys.argv[1]
+output_path = sys.argv[2]
 
 by_phrase = False
 by_line = False
-if len(sys.argv) == 4:
+if len(sys.argv) >= 4:
+	print(sys.argv[3])
 	if sys.argv[3] == "p":
 		by_phrase = True
 	elif sys.argv[3] == "l":

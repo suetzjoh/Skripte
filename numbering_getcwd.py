@@ -8,6 +8,7 @@ for file in [file for file in os.listdir(os.getcwd()) if os.path.isfile(file)]:
 	file_text = re.sub("(?<=\d)–(\d)(?!\d)", "–0\g<1>", file_text)
 	file_text = re.sub("_(\d)\.", "_00\g<1>.", file_text)
 	file_text = re.sub("_(\d\d)\.", "_0\g<1>.", file_text)
+	file_text = re.sub("BrP_I", "BrP_I", file_text)
 	
 	with open(file, 'w', encoding="UTF-8") as file_:
 		file_.write(file_text)

@@ -9,7 +9,7 @@ brp_path = r"D:\git\bretke-postille\BrP 2021-09-22\BrP"
 aksl_path = r"D:\Hannes\Dateien\Uni\Baltoslavisch\Slavisch\Altkirchenslavisch\AkslToolbox"
 tocharisch_path =  r"D:\Hannes\Dateien\Uni\Tocharisch\TochToolbox"
 
-toolbox_folder_path = brp_path
+toolbox_folder_path = mcp_path
 folder_path = os.path.basename(toolbox_folder_path)
 log_path = os.path.basename(toolbox_folder_path) + "_log.csv"
 out_path = os.path.basename(toolbox_folder_path) + "_annotation.csv"
@@ -21,6 +21,7 @@ if len(sys.argv) > 1:
 		os.mkdir(folder_path)
 	
 else:
+	print("not gonna print. otherwise, call function with 'print' ")
 	reexport = False
 
 
@@ -72,10 +73,10 @@ for typ in typ_files:
 	types[type_name] = [{"mkrRecord" : mkr_record, "GlossSeparator" : gloss_seperator, "markers" : [markers]}]
 
 #mit der Liste der Sprachtypen soll das Verhalten von Toolbox nachgeahmt werden, nur vordefinierte Zeichen zu zählen
-lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
-languages = {}
-for lng in lng_files:
-	file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
+#lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
+#languages = {}
+#for lng in lng_files:
+	#file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
 	#input(file_text)
 	
 
@@ -175,6 +176,15 @@ for db_file in db_files:
 		markers = types[typ][0]["markers"][0]
 		
 		map = decode_toolbox_map(file_text, root_marker)
+		
+		if map:
+			pd = pandas.DataFrame.from_records(map)
+			dpl = pd[pd.duplicated(keep='first')]
+			if not dpl.empty:
+				print(typ, "has duplicates:") 
+				print(dpl.to_string())
+			
+				input("press enter to continue")
 			
 		db_words[typ] = map
 
@@ -368,88 +378,106 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 			for word in decode_words(marker, table, prefix):
 				
 				for dict in word:
-					
 					#wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
-					words.append(check_word_for_consistency(dict, marker))
+					words.extend(check_word_for_consistency(dict, marker))
 
 #gibt bei geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet
 spannenindex = {}		
 def check_word_for_consistency(word, marker):
-	global spannenindex
-	if not marker in spannenindex:
-		spannenindex.update({marker : 0})
-	
-	def strip_plus(string):
-		if string is not None:
-			return string.strip('@').strip() #doppeltes Strip wegen Spannenannotation
-		else:
-			return None
+	def check_word_for_consistency_(word, marker):
+		global spannenindex
+		if not marker in spannenindex:
+			spannenindex.update({marker : 0})
 		
-	#print(marker + " " + str(word[marker]) + " " + str(word))
-	for jump in markers[marker]["jumps"]:
-		jumpFrom = jump["mkr"]
-		jumpTo = jump["mkrTo"]
-		jumpToDb = jump["dbtyp"]
-		jumpOut = jump["mkrOut"]
-		
-		#strip(), weil in der Datenbank überall und in der Annotationsdatei an Zeilenumbrüchen noch \n-chars sind
-		db_words_ = [db_word for db_word in db_words[jumpToDb] if strip_plus(db_word[jumpFrom]) == strip_plus(word[marker])] #and db_word == word[jumpTo]]
-		
-		database_annotations = [db_word[jumpOut].strip() for db_word in db_words_ if db_word[jumpOut] is not None]
-		database_annotations = [ann for gloss in database_annotations for ann in gloss.split(jump['GlossSeparator'])]
-		if "jumps" in markers[jumpTo]:
-			database_annotations = [gloss.split() for gloss in database_annotations]
-		else:
-			database_annotations = [[gloss] for gloss in database_annotations]
-			
-			#database_annotations = [ann for gloss in database_annotations for ann in gloss.split()]
-			
-			#für alle Datenbankeinträge: in allen durch den GS abgetrennten Glossen: alle durch Leerzeichen getrennten Teilwörtern sind eligible für die Interlinearisierung auf der nächsten Zeile
-		
-		#print(database_annotations)
-		#print(jumpTo, jumpTo in word, any(strip_plus(word[jumpTo]) in dba for dba in database_annotations))
-		
-		if len(database_annotations) == 1:
-			if spannenindex[marker] >= len(database_annotations[0]):
-				from_database = database_annotations[0][-1]
-				log.append({**{"tofix" : "possible duplicate"}, **word})
-				print("possible duplicate: ", database_annotations[0], marker, spannenindex[marker], str(word))
-				
+		def strip_plus(string):
+			if string is not None:
+				return string.strip('@').strip() #doppeltes Strip wegen Spannenannotation und \n-Markern
 			else:
-				from_database = database_annotations[0][spannenindex[marker]]
-				
-			if not jumpTo in word:
-				
-				word.update({jumpTo : from_database})
-				log.append({**{"fixed" : jumpTo}, **word})
-			elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
-				
-				word[jumpTo] = from_database
-				log.append({**{"fixed" : jumpTo}, **word})
-		else:
-			if not jumpTo in word:
-				log.append({**{"tofix" : jumpTo + "; " + str(database_annotations)}, **word})
-				return word
-			elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
-				log.append({**{"tofix" : jumpTo}, **word})
+				return None
+			
+			
+		#diese Funktion läuft durch alle Marker, die Teil einer jump-Funktion sind, also die erste Zeile in einer Datenbank sind
+		#print(marker + " " + str(word[marker]) + " " + str(word))
+		for jump in markers[marker]["jumps"]:
+			jumpFrom = jump["mkr"]
+			jumpTo = jump["mkrTo"]
+			jumpToDb = jump["dbtyp"]
+			jumpOut = jump["mkrOut"]
+			
+			word[marker] = word[marker].replace(" ", " ") #für den Import in ANNIS müssen Zeilenzusammenrückungen durch Nobreak-Spaces gelöst werden. Da nur jump-Marker in dieser Funktion durchgenommen werden, wird die Integrität der Toolboxdateien nicht gefährdet.
+			
+			#strip(), weil in der Datenbank überall und in der Annotationsdatei an Zeilenumbrüchen noch \n-chars sind
+			db_words_ = [db_word for db_word in db_words[jumpToDb] if strip_plus(db_word[jumpFrom]) == strip_plus(word[marker])]
+			
+			database_annotations = [db_word[jumpOut].strip() for db_word in db_words_ if db_word[jumpOut] is not None]
+			database_annotations = [ann for gloss in database_annotations for ann in gloss.split(jump['GlossSeparator'])]
+			if "jumps" in markers[jumpTo]:
+				database_annotations = [gloss.split() for gloss in database_annotations]
+				#für alle Datenbankeinträge: in allen durch den GlossSeparator abgetrennten Glossen: alle durch Leerzeichen getrennten Teilwörtern sind eligible für die Interlinearisierung auf der nächsten Zeile
+			else:
+				database_annotations = [[gloss] for gloss in database_annotations]
+				#bei Zeilen, die nicht weiter segmentiert werden, sind die Leerzeichen Teil des Annotationswertes und dürfen nicht gesplittet werden
+			
+			#print(database_annotations)
+			#print(jumpTo, jumpTo in word, any(strip_plus(word[jumpTo]) in dba for dba in database_annotations))
+			
+			if len(database_annotations) == 1:
+				if spannenindex[marker] >= len(database_annotations[0]):
+					from_database = database_annotations[0][-1]
+					log.append({**{"tofix" : "possible duplicate"}, **word})
+					print("possible duplicate: ", database_annotations[0], marker, spannenindex[marker], str(word))
+					
+				else:
+					from_database = database_annotations[0][spannenindex[marker]]
+					
+				if not jumpTo in word:
+					word.update({jumpTo : from_database})
+					log.append({**{"fixed" : jumpTo}, **word})
+				elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
+					
+					word[jumpTo] = from_database
+					log.append({**{"fixed" : jumpTo}, **word})
+				else:
+					if word[jumpTo][-1] == "\n":
+						word[jumpTo] = word[jumpTo][:-1]
+						
+			else:
+				if not jumpTo in word:
+					log.append({**{"tofix" : jumpTo + ": " + str(database_annotations)}, **word})
+					return word
+				elif not any(strip_plus(word[jumpTo]) in dba for dba in database_annotations):
+					log.append({**{"tofix" : jumpTo}, **word})
+			
+			if len(word[marker]):
+				if word[marker][0] == '@':
+					spannenindex[marker] += 1
+				elif word[marker][0] != '@' and spannenindex[marker] != 0:
+					#print(spannenindex, word)
+					for marker in spannenindex:
+						spannenindex[marker] = 0
+			else:
+				print("what?", word)
+			
+			if "jumps" in markers[jumpTo]:
+				word = check_word_for_consistency_(word, jumpTo)	
 		
-		if len(word[marker]):
-			if word[marker][0] == '@':
-				spannenindex[marker] += 1
-			elif word[marker][0] != '@' and spannenindex[marker] != 0:
-				#print(spannenindex, word)
-				for marker in spannenindex:
-					spannenindex[marker] = 0
-		else:
-			print("what?", word)
+		return word
+	def automatically_annotate(word, marker):
+		list = []
+		for splitt in word[marker].split(" "):
+			new_word = word.copy()
+			new_word[marker] = splitt
+			list.append(check_word_for_consistency_(new_word, marker))
 		
-		if "jumps" in markers[jumpTo]:
-			word = check_word_for_consistency(word, jumpTo)	
+		return list
 	
-	return word
+	if len(word) > 4: #fName, id, ref, tx → keine Annotationen
+		return [check_word_for_consistency_(word, marker)]
+	else:
+		return automatically_annotate(word, marker)
 
 #bring the action
-for text_file in text_files: 
+for text_file in text_files[1:2]: 
 	file_path, typ = text_file[0], text_file[1]
 	with open(file_path, "r", encoding="UTF-8") as file:
 		print(file_path)
@@ -540,7 +568,6 @@ def list_to_toolbox(words, root_marker):
 	
 	current_record = {}
 	for entry in words:
-		
 		if current_file_name == "":
 			current_file_name = entry["fName"]
 		elif entry["fName"] != current_file_name:
@@ -576,7 +603,6 @@ def list_to_toolbox(words, root_marker):
 	###
 	#scheint obsolet zu sein
 	###
-	
 	current_file_content += dict_to_text(current_block)
 	
 	open(current_file_path(), "w", encoding="utf-8").write(current_file_content)
@@ -586,11 +612,13 @@ if reexport:
 	list_to_toolbox(words, root_marker)
 
 pd = pandas.DataFrame.from_records(words)
-pd = pd.replace(r'\n',' ', regex=True) 
+pd = pd.replace(r'\n','', regex=True) 
 pd.to_csv(out_path, sep=';', encoding="UTF-8-SIG", index=False, header=True)
 
 pd = pandas.DataFrame.from_records(log)
-pd = pd.replace(r'\n',' ', regex=True) 
+pd = pd.replace(r'\n','', regex=True)
+print("\nlength of log:")
+print(pd["fName"].value_counts())
 pd.to_csv(log_path, sep=';', encoding="UTF-8-SIG", index=False, header=True)
 
 print(len(words))		

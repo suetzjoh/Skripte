@@ -1,0 +1,49 @@
+\_sh v3.0  1175 Text
+
+\id McP Test
+
+\ref McP I 437.29
+\tx Ghribbi   tu   nu    ſinnaht / Manns     Baͤhrns / kapehtz Chriſtus
+\std gribi     tu   nu    zināt   $ mans      bērns   $         lt:Christus
+\mrph 2.sg.prs. n.   -              $ n.sg.m.   n.sg.    $
+\lm gribēt   tu   nu    zināt   $ mans      bērns   $
+\PoS vb.       prn. adv.  vb.      $ prn.      sm.      $
+\gD wollen    du   jetzt wissen   $ mein               $
+
+\ref McP I 437.30
+\tx JESVS   irr    pa=kreßly und  Wackarà ſ̷oͤw parahdijeeß         ; tad
+\std Jēzus  ir     pakrēslī un   vakarā  sev      parādījies         $ tad
+\mrph n.sg.   3.prs. l.sg.      -    l.sg.    d.       prc.prt.act._n.sg.m. $ -
+\lm Jēzus  būt   pakrēslis un   vakars   sevis    parādīties         $ tad
+\PoS sm.npr. vb.    sm.        cnj. sm.      prn.     vb.                  $ cnj.
+\gD Jesus   sein   Dämmerung und  Abend    sich     zeigen               $ da, dann
+
+\ref McP I 437.31
+\tx klauſſ̷ais / und  jemm      waͤhra  . Kad  Adam und  Ewa no    to Waͤļļu
+\std klausais      $ un   ņem      vērā?? $ kad       un       no    to
+\mrph 2.sg.ipv.     $ -    2.sg.ipv. l.sg.??  $ -         -        +a.??
+\lm klausīties   $ un   ņemt     vēra    $ kad       un       no
+\PoS vb.           $ cnj. vb.       sf.      $ cnj.      cnj.     prp.
+\gD hören        $ und  nehmen    Acht     $ als       und      von
+
+\ref McP I 438.1
+\tx lickahß             peewilltees     / nahze  taß     Kungs pa=krehßly / Wackarà
+\std likās               pievilties      $ nāca  tas      kungs pakrēslī  $ vakarā
+\mrph 3.prt.               inf.            $ 3.prt. n.sg.m.  n.sg. l.sg.       $ l.sg.
+\lm likties              pievilties      $ nākt  tas      kungs pakrēslis  $ vakars
+\PoS vb.                  vb.             $ vb.    prn.     sm.   sm.         $ sm.
+\gD sich_lassen,scheinen betrogen worden $ kommen d(ies)er Herr  Dämmerung  $ Abend
+\tx / kad
+\std $ kad
+\mrph $ -
+\lm $ kad
+\PoS $ cnj.
+\gD $ als
+
+\ref McP I 438.2
+\tx jaw   dſaͤſ̷tris by     ; Taß    patz Kungs / kaß to briedi  winjus Ļautiņus
+\std jau                  bija   $ tas          kungs $ kas  to brīdi
+\mrph -                    3.prt. $ n.sg.m.      n.sg. $ n.      a.sg.
+\lm jau                  būt   $ tas          kungs $ kas     brīdis
+\PoS adv.                        $              sm.   $ prn.    sm.
+\gD schon                       $              Herr  $         Weile
