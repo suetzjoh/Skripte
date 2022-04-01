@@ -2,8 +2,12 @@ import sys, os
 import regex as re
 import csv
 import pandas
-from copy import deepcopy
+from bs4 import BeautifulSoup
+from copy import copy, deepcopy
 
+yes_answers = ["y", "yes", "j", "ja"]
+
+##load Toolbox-Data
 mcp_path = r"D:\git\mancelius-postille\McP1"
 brp_path = r"D:\git\bretke-postille\BrP 2021-09-22\BrP"
 aksl_path = r"D:\Hannes\Dateien\Uni\Baltoslavisch\Slavisch\Altkirchenslavisch\AkslToolbox"
@@ -18,79 +22,10 @@ if len(sys.argv) > 1:
 	reexport = True
 	print("gonna print")
 	if not os.path.exists(folder_path):
-		os.mkdir(folder_path)
-	
+		os.mkdir(folder_path)	
 else:
 	print("not gonna print. otherwise, call function with 'print' ")
 	reexport = False
-
-
-#Generation der Listen mit den Dateien
-toolbox_folder = list(os.walk(toolbox_folder_path))
-	
-other_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "txt" and file != "ReadmeAfter.txt" and not file[-8:] == "konk.txt" or "." not in file] #Datenbanken können im Prinzip als jede Datei gespeichert werden, naheliegend sind .txt und engungslose Dateien. Das Readme und die generierten Konkordanzen (die sollten vlt. gelöscht werden) müssen ausgenommen werden
-
-#hier wird eine Liste mit den Datenbanktypen generiert
-typ_files = {file[:-4] : os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "typ"}
-
-types = {} 
-for typ in typ_files:
-	file_text = open(typ_files[typ], "r", encoding="UTF-8").read().replace("\\", "\\\\")
-	type_name = re.search("\\\\\+DatabaseType (\S+)", file_text).group(1)
-	
-	#input(file_text)
-	mkr_record = re.search("\\\\mkrRecord (\S+)", file_text).group(1)
-	gloss_seperator = re.search("\\\\GlossSeparator (\S)", file_text).group(1) if re.search("GlossSeparator", file_text) else None
-
-	
-	markers = {}
-	mkr_texts = re.findall("\\\\\+mkr [\s\S]+?\\\\-mkr", file_text)
-	for mkr_text in mkr_texts: 
-		
-		keys = {}
-		for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", mkr_text):
-			keys[match[0]] = match[1]
-			if match[0] == "mkr":
-				key = match[1]
-		
-		markers[key] = keys
-		
-	jumps = {}
-	jmp_texts = re.findall("\\\\\+intprc [\s\S]+?\\\\-intprc", file_text)
-	for jmp_text in jmp_texts:
-		
-		keys = {}
-		for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", jmp_text):
-			keys[match[0]] = match[1]
-			if match[0] == "mkr":
-				key = match[1]
-			
-		if "jumps" in markers[key]:
-			markers[key]["jumps"].append(keys)
-		else:
-			markers[key]["jumps"] = [keys]
-		
-	types[type_name] = [{"mkrRecord" : mkr_record, "GlossSeparator" : gloss_seperator, "markers" : [markers]}]
-
-#mit der Liste der Sprachtypen soll das Verhalten von Toolbox nachgeahmt werden, nur vordefinierte Zeichen zu zählen
-#lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
-#languages = {}
-#for lng in lng_files:
-	#file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
-	#input(file_text)
-	
-
-#brauch ich eigentlich nicht, steht nichts drinne
-prj_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files  if file[-3:] == "prj"]	
-project_file = prj_files[0]
-
-
-#das sind dann die Dateien, aus denen tatsächlich Informationen extrahiert werden
-databases = [[file, open(file, "r", encoding="UTF-8").readlines()[0].split(" ", 4)[4].strip()] for file in other_files] #Bsp.: "\_sh v3.0  621  Text". Wichtig: doppelte Leerzeichen
-db_files = [tuple for tuple in databases if tuple[1] != "Text"]
-text_files = [tuple for tuple in databases if tuple[1] == "Text"]
-
-
 
 
 #wird verwendet, um alle Datenbanken, ob Text- oder Wörterbuch, einzulesen
@@ -157,39 +92,8 @@ def decode_toolbox_map(string, marker):
 		return ttt
 		
 	return next_block(string, marker)
-
-#hier werden die Wörterbücher geladen, damit in Realtime verglichen werden kann, was konsistent ist und was nicht
-db_words = {}
-for db_file in db_files:
-	file_path, typ = db_file[0], db_file[1]
 	
-	with open(file_path, "r", encoding="UTF-8") as file:
-		
-		file_text = file.read()
-		if not file_text[-1] == "\n":
-			file_text += "\n"
-		
-		if not typ in types:
-			continue
-			
-		root_marker = types[typ][0]["mkrRecord"]
-		markers = types[typ][0]["markers"][0]
-		
-		map = decode_toolbox_map(file_text, root_marker)
-		
-		if map:
-			pd = pandas.DataFrame.from_records(map)
-			dpl = pd[pd.duplicated(keep='first')]
-			if not dpl.empty:
-				print(typ, "has duplicates:") 
-				print(dpl.to_string())
-			
-				input("press enter to continue")
-			
-		db_words[typ] = map
-
-		
-#hiermit werden die Text-Datenbanken gelesen
+#hiermit werden nur die Text-Datenbanken gelesen
 words = []
 log = []
 def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value }	 (fName, id, rec)
@@ -374,14 +278,72 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 			if table is None:
 				continue
 			
+			decoded_table = decode_words(marker, table, prefix)
 			
-			for word in decode_words(marker, table, prefix):
+			if do_reload:
+				ref_marker = decoded_table[0][0]["ref"]
 				
-				for dict in word:
+				#if ref_marker in raw_xml:
+					#print([dict["tx"] for llist in decoded_table for dict in llist])
+					#print(raw_xml[ref_marker])
+				#else:
+					#print(list(raw_xml.keys())[0:10])
+				
+				uu = 0
+				for llist in decoded_table:
+					for dictionary in llist:
+						toolbox_tx = dictionary["tx"]
+						toolbox_tx = re.sub(" +", " ", toolbox_tx)
+						xml_tx = raw_xml[ref_marker]
+						
+						whitespaces = toolbox_tx.count(' ')
+						nobrkspaces = toolbox_tx.count(' ')
+						
+						tx1 = " ".join(xml_tx.split(" ")[uu:uu+nobrkspaces+whitespaces+1])
+						while tx1 in ["„", "‚", "“", "‘"]:
+							uu += 1
+							tx1 = " ".join(xml_tx.split(" ")[uu:uu+nobrkspaces+whitespaces+1])
+							
+						tx2 = re.sub(' ', ' ', toolbox_tx)
+						if tx2[-1] == "\n":
+							tx1 += "\n"
+						compare = tx1 == tx2
+						
+						if not compare:
+							existing_annotations = [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == toolbox_tx.strip("\n")]
+							
+							print([dict["tx"] for llist in decoded_table for dict in llist])
+							print(raw_xml[ref_marker])
+							
+							print(nobrkspaces+whitespaces)
+							print(compare, tx1, tx2)
+							
+							if existing_annotations:
+								print(existing_annotations)
+								if not [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == tx1.strip("\n")]:
+									
+									#an der Stelle muss ich prüfen, ob das nächste Wort übereinstimmt. Nur dann darf ich das automatisch korrigieren, ansonsten wird das Leerzeichen nicht korrekt ersetzt (bsp. "ie ey" → "ie⸗ey")
+									
+									for ann in existing_annotations:
+										new_ann = dict(copy(ann), **{marker : tx1.replace(' ', ' ').strip("\n") + "\n"})
+										db_words[markers[marker]["jumps"][0]["dbtyp"]].append(new_ann)
+										print("new", new_ann)
+							else:
+								input()
+							
+						
+						uu += nobrkspaces+whitespaces+1
+				
+				#input()
+				
+			
+			for word in decoded_table:
+				for dictt in word:
+					print(dictt)
 					#wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
-					words.extend(check_word_for_consistency(dict, marker))
-
-#gibt bei geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet
+					words.extend(check_word_for_consistency(dictt, marker))
+			input()
+#gibt bei do_check und geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet. Für den Fall, dass Annotationen vollkommen fehlen, können diese automatisch aufgefüllt werden, deswegen gibt die Funktion immer eine Liste von Werten zurück, die mit extend() angefügt wird.
 spannenindex = {}		
 def check_word_for_consistency(word, marker):
 	def check_word_for_consistency_(word, marker):
@@ -394,8 +356,7 @@ def check_word_for_consistency(word, marker):
 				return string.strip('@').strip() #doppeltes Strip wegen Spannenannotation und \n-Markern
 			else:
 				return None
-			
-			
+				
 		#diese Funktion läuft durch alle Marker, die Teil einer jump-Funktion sind, also die erste Zeile in einer Datenbank sind
 		#print(marker + " " + str(word[marker]) + " " + str(word))
 		for jump in markers[marker]["jumps"]:
@@ -471,30 +432,15 @@ def check_word_for_consistency(word, marker):
 		
 		return list
 	
-	if len(word) > 4: #fName, id, ref, tx → keine Annotationen
-		return [check_word_for_consistency_(word, marker)]
+	if do_check:
+		if len(word) > 4: #fName, id, ref, tx → keine Annotationen
+			return [check_word_for_consistency_(word, marker)]
+		else:
+			return automatically_annotate(word, marker)
 	else:
-		return automatically_annotate(word, marker)
+		return [word]
 
-#bring the action
-for text_file in text_files[1:2]: 
-	file_path, typ = text_file[0], text_file[1]
-	with open(file_path, "r", encoding="UTF-8") as file:
-		print(file_path)
-		
-		file_text = file.read()
-		if not file_text[-1] == "\n":
-			file_text += "\n"
-		
-		root_marker = types[typ][0]["mkrRecord"]
-		markers = types[typ][0]["markers"][0]
-		
-		map = decode_toolbox_map(file_text, root_marker)
-		
-		filename = os.path.basename(file_path)
-		filename = filename[:-4] if ".txt" in filename else filename
-		decode_toolbox_json(map, root_marker, { "fName" : filename})
-			
+#speichert die geladenen und bearbeiteten Daten in einem lokalen Unterordner im Toolbox-Format ab		
 def list_to_toolbox(words, root_marker):
 	def repl(m):
 		return " " * len(m.group())
@@ -607,6 +553,190 @@ def list_to_toolbox(words, root_marker):
 	
 	open(current_file_path(), "w", encoding="utf-8").write(current_file_content)
 	print(current_file_name + " written")
+
+raw_xml = {}
+def read_original(read_path):
+	def open_xml(path):
+		with open(path, "r", encoding="utf-8") as f:
+			return re.sub("[\r\n]+?( +)?", "", f.read())
+	
+	def intify(str):
+		return int(re.search("\d+", str).group(0))
+	def return_line_nr(nr):
+		if intify(nr) < 10:
+			return "0"+str(nr)
+		else:
+			return str(nr)
+	def return_page_nr(nr):
+		if intify(nr) < 10:
+			return "00"+str(nr)
+		elif intify(nr) < 100:
+			return "0"+str(nr)
+		else:
+			return str(nr)
+			
+	def split_next_line(soup):
+		splitted = soup.text.split(" ", 1)
+		if len(splitted) > 1:
+			return splitted[1]
+		else:
+			return ""
+		
+	raw = open_xml(read_path)
+	soup = BeautifulSoup(raw, "html.parser")
+	
+	doc_title = soup.document["title"]
+	
+	
+	reference, text = "", ""
+	for page in soup.document.find_all("lpp"):
+		for line in page.find_all("z"):
+			if line["nr"] in ["re", "title"]:
+				continue
+				
+			if reference and text:
+				if text[-1] in ["⸗", "-"]:
+					text += "|" + line.text.split(" ", 1)[0]
+					line.string.replace_with(split_next_line(line))
+			
+				raw_xml[reference] = text
+			
+			text = line.text
+			reference = "{title}_{page}.{line}".format(title=doc_title, page=return_page_nr(page["nr"]), line=return_line_nr(line["nr"]))	
+
+#Generation der Listen mit den Dateien
+toolbox_folder = list(os.walk(toolbox_folder_path))
+	
+other_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "txt" and file != "ReadmeAfter.txt" and not file[-8:] == "konk.txt" or "." not in file] #Datenbanken können im Prinzip als jede Datei gespeichert werden, naheliegend sind .txt und engungslose Dateien. Das Readme und die generierten Konkordanzen (die sollten vlt. gelöscht werden) müssen ausgenommen werden
+
+#hier wird eine Liste mit den Datenbanktypen generiert
+typ_files = {file[:-4] : os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "typ"}
+
+types = {} 
+for typ in typ_files:
+	file_text = open(typ_files[typ], "r", encoding="UTF-8").read().replace("\\", "\\\\")
+	type_name = re.search("\\\\\+DatabaseType (\S+)", file_text).group(1)
+	
+	#input(file_text)
+	mkr_record = re.search("\\\\mkrRecord (\S+)", file_text).group(1)
+	gloss_seperator = re.search("\\\\GlossSeparator (\S)", file_text).group(1) if re.search("GlossSeparator", file_text) else None
+
+	
+	markers = {}
+	mkr_texts = re.findall("\\\\\+mkr [\s\S]+?\\\\-mkr", file_text)
+	for mkr_text in mkr_texts: 
+		
+		keys = {}
+		for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", mkr_text):
+			keys[match[0]] = match[1]
+			if match[0] == "mkr":
+				key = match[1]
+		
+		markers[key] = keys
+		
+	jumps = {}
+	jmp_texts = re.findall("\\\\\+intprc [\s\S]+?\\\\-intprc", file_text)
+	for jmp_text in jmp_texts:
+		
+		keys = {}
+		for match in re.findall("(?<=[\\\\+])([a-zA-Z]+) (.+?)\\n", jmp_text):
+			keys[match[0]] = match[1]
+			if match[0] == "mkr":
+				key = match[1]
+			
+		if "jumps" in markers[key]:
+			markers[key]["jumps"].append(keys)
+		else:
+			markers[key]["jumps"] = [keys]
+		
+	types[type_name] = [{"mkrRecord" : mkr_record, "GlossSeparator" : gloss_seperator, "markers" : [markers]}]
+
+#mit der Liste der Sprachtypen soll das Verhalten von Toolbox nachgeahmt werden, nur vordefinierte Zeichen zu zählen
+#lng_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files if file[-3:] == "lng"]
+#languages = {}
+#for lng in lng_files:
+	#file_text = open(lng, "r", encoding="UTF-8").read().replace("\\", "\\\\")
+	#input(file_text)
+	
+
+#brauch ich eigentlich nicht, steht nichts drinne
+prj_files = [os.path.join(path, file) for path, dirs, files in toolbox_folder for file in files  if file[-3:] == "prj"]	
+project_file = prj_files[0]
+
+
+#das sind dann die Dateien, aus denen tatsächlich Informationen extrahiert werden
+databases = [[file, open(file, "r", encoding="UTF-8").readlines()[0].split(" ", 4)[4].strip()] for file in other_files] #Bsp.: "\_sh v3.0  621  Text". Wichtig: doppelte Leerzeichen
+db_files = [tuple for tuple in databases if tuple[1] != "Text"]
+text_files = [tuple for tuple in databases if tuple[1] == "Text"]
+
+
+#hier werden die Wörterbücher geladen, damit in Realtime verglichen werden kann, was konsistent ist und was nicht
+db_words = {}
+for db_file in db_files:
+	file_path, typ = db_file[0], db_file[1]
+	
+	with open(file_path, "r", encoding="UTF-8") as file:
+		
+		file_text = file.read()
+		if not file_text[-1] == "\n":
+			file_text += "\n"
+		
+		if not typ in types:
+			continue
+			
+		root_marker = types[typ][0]["mkrRecord"]
+		markers = types[typ][0]["markers"][0]
+		
+		map = decode_toolbox_map(file_text, root_marker)
+		
+		if map:
+			pd = pandas.DataFrame.from_records(map)
+			dpl = pd[pd.duplicated(keep='first')]
+			if not dpl.empty:
+				print(typ, "has duplicates:") 
+				print(dpl.to_string())
+			
+				input("press enter to continue")
+			
+		db_words[typ] = map
+	
+	
+if input("Do you want to reload the text-data?") in yes_answers:
+	do_reload = True
+	
+	McP_xml_path = "D:\\git\\korrektur"
+	for xml_file in [os.path.join(McP_xml_path, file) for file in os.listdir(McP_xml_path) if file[-4:] == ".xml"]:
+		print("loading", xml_file)
+		read_original(xml_file)
+		#break
+	
+else:
+	do_reload = False
+		
+if input("Do you want to check annotations?") in yes_answers:
+	do_check = True
+else:
+	do_check = False
+						
+						
+#bring the action
+for text_file in text_files[1:2]: 
+	file_path, typ = text_file[0], text_file[1]
+	with open(file_path, "r", encoding="UTF-8") as file:
+		print(file_path)
+		
+		file_text = file.read()
+		if not file_text[-1] == "\n":
+			file_text += "\n"
+		
+		root_marker = types[typ][0]["mkrRecord"]
+		markers = types[typ][0]["markers"][0]
+		
+		map = decode_toolbox_map(file_text, root_marker)
+		
+		filename = os.path.basename(file_path)
+		filename = filename[:-4] if ".txt" in filename else filename
+		decode_toolbox_json(map, root_marker, { "fName" : filename})
 
 if reexport:	
 	list_to_toolbox(words, root_marker)

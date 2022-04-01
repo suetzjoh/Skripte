@@ -6,6 +6,30 @@ from bs4 import BeautifulSoup, Tag
 
 print("hello")
 
+git_dir_korr = "" #""
+git_dir_tool = "" #"D:\\git\\mancelius-postille\\McP1"
+
+#input_path = os.path.join(git_dir_korr, sys.argv[1])
+#output_path = os.path.join(git_dir_tool, sys.argv[2])
+input_path = sys.argv[1]
+output_path = sys.argv[2]
+
+McP1_path = "D:\\git\\korrektur\\McP1.xml"
+McP2_path = "D:\\git\\korrektur\\McP2.xml"
+McP3_path = "D:\\git\\korrektur\\McP3.xml"
+
+
+by_phrase = False
+by_line = True
+if len(sys.argv) >= 4:
+	print(sys.argv[3])
+	if sys.argv[3] in ["p", "phrase"]:
+		by_phrase = True
+		by_line = False
+		
+	
+
+
 def open_xml(path):
 	with open(path, "r", encoding="utf-8") as f:
 		return re.sub("[\r\n]+?( +)?", "", f.read())
@@ -27,6 +51,8 @@ def intify(str):
 	
 def return_line_nr(nr):
 	if nr < 10:
+		return "00"+str(nr)
+	elif nr < 100:
 		return "0"+str(nr)
 	else:
 		return str(nr)
@@ -53,41 +79,30 @@ def extract_lines(read_path, save_path, first, last):
 		
 		page_nr = intify(page["nr"]) # "56a"
 		
-		if not (page_nr < page_a or page_nr > page_z):
-			for line in page.find_all("z"):
-				if line["nr"] in ["re", "title"]:
-					continue
-					
-				line_nr = intify(line["nr"])
-				if not ((page_nr == page_a and line_nr < line_a) or (page_nr == page_z and line_nr > line_z)):
-					if reference and text:
-						if text[-1] == "⸗":
-							text += "|" + line.text.split(" ", 1)[0]
-							line.string.replace_with(line.text.split(" ", 1)[1])
-					
-						store.append([reference, text])
-					
-					text = line.text
-					reference = "{title}_{page}.{line}".format(title=doc_title, page=page["nr"], line=return_line_nr(line_nr))
-					
-					
-		elif page_nr > page_z:
-			break
+		#if not (page_nr < page_a or page_nr > page_z):
+		for line in page.find_all("z"):
+			if line["nr"] in ["re", "title"]:
+				continue
+				
+			line_nr = intify(line["nr"])
+			#if not ((page_nr == page_a and line_nr < line_a) or (page_nr == page_z and line_nr > line_z)):
+			if reference and text:
+				if text[-1] in ["⸗", "-"]:
+					text += "|" + line.text.split(" ", 1)[0]
+					line.string.replace_with(line.text.split(" ", 1)[1])
+			
+				store.append([reference, text])
+			
+			text = line.text
+			reference = "{title}_{page}.{line}".format(title=doc_title, page=page["nr"], line=return_line_nr(line_nr))
+				
+				
+		#elif page_nr > page_z:
+		#	break
 
-	konkordanz = []
 	for i in range(len(store)):
-		if store[i][1][-1] == "-":
-			next_line = store[i+1][1].split(" ", 1)
-			
-			store[i][1] = store[i][1][:-1] + "=|" + next_line[0]
-			store[i+1][1] = next_line[1]
-			
-		output += "\\ref {ref}\n\\tx {tx}\n\\std\n\\mrph\n\\lm\n\\PoS\n\\gD\n\n\\trans\n\n".format(ref=store[i][0], tx=store[i][1])
-		
-		for word in store[i][1].split(" "):
-			word_ = re.sub("=|", "", word)
-			if not word_ in konkordanz:
-				konkordanz.append(word_)
+		print(store[i])
+		output += "\\ref {ref}\n\\tx {tx}\n\n".format(ref=store[i][0], tx=store[i][1])
 			
 	with open(save_path, "w", encoding="utf-8") as f:
 		f.write(output)
@@ -163,25 +178,6 @@ def extract_sentences(read_path, save_path, first, last):
 		f.write(output)
 		print("printed", save_path)
 
-git_dir_korr = "" #"D:\\git\\korrektur"
-git_dir_tool = "" #"D:\\git\\mancelius-postille\\McP1"
-
-#input_path = os.path.join(git_dir_korr, sys.argv[1])
-#output_path = os.path.join(git_dir_tool, sys.argv[2])
-input_path = sys.argv[1]
-output_path = sys.argv[2]
-
-by_phrase = False
-by_line = False
-if len(sys.argv) >= 4:
-	print(sys.argv[3])
-	if sys.argv[3] == "p":
-		by_phrase = True
-	elif sys.argv[3] == "l":
-		by_line = True
-		
-	
-
 supervisor = True
 while supervisor:
 	first = input("read from page,line: ")
@@ -193,9 +189,6 @@ while supervisor:
 			extract_sentences(input_path, output_path, first, last)
 		elif by_line:
 			extract_lines(input_path, output_path, first, last)
-		else:
-			extract_lines(input_path, output_path, first, last)
-			extract_sentences(input_path, output_path, first, last)
 	else:
 		print("page,line!")
 

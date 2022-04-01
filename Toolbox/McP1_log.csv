@@ -26,7 +26,11 @@ gD: [['Kind'], ['Knabe']];n.sg.;McP Test;McP Test;McP I 437.29;sm.;;bērns;bērn
 ;$;McP Test;McP Test;McP I 437.29;;;$;$;/;lm
 ;$;McP Test;McP Test;McP I 437.29;$;;$;$;/;PoS
 ;$;McP Test;McP Test;McP I 437.29;$;$;$;$;/;gD
-std: [];;McP Test;McP Test;McP I 437.29;;;;;kapehtz;
+;;McP Test;McP Test;McP I 437.29;;;;kapēc;kapehtz;std
+;-;McP Test;McP Test;McP I 437.29;;;;kapēc;kapehtz;mrph
+;-;McP Test;McP Test;McP I 437.29;;;kapēc;kapēc;kapehtz;lm
+;-;McP Test;McP Test;McP I 437.29;adv.;;kapēc;kapēc;kapehtz;PoS
+;-;McP Test;McP Test;McP I 437.29;adv.;weshalb;kapēc;kapēc;kapehtz;gD
 ;;McP Test;McP Test;McP I 437.29;;;;lt:Christus;Chriſtus;std
 mrph: [['n.sg.'], ['v.sg.']];;McP Test;McP Test;McP I 437.29;;;;lt:Christus;Chriſtus;
 std;l.sg.;McP Test;McP Test;McP I 437.30;sm.;Dämmerung;pakrēslis;pakrēslī;pa=kreßly;
@@ -59,6 +63,7 @@ std: [];;McP Test;McP Test;McP I 437.31;;;;;Waͤļļu;
 ;3.prt.;McP Test;McP Test;McP I 438.1;vb.;sich_lassen,scheinen;likties;likās;lickahß;gD
 std;inf.;McP Test;McP Test;McP I 438.1;vb.;betrogen worden;pievilties;pievilties;peewilltees;
 std;3.prt.;McP Test;McP Test;McP I 438.1;vb.;kommen;nākt;nāca;nahze;
+gD;n.sg.m.;McP Test;McP Test;McP I 438.1;prn.;d(ies)er;tas;tas;taß;
 std;l.sg.;McP Test;McP Test;McP I 438.1;sm.;Dämmerung;pakrēslis;pakrēslī;pa=krehßly;
 std;l.sg.;McP Test;McP Test;McP I 438.1;sm.;Abend;vakars;vakarā;Wackarà;
 gD;-;McP Test;McP Test;McP I 438.1;cnj.;als;kad;kad;kad;
@@ -80,7 +85,8 @@ PoS: [['vb.'], ['vb.aux.']];3.prt.;McP Test;McP Test;McP I 438.2;;;būt;bija;by;
 ;;McP Test;McP Test;McP I 438.2;;;;tas;Taß;std
 ;n.sg.m.;McP Test;McP Test;McP I 438.2;;;;tas;Taß;mrph
 ;n.sg.m.;McP Test;McP Test;McP I 438.2;;;tas;tas;Taß;lm
-PoS: [['prn.'], ['prn.'], ['prn.']];n.sg.m.;McP Test;McP Test;McP I 438.2;;;tas;tas;Taß;
+;n.sg.m.;McP Test;McP Test;McP I 438.2;prn.;;tas;tas;Taß;PoS
+gD: [['diese(r,s)'], ['das']];n.sg.m.;McP Test;McP Test;McP I 438.2;prn.;;tas;tas;Taß;
 std: [];;McP Test;McP Test;McP I 438.2;;;;;patz;
 ;;McP Test;McP Test;McP I 438.2;;;;kungs;Kungs;std
 ;n.sg.;McP Test;McP Test;McP I 438.2;;;;kungs;Kungs;mrph
