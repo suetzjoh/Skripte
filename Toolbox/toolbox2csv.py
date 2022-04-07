@@ -272,77 +272,170 @@ def decode_toolbox_json(map, marker, prefix):	#prefix = { marker : marker_value 
 				decode_toolbox_json(map[marker][element], new_marker, prefix)
 		
 	else:
+		ref_marker = ""
 		for element in map: #listen für Inhalte
 			
 			table = decode_alignment(element, marker)
 			if table is None:
 				continue
 			
-			decoded_table = decode_words(marker, table, prefix)
+			decoded_table = [ddict for llist in decode_words(marker, table, prefix) for ddict in llist]
 			
 			if do_reload:
-				ref_marker = decoded_table[0][0]["ref"]
+				if len(set([ddict["ref"] for ddict in decoded_table])) > 1:
+					input(decoded_table)
 				
-				#if ref_marker in raw_xml:
-					#print([dict["tx"] for llist in decoded_table for dict in llist])
-					#print(raw_xml[ref_marker])
-				#else:
-					#print(list(raw_xml.keys())[0:10])
+				ii = 0
+				if ref_marker and ref_marker != decoded_table[0]["ref"] or ref_marker == "":
+					uu = 0
 				
-				uu = 0
-				for llist in decoded_table:
-					for dictionary in llist:
-						toolbox_tx = dictionary["tx"]
-						toolbox_tx = re.sub(" +", " ", toolbox_tx)
-						xml_tx = raw_xml[ref_marker]
+				ref_marker = decoded_table[0]["ref"]
+				if ref_marker in raw_xml:
+					xml_tx = raw_xml[ref_marker]
+					xml_lst = xml_tx.split(" ")
+				else:
+					break
+				
+				#print(ref_marker)
+				#print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
+				#print(xml_tx)
+				
+				while ii < len(decoded_table):
+					toolbox_tx = decoded_table[ii]["tx"]
+					toolbox_tx = re.sub(" +", " ", toolbox_tx)
+					
+					
+					tx2 = xml_lst[uu]
+					while tx2 in ["„", "‚", "“", "‘"]:
+						uu += 1
+						tx2 = xml_lst[uu]
 						
-						whitespaces = toolbox_tx.count(' ')
-						nobrkspaces = toolbox_tx.count(' ')
-						
-						tx1 = " ".join(xml_tx.split(" ")[uu:uu+nobrkspaces+whitespaces+1])
-						while tx1 in ["„", "‚", "“", "‘"]:
-							uu += 1
-							tx1 = " ".join(xml_tx.split(" ")[uu:uu+nobrkspaces+whitespaces+1])
+					tx1 = re.sub(' ', ' ', toolbox_tx)
+					if tx1[-1] == "\n":
+						tx2 += "\n"
+					
+					tx2_joints = tx2.count("⸗") + tx2.count("-") + tx2.count("=")
+					tx1_breaks = tx1.count(" ")
+					
+					#print(ii, tx1, tx1 == tx2, tx2)
+					if not tx1 == tx2:		
+						if ii+1 == len(decoded_table): #
+							tx2 = " ".join(xml_lst[uu:])
+							if tx1[-1] == "\n":
+								tx2 += "\n"
+								
+							if decoded_table[ii]["tx"] == tx2: #es fehlen lediglich Annotationen, der Rest ist identisch
+								uu += tx2.count(" ") 
+								break
+							elif uu+tx1_breaks+1 < len(xml_lst) and decoded_table[ii]["tx"] == xml_lst[uu+tx1_breaks+1] + "\n": #und nicht auf der nächsten Zeile noch ein anderes Wort dazwischen gerutscht ist (passiert bei Zeilen mit Zwei wörtern, wenn darüber ein Zeilenumbruch eingefügt wird),
+								print(ref_marker, "initial surplus word. Possible line break?")
+								uu += 1
+								continue
+								
+							#das Wort oder die Phrase ist äquivalent zu allem, was folgt. Dadurch ist ein index-overflow im Folgenden ausgeschlossen
+								
+						elif tx1[0] == "@": #Spannenannotationen werden übersprüngen und ggf. rückwirkend korrigiert
+							ii += 1
+							continue
 							
-						tx2 = re.sub(' ', ' ', toolbox_tx)
-						if tx2[-1] == "\n":
-							tx1 += "\n"
-						compare = tx1 == tx2
-						
-						if not compare:
-							existing_annotations = [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == toolbox_tx.strip("\n")]
+						elif tx1 == " ".join(xml_lst[uu:uu+tx1_breaks+1]): #in diesem Fall stimmen beide Teile überein, sobald man die Leerzeichen berücksichtigt. Das ist der Fall, wenn Nobreak-Spaces oder Leerzeichen im Text vorhanden sind. Letzeteres kann bei unvollständigen Annotationen auftreten
+							tx2 = " ".join(xml_lst[uu:uu+tx1_breaks+1])
+							if tx1[-1] == "\n":
+								tx2 += "\n"
+								
+							uu += tx1_breaks + 1
+							ii += 1
+							continue
 							
-							print([dict["tx"] for llist in decoded_table for dict in llist])
-							print(raw_xml[ref_marker])
+						elif decoded_table[ii+1]["tx"] == xml_lst[uu+1]: #wenn das nächste Wort übereinstimmt, liegt hier Äquivalenz vor und es kann ausgetauscht werden
+							tx2 = xml_lst[uu]
 							
-							print(nobrkspaces+whitespaces)
-							print(compare, tx1, tx2)
-							
-							if existing_annotations:
-								print(existing_annotations)
-								if not [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == tx1.strip("\n")]:
-									
-									#an der Stelle muss ich prüfen, ob das nächste Wort übereinstimmt. Nur dann darf ich das automatisch korrigieren, ansonsten wird das Leerzeichen nicht korrekt ersetzt (bsp. "ie ey" → "ie⸗ey")
-									
-									for ann in existing_annotations:
-										new_ann = dict(copy(ann), **{marker : tx1.replace(' ', ' ').strip("\n") + "\n"})
-										db_words[markers[marker]["jumps"][0]["dbtyp"]].append(new_ann)
-										print("new", new_ann)
+						elif decoded_table[ii+2]["tx"] == xml_lst[uu+tx1_breaks+1]: #das übernächste Wort stimmt überein
+							if not tx1_breaks: # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
+								print("deleted '" + decoded_table[ii]["tx"] + "' at index", ii, "in", ref_marker)
+								decoded_table = decoded_table[:ii] + decoded_table[ii+1:]
+								
+								continue
+								
 							else:
+								print(ref_marker)
+								print(" ".join([ddict["tx"] for ddict in decoded_table]))
+								print(xml_tx)
+								print(ii, uu, tx1_breaks)
+								print("breaks")
+								input()
+								
+						elif decoded_table[ii]["tx"] == xml_lst[uu+tx1_breaks+1]: #Das Wort wurde in der XML-Datei gelöscht
+							if not tx1_breaks: # wenn keine Leerzeichen oder Nbksp vorhanden sind, die auf eine Zusammenrückung in der Korrektur hinweisen, wurde wahrscheinlich ein Wort gelöscht
+								if ii == 0: #am Anfang der Zeile deuten Löschungen auf Zeilenumbrüche hin
+									print(ref_marker, "initial surplus word. Possible line break?")
+								
+								else:
+									print(ref_marker)
+									print(" ".join([ddict["tx"] for ddict in decoded_table]))
+									print(xml_tx)
+									print(ii, uu, tx1_breaks)
+									print("deleted in-place")
+								
+								input()
+								
+								uu += 1
+								continue
+								
+							else:
+								print(ref_marker)
+								print(" ".join([ddict["tx"] for ddict in decoded_table]))
+								print(xml_tx)
+								print(ii, uu, tx1_breaks)
+								print("breaks in-place")
 								input()
 							
+							
+						else:
+							print(ref_marker)
+							print(" ".join([ddict["tx"] for ddict in decoded_table]).strip())
+							print(xml_tx)
+							
+							print("Please check the source file and try again")
+							
+							input()
+							break
+							
+							
+						if ("|" not in tx2) and ("|" in tx1):
+							print(ref_marker, "please add a linebreak to the xml")
+							return
 						
-						uu += nobrkspaces+whitespaces+1
+						existing_annotations = [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == toolbox_tx.strip("\n")]
+						if existing_annotations: 
+							if not [entry for entry in db_words[markers[marker]["jumps"][0]["dbtyp"]] if entry[marker].strip("\n").replace(' ', ' ') == tx1.strip("\n")]:
+								for ann in existing_annotations:
+									new_ann = dict(copy(ann), **{marker : tx1.replace(' ', ' ').strip("\n") + "\n"})
+									db_words[markers[marker]["jumps"][0]["dbtyp"]].append(new_ann)
+									print("new", new_ann)
+						
+						yy = 1 #Behandlung von Spannen
+						while yy < ii and "@" + decoded_table[ii]["tx"] == decoded_table[ii-yy]["tx"]:
+							decoded_table[ii-yy]["tx"] = "@" + tx2
+							
+							print("@@@")
+							input(" ".join([ddict["tx"] for ddict in decoded_table]))
+						
+						if not ("|" in tx2 or len(decoded_table) == 1):
+							print(ref_marker, decoded_table[ii]["tx"], "→", tx2)
+						decoded_table[ii]["tx"] = tx2
+						
+					
+					uu += 1
+					ii += 1
 				
 				#input()
 				
 			
-			for word in decoded_table:
-				for dictt in word:
-					print(dictt)
-					#wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
-					words.extend(check_word_for_consistency(dictt, marker))
-			input()
+			for dictt in decoded_table:
+				#wenn die Wörter hier korrigiert werden, wird die Laufzeit um mehrere Stunden verkürzt
+				words.extend(check_word_for_consistency(dictt, marker))
+			
 #gibt bei do_check und geladenen Wörterbüchern das korrigierte Wort zurück. Wenn die Annotationen eindeutig sind, werden sie automatisch aufgefüllt, wenn nicht, bleiben sie unangetastet. Für den Fall, dass Annotationen vollkommen fehlen, können diese automatisch aufgefüllt werden, deswegen gibt die Funktion immer eine Liste von Werten zurück, die mit extend() angefügt wird.
 spannenindex = {}		
 def check_word_for_consistency(word, marker):
@@ -595,7 +688,8 @@ def read_original(read_path):
 				continue
 				
 			if reference and text:
-				if text[-1] in ["⸗", "-"]:
+				if text[-1] in ["⸗", "-", "_"]:
+					#text = text.strip("_")
 					text += "|" + line.text.split(" ", 1)[0]
 					line.string.replace_with(split_next_line(line))
 			
@@ -720,7 +814,7 @@ else:
 						
 						
 #bring the action
-for text_file in text_files[1:2]: 
+for text_file in text_files: 
 	file_path, typ = text_file[0], text_file[1]
 	with open(file_path, "r", encoding="UTF-8") as file:
 		print(file_path)
